@@ -15,8 +15,11 @@ ADDR_STREET = 6
 ADDR_STREET_FR = 7
 ADDR_STREET_NL = 8
 
-spelling_mistakes_street = []
-spelling_mistakes_addr = []
+spelling_mistakes_street = [] # list of tupels
+spelling_mistakes_addr = [] # list of tupels
+addr_without_street = [] # list of french names
+inconsistent_names = [] # list of french names
+
 streets_dict = {}
 streets_dict_fr = {}
 streets_dict_nl = {}
@@ -37,6 +40,7 @@ with open('names.csv', newline='') as csvfile:
 			is_nl_fr = row[NAME] == row[NAME_NL] + " - " + row[NAME_FR]
 			if not is_fr_nl and not is_nl_fr:
 				spelling_mistakes_street.append(street)
+				continue
 
 			# index the streets by name
 			if row[NAME] in streets_dict:
@@ -62,6 +66,7 @@ with open('names.csv', newline='') as csvfile:
 			is_nl_fr = row[ADDR_STREET] == row[ADDR_STREET_NL] + " - " + row[ADDR_STREET_FR]
 			if not is_fr_nl and not is_nl_fr:
 				spelling_mistakes_addr.append(addr)
+				continue
 
 			#index the addresses
 			if row[ADDR_STREET] in addr_dict:
@@ -80,3 +85,81 @@ with open('names.csv', newline='') as csvfile:
 				addr_dict_nl[row[ADDR_STREET_NL]] = [addr]
 	
 
+# iterate over the names in one language
+for name_fr in addr_dict_fr:
+	addr_list = addr_dict_fr[name_fr]
+	name = addr_list[0][2]
+	name_nl = addr_list[0][4]
+
+	# For every address, we must find street names
+	if name_fr not in streets_dict_fr:
+		addr_without_street.append(name_fr)
+		continue
+	if name_nl not in streets_dict_nl:
+		addr_without_street.append(name_fr)
+		continue
+
+
+	success = True
+	# all names should be the same
+	for addr in addr_list:
+		if not name == addr[3]:
+			inconsistent_names.append(name_fr)
+			success = False
+			break
+		if not name_nl == addr[4]:
+			inconsistent_names.append(name_fr)
+			success = False
+			break
+	if not success:
+		continue
+
+	# also compare the other way around
+	for addr in addr_dict_nl[name_nl]:
+		if not name_fr == addr[2]:
+			inconsistent_names.append(name_fr)
+			inconsistent_names.append(addr[2])
+			success = False
+			break
+	if not success:
+		continue
+			
+
+	for street in street_dict_fr[name_fr]:
+		if not name == street[3]:
+			inconsistent_names.append(name_fr)
+			success = False
+			break
+		if not name_nl == street[4]:
+			inconsistent_names.append(name_fr)
+			success = False
+			break
+	if not success:
+		continue
+
+	# also compare the other way around
+	for street in street_dict_nl[name_nl]:
+		if not name_fr == street[2]:
+			inconsistent_names.append(name_fr)
+			inconsistent_names.append(addr[2])
+			success = False
+			break
+	if not success:
+		continue
+
+f = open('index.html', 'w')	
+f.write("<html>\n<head><meta charset=\"utf-8\"></head>\n<body>\n")
+f.write("<h2>Streets with spelling mistakes or missing localisations</h2>\n<table>\n")
+for t in spelling_mistakes_street:
+	f.write("<tr><td>"+t[0]+t[1]+"</td><td>"+t[2]+"</td><td>"+t[3]+"</td><td>"+t[4]+"</td></tr>\n")
+
+f.write("</table>\n")
+f.write("</body>\n</html>")
+f.close()
+
+'''
+spelling_mistakes_street = [] # list of tupels
+spelling_mistakes_addr = [] # list of tupels
+addr_without_street = [] # list of french names
+inconsistent_names = [] # list of french names
+'''
