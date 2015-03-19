@@ -85,6 +85,9 @@ with open('names.csv', newline='') as csvfile:
 				addr_dict_nl[row[ADDR_STREET_NL]] = [addr]
 	
 
+spelling_mistakes_street = sorted(spelling_mistakes_street, key=lambda x: x[2])
+spelling_mistakes_addr = sorted(spelling_mistakes_addr, key=lambda x: x[2])
+
 # iterate over the names in one language
 for name_fr in addr_dict_fr:
 	addr_list = addr_dict_fr[name_fr]
@@ -147,15 +150,26 @@ for name_fr in addr_dict_fr:
 	if not success:
 		continue
 
-f = open('index.html', 'w')	
+f = open('localisation_street.html', 'w')	
 f.write("<html>\n<head><meta charset=\"utf-8\"></head>\n<body>\n")
 f.write("<h2>Streets with spelling mistakes or missing localisations</h2>\n<table>\n")
 for t in spelling_mistakes_street:
-	f.write("<tr><td>"+t[0]+t[1]+"</td><td>"+t[2]+"</td><td>"+t[3]+"</td><td>"+t[4]+"</td></tr>\n")
+	f.write("<tr><td><a href='http://osm.org/"+t[0]+"/"+t[1]+"'>"+t[2]+"</a></td><td>"+t[3]+"</td><td>"+t[4]+"</td></tr>\n")
+f.write("<h2>Streets with spelling mistakes or missing localisations</h2>\n<table>\n")
 
 f.write("</table>\n")
 f.write("</body>\n</html>")
 f.close()
+
+f = open('localisation_addr.html', 'w')	
+f.write("<html>\n<head><meta charset=\"utf-8\"></head>\n<body>\n")
+f.write("<h2>Addresses with spelling mistakes or missing localisations</h2>\n<table>\n")
+for t in spelling_mistakes_addr:
+	f.write("<tr><td><a href='http://osm.org/"+t[0]+"/"+t[1]+"'>"+t[2]+"</a></td><td>"+t[3]+"</td><td>"+t[4]+"</td></tr>\n")
+f.write("</table>\n")
+f.write("</body>\n</html>")
+f.close()
+
 
 '''
 spelling_mistakes_street = [] # list of tupels
