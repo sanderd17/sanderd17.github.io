@@ -4,6 +4,7 @@
 [out:csv(
   ::type,
   ::id,
+  "highway",
   "name",
   "name:fr",
   "name:nl",
