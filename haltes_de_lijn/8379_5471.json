@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;240",
+                "ref:De_Lijn": "204369",
+                "bus": "yes",
+                "name": "Sint-Pauwels Patershoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTERSTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.110269,
+                    51.180384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;240",
+                "ref:De_Lijn": "205369",
+                "bus": "yes",
+                "name": "Sint-Pauwels Patershoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTERSTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.11041,
+                    51.180636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205760",
+                "bus": "yes",
+                "name": "Sint-Pauwels Weynstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNSTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.117332,
+                    51.191248
+                ]
+            }
+        }
+    ]
+}

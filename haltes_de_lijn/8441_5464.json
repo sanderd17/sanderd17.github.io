@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409037",
+                "bus": "yes",
+                "name": "Achel Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERBEKERDIJK ACHEL-STATIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.477136,
+                    51.276391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409036",
+                "bus": "yes",
+                "name": "Achel Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERBEKERDIJK ACHEL-STATIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.477139,
+                    51.276508
+                ]
+            }
+        }
+    ]
+}

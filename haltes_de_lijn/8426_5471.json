@@ -1,0 +1,149 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101697",
+                "bus": "yes",
+                "name": "Gompel Turfstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLEKENSDREEF GOMPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.149666,
+                    51.189531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101694",
+                "bus": "yes",
+                "name": "Gompel Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WITVENSTRAAT GOMPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.145536,
+                    51.190655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "400433",
+                "bus": "yes",
+                "name": "Balen 't Hoekske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEHUIZEN BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.160193,
+                    51.179375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "406777",
+                "bus": "yes",
+                "name": "Gompel Glaverbel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COLBURNLEI MOL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.161612,
+                    51.193047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "400434",
+                "bus": "yes",
+                "name": "Balen Gabriëlsdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEHUIZEN BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.163505,
+                    51.179866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "406776",
+                "bus": "yes",
+                "name": "Gompel Glaverbel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COLBURNLEI MOL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.161083,
+                    51.193024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101696",
+                "bus": "yes",
+                "name": "Gompel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT GOMPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.150065,
+                    51.192872
+                ]
+            }
+        }
+    ]
+}

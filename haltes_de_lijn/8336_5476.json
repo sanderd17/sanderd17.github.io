@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "507665",
+                "bus": "yes",
+                "name": "Veldegem Vlassaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.168822,
+                    51.112431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505020",
+                "bus": "yes",
+                "name": "Veldegem Vlasaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.168966,
+                    51.112369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79;99",
+                "ref:De_Lijn": "502653",
+                "bus": "yes",
+                "name": "Veldegem Ruddervoordsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUDDERVOORDSESTRAAT VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.174206,
+                    51.117457
+                ]
+            }
+        }
+    ]
+}

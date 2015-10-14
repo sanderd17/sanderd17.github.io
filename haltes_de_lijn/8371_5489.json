@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;385",
+                "ref:De_Lijn": "206540",
+                "bus": "yes",
+                "name": "Ottergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKHOFSTRAAT OTTERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.945066,
+                    50.93394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "207540",
+                "bus": "yes",
+                "name": "Ottergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKHOFSTRAAT OTTERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.945192,
+                    50.934165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;385",
+                "ref:De_Lijn": "206541",
+                "bus": "yes",
+                "name": "Vlekkem Paardestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEERSTRAAT VLEKKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.935921,
+                    50.938365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "207541",
+                "bus": "yes",
+                "name": "Vlekkem Paardestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEERSTRAAT VLEKKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.934981,
+                    50.938452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "207539",
+                "bus": "yes",
+                "name": "Erondegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELHOFSTRAAT ERONDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.954786,
+                    50.939988
+                ]
+            }
+        }
+    ]
+}

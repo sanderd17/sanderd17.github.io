@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "200337",
+                "bus": "yes",
+                "name": "Deurle De Biezen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAPSTRAAT DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607325,
+                    50.989916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;145",
+                "ref:De_Lijn": "200963",
+                "bus": "yes",
+                "name": "Deurle Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N43 DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.606969,
+                    50.997807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202203",
+                "bus": "yes",
+                "name": "Deurle Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "XAVEER DE COCKLAAN DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.605753,
+                    50.997224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "203203",
+                "bus": "yes",
+                "name": "Deurle Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "XAVIER DE COCKLAAN DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607326,
+                    50.997719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201963",
+                "bus": "yes",
+                "name": "Deurle Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "XAVIER DE COCKLAAN DEURLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607213,
+                    50.997683
+                ]
+            }
+        }
+    ]
+}

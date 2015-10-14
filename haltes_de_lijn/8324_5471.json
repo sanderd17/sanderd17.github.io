@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;52;53",
+                "ref:De_Lijn": "500022",
+                "bus": "yes",
+                "name": "Oostende Rolbaanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N33 OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.900789,
+                    51.192337
+                ]
+            }
+        }
+    ]
+}

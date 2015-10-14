@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204070",
+                "bus": "yes",
+                "name": "Belsele Moortelhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.092463,
+                    51.156344
+                ]
+            }
+        }
+    ]
+}

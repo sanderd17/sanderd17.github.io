@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;63;97",
+                "ref:De_Lijn": "502049",
+                "bus": "yes",
+                "name": "Assebroek Sparrestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN ASSEBROEK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.271403,
+                    51.192376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;63;97",
+                "ref:De_Lijn": "507049",
+                "bus": "yes",
+                "name": "Assebroek Sparrestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN ASSEBROEK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.271788,
+                    51.192415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;63;97",
+                "ref:De_Lijn": "502038",
+                "bus": "yes",
+                "name": "Assebroek Engelendale",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN ASSEBROEK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.267151,
+                    51.193082
+                ]
+            }
+        }
+    ]
+}

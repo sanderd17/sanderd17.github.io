@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308583",
+                "bus": "yes",
+                "name": "Brussegem Lovegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOLLESTRAAT BRUSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.276614,
+                    50.94076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308584",
+                "bus": "yes",
+                "name": "Brussegem Linthout",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTHOUTSTRAAT BRUSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.265669,
+                    50.942549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308582",
+                "bus": "yes",
+                "name": "Brussegem Sint-Annakapel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOLLESTRAAT BRUSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.276467,
+                    50.935861
+                ]
+            }
+        }
+    ]
+}

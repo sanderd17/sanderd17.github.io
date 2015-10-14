@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505271",
+                "bus": "yes",
+                "name": "Sint-Denijs Wittogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WITTOGSTRAAT SINT-DENIJS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.356555,
+                    50.752734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505269",
+                "bus": "yes",
+                "name": "Sint-Denijs De Kloef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINKESTRAAT SINT-DENIJS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.360306,
+                    50.764211
+                ]
+            }
+        }
+    ]
+}

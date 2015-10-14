@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;69",
+                "ref:De_Lijn": "504346",
+                "bus": "yes",
+                "name": "Oostvleteren Comte De Flandre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOESTENSTRAAT OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.746603,
+                    50.925805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;69",
+                "ref:De_Lijn": "509352",
+                "bus": "yes",
+                "name": "Oostvleteren Lion Belge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOESTENSTRAAT OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.760386,
+                    50.917992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;69",
+                "ref:De_Lijn": "504352",
+                "bus": "yes",
+                "name": "Oostvleteren Lion Belge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOESTENSTRAAT OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.760203,
+                    50.917917
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "505384",
+                "bus": "yes",
+                "name": "Deerlijk Gavers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.333409,
+                    50.843165
+                ]
+            }
+        }
+    ]
+}

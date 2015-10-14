@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501079",
+                "bus": "yes",
+                "name": "Mannekensvere Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RATTEVALLESTRAAT MANNEKENSVERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.817948,
+                    51.126925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501073",
+                "bus": "yes",
+                "name": "Mannekensvere Busbrugge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTEWEG SCHORE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.834016,
+                    51.128394
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "406098",
+                "bus": "yes",
+                "name": "Opoeteren Pexhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N771 GRUITRODE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.641614,
+                    51.076761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "406099",
+                "bus": "yes",
+                "name": "Opoeteren Pexhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N771 GRUITRODE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.641211,
+                    51.077161
+                ]
+            }
+        }
+    ]
+}

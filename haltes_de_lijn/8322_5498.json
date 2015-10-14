@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "70",
+                "ref:De_Lijn": "509523",
+                "bus": "yes",
+                "name": "Voormezele Brouwerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSEWEG VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.859955,
+                    50.81085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "504530",
+                "bus": "yes",
+                "name": "Voormezele Wittenhuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUUSCHAARTSTRAAT VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.873333,
+                    50.818125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "70",
+                "ref:De_Lijn": "504523",
+                "bus": "yes",
+                "name": "Voormezele Brouwerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSEWEG VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.859825,
+                    50.81092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "504525",
+                "bus": "yes",
+                "name": "Voormezele Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORMEZELE-DORP VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.875722,
+                    50.816663
+                ]
+            }
+        }
+    ]
+}

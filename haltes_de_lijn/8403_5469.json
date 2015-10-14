@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "411;419;420;421;427;428",
+                "ref:De_Lijn": "106440",
+                "bus": "yes",
+                "name": "Zandhoven Dorp Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHILDEBAAN ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6561,
+                    51.214263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;427;428",
+                "ref:De_Lijn": "106439",
+                "bus": "yes",
+                "name": "Zandhoven De Bergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEBAAN ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.654764,
+                    51.20891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;427;428",
+                "ref:De_Lijn": "106438",
+                "bus": "yes",
+                "name": "Zandhoven De Bergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEBAAN ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.654593,
+                    51.208937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411;414;419;420;421;427;428",
+                "ref:De_Lijn": "106441",
+                "bus": "yes",
+                "name": "Zandhoven Dorp Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHILDEBAAN ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.656099,
+                    51.214254
+                ]
+            }
+        }
+    ]
+}

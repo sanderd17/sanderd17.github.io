@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505245",
+                "bus": "yes",
+                "name": "Wingene Lammersdam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKKESTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332965,
+                    51.067104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505780",
+                "bus": "yes",
+                "name": "Wingene Platte Beurs",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALGERHOEKSTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.321376,
+                    51.066669
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "504126",
+                "bus": "yes",
+                "name": "Houtem Elzentap",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SIKKELSTRAAT HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.632752,
+                    51.014858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "504746",
+                "bus": "yes",
+                "name": "Houtem Bergenvaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERESTEENWEG HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.615905,
+                    51.022063
+                ]
+            }
+        }
+    ]
+}

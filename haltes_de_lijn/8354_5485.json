@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "203207",
+                "bus": "yes",
+                "name": "Astene Edekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL CLAUSLAAN ASTENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.57374,
+                    50.986467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;125;145",
+                "ref:De_Lijn": "202207",
+                "bus": "yes",
+                "name": "Astene Edekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL CLAUSLAAN ASTENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.573639,
+                    50.986574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;125;145",
+                "ref:De_Lijn": "202206",
+                "bus": "yes",
+                "name": "Astene Oudestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL CLAUSLAAN ASTENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580522,
+                    50.988014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "203206",
+                "bus": "yes",
+                "name": "Astene Oudestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL CLAUSLAAN ASTENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580851,
+                    50.987944
+                ]
+            }
+        }
+    ]
+}

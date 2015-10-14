@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "70;79",
+                "ref:De_Lijn": "509196",
+                "bus": "yes",
+                "name": "Ieper Witten Huis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.879316,
+                    50.831805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "70;79",
+                "ref:De_Lijn": "504196",
+                "bus": "yes",
+                "name": "Ieper Witten Huis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.879521,
+                    50.83205
+                ]
+            }
+        }
+    ]
+}

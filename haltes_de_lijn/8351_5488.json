@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200676",
+                "bus": "yes",
+                "name": "Machelen Brandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSTRAAT MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.499395,
+                    50.95027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;125",
+                "ref:De_Lijn": "200461",
+                "bus": "yes",
+                "name": "Machelen De Prins",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.495077,
+                    50.955938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "210082",
+                "bus": "yes",
+                "name": "Machelen Kruishoutemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSTRAAT MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.499021,
+                    50.947444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200678",
+                "bus": "yes",
+                "name": "Machelen Bokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOKSTRAAT MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.512488,
+                    50.957333
+                ]
+            }
+        }
+    ]
+}

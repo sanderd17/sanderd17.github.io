@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "407004",
+                "bus": "yes",
+                "name": "Binderveld Leemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMSTRAAT BINDERVELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179121,
+                    50.863785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407003",
+                "bus": "yes",
+                "name": "Binderveld Krommenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMSTRAAT BINDERVELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172102,
+                    50.862854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407005",
+                "bus": "yes",
+                "name": "Binderveld Leemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMSTRAAT BINDERVELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179133,
+                    50.863677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "407002",
+                "bus": "yes",
+                "name": "Binderveld Krommenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMSTRAAT BINDERVELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172104,
+                    50.862962
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200869",
+                "bus": "yes",
+                "name": "Ursel Hendelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDELSTRAAT URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.484068,
+                    51.142794
+                ]
+            }
+        }
+    ]
+}

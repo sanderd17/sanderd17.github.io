@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;26;28",
+                "ref:De_Lijn": "502542",
+                "bus": "yes",
+                "name": "Wingene Garage",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BRUGGESTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.26777,
+                    51.056445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;28",
+                "ref:De_Lijn": "507542",
+                "bus": "yes",
+                "name": "Wingene Garage",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BRUGGESTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.267952,
+                    51.056608
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200873",
+                "bus": "yes",
+                "name": "Lotenhulle Malsemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINSENSTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.472132,
+                    51.062527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200893",
+                "bus": "yes",
+                "name": "Lotenhulle Lokouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEURVELDSTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.480264,
+                    51.057977
+                ]
+            }
+        }
+    ]
+}

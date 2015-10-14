@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;556",
+                "ref:De_Lijn": "108702",
+                "bus": "yes",
+                "name": "Duffel Oude Liersebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIJLSTRAAT DUFFEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.545848,
+                    51.10615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;556",
+                "ref:De_Lijn": "108701",
+                "bus": "yes",
+                "name": "Duffel Oude Liersebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIJLSTRAAT DUFFEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.545691,
+                    51.106105
+                ]
+            }
+        }
+    ]
+}

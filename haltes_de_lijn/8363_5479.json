@@ -1,0 +1,887 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "70;71;72;N70",
+                "ref:De_Lijn": "203548",
+                "bus": "yes",
+                "name": "Oostakker Lourdes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758705,
+                    51.08176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "200204",
+                "bus": "yes",
+                "name": "Oostakker Krijtestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJTESTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.771511,
+                    51.081377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;18;N17",
+                "ref:De_Lijn": "200241",
+                "bus": "yes",
+                "name": "Sint-Amandsberg P+R Oostakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.77856,
+                    51.074661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "201209",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Esperantostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDGARD TINELSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766287,
+                    51.072586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "201653",
+                "bus": "yes",
+                "name": "Oostakker Helderweirdtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.775414,
+                    51.081998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "200215",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Sint-Dorotheastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-DOROTHEASTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.75841,
+                    51.069381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "200210",
+                "bus": "yes",
+                "name": "Oostakker Vogelzang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDGARD TINELSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.768144,
+                    51.073494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201127",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Antwerpsesteenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.776226,
+                    51.073049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "202548",
+                "bus": "yes",
+                "name": "Oostakker Lourdes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758559,
+                    51.082056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;18;N17",
+                "ref:De_Lijn": "203141",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Kabine Westveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.777264,
+                    51.072237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "200203",
+                "bus": "yes",
+                "name": "Oostakker Goedlevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJTESTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.76688,
+                    51.077506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;18",
+                "ref:De_Lijn": "200300",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Schuurstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHUURSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.776348,
+                    51.070164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "200209",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Esperantostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDGARD TINELSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7662,
+                    51.072657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "202555",
+                "bus": "yes",
+                "name": "Oostakker Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EKSAARDSERIJWEG OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767783,
+                    51.081645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "201215",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Sint-Dorotheastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-DOROTHEASTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758581,
+                    51.069391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "203554",
+                "bus": "yes",
+                "name": "Oostakker Onze-Lieve-Vrouwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764037,
+                    51.079945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "201210",
+                "bus": "yes",
+                "name": "Oostakker Vogelzang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDGARD TINELSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.768515,
+                    51.073559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "201212",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Zingemkouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZINGEMKOUTERSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764312,
+                    51.071946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;18;76;77;78",
+                "ref:De_Lijn": "201244",
+                "bus": "yes",
+                "name": "Sint-Amandsberg P+R Oostakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.779254,
+                    51.075051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "200213",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Gevaertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBRECHT RODENBACHSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759954,
+                    51.0724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200260",
+                "bus": "yes",
+                "name": "Oostakker Slotendries",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GENTSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.757881,
+                    51.08039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78",
+                "ref:De_Lijn": "201128",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Carelshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.770153,
+                    51.07043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "200212",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Zingemkouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZINGEMKOUTERSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764249,
+                    51.072386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "200211",
+                "bus": "yes",
+                "name": "Oostakker Clausstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOEDLEVENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767306,
+                    51.075422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "202554",
+                "bus": "yes",
+                "name": "Oostakker Onze-Lieve-Vrouwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764448,
+                    51.080199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "201203",
+                "bus": "yes",
+                "name": "Oostakker Goedlevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJTESTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766981,
+                    51.077452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78",
+                "ref:De_Lijn": "200129",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Oudebareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.776012,
+                    51.073057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "201204",
+                "bus": "yes",
+                "name": "Oostakker Krijtestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJTESTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.771598,
+                    51.081305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201243",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Waterstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GOEDLEVENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766536,
+                    51.077621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "201213",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Gevaertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBRECHT RODENBACHSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.760966,
+                    51.072513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "200653",
+                "bus": "yes",
+                "name": "Oostakker Helderweirdtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.775484,
+                    51.082107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201000",
+                "bus": "yes",
+                "name": "Sint-Amandsberg P+R Oostakker",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.77856,
+                    51.07467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78",
+                "ref:De_Lijn": "200128",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Carelshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769895,
+                    51.070482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;18;N17",
+                "ref:De_Lijn": "201323",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Schuurstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHUURSTRAAT SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.776561,
+                    51.0703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201306",
+                "bus": "yes",
+                "name": "Sint-Amandsberg P+R Oostakker",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.778992,
+                    51.074385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;18;76;77;78",
+                "ref:De_Lijn": "201129",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Oudebareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.776255,
+                    51.073014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200243",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Waterstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GOEDLEVENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766553,
+                    51.077423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;39",
+                "ref:De_Lijn": "201211",
+                "bus": "yes",
+                "name": "Oostakker Clausstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOEDLEVENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.76742,
+                    51.075495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;18",
+                "ref:De_Lijn": "202141",
+                "bus": "yes",
+                "name": "Sint-Amandsberg Kabine Westveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.77681,
+                    51.072046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78",
+                "ref:De_Lijn": "202136",
+                "bus": "yes",
+                "name": "Sint-Amandsberg P+R Oostakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.778602,
+                    51.074697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "203556",
+                "bus": "yes",
+                "name": "Oostakker Sint-Jozefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOZEFSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.763429,
+                    51.081776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202000",
+                "bus": "yes",
+                "name": "Sint-Amandsberg P+R Oostakker",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG SINT-AMANDSBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.779254,
+                    51.075051
+                ]
+            }
+        }
+    ]
+}

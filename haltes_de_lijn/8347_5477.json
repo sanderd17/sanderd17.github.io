@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200837",
+                "bus": "yes",
+                "name": "Aalter Patersveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWENDAM AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.424653,
+                    51.102942
+                ]
+            }
+        }
+    ]
+}

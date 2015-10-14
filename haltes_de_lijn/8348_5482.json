@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15",
+                "ref:De_Lijn": "203796",
+                "bus": "yes",
+                "name": "Poeke Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT POEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.448672,
+                    51.039629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;185",
+                "ref:De_Lijn": "202796",
+                "bus": "yes",
+                "name": "Poeke Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT POEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.448575,
+                    51.039494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;185",
+                "ref:De_Lijn": "202797",
+                "bus": "yes",
+                "name": "Poeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POEKEDORPSTRAAT POEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.444684,
+                    51.040884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200840",
+                "bus": "yes",
+                "name": "Poeke Knokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOKSTRAAT POEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.442822,
+                    51.037678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15",
+                "ref:De_Lijn": "203797",
+                "bus": "yes",
+                "name": "Poeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POEKEDORPSTRAAT POEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.444824,
+                    51.040984
+                ]
+            }
+        }
+    ]
+}

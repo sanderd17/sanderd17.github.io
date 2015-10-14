@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102706",
+                "bus": "yes",
+                "name": "Mol Boeretang 204",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERETANG MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.089741,
+                    51.221697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "437",
+                "ref:De_Lijn": "107678",
+                "bus": "yes",
+                "name": "Dessel Boeretang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERETANGSEDREEF DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.091226,
+                    51.23438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "437",
+                "ref:De_Lijn": "107681",
+                "bus": "yes",
+                "name": "Dessel Eurochemie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENSTRAAT DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.092637,
+                    51.225643
+                ]
+            }
+        }
+    ]
+}

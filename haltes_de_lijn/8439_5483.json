@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "404475",
+                "bus": "yes",
+                "name": "Houthalen Kelchterhoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44182,
+                    51.026393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "404474",
+                "bus": "yes",
+                "name": "Houthalen Kelchterhoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.440828,
+                    51.026034
+                ]
+            }
+        }
+    ]
+}

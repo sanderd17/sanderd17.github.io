@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "503324",
+                "bus": "yes",
+                "name": "Kachtem Roeselarestraat 24",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEZEGEMSTRAAT KACHTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.181023,
+                    50.940204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;81",
+                "ref:De_Lijn": "508325",
+                "bus": "yes",
+                "name": "Kachtem Snakebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEZEGEMSTRAAT KACHTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.179221,
+                    50.942784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;81",
+                "ref:De_Lijn": "508324",
+                "bus": "yes",
+                "name": "Kachtem Roeselarestraat 24",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEZEGEMSTRAAT KACHTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.180935,
+                    50.940311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68",
+                "ref:De_Lijn": "503756",
+                "bus": "yes",
+                "name": "Rumbeke Boerenkring",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT RUMBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.165971,
+                    50.931186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "503325",
+                "bus": "yes",
+                "name": "Kachtem Snakebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEZEGEMSTRAAT KACHTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.179226,
+                    50.942604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "508756",
+                "bus": "yes",
+                "name": "Rumbeke Boerenkring",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT RUMBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.165387,
+                    50.931225
+                ]
+            }
+        }
+    ]
+}

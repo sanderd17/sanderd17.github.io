@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "504988",
+                "bus": "yes",
+                "name": "Ieper Rozendaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDAALSTRAAT IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.880589,
+                    50.878153
+                ]
+            }
+        }
+    ]
+}

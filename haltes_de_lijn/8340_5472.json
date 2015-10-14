@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;95",
+                "ref:De_Lijn": "507281",
+                "bus": "yes",
+                "name": "Moerbrugge Lieverstede",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEGEWEG MOERBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.256467,
+                    51.169582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;95",
+                "ref:De_Lijn": "502281",
+                "bus": "yes",
+                "name": "Moerbrugge Lieverstede",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEGEWEG MOERBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.256932,
+                    51.169254
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505627",
+                "bus": "yes",
+                "name": "Torhout Korenbloem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORENBLOEMSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.140656,
+                    51.081512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505628",
+                "bus": "yes",
+                "name": "Torhout Groenhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUITJESBOSSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138109,
+                    51.077943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505323",
+                "bus": "yes",
+                "name": "Torhout Gaverbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENHOVESTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.132254,
+                    51.071607
+                ]
+            }
+        }
+    ]
+}

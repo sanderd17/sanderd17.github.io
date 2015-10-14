@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40",
+                "ref:De_Lijn": "502492",
+                "bus": "yes",
+                "name": "Torhout De Uil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMARKSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.065673,
+                    51.043901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40",
+                "ref:De_Lijn": "507492",
+                "bus": "yes",
+                "name": "Torhout De Uil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMARKSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.066318,
+                    51.044277
+                ]
+            }
+        }
+    ]
+}

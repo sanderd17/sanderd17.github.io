@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;424;428",
+                "ref:De_Lijn": "106431",
+                "bus": "yes",
+                "name": "Broechem Lammerenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEBAAN MASSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.62775,
+                    51.186294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;424;428",
+                "ref:De_Lijn": "106429",
+                "bus": "yes",
+                "name": "Broechem Beemdenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MASSENHOVENSESTEENWEG BROECHEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.622594,
+                    51.187626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;424;428",
+                "ref:De_Lijn": "106428",
+                "bus": "yes",
+                "name": "Broechem Beemdenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MASSENHOVENSESTEENWEG BROECHEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.620806,
+                    51.187451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;424;428",
+                "ref:De_Lijn": "106430",
+                "bus": "yes",
+                "name": "Massenhoven Lammerenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEBAAN MASSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.627837,
+                    51.186411
+                ]
+            }
+        }
+    ]
+}

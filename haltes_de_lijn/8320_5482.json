@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;32;41;49",
+                "ref:De_Lijn": "508316",
+                "bus": "yes",
+                "name": "Kaaskerke Oude Bareel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT KAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.832587,
+                    51.036669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;32;41;49",
+                "ref:De_Lijn": "503316",
+                "bus": "yes",
+                "name": "Kaaskerke Oude Bareel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT KAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.832697,
+                    51.036796
+                ]
+            }
+        }
+    ]
+}

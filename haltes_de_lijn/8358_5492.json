@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47;485",
+                "ref:De_Lijn": "208281",
+                "bus": "yes",
+                "name": "Zingem Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.650844,
+                    50.897416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47",
+                "ref:De_Lijn": "209280",
+                "bus": "yes",
+                "name": "Zingem Nederzwalmsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.652559,
+                    50.901472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47",
+                "ref:De_Lijn": "209281",
+                "bus": "yes",
+                "name": "Zingem Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65089,
+                    50.897174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47;485",
+                "ref:De_Lijn": "208280",
+                "bus": "yes",
+                "name": "Zingem Nederzwalmsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.652416,
+                    50.901516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201751",
+                "bus": "yes",
+                "name": "Zingem Adelgoed",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OMGANGSTRAAT ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.662122,
+                    50.902717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201753",
+                "bus": "yes",
+                "name": "Zingem Speelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPEELSTRAAT ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.658955,
+                    50.894022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201752",
+                "bus": "yes",
+                "name": "Zingem Boterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERHOEK ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.661519,
+                    50.899342
+                ]
+            }
+        }
+    ]
+}

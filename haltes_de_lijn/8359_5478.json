@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201788",
+                "bus": "yes",
+                "name": "Wondelgem Masterbulk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.676205,
+                    51.087382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201787",
+                "bus": "yes",
+                "name": "Wondelgem Socodis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.684257,
+                    51.089209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "202361",
+                "bus": "yes",
+                "name": "Mariakerke VISO AHS",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.670206,
+                    51.08678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200788",
+                "bus": "yes",
+                "name": "Wondelgem Masterbulk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.676235,
+                    51.087328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200787",
+                "bus": "yes",
+                "name": "Wondelgem Socodis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.684287,
+                    51.089155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203361",
+                "bus": "yes",
+                "name": "Mariakerke VISO AHS",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.67022,
+                    51.086735
+                ]
+            }
+        }
+    ]
+}

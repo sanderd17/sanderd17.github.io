@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96",
+                "ref:De_Lijn": "207567",
+                "bus": "yes",
+                "name": "Oordegem Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.880878,
+                    50.966853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96;385",
+                "ref:De_Lijn": "206567",
+                "bus": "yes",
+                "name": "Oordegem Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.880737,
+                    50.966736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96;130",
+                "ref:De_Lijn": "207965",
+                "bus": "yes",
+                "name": "Westrem Dorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873551,
+                    50.970445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96;130",
+                "ref:De_Lijn": "206965",
+                "bus": "yes",
+                "name": "Westrem Dorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873009,
+                    50.970533
+                ]
+            }
+        }
+    ]
+}

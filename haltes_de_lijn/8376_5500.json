@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206732",
+                "bus": "yes",
+                "name": "Lieferinge Kasseide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASSEINDE LIEFERINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.051231,
+                    50.786917
+                ]
+            }
+        }
+    ]
+}

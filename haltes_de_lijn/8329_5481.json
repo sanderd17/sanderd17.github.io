@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "503337",
+                "bus": "yes",
+                "name": "Kortemark Edewalle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOEKELARESTRAAT EDEWALLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.014468,
+                    51.053465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505294",
+                "bus": "yes",
+                "name": "Kortemark Meerlaanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ICHTEGEMSTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.031352,
+                    51.055141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509805",
+                "bus": "yes",
+                "name": "Kortemark Meerlaanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ICHTEGEMSTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.031551,
+                    51.05517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "508337",
+                "bus": "yes",
+                "name": "Kortemark Edewalle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOEKELARESTRAAT EDEWALLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.015102,
+                    51.052771
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "104926",
+                "bus": "yes",
+                "name": "Bornem Nonnenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NONNENBOS BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.216879,
+                    51.092875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "104934",
+                "bus": "yes",
+                "name": "Branst Pastoor Peetersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIPEGEM BRANST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.203935,
+                    51.084219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "102638",
+                "bus": "yes",
+                "name": "Bornem Jasmijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MADELIEFJESLAAN BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.21613,
+                    51.086177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "104928",
+                "bus": "yes",
+                "name": "Bornem Luipegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIPEGEM BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.205207,
+                    51.091906
+                ]
+            }
+        }
+    ]
+}

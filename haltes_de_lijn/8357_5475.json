@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;150;160",
+                "ref:De_Lijn": "202029",
+                "bus": "yes",
+                "name": "Sleidinge Eeksken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKSKEN LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.646735,
+                    51.128807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203029",
+                "bus": "yes",
+                "name": "Sleidinge Eeksken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKSKEN SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.646845,
+                    51.12906
+                ]
+            }
+        }
+    ]
+}

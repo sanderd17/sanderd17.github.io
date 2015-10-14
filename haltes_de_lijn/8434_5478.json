@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "403525",
+                "bus": "yes",
+                "name": "Koersel Fonteintje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FONTEINTJESTRAAT KOERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.324325,
+                    51.084122
+                ]
+            }
+        }
+    ]
+}

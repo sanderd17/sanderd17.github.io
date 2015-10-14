@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506179",
+                "zone:De_Lijn": "02",
+                "name": "Koksijde Sint-Idesbald",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KONINKLIJKE BAAN SINT-IDESBALD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.612413,
+                    51.111008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501179",
+                "zone:De_Lijn": "02",
+                "name": "Koksijde Sint-Idesbald",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KONINKLIJKE BAAN SINT-IDESBALD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.612398,
+                    51.111026
+                ]
+            }
+        }
+    ]
+}

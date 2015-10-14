@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308043",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Wingeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE TIENSEBAAN SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.871648,
+                    50.901862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308041",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Patrijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.877434,
+                    50.897927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308040",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Patrijkstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.877675,
+                    50.897845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308042",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Wingeveld",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OUDE TIENSEBAAN SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.871648,
+                    50.901862
+                ]
+            }
+        }
+    ]
+}

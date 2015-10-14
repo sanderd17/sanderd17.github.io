@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307412",
+                "bus": "yes",
+                "name": "Scherpenheuvel Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN SCHERPENHEUVEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.968149,
+                    50.968525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308054",
+                "bus": "yes",
+                "name": "Bekkevoort Vierbunder",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STEENBERG BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.973499,
+                    50.959535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701",
+                "ref:De_Lijn": "308055",
+                "bus": "yes",
+                "name": "Bekkevoort Vierbunder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBERG BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.973226,
+                    50.959338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307413",
+                "bus": "yes",
+                "name": "Scherpenheuvel Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN SCHERPENHEUVEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.968034,
+                    50.968453
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "406887",
+                "bus": "yes",
+                "name": "Diepenbeek Lindenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDENSTRAAT DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.376206,
+                    50.898083
+                ]
+            }
+        }
+    ]
+}

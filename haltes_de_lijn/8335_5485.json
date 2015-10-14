@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "504909",
+                "bus": "yes",
+                "name": "Beveren Sint-Catharinakerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUIVIGESTRAAT HOOG BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162363,
+                    50.988013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "509946",
+                "bus": "yes",
+                "name": "Beveren Terminus Kapelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-CATHARINASTRAAT HOOG BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.161894,
+                    50.989636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "508909",
+                "bus": "yes",
+                "name": "Beveren Sint-Catharinakerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUIVIGESTRAAT HOOG BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162475,
+                    50.988077
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;330",
+                "ref:De_Lijn": "207656",
+                "bus": "yes",
+                "name": "Appelterre Kapittelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EICHEMSTRAAT APPELTERRE-EICHEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.970287,
+                    50.821658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206666",
+                "bus": "yes",
+                "name": "Appelterre Industriezone",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRAKELSESTEENWEG APPELTERRE-EICHEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.968831,
+                    50.831084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;330",
+                "ref:De_Lijn": "206656",
+                "bus": "yes",
+                "name": "Appelterre Kapittelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EICHEMSTRAAT APPELTERRE-EICHEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.970173,
+                    50.821748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206718",
+                "bus": "yes",
+                "name": "Voorde Luipendaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRAKELSESTEENWEG APPELTERRE-EICHEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.961732,
+                    50.831203
+                ]
+            }
+        }
+    ]
+}

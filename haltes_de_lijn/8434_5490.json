@@ -1,0 +1,866 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403444",
+                "bus": "yes",
+                "name": "Runkst Sint-Hubertusplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-HUBERTUSPLEIN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326453,
+                    50.924706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;4;5;11;16;22;23;36;38;45;48;52;BP;H1;H2;H3;H5;H6;H7;H9;104;105;180;18a;20a;21a",
+                "ref:De_Lijn": "403243",
+                "bus": "yes",
+                "name": "Hasselt Leopoldplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDPLEIN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.334883,
+                    50.927937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403242",
+                "bus": "yes",
+                "name": "Hasselt Leopoldplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDPLEIN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.335912,
+                    50.927452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "CP;H7;H8",
+                "ref:De_Lijn": "403276",
+                "bus": "yes",
+                "name": "Hasselt Grote Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE MARKT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.337363,
+                    50.929534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "403037",
+                "bus": "yes",
+                "name": "Hasselt Boerenkrijgsingel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERENKRIJGSINGEL HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.324446,
+                    50.918376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403183",
+                "bus": "yes",
+                "name": "Runkst Notelarenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAGERSSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.327244,
+                    50.923055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403060",
+                "bus": "yes",
+                "name": "Hasselt De Schiervellaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DE SCHIERVELLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.332417,
+                    50.929045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403187",
+                "bus": "yes",
+                "name": "Runkst Olmenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUNKSTERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32339,
+                    50.925154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403179",
+                "bus": "yes",
+                "name": "Runkst Notelarenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAGERSSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.327376,
+                    50.923224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403864",
+                "bus": "yes",
+                "name": "Runkst Huidevetterslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLAGERSLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.324589,
+                    50.920487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2;H7",
+                "ref:De_Lijn": "403163",
+                "bus": "yes",
+                "name": "Runkst Heilig Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHERENLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326141,
+                    50.921248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;H2;H7;105;21a",
+                "ref:De_Lijn": "403454",
+                "bus": "yes",
+                "name": "Runkst Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.329279,
+                    50.920296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;H2;H7;105;21a",
+                "ref:De_Lijn": "403262",
+                "bus": "yes",
+                "name": "Runkst Paters Adonsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.331429,
+                    50.92249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;H2;H7;105;21a",
+                "ref:De_Lijn": "403862",
+                "bus": "yes",
+                "name": "Runkst Vooruitzichtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.333114,
+                    50.924193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4;38;H1;104;105",
+                "ref:De_Lijn": "403561",
+                "bus": "yes",
+                "name": "Hasselt Toekomststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOEKOMSTSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.339167,
+                    50.925986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403098",
+                "bus": "yes",
+                "name": "Hasselt Huidevetterslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLEERSNIJDERSLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.324656,
+                    50.920298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403555",
+                "bus": "yes",
+                "name": "Runkst Biezenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTE LINDESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.321959,
+                    50.919151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403205",
+                "bus": "yes",
+                "name": "Runkst Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DJEF ANTENSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.319655,
+                    50.928295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403865",
+                "bus": "yes",
+                "name": "Runkst Grote Lindelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE LINDESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.321903,
+                    50.919196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4;5;38;H1;H2;H5;H7;H9;104;105;21a",
+                "ref:De_Lijn": "403064",
+                "bus": "yes",
+                "name": "Hasselt Diesterpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE SCHIERVELLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.332793,
+                    50.929338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;H2;H5;H7;105;21a",
+                "ref:De_Lijn": "403455",
+                "bus": "yes",
+                "name": "Runkst Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32974,
+                    50.920589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403440",
+                "bus": "yes",
+                "name": "Runkst Olmenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUNKSTERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.322735,
+                    50.925123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "CP;H7;H8",
+                "ref:De_Lijn": "408516",
+                "bus": "yes",
+                "name": "Hasselt Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.334739,
+                    50.929898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403240",
+                "bus": "yes",
+                "name": "Hasselt Luikerpoort",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.336727,
+                    50.926276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2;H7",
+                "ref:De_Lijn": "403169",
+                "bus": "yes",
+                "name": "Runkst Heilig Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHERENLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.325912,
+                    50.921205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;H2;H5;H7;105;21a",
+                "ref:De_Lijn": "403861",
+                "bus": "yes",
+                "name": "Runkst Vooruitzichtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.333487,
+                    50.924379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403193",
+                "bus": "yes",
+                "name": "Runkst Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DJEF ANTENSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.320022,
+                    50.928139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;H2;H5;H7;105;21a",
+                "ref:De_Lijn": "403263",
+                "bus": "yes",
+                "name": "Runkst Paters Adonsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDERSTEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.331642,
+                    50.922515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403863",
+                "bus": "yes",
+                "name": "Runkst Huidevetterslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLAGERSLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.324587,
+                    50.92037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;11;16;22;23;36;45;48;52;BP;CP;H1;H2;H3;H5;H6;H7;H8;H9;180;18a;20a",
+                "ref:De_Lijn": "403065",
+                "bus": "yes",
+                "name": "Hasselt Diesterpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE SCHIERVELLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.332594,
+                    50.930068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H9",
+                "ref:De_Lijn": "400420",
+                "bus": "yes",
+                "name": "Hasselt Sint-Jozefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOZEFSSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.338663,
+                    50.927753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403866",
+                "bus": "yes",
+                "name": "Runkst Grote Lindelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE LINDESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.321834,
+                    50.919278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "403285",
+                "bus": "yes",
+                "name": "Runkst Runkstersteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERENKRIJGSINGEL HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.318259,
+                    50.923964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400011",
+                "bus": "yes",
+                "name": "Hasselt Mebis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.325368,
+                    50.927996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403253",
+                "bus": "yes",
+                "name": "Runkst Sint-Servaas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31742,
+                    50.928897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "403284",
+                "bus": "yes",
+                "name": "Runkst Runkstersteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERENKRIJGSINGEL HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.318895,
+                    50.92377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403556",
+                "bus": "yes",
+                "name": "Runkst Van Haesendoncklaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOERENKRIJGSINGEL HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.320567,
+                    50.92132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403061",
+                "bus": "yes",
+                "name": "Hasselt De Schiervellaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DE SCHIERVELLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33278,
+                    50.929428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H7",
+                "ref:De_Lijn": "403445",
+                "bus": "yes",
+                "name": "Runkst Sint-Hubertusplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-HUBERTUSPLEIN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326625,
+                    50.924777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4;5;38;H1;H2;H5;H7;H9;104;105;21a",
+                "ref:De_Lijn": "403241",
+                "bus": "yes",
+                "name": "Hasselt Leopoldplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDPLEIN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.334534,
+                    50.928227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "403038",
+                "bus": "yes",
+                "name": "Hasselt Boerenkrijgsingel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERENKRIJGSINGEL HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.324679,
+                    50.918634
+                ]
+            }
+        }
+    ]
+}

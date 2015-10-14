@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205066",
+                "bus": "yes",
+                "name": "Eksaarde Hemelseschoot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEMELSESCHOOT EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.940447,
+                    51.125473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205091",
+                "bus": "yes",
+                "name": "Eksaarde Pee",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIELMOLENSTRAAT EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.945899,
+                    51.135479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204077",
+                "bus": "yes",
+                "name": "Eksaarde Zeveneekskens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIELMOLENSTRAAT EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.950173,
+                    51.130434
+                ]
+            }
+        }
+    ]
+}

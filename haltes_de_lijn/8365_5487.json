@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "201644",
+                "bus": "yes",
+                "name": "Gijzenzele Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT GIJZENZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.816454,
+                    50.970955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140;440",
+                "ref:De_Lijn": "203777",
+                "bus": "yes",
+                "name": "Gijzenzele Brielstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIELSTRAAT GIJZENZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.81177,
+                    50.972147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "200644",
+                "bus": "yes",
+                "name": "Gijzenzele Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTE BRIELSTRAAT GIJZENZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.815763,
+                    50.97044
+                ]
+            }
+        }
+    ]
+}

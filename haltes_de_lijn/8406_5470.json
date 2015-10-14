@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106452",
+                "bus": "yes",
+                "name": "Pulle Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUDEWIJNLAAN PULLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712099,
+                    51.204406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;420;421;427;428",
+                "ref:De_Lijn": "106457",
+                "bus": "yes",
+                "name": "Grobbendonk Vierselsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PULSESTEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.718442,
+                    51.195552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;427;428",
+                "ref:De_Lijn": "106453",
+                "bus": "yes",
+                "name": "Pulle Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUDEWIJNLAAN PULLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712339,
+                    51.204046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106454",
+                "bus": "yes",
+                "name": "Pulle Keulsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUDEWIJNLAAN PULLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71653,
+                    51.199935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106456",
+                "bus": "yes",
+                "name": "Grobbendonk Vierselsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PULSESTEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.718487,
+                    51.195821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;427;428",
+                "ref:De_Lijn": "106455",
+                "bus": "yes",
+                "name": "Pulle Keulsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUDEWIJNLAAN PULLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.716344,
+                    51.199953
+                ]
+            }
+        }
+    ]
+}

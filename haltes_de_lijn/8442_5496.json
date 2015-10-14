@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409565",
+                "bus": "yes",
+                "name": "Rijkhoven Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT RIJKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.514608,
+                    50.836001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "706;707",
+                "ref:De_Lijn": "404649",
+                "bus": "yes",
+                "name": "Hoeselt Kiezelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELSTRAAT HOESELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500704,
+                    50.84644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409564",
+                "bus": "yes",
+                "name": "Rijkhoven Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT RIJKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.514505,
+                    50.835868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "706;707",
+                "ref:De_Lijn": "404257",
+                "bus": "yes",
+                "name": "Hoeselt Kiezelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELSTRAAT HOESELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500787,
+                    50.846367
+                ]
+            }
+        }
+    ]
+}

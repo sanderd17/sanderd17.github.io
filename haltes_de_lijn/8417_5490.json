@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;391;392;701",
+                "ref:De_Lijn": "300477",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Tiensebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954111,
+                    50.920681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "392;552",
+                "ref:De_Lijn": "300545",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Tiensebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSEBAAN MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.95439,
+                    50.920257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;391;392",
+                "ref:De_Lijn": "300476",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Tiensebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.95407,
+                    50.920798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "392;552",
+                "ref:De_Lijn": "307087",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Tiensebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSEBAAN MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954235,
+                    50.92033
+                ]
+            }
+        }
+    ]
+}

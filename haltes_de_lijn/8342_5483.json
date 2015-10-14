@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "501764",
+                "bus": "yes",
+                "name": "Tielt Vijfpacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGMOLENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.302391,
+                    51.017558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;77",
+                "ref:De_Lijn": "508824",
+                "bus": "yes",
+                "name": "Tielt Vliegend Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.311968,
+                    51.015091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;77",
+                "ref:De_Lijn": "503824",
+                "bus": "yes",
+                "name": "Tielt Vliegend Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.311827,
+                    51.015
+                ]
+            }
+        }
+    ]
+}

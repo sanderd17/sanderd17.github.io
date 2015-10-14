@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "209589",
+                "bus": "yes",
+                "name": "Herne Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG HERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.028213,
+                    50.710583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "208588",
+                "bus": "yes",
+                "name": "Herne Hernebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG HERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.027797,
+                    50.717153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "209588",
+                "bus": "yes",
+                "name": "Herne Hernebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG HERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.027928,
+                    50.716677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "208589",
+                "bus": "yes",
+                "name": "Herne Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG HERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.028014,
+                    50.710681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "307528",
+                "bus": "yes",
+                "name": "Herne Hekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.037927,
+                    50.722495
+                ]
+            }
+        }
+    ]
+}

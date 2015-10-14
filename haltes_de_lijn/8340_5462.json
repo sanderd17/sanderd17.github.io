@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "506646",
+                "bus": "yes",
+                "name": "Ramskapelle Aaishove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMSKAPELLESTRAAT RAMSKAPELLE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.25228,
+                    51.311808
+                ]
+            }
+        }
+    ]
+}

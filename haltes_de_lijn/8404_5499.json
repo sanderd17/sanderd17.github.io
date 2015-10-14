@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344",
+                "ref:De_Lijn": "301684",
+                "bus": "yes",
+                "name": "Nethen Rue de Beaumont",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE WEERT SAINT-GEORGES SINT-JORIS-WEERT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.659351,
+                    50.793106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344",
+                "ref:De_Lijn": "301683",
+                "bus": "yes",
+                "name": "Nethen Rue de Beaumont",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE WEERT SAINT-GEORGES NETHEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.659803,
+                    50.79279
+                ]
+            }
+        }
+    ]
+}

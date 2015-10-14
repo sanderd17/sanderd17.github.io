@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204179",
+                "bus": "yes",
+                "name": "Appels Rebbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJCKELSTRAAT APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.048732,
+                    51.031944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29;355",
+                "ref:De_Lijn": "206391",
+                "bus": "yes",
+                "name": "Appels 't Zand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSLAAN APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064519,
+                    51.028822
+                ]
+            }
+        }
+    ]
+}

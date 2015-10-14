@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;99",
+                "ref:De_Lijn": "508050",
+                "bus": "yes",
+                "name": "Bellegem De Kat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSERIJKSWEG BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.301334,
+                    50.781139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;99",
+                "ref:De_Lijn": "503056",
+                "bus": "yes",
+                "name": "Bellegem Rood Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSERIJKSWEG BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298416,
+                    50.784116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;99",
+                "ref:De_Lijn": "508056",
+                "bus": "yes",
+                "name": "Bellegem Rood Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSERIJKSWEG BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.29886,
+                    50.783922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "505899",
+                "bus": "yes",
+                "name": "Bellegem De Kat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELLEGEMSESTRAAT BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.301342,
+                    50.780168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;99",
+                "ref:De_Lijn": "503050",
+                "bus": "yes",
+                "name": "Bellegem De Kat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSERIJKSWEG BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.301777,
+                    50.78037
+                ]
+            }
+        }
+    ]
+}

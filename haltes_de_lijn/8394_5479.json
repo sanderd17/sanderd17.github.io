@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "500",
+                "ref:De_Lijn": "106818",
+                "bus": "yes",
+                "name": "Rumst Varenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG RUMST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.452419,
+                    51.078469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "500",
+                "ref:De_Lijn": "106820",
+                "bus": "yes",
+                "name": "Walem Baron Coppenslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTSTRAAT WALEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.453787,
+                    51.06992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "500",
+                "ref:De_Lijn": "106819",
+                "bus": "yes",
+                "name": "Walem Baron Coppenslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTSTRAAT WALEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.454229,
+                    51.069776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "500",
+                "ref:De_Lijn": "106817",
+                "bus": "yes",
+                "name": "Rumst Varenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG RUMST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.452563,
+                    51.079332
+                ]
+            }
+        }
+    ]
+}

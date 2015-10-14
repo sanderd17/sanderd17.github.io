@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;38",
+                "ref:De_Lijn": "502190",
+                "bus": "yes",
+                "name": "Hooglede Cafe Rozenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT HOOGLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.088208,
+                    50.969734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;38",
+                "ref:De_Lijn": "502204",
+                "bus": "yes",
+                "name": "Hooglede Villa Paret",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGLEEDSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.097955,
+                    50.962648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;38",
+                "ref:De_Lijn": "507190",
+                "bus": "yes",
+                "name": "Hooglede Cafe Rozenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT HOOGLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.088058,
+                    50.970038
+                ]
+            }
+        }
+    ]
+}

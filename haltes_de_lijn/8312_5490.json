@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504473",
+                "bus": "yes",
+                "name": "Roesbrugge Scherpenput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENWALSTRAAT PROVEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.647286,
+                    50.917252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;69",
+                "ref:De_Lijn": "505837",
+                "bus": "yes",
+                "name": "Roesbrugge Oosthoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT ROESBRUGGE-HARINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.638386,
+                    50.923281
+                ]
+            }
+        }
+    ]
+}

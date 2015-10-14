@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "562",
+                "ref:De_Lijn": "303284",
+                "bus": "yes",
+                "name": "Neerhespen Landenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDENSTRAAT NEERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.056544,
+                    50.791085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "562;712",
+                "ref:De_Lijn": "303285",
+                "bus": "yes",
+                "name": "Neerhespen Landenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDENSTRAAT NEERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.056694,
+                    50.791605
+                ]
+            }
+        }
+    ]
+}

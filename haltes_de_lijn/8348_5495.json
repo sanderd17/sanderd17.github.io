@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;89",
+                "ref:De_Lijn": "503013",
+                "bus": "yes",
+                "name": "Anzegem Roterijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOKKETUIN ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.445881,
+                    50.848391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505972",
+                "bus": "yes",
+                "name": "Anzegem Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.432105,
+                    50.859107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "507736",
+                "bus": "yes",
+                "name": "Anzegem Roterijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTSESTEENWEG ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.448031,
+                    50.848804
+                ]
+            }
+        }
+    ]
+}

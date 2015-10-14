@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511",
+                "ref:De_Lijn": "108208",
+                "bus": "yes",
+                "name": "Herenthout Bergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.796057,
+                    51.149391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511",
+                "ref:De_Lijn": "108209",
+                "bus": "yes",
+                "name": "Herenthout Bergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.796373,
+                    51.149668
+                ]
+            }
+        }
+    ]
+}

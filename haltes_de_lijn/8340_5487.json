@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505581",
+                "bus": "yes",
+                "name": "Meulebeke Maeneghemstraat 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MANEGEMSTRAAT PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.255731,
+                    50.965235
+                ]
+            }
+        }
+    ]
+}

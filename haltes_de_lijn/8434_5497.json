@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "406299",
+                "bus": "yes",
+                "name": "Herten Hertenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERTENSTRAAT HERTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.328761,
+                    50.831082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700;709",
+                "ref:De_Lijn": "409139",
+                "bus": "yes",
+                "name": "Herten Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERTENSTRAAT HERTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.332653,
+                    50.832596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;38",
+                "ref:De_Lijn": "409078",
+                "bus": "yes",
+                "name": "Wellen Loonderveld II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG BORGLOON HERTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.338783,
+                    50.822809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455370",
+                "bus": "yes",
+                "name": "Wellen WTC",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SMISSEBROEK HERTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326952,
+                    50.831465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;38",
+                "ref:De_Lijn": "409079",
+                "bus": "yes",
+                "name": "Wellen Loonderveld II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG BORGLOON HERTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33858,
+                    50.82264
+                ]
+            }
+        }
+    ]
+}

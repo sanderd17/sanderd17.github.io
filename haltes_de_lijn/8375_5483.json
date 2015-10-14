@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "207395",
+                "bus": "yes",
+                "name": "Oudegem Decorum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEGENE APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.042945,
+                    51.019469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29;355",
+                "ref:De_Lijn": "206395",
+                "bus": "yes",
+                "name": "Oudegem Decorum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSLAAN APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.042674,
+                    51.019478
+                ]
+            }
+        }
+    ]
+}

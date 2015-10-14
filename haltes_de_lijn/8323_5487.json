@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28;30",
+                "ref:De_Lijn": "509279",
+                "bus": "yes",
+                "name": "Merkem Grote Abri",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKEMSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.883985,
+                    50.960959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28;30",
+                "ref:De_Lijn": "504287",
+                "bus": "yes",
+                "name": "Merkem Sneppe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKEMSTRAAT JONKERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.898989,
+                    50.966911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28;30",
+                "ref:De_Lijn": "504279",
+                "bus": "yes",
+                "name": "Merkem Grote Abri",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKEMSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.884311,
+                    50.960982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28;30",
+                "ref:De_Lijn": "509287",
+                "bus": "yes",
+                "name": "Merkem Sneppe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKEMSTRAAT JONKERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.898689,
+                    50.966934
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204585",
+                "bus": "yes",
+                "name": "Zele Scheldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVERMAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.038476,
+                    51.049022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204587",
+                "bus": "yes",
+                "name": "Zele Rijkenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSKANT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.026092,
+                    51.04976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204586",
+                "bus": "yes",
+                "name": "Zele Avermaat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVERMAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.033647,
+                    51.046321
+                ]
+            }
+        }
+    ]
+}

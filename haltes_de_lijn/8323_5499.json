@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "509599",
+                "bus": "yes",
+                "name": "Wijtschate Capri",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT WIJTSCHATE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.889557,
+                    50.796445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504599",
+                "bus": "yes",
+                "name": "Wijtschate Capri",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT WIJTSCHATE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.889433,
+                    50.796768
+                ]
+            }
+        }
+    ]
+}

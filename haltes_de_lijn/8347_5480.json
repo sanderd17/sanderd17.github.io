@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505646",
+                "bus": "yes",
+                "name": "Ruiselede De Arend",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N37 AALTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.419172,
+                    51.056431
+                ]
+            }
+        }
+    ]
+}

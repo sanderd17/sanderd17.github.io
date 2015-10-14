@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "607",
+                "ref:De_Lijn": "101897",
+                "bus": "yes",
+                "name": "Oostmalle Slachterijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLACHTERIJSTRAAT OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.72905,
+                    51.305484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "400;401;408;409;431",
+                "ref:De_Lijn": "106021",
+                "bus": "yes",
+                "name": "Oostmalle Hagelkruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSEBAAN OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.736838,
+                    51.307599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "629",
+                "ref:De_Lijn": "101896",
+                "bus": "yes",
+                "name": "Oostmalle Slachterijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLACHTERIJSTRAAT OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.730226,
+                    51.305552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "400;401;408;409;431",
+                "ref:De_Lijn": "106020",
+                "bus": "yes",
+                "name": "Oostmalle Hagelkruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSEBAAN OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.737073,
+                    51.308308
+                ]
+            }
+        }
+    ]
+}

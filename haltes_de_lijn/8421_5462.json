@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;455;456;480",
+                "ref:De_Lijn": "107159",
+                "bus": "yes",
+                "name": "Arendonk Delstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTELVEN ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.04194,
+                    51.312368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;455;456;480",
+                "ref:De_Lijn": "107162",
+                "bus": "yes",
+                "name": "Arendonk Spiebosch",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTELVEN ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.051704,
+                    51.313148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;455;456;480",
+                "ref:De_Lijn": "107157",
+                "bus": "yes",
+                "name": "Oud-Turnhout Spreeuwendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N139 ZWANEVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.032642,
+                    51.312052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;455;456;480",
+                "ref:De_Lijn": "107158",
+                "bus": "yes",
+                "name": "Arendonk Delstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTELVEN ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.041995,
+                    51.312233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;455;456;480",
+                "ref:De_Lijn": "107156",
+                "bus": "yes",
+                "name": "Oud-Turnhout Spreeuwendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N139 ZWANEVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.032741,
+                    51.311944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;455;456;480",
+                "ref:De_Lijn": "107161",
+                "bus": "yes",
+                "name": "Arendonk Spiebosch",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTELVEN ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.050995,
+                    51.312721
+                ]
+            }
+        }
+    ]
+}

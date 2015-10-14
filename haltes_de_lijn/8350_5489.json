@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200675",
+                "bus": "yes",
+                "name": "Olsene Bauterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENEWEG OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.48127,
+                    50.93718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;125",
+                "ref:De_Lijn": "200462",
+                "bus": "yes",
+                "name": "Olsene Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.474512,
+                    50.942361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "201462",
+                "bus": "yes",
+                "name": "Olsene Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.47427,
+                    50.942386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201466",
+                "bus": "yes",
+                "name": "Olsene Ponteputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAUTERSTRAAT OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.492607,
+                    50.935018
+                ]
+            }
+        }
+    ]
+}

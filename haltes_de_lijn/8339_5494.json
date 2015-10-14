@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503518",
+                "bus": "yes",
+                "name": "Lendelede Sint-Katharinakerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.239307,
+                    50.870985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503240",
+                "bus": "yes",
+                "name": "Heule Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.23283,
+                    50.867372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503513",
+                "bus": "yes",
+                "name": "Lendelede Burgemeester G.Dussartlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEULSESTRAAT SINT-KATARINA (LENDELEDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.238995,
+                    50.87332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "508240",
+                "bus": "yes",
+                "name": "Heule Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.232883,
+                    50.867525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68",
+                "ref:De_Lijn": "508518",
+                "bus": "yes",
+                "name": "Lendelede Sint-Katharinakerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.239149,
+                    50.871047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68",
+                "ref:De_Lijn": "508513",
+                "bus": "yes",
+                "name": "Lendelede Burgemeester G.Dussartlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEULSESTRAAT SINT-KATARINA (LENDELEDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.238645,
+                    50.873712
+                ]
+            }
+        }
+    ]
+}

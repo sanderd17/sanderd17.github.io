@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "205126",
+                "bus": "yes",
+                "name": "Hamme Noubroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIEZESTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.15696,
+                    51.098463
+                ]
+            }
+        }
+    ]
+}

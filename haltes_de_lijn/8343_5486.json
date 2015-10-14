@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;59;77",
+                "ref:De_Lijn": "502483",
+                "bus": "yes",
+                "name": "Tielt Seyntex",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEDEVAARTSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332829,
+                    50.985582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "501768",
+                "bus": "yes",
+                "name": "Tielt Abeel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.324612,
+                    50.978507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505317",
+                "bus": "yes",
+                "name": "Tielt Dierdonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIERDONK TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.330333,
+                    50.983789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;59;77",
+                "ref:De_Lijn": "507483",
+                "bus": "yes",
+                "name": "Tielt Seyntex",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIALOOPSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332598,
+                    50.985095
+                ]
+            }
+        }
+    ]
+}

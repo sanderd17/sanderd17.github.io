@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204340",
+                "bus": "yes",
+                "name": "Haasdonk Perstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PERSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.251767,
+                    51.172518
+                ]
+            }
+        }
+    ]
+}

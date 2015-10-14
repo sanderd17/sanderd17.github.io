@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200813",
+                "bus": "yes",
+                "name": "Maldegem Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.441149,
+                    51.204266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;185;58S",
+                "ref:De_Lijn": "202058",
+                "bus": "yes",
+                "name": "Maldegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.447974,
+                    51.20502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "201884",
+                "bus": "yes",
+                "name": "Maldegem Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE KASTEELDREEF MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.430599,
+                    51.206591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200882",
+                "bus": "yes",
+                "name": "Maldegem Bogaardestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDSTRIJDERSLAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.437955,
+                    51.206551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200804",
+                "bus": "yes",
+                "name": "Maldegem Veldeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPEYESTRAAT MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.437165,
+                    51.200252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;58S",
+                "ref:De_Lijn": "203058",
+                "bus": "yes",
+                "name": "Maldegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.447413,
+                    51.205133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200898",
+                "bus": "yes",
+                "name": "Maldegem Koninkrijkzaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOGAARDESTRAAT MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.434973,
+                    51.203264
+                ]
+            }
+        }
+    ]
+}

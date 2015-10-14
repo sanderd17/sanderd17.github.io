@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401688",
+                "bus": "yes",
+                "name": "Schaffen Hooilandseberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROTHSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.13289,
+                    51.030037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;702",
+                "ref:De_Lijn": "308173",
+                "bus": "yes",
+                "name": "Schaffen Hooilandseberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTHSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.13315,
+                    51.030233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "308172",
+                "bus": "yes",
+                "name": "Schaffen Hooilandseberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTHSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.133047,
+                    51.030063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401689",
+                "bus": "yes",
+                "name": "Schaffen Hooilandseberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROTHSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.13312,
+                    51.030188
+                ]
+            }
+        }
+    ]
+}

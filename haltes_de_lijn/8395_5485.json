@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "683",
+                "ref:De_Lijn": "306810",
+                "bus": "yes",
+                "name": "Zemst Carrefour",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEMSTBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.473871,
+                    50.992328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "683",
+                "ref:De_Lijn": "306809",
+                "bus": "yes",
+                "name": "Zemst Carrefour",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEMSTSESTEENWEG ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4737,
+                    50.992104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682;683",
+                "ref:De_Lijn": "305632",
+                "bus": "yes",
+                "name": "Zemst Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.468716,
+                    50.986247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109498",
+                "bus": "yes",
+                "name": "Mechelen Zemstbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEMSTBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.472921,
+                    50.99428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109497",
+                "bus": "yes",
+                "name": "Mechelen Zennebeemden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEMSTBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47116,
+                    50.996717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109499",
+                "bus": "yes",
+                "name": "Mechelen Zemstbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEMSTBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47305,
+                    50.994352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682;683",
+                "ref:De_Lijn": "305633",
+                "bus": "yes",
+                "name": "Zemst Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.46893,
+                    50.986166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109496",
+                "bus": "yes",
+                "name": "Mechelen Zennebeemden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEMSTBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.471131,
+                    50.996565
+                ]
+            }
+        }
+    ]
+}

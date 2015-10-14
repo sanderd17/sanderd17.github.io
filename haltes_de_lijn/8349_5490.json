@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200664",
+                "bus": "yes",
+                "name": "Zulte Wielkensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLSENESTRAAT ZULTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.455378,
+                    50.91875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200665",
+                "bus": "yes",
+                "name": "Zulte Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAALSTRAAT ZULTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.450556,
+                    50.918785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "201464",
+                "bus": "yes",
+                "name": "Olsene Overwinning",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.456674,
+                    50.930375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200663",
+                "bus": "yes",
+                "name": "Olsene Olsenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTSTRAAT OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.464013,
+                    50.926764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;125",
+                "ref:De_Lijn": "200464",
+                "bus": "yes",
+                "name": "Olsene Overwinning",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.456888,
+                    50.930332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201838",
+                "bus": "yes",
+                "name": "Olsene Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.463262,
+                    50.930309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200662",
+                "bus": "yes",
+                "name": "Olsene Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.471279,
+                    50.930614
+                ]
+            }
+        }
+    ]
+}

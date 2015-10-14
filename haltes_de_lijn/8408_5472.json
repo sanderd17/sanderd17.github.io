@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "107046",
+                "bus": "yes",
+                "name": "Grobbendonk Jagersdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.762781,
+                    51.175907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "107043",
+                "bus": "yes",
+                "name": "Grobbendonk Nieuwendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.752715,
+                    51.174295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "107044",
+                "bus": "yes",
+                "name": "Grobbendonk Jagersdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.762279,
+                    51.175675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "107042",
+                "bus": "yes",
+                "name": "Grobbendonk Nieuwendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG BOUWEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.752599,
+                    51.174125
+                ]
+            }
+        }
+    ]
+}

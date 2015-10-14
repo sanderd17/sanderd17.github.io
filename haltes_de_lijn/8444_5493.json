@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;706",
+                "ref:De_Lijn": "400883",
+                "bus": "yes",
+                "name": "Waltwilder Kruispunt Langstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT HOELBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.548223,
+                    50.875955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;702;706",
+                "ref:De_Lijn": "400882",
+                "bus": "yes",
+                "name": "Waltwilder Kruispunt Langstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT WALTWILDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.54815,
+                    50.875875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "403577",
+                "bus": "yes",
+                "name": "Munsterbilzen Dulgaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DULGAARDSTRAAT MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.53839,
+                    50.886213
+                ]
+            }
+        }
+    ]
+}

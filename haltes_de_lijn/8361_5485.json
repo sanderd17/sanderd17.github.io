@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "202820",
+                "bus": "yes",
+                "name": "Merelbeke Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735225,
+                    50.993425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "203820",
+                "bus": "yes",
+                "name": "Merelbeke Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735054,
+                    50.99346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "203821",
+                "bus": "yes",
+                "name": "Merelbeke Bergwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729267,
+                    50.986399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "202821",
+                "bus": "yes",
+                "name": "Merelbeke Bergwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MERELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729425,
+                    50.986346
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "503730",
+                "bus": "yes",
+                "name": "Roeselare Rumbeeksegravier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KACHTEMSESTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.164826,
+                    50.945883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "508730",
+                "bus": "yes",
+                "name": "Roeselare Rumbeeksegravier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KACHTEMSESTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.165095,
+                    50.945957
+                ]
+            }
+        }
+    ]
+}

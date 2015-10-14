@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504070",
+                "bus": "yes",
+                "name": "Dranouter Blinker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLESTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.764289,
+                    50.757976
+                ]
+            }
+        }
+    ]
+}

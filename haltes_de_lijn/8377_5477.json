@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;91;270;290",
+                "ref:De_Lijn": "204470",
+                "bus": "yes",
+                "name": "Waasmunster Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERSCHAAR WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.084413,
+                    51.109772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "205208",
+                "bus": "yes",
+                "name": "Waasmunster Mantawijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.076736,
+                    51.108836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;91;270;290",
+                "ref:De_Lijn": "205417",
+                "bus": "yes",
+                "name": "Waasmunster Kerkplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.085548,
+                    51.106233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;91;270",
+                "ref:De_Lijn": "205470",
+                "bus": "yes",
+                "name": "Waasmunster Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERSCHAAR WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.084413,
+                    51.109763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "204208",
+                "bus": "yes",
+                "name": "Waasmunster Mantawijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.07658,
+                    51.108764
+                ]
+            }
+        }
+    ]
+}

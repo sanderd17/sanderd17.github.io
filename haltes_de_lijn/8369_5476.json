@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205068",
+                "bus": "yes",
+                "name": "Eksaarde Doorslaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORSLAARSTRAAT EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.907536,
+                    51.11965
+                ]
+            }
+        }
+    ]
+}

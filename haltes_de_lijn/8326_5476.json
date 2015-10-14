@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505086",
+                "bus": "yes",
+                "name": "Koekelare Doeveren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERDIJKBEEK OOST MOERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.960731,
+                    51.119481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;66",
+                "ref:De_Lijn": "506224",
+                "bus": "yes",
+                "name": "Moere Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG MOERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.955735,
+                    51.122667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "501224",
+                "bus": "yes",
+                "name": "Moere Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG MOERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.956279,
+                    51.122638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505330",
+                "bus": "yes",
+                "name": "Moere Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERDIJKBEEK WEST DOEVEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.954306,
+                    51.117013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505231",
+                "bus": "yes",
+                "name": "Koekelare Wallebeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERDIJKBEEK WEST DOEVEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.955561,
+                    51.117549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505234",
+                "bus": "yes",
+                "name": "Koekelare Ruifel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERESTRAAT DOEVEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.962256,
+                    51.116757
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "202495",
+                "bus": "yes",
+                "name": "Beervelde Pensionaatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAANHOUTSTRAAT BEERVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.857542,
+                    51.078284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "203495",
+                "bus": "yes",
+                "name": "Beervelde Pensionaatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAANHOUTSTRAAT BEERVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8576,
+                    51.078176
+                ]
+            }
+        }
+    ]
+}

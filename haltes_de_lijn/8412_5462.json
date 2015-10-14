@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;416;417",
+                "ref:De_Lijn": "106207",
+                "bus": "yes",
+                "name": "Beerse Lilsedijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.841313,
+                    51.308198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "106209",
+                "bus": "yes",
+                "name": "Beerse Dageraadlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.849053,
+                    51.309264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;416;417;419",
+                "ref:De_Lijn": "106206",
+                "bus": "yes",
+                "name": "Beerse Lilsedijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.840783,
+                    51.308263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;419",
+                "ref:De_Lijn": "106208",
+                "bus": "yes",
+                "name": "Beerse Dageraadlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.849227,
+                    51.309434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;416;417;419",
+                "ref:De_Lijn": "106210",
+                "bus": "yes",
+                "name": "Beerse Gierleseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.855288,
+                    51.310281
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;26;28;29",
+                "ref:De_Lijn": "502572",
+                "bus": "yes",
+                "name": "Zwevezele Tramstation",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.215093,
+                    51.039579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;28;29",
+                "ref:De_Lijn": "507572",
+                "bus": "yes",
+                "name": "Zwevezele Tramstation",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.215931,
+                    51.039713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "502637",
+                "bus": "yes",
+                "name": "Zwevezele Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTERVELDESTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.209567,
+                    51.036423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;26;28;29;78",
+                "ref:De_Lijn": "502567",
+                "bus": "yes",
+                "name": "Zwevezele Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTPLEIN ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.211106,
+                    51.03589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "506729",
+                "bus": "yes",
+                "name": "Zwevezele Woonzorgcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTORIJSTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.216378,
+                    51.037191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;28;29;78",
+                "ref:De_Lijn": "507567",
+                "bus": "yes",
+                "name": "Zwevezele Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N370Z ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.212611,
+                    51.036156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "500122",
+                "bus": "yes",
+                "name": "Zwevezele Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213537,
+                    51.037334
+                ]
+            }
+        }
+    ]
+}

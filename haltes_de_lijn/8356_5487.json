@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84",
+                "ref:De_Lijn": "201164",
+                "bus": "yes",
+                "name": "Nazareth Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.608346,
+                    50.958522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84",
+                "ref:De_Lijn": "209727",
+                "bus": "yes",
+                "name": "Nazareth Oudenaardse Heerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.619429,
+                    50.959744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209728",
+                "bus": "yes",
+                "name": "Nazareth Groendreef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614295,
+                    50.958578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84;145",
+                "ref:De_Lijn": "200164",
+                "bus": "yes",
+                "name": "Nazareth Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.60823,
+                    50.958656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84;145",
+                "ref:De_Lijn": "208727",
+                "bus": "yes",
+                "name": "Nazareth Oudenaardse Heerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.619371,
+                    50.959869
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108956",
+                "bus": "yes",
+                "name": "Geel Roerdompstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N19 GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.97714,
+                    51.212443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108954",
+                "bus": "yes",
+                "name": "Geel Roerdompstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N19 GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.977036,
+                    51.212156
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;89",
+                "ref:De_Lijn": "204333",
+                "bus": "yes",
+                "name": "Kallo Land Van Waaslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZOPWEG KALLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237255,
+                    51.248869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;89",
+                "ref:De_Lijn": "205333",
+                "bus": "yes",
+                "name": "Kallo Land Van Waaslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZOPWEG KALLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237384,
+                    51.248761
+                ]
+            }
+        }
+    ]
+}

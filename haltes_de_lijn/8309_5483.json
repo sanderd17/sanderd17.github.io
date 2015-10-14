@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "504740",
+                "bus": "yes",
+                "name": "Houtem De Moerenaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDENWEG DE MOEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.588529,
+                    51.025132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "504131",
+                "bus": "yes",
+                "name": "Houtem Ringsloot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTMOERSTRAAT HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.581977,
+                    51.016751
+                ]
+            }
+        }
+    ]
+}

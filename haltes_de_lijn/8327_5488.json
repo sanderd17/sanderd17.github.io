@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "509583",
+                "bus": "yes",
+                "name": "Westrozebeke Kazernen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STADENSTEENWEG SCHAAPBALIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.971596,
+                    50.945705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;40",
+                "ref:De_Lijn": "504587",
+                "bus": "yes",
+                "name": "Westrozebeke Vijfwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEMARKSTRAAT VIJFWEGEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.978697,
+                    50.949062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;40",
+                "ref:De_Lijn": "504583",
+                "bus": "yes",
+                "name": "Westrozebeke Kazernen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STADENSTEENWEG SCHAAPBALIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.971226,
+                    50.945674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40",
+                "ref:De_Lijn": "503803",
+                "bus": "yes",
+                "name": "Staden Drevestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.987823,
+                    50.954286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;40",
+                "ref:De_Lijn": "509587",
+                "bus": "yes",
+                "name": "Westrozebeke Vijfwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEMARKSTRAAT VIJFWEGEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.979024,
+                    50.949102
+                ]
+            }
+        }
+    ]
+}

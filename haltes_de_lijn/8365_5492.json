@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "209442",
+                "bus": "yes",
+                "name": "Elene Balegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELENESTRAAT ELENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.806665,
+                    50.894336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208676",
+                "bus": "yes",
+                "name": "Balegem Walzegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WALZEGEM BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.806934,
+                    50.90277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81;390;420;440",
+                "ref:De_Lijn": "208443",
+                "bus": "yes",
+                "name": "Elene Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELENESTRAAT ELENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.810426,
+                    50.890066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209710",
+                "bus": "yes",
+                "name": "Elene Hebbegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWEGESTRAAT ELENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.821931,
+                    50.895586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81;390;420;440",
+                "ref:De_Lijn": "208442",
+                "bus": "yes",
+                "name": "Elene Balegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELENESTRAAT ELENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.806662,
+                    50.894615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "202348",
+                "bus": "yes",
+                "name": "Oombergen Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP AALST ELENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.816605,
+                    50.898824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "209443",
+                "bus": "yes",
+                "name": "Elene Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELENESTRAAT ELENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.810242,
+                    50.889957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203348",
+                "bus": "yes",
+                "name": "Oombergen Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP AALST BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.81649,
+                    50.898932
+                ]
+            }
+        }
+    ]
+}

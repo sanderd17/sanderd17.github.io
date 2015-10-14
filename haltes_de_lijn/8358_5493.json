@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201754",
+                "bus": "yes",
+                "name": "Zingem Weiput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEISTRAAT ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.649871,
+                    50.887611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;445",
+                "ref:De_Lijn": "208221",
+                "bus": "yes",
+                "name": "Welden Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONSEIGNEUR LAMBRECHTSTRAAT WELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.655197,
+                    50.877539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "209593",
+                "bus": "yes",
+                "name": "Welden Corpusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYTSTRAAT WELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65249,
+                    50.877091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "209221",
+                "bus": "yes",
+                "name": "Welden Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONSEIGNEUR LAMBRECHTSTRAAT WELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.655452,
+                    50.877622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;445",
+                "ref:De_Lijn": "208593",
+                "bus": "yes",
+                "name": "Welden Corpusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYTSTRAAT WELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.652435,
+                    50.876965
+                ]
+            }
+        }
+    ]
+}

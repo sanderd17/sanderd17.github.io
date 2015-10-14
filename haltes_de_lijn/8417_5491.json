@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "392;552;701",
+                "ref:De_Lijn": "300470",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Muggenberg Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSEBAAN MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.951417,
+                    50.911067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "392;552",
+                "ref:De_Lijn": "300471",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Muggenberg Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSEBAAN MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.951616,
+                    50.911003
+                ]
+            }
+        }
+    ]
+}

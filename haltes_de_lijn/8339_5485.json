@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;59",
+                "ref:De_Lijn": "502344",
+                "bus": "yes",
+                "name": "Pittem Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.237131,
+                    50.997944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;80",
+                "ref:De_Lijn": "502345",
+                "bus": "yes",
+                "name": "Pittem Posterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.239267,
+                    50.987356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;73",
+                "ref:De_Lijn": "507344",
+                "bus": "yes",
+                "name": "Pittem Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.237088,
+                    50.999175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;80",
+                "ref:De_Lijn": "507345",
+                "bus": "yes",
+                "name": "Pittem Posterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.239498,
+                    50.987214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "509570",
+                "bus": "yes",
+                "name": "Pittem Vervanghalte Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.236894,
+                    50.998948
+                ]
+            }
+        }
+    ]
+}

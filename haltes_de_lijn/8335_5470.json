@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "509794",
+                "bus": "yes",
+                "name": "Sint-Andries Grote Moerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE MOERSTRAAT SINT-ANDRIES",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.161698,
+                    51.202508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "509795",
+                "bus": "yes",
+                "name": "Varsenare Avondrust",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE MANLAAN VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.150895,
+                    51.198639
+                ]
+            }
+        }
+    ]
+}

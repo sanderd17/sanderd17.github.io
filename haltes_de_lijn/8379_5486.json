@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207721",
+                "bus": "yes",
+                "name": "Lebbeke Rooien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOIEN WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.112175,
+                    50.978785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207687",
+                "bus": "yes",
+                "name": "Lebbeke Korte Breestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAARDEGEMSESTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.12846,
+                    50.974136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207355",
+                "bus": "yes",
+                "name": "Lebbeke Gehuchtveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEHUCHTVELDSTRAAT WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.110245,
+                    50.980165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207720",
+                "bus": "yes",
+                "name": "Lebbeke Heuvelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAARDEGEMSESTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.127355,
+                    50.97852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207733",
+                "bus": "yes",
+                "name": "Lebbeke Romestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROMESTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.124685,
+                    50.985517
+                ]
+            }
+        }
+    ]
+}

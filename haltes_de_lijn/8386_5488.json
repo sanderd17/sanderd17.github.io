@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "821",
+                "ref:De_Lijn": "303846",
+                "bus": "yes",
+                "name": "Merchtem Kleystraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLVERTEMSESTEENWEG MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.267997,
+                    50.95172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "821",
+                "ref:De_Lijn": "303845",
+                "bus": "yes",
+                "name": "Merchtem Kleystraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLVERTEMSESTEENWEG BRUSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.26861,
+                    50.951397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "821",
+                "ref:De_Lijn": "303810",
+                "bus": "yes",
+                "name": "Wolvertem Windmolenkouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERCHTEMSESTEENWEG WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.282841,
+                    50.95148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "821",
+                "ref:De_Lijn": "303811",
+                "bus": "yes",
+                "name": "Wolvertem Windmolenkouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERCHTEMSESTEENWEG WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.282855,
+                    50.951606
+                ]
+            }
+        }
+    ]
+}

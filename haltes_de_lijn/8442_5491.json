@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "409519",
+                "bus": "yes",
+                "name": "Heesveld Lodewijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESVELD BILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500151,
+                    50.903661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "402235",
+                "bus": "yes",
+                "name": "Genk Lambrechts",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TAUNUSWEG GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501966,
+                    50.91525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "409518",
+                "bus": "yes",
+                "name": "Heesveld Lodewijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESVELD BILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500436,
+                    50.903676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "407533",
+                "bus": "yes",
+                "name": "Munsterbilzen Kieleberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIELEBERG BILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.508099,
+                    50.906578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "407535",
+                "bus": "yes",
+                "name": "Munsterbilzen Kieleberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIELEBERG BILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.508297,
+                    50.906558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402234",
+                "bus": "yes",
+                "name": "Genk Lambrechts",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TAUNUSWEG GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.502667,
+                    50.913634
+                ]
+            }
+        }
+    ]
+}

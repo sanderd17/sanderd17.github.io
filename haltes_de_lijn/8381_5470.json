@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4",
+                "ref:De_Lijn": "205065",
+                "bus": "yes",
+                "name": "Nieuwkerken Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTORIJSTRAAT NIEUWKERKEN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.174254,
+                    51.193369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "204065",
+                "bus": "yes",
+                "name": "Nieuwkerken Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTORIJSTRAAT NIEUWKERKEN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17374,
+                    51.193224
+                ]
+            }
+        }
+    ]
+}

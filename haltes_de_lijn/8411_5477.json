@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;946",
+                "ref:De_Lijn": "108339",
+                "bus": "yes",
+                "name": "Wiekevorst Godinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WITTE GRACHT WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.813335,
+                    51.096967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;946",
+                "ref:De_Lijn": "108338",
+                "bus": "yes",
+                "name": "Wiekevorst Godinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WITTE GRACHT WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.813434,
+                    51.096805
+                ]
+            }
+        }
+    ]
+}

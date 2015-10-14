@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411",
+                "ref:De_Lijn": "106105",
+                "bus": "yes",
+                "name": "Zoersel Schriekbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORNE ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.688089,
+                    51.269073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "411;414",
+                "ref:De_Lijn": "106108",
+                "bus": "yes",
+                "name": "Zoersel Jachthoornlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORNE ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700124,
+                    51.268851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411",
+                "ref:De_Lijn": "106107",
+                "bus": "yes",
+                "name": "Zoersel Jachthoornlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORNE ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700726,
+                    51.268922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "411;414",
+                "ref:De_Lijn": "106106",
+                "bus": "yes",
+                "name": "Zoersel Schriekbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORNE ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.687731,
+                    51.269011
+                ]
+            }
+        }
+    ]
+}

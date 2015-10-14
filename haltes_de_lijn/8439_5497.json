@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "710",
+                "ref:De_Lijn": "404864",
+                "bus": "yes",
+                "name": "Vliermaal Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERBEEKSTRAAT VLIERMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.4321,
+                    50.830765
+                ]
+            }
+        }
+    ]
+}

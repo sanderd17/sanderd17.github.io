@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "206880",
+                "bus": "yes",
+                "name": "Sint-Gillis-Dendermonde Rusthuis Boonwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT SINT-GILLIS-BIJ-DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.086007,
+                    51.020758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "207308",
+                "bus": "yes",
+                "name": "Oudegem Denderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG VAN AALST APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.069054,
+                    51.026325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;355",
+                "ref:De_Lijn": "206308",
+                "bus": "yes",
+                "name": "Oudegem Denderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG VAN AALST APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.068811,
+                    51.026334
+                ]
+            }
+        }
+    ]
+}

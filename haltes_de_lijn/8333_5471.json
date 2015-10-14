@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "504974",
+                "bus": "yes",
+                "name": "Jabbeke Gino Tours Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGVELD JABBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10888,
+                    51.181361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;93",
+                "ref:De_Lijn": "502223",
+                "bus": "yes",
+                "name": "Jabbeke Museum Permeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CONSTANT PERMEKELAAN JABBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.099236,
+                    51.179909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "501604",
+                "bus": "yes",
+                "name": "Oostende West Belgium Coach Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGVELD JABBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.10888,
+                    51.181361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54",
+                "ref:De_Lijn": "507223",
+                "bus": "yes",
+                "name": "Jabbeke Museum Permeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CONSTANT PERMEKELAAN JABBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.098582,
+                    51.180271
+                ]
+            }
+        }
+    ]
+}

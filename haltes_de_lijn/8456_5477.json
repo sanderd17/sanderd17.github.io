@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;721",
+                "ref:De_Lijn": "406131",
+                "bus": "yes",
+                "name": "Aldeneik Hamontweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMONTWEG ALDENEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.802965,
+                    51.103659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;721",
+                "ref:De_Lijn": "406133",
+                "bus": "yes",
+                "name": "Aldeneik Leeuwerik",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAVANASTRAAT MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.804141,
+                    51.105667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;721",
+                "ref:De_Lijn": "406132",
+                "bus": "yes",
+                "name": "Aldeneik Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUGENBRUGWEG ALDENEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.805446,
+                    51.102127
+                ]
+            }
+        }
+    ]
+}

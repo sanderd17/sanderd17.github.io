@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;511;529",
+                "ref:De_Lijn": "108086",
+                "bus": "yes",
+                "name": "Onze-Lieve-Vrouw-Waver Prinsenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT ONZE-LIEVE-VROUW-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.601083,
+                    51.064642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;511;529",
+                "ref:De_Lijn": "108084",
+                "bus": "yes",
+                "name": "Onze-Lieve-Vrouw-Waver Prinsenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT ONZE-LIEVE-VROUW-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.601639,
+                    51.064452
+                ]
+            }
+        }
+    ]
+}

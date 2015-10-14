@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100200",
+                "bus": "yes",
+                "name": "Brecht Sternhoven rechts NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT OVERBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.618538,
+                    51.34049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;608;620;629",
+                "ref:De_Lijn": "105518",
+                "bus": "yes",
+                "name": "Brecht Sternhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSTEENWEG OVERBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.618765,
+                    51.340121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100201",
+                "bus": "yes",
+                "name": "Brecht Sternhoven links NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT OVERBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.618508,
+                    51.340391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;608;620;629",
+                "ref:De_Lijn": "105519",
+                "bus": "yes",
+                "name": "Brecht Sternhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSTEENWEG OVERBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.618893,
+                    51.339869
+                ]
+            }
+        }
+    ]
+}

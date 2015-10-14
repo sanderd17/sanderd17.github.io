@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505748",
+                "bus": "yes",
+                "name": "Hertsberge Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELDREEF HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286106,
+                    51.100602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;64;79;95",
+                "ref:De_Lijn": "502183",
+                "bus": "yes",
+                "name": "Hertsberge Beukendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277435,
+                    51.109952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;64;79;95",
+                "ref:De_Lijn": "507183",
+                "bus": "yes",
+                "name": "Hertsberge Beukendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277331,
+                    51.109537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505691",
+                "bus": "yes",
+                "name": "Wingene Vorsevijvers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZELNOTEDREEF WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.291458,
+                    51.097612
+                ]
+            }
+        }
+    ]
+}

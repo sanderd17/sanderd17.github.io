@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S11",
+                "ref:De_Lijn": "408199",
+                "bus": "yes",
+                "name": "Sint-Truiden Nieuwenhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWENHOVEN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.216633,
+                    50.851734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407925",
+                "bus": "yes",
+                "name": "Kortenbos Hasseltsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSESTEENWEG KORTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.227619,
+                    50.849065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407924",
+                "bus": "yes",
+                "name": "Kortenbos Hasseltsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSESTEENWEG KORTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.227103,
+                    50.848817
+                ]
+            }
+        }
+    ]
+}

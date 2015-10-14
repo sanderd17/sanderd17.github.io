@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;90",
+                "ref:De_Lijn": "501082",
+                "bus": "yes",
+                "name": "Dudzele Ter Bolle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUDZEELSE STEENWEG DUDZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.228881,
+                    51.25463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;90",
+                "ref:De_Lijn": "506082",
+                "bus": "yes",
+                "name": "Dudzele Ter Bolle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUDZEELSE STEENWEG DUDZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.228511,
+                    51.255103
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;68;85;92",
+                "ref:De_Lijn": "508028",
+                "bus": "yes",
+                "name": "Avelgem Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG AVELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.462263,
+                    50.781605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "508030",
+                "bus": "yes",
+                "name": "Avelgem Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVRIJDINGSLAAN AVELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.449766,
+                    50.781058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;68;85;92;470",
+                "ref:De_Lijn": "503024",
+                "bus": "yes",
+                "name": "Avelgem Toekomststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG AVELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.457508,
+                    50.778925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;68;85;92",
+                "ref:De_Lijn": "508024",
+                "bus": "yes",
+                "name": "Avelgem Toekomststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG AVELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.456585,
+                    50.778953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;68;85;92;470",
+                "ref:De_Lijn": "503028",
+                "bus": "yes",
+                "name": "Avelgem Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG AVELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.462477,
+                    50.781561
+                ]
+            }
+        }
+    ]
+}

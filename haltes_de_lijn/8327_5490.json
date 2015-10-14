@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "504580",
+                "bus": "yes",
+                "name": "Poelkapelle Abelegat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG POELKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.977912,
+                    50.92226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "509580",
+                "bus": "yes",
+                "name": "Poelkapelle Abelegat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG POELKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.976932,
+                    50.922204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "504585",
+                "bus": "yes",
+                "name": "Westrozebeke Spriet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POELKAPELLESTRAAT WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.987904,
+                    50.923996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "509585",
+                "bus": "yes",
+                "name": "Westrozebeke Spriet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POELKAPELLESTRAAT WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.986455,
+                    50.923925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "504374",
+                "bus": "yes",
+                "name": "Poelkapelle Kattestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT POELKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.972167,
+                    50.92889
+                ]
+            }
+        }
+    ]
+}

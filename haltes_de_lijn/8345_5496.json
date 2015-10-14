@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;78;92",
+                "ref:De_Lijn": "503087",
+                "bus": "yes",
+                "name": "Deerlijk Belgiek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTESTEENWEG DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.380884,
+                    50.845606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;78;92",
+                "ref:De_Lijn": "508087",
+                "bus": "yes",
+                "name": "Deerlijk Belgiek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTESTEENWEG DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.381439,
+                    50.845566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "505847",
+                "bus": "yes",
+                "name": "Deerlijk Lisbonna",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLIJTSTRAAT DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.368098,
+                    50.842558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "505387",
+                "bus": "yes",
+                "name": "Deerlijk Klijtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLIJTSTRAAT DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.376618,
+                    50.837155
+                ]
+            }
+        }
+    ]
+}

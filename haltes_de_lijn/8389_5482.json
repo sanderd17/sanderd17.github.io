@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "289",
+                "ref:De_Lijn": "308615",
+                "bus": "yes",
+                "name": "Breendonk Autosnelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURTSTRAAT BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328647,
+                    51.04038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "305839",
+                "bus": "yes",
+                "name": "Tisselt Wolvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEKSTRAAT TISSELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.346902,
+                    51.029283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "289",
+                "ref:De_Lijn": "308620",
+                "bus": "yes",
+                "name": "Tisselt Oude Spoorbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAECKELMANSSTRAAT TISSELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.348495,
+                    51.038524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "305840",
+                "bus": "yes",
+                "name": "Tisselt Wolvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEKSTRAAT TISSELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.347073,
+                    51.029472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "289",
+                "ref:De_Lijn": "308619",
+                "bus": "yes",
+                "name": "Tisselt Oude Spoorbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAECKELMANSSTRAAT TISSELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.348381,
+                    51.038668
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;14;15;302",
+                "ref:De_Lijn": "406012",
+                "bus": "yes",
+                "name": "Maaseik Kazerne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.774177,
+                    51.098917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;14;15;16;40;302",
+                "ref:De_Lijn": "407146",
+                "bus": "yes",
+                "name": "Maaseik Pieter Geunsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.777497,
+                    51.106249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;14;61;302",
+                "ref:De_Lijn": "406117",
+                "bus": "yes",
+                "name": "Maaseik Wurfeld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTERSTEENWEG WURFELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.757477,
+                    51.101048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;15;16;40",
+                "ref:De_Lijn": "407145",
+                "bus": "yes",
+                "name": "Maaseik Pieter Geunsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.777533,
+                    51.10651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;14;61;302",
+                "ref:De_Lijn": "406013",
+                "bus": "yes",
+                "name": "Maaseik Kazerne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.773555,
+                    51.099122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;14;15;16;40;61;302",
+                "ref:De_Lijn": "406101",
+                "bus": "yes",
+                "name": "Maaseik Campus H en R",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSDREEF MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.776988,
+                    51.109762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406102",
+                "bus": "yes",
+                "name": "Maaseik Sint-Jansberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.777497,
+                    51.106276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406103",
+                "bus": "yes",
+                "name": "Maaseik Sint-Jansberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.777602,
+                    51.106437
+                ]
+            }
+        }
+    ]
+}

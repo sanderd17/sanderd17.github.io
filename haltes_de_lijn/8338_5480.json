@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "507564",
+                "bus": "yes",
+                "name": "Zwevezele Cafe Breughel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG HILLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.225122,
+                    51.06217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "507565",
+                "bus": "yes",
+                "name": "Zwevezele De Eikel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLE HILLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.226826,
+                    51.057206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;26",
+                "ref:De_Lijn": "502565",
+                "bus": "yes",
+                "name": "Zwevezele De Eikel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLE HILLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.226546,
+                    51.057599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "502564",
+                "bus": "yes",
+                "name": "Zwevezele Cafe Breughel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG HILLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.224968,
+                    51.062033
+                ]
+            }
+        }
+    ]
+}

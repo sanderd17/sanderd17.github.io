@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "506479",
+                "bus": "yes",
+                "name": "Snaaskerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALSIJDEBRUG SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914307,
+                    51.174056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;83",
+                "ref:De_Lijn": "501479",
+                "bus": "yes",
+                "name": "Snaaskerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALSTRAAT SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914838,
+                    51.174476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;52",
+                "ref:De_Lijn": "506194",
+                "bus": "yes",
+                "name": "Leffinge Molenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90565,
+                    51.179218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "506385",
+                "bus": "yes",
+                "name": "Snaaskerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE BAAN SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917735,
+                    51.171887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;52;66;83",
+                "ref:De_Lijn": "501194",
+                "bus": "yes",
+                "name": "Leffinge Molenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90589,
+                    51.178879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "501385",
+                "bus": "yes",
+                "name": "Snaaskerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE BAAN SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917221,
+                    51.171889
+                ]
+            }
+        }
+    ]
+}

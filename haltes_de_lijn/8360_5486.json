@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "209716",
+                "bus": "yes",
+                "name": "Zevergem Pont Noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PONT NOORD ZEVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.700519,
+                    50.984927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;145",
+                "ref:De_Lijn": "208717",
+                "bus": "yes",
+                "name": "Zevergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP ZEVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.695096,
+                    50.978792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;145",
+                "ref:De_Lijn": "208240",
+                "bus": "yes",
+                "name": "Zevergem Wijngaardeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PONT NOORD ZEVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.697893,
+                    50.982305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "209240",
+                "bus": "yes",
+                "name": "Zevergem Wijngaardeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PONT NOORD ZEVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.69837,
+                    50.982838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;145",
+                "ref:De_Lijn": "208716",
+                "bus": "yes",
+                "name": "Zevergem Pont Noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PONT NOORD ZEVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699981,
+                    50.98469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "209717",
+                "bus": "yes",
+                "name": "Zevergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP ZEVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.695112,
+                    50.978639
+                ]
+            }
+        }
+    ]
+}

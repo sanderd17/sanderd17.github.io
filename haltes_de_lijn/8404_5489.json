@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303608",
+                "bus": "yes",
+                "name": "Tildonk Wakkerzeel Hambos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMBOSSTRAAT TILDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.673819,
+                    50.943931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303607",
+                "bus": "yes",
+                "name": "Tildonk Wakkerzeel Hambos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMBOSSTRAAT TILDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.673691,
+                    50.943967
+                ]
+            }
+        }
+    ]
+}

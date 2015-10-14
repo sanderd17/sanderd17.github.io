@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105787",
+                "bus": "yes",
+                "name": "Wuustwezel Martendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.559713,
+                    51.364094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105786",
+                "bus": "yes",
+                "name": "Wuustwezel Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.555492,
+                    51.360461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105788",
+                "bus": "yes",
+                "name": "Wuustwezel Martendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.559684,
+                    51.363869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105784",
+                "bus": "yes",
+                "name": "Wuustwezel Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.555377,
+                    51.360578
+                ]
+            }
+        }
+    ]
+}

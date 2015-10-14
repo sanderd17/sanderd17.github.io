@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200689",
+                "bus": "yes",
+                "name": "Landegem Musschaverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILDEKOUTER LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.595605,
+                    51.056272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "210081",
+                "bus": "yes",
+                "name": "Landegem Poeldendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RENAAT DE RUDDERSTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.582283,
+                    51.057128
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "504215",
+                "bus": "yes",
+                "name": "Kemmel Noordstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RENINGELSTSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.81142,
+                    50.792817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;71;79",
+                "ref:De_Lijn": "509111",
+                "bus": "yes",
+                "name": "Klijte De Klijte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSTRAAT KLIJTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.799551,
+                    50.799915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;79",
+                "ref:De_Lijn": "504112",
+                "bus": "yes",
+                "name": "Dikkebus Millekruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSTRAAT KLIJTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.810193,
+                    50.805892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "509215",
+                "bus": "yes",
+                "name": "Kemmel Noordstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RENINGELSTSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.811531,
+                    50.792899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;71;79",
+                "ref:De_Lijn": "504111",
+                "bus": "yes",
+                "name": "Klijte De Klijte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSTRAAT KLIJTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.799098,
+                    50.799882
+                ]
+            }
+        }
+    ]
+}

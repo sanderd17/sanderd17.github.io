@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;88",
+                "ref:De_Lijn": "502918",
+                "bus": "yes",
+                "name": "Dentergem Ankelaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANKELAARSTRAAT DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.391414,
+                    50.973713
+                ]
+            }
+        }
+    ]
+}

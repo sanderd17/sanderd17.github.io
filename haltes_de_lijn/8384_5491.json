@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216;242",
+                "ref:De_Lijn": "302147",
+                "bus": "yes",
+                "name": "Mollem Beschutte Werkplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSESTEENWEG MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.219125,
+                    50.916682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216;242",
+                "ref:De_Lijn": "302146",
+                "bus": "yes",
+                "name": "Mollem Beschutte Werkplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSESTEENWEG MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.219011,
+                    50.916781
+                ]
+            }
+        }
+    ]
+}

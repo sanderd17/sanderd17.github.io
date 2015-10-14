@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "406204",
+                "bus": "yes",
+                "name": "Maasmechelen Home Fabiola",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSEPH SMEETSLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.665652,
+                    50.976642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "406205",
+                "bus": "yes",
+                "name": "Maasmechelen Home Fabiola",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSEPH SMEETSLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.665959,
+                    50.976405
+                ]
+            }
+        }
+    ]
+}

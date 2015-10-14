@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "502560",
+                "bus": "yes",
+                "name": "Zerkegem Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEKEGEMSTRAAT ZERKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.060104,
+                    51.15895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "507560",
+                "bus": "yes",
+                "name": "Zerkegem Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEKEGEMSTRAAT ZERKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.059382,
+                    51.158708
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;45;48",
+                "ref:De_Lijn": "211022",
+                "bus": "yes",
+                "name": "Baaigem Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAAIGEMSTRAAT BAAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731831,
+                    50.932889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "203927",
+                "bus": "yes",
+                "name": "Baaigem Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG BAAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.732582,
+                    50.932066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;45;46;48",
+                "ref:De_Lijn": "202927",
+                "bus": "yes",
+                "name": "Baaigem Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG BAAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.732903,
+                    50.93249
+                ]
+            }
+        }
+    ]
+}

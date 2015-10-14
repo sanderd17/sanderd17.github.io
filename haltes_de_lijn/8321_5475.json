@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501070",
+                "bus": "yes",
+                "name": "Mannekensvere Leeuwenhofhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTEWEG SLIJPE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.849335,
+                    51.129653
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "203577",
+                "bus": "yes",
+                "name": "Wachtebeke Verbeuldenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDE WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.847132,
+                    51.162195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;73;76",
+                "ref:De_Lijn": "203578",
+                "bus": "yes",
+                "name": "Wachtebeke Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTERSHOEK WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.851297,
+                    51.16438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203642",
+                "bus": "yes",
+                "name": "Wachtebeke Domein Puyenbroek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N449 WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.862681,
+                    51.157319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;175",
+                "ref:De_Lijn": "202577",
+                "bus": "yes",
+                "name": "Wachtebeke Verbeuldenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDE WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.847031,
+                    51.162284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;76",
+                "ref:De_Lijn": "203641",
+                "bus": "yes",
+                "name": "Wachtebeke Craenendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUYENBRUG WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.864027,
+                    51.151823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;73;76;175",
+                "ref:De_Lijn": "202578",
+                "bus": "yes",
+                "name": "Wachtebeke Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTERSHOEK WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.851338,
+                    51.164524
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "203123",
+                "bus": "yes",
+                "name": "Wachtebeke Penen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEENE WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.891569,
+                    51.171389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;175",
+                "ref:De_Lijn": "202123",
+                "bus": "yes",
+                "name": "Wachtebeke Penen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEENE WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.892399,
+                    51.17133
+                ]
+            }
+        }
+    ]
+}

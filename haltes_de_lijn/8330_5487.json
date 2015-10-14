@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31",
+                "ref:De_Lijn": "509944",
+                "bus": "yes",
+                "name": "Staden Kristus Koning",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTEENWEG SLEIHAGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.048723,
+                    50.961683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31",
+                "ref:De_Lijn": "504944",
+                "bus": "yes",
+                "name": "Staden Kristus Koning",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTEENWEG SLEIHAGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.044856,
+                    50.96199
+                ]
+            }
+        }
+    ]
+}

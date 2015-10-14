@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "307849",
+                "bus": "yes",
+                "name": "Rillaar Vrankenbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONDERBEUKENWEG RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.914911,
+                    50.969144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306830",
+                "bus": "yes",
+                "name": "Rillaar Montenaken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONTENAKEN RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.918421,
+                    50.972256
+                ]
+            }
+        }
+    ]
+}

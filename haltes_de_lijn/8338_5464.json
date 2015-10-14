@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42",
+                "ref:De_Lijn": "501083",
+                "bus": "yes",
+                "name": "Dudzele Wissel 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTKAPELSE STEENWEG DUDZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.229792,
+                    51.277148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42",
+                "ref:De_Lijn": "506083",
+                "bus": "yes",
+                "name": "Dudzele Wissel 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTKAPELSE STEENWEG DUDZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.229732,
+                    51.277264
+                ]
+            }
+        }
+    ]
+}

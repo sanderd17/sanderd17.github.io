@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107075",
+                "bus": "yes",
+                "name": "Bevel Binnenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJLENSESTEENWEG BEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.68359,
+                    51.14001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107073",
+                "bus": "yes",
+                "name": "Bevel Kontersland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJLENSESTEENWEG BEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.683313,
+                    51.143418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107074",
+                "bus": "yes",
+                "name": "Bevel Binnenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJLENSESTEENWEG BEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.682702,
+                    51.139671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107072",
+                "bus": "yes",
+                "name": "Bevel Kontersland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJLENSESTEENWEG BEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.682215,
+                    51.14378
+                ]
+            }
+        }
+    ]
+}

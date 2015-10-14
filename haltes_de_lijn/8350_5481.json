@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15",
+                "ref:De_Lijn": "203793",
+                "bus": "yes",
+                "name": "Lotenhulle Rozenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEVELESTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.472696,
+                    51.045739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;185",
+                "ref:De_Lijn": "202793",
+                "bus": "yes",
+                "name": "Lotenhulle Rozenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEVELESTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.472885,
+                    51.04556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;185",
+                "ref:De_Lijn": "202792",
+                "bus": "yes",
+                "name": "Lotenhulle Kleitestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEVELESTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.483126,
+                    51.043948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15",
+                "ref:De_Lijn": "203792",
+                "bus": "yes",
+                "name": "Lotenhulle Kleitestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEVELESTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.483124,
+                    51.044065
+                ]
+            }
+        }
+    ]
+}

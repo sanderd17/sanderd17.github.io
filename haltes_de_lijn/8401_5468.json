@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "424;610;619",
+                "ref:De_Lijn": "105717",
+                "bus": "yes",
+                "name": "Oelegem Goorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHILDESTEENWEG OELEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.597012,
+                    51.226716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "424;610;619",
+                "ref:De_Lijn": "105714",
+                "bus": "yes",
+                "name": "Schilde Rozenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OELEGEMSTEENWEG SCHILDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.592431,
+                    51.229709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "424;610;619",
+                "ref:De_Lijn": "105713",
+                "bus": "yes",
+                "name": "Schilde Rozenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OELEGEMSTEENWEG SCHILDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.592589,
+                    51.229789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "424;610;619",
+                "ref:De_Lijn": "105716",
+                "bus": "yes",
+                "name": "Oelegem Goorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHILDESTEENWEG OELEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.597298,
+                    51.226751
+                ]
+            }
+        }
+    ]
+}

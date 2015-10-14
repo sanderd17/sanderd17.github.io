@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511;513;943",
+                "ref:De_Lijn": "108184",
+                "bus": "yes",
+                "name": "Herenthout Canadadreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITEGEMSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.750838,
+                    51.119703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511;513;943",
+                "ref:De_Lijn": "108182",
+                "bus": "yes",
+                "name": "Itegem 's Herenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S HERENWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.746337,
+                    51.114172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101832",
+                "bus": "yes",
+                "name": "Herenthout Zwaluwenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CANADADREEF HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.752702,
+                    51.115383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511;513;943",
+                "ref:De_Lijn": "108183",
+                "bus": "yes",
+                "name": "Herenthout Canadadreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITEGEMSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.751137,
+                    51.119675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511;513;943",
+                "ref:De_Lijn": "108181",
+                "bus": "yes",
+                "name": "Itegem 's Herenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S HERENWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.746768,
+                    51.114503
+                ]
+            }
+        }
+    ]
+}

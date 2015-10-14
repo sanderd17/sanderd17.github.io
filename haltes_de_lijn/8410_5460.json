@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433;435",
+                "ref:De_Lijn": "106302",
+                "bus": "yes",
+                "name": "Beerse Lange Kwikstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKEVORSELSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80506,
+                    51.334107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433",
+                "ref:De_Lijn": "106305",
+                "bus": "yes",
+                "name": "Rijkevorsel Zwartvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENDREEF SINT-JOZEF (RIJKEVORSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.792817,
+                    51.333738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433",
+                "ref:De_Lijn": "106303",
+                "bus": "yes",
+                "name": "Beerse Lange Kwikstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKEVORSELSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805187,
+                    51.333935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433;435",
+                "ref:De_Lijn": "106304",
+                "bus": "yes",
+                "name": "Rijkevorsel Zwartvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENDREEF SINT-JOZEF (RIJKEVORSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.792616,
+                    51.333747
+                ]
+            }
+        }
+    ]
+}

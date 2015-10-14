@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406506",
+                "bus": "yes",
+                "name": "Zittaart Genebroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N126 MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.053719,
+                    51.109199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405607",
+                "bus": "yes",
+                "name": "Nikelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGVOORT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.070433,
+                    51.099212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;302",
+                "ref:De_Lijn": "405025",
+                "bus": "yes",
+                "name": "Klein Kattestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEBAAN VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.055982,
+                    51.09705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;302",
+                "ref:De_Lijn": "405024",
+                "bus": "yes",
+                "name": "Klein Kattestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEBAAN VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.055814,
+                    51.097258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405606",
+                "bus": "yes",
+                "name": "Nikelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGVOORT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.070477,
+                    51.099266
+                ]
+            }
+        }
+    ]
+}

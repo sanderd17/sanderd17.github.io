@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "207798",
+                "bus": "yes",
+                "name": "Ooststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTTERIJ RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.626049,
+                    50.743811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;460",
+                "ref:De_Lijn": "207758",
+                "bus": "yes",
+                "name": "Germinal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERMINAL RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.626836,
+                    50.747826
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "509040",
+                "bus": "yes",
+                "name": "Bikschote Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG BIKSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.846788,
+                    50.921777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "504039",
+                "bus": "yes",
+                "name": "Bikschote Smiske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG ZUIDSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.852878,
+                    50.92832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "504040",
+                "bus": "yes",
+                "name": "Bikschote Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG ZUIDSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.847767,
+                    50.922734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "509039",
+                "bus": "yes",
+                "name": "Bikschote Smiske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIKSCHOTESTRAAT BIKSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.854185,
+                    50.928823
+                ]
+            }
+        }
+    ]
+}

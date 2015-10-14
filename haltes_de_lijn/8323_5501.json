@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79",
+                "ref:De_Lijn": "504291",
+                "bus": "yes",
+                "name": "Mesen Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSTRAAT MESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.896912,
+                    50.764942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "509600",
+                "bus": "yes",
+                "name": "Wijtschate De Brieke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT WIJTSCHATE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.895823,
+                    50.768031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504600",
+                "bus": "yes",
+                "name": "Wijtschate De Brieke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT WIJTSCHATE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.894929,
+                    50.769404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79",
+                "ref:De_Lijn": "509291",
+                "bus": "yes",
+                "name": "Mesen Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSTRAAT MESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.897093,
+                    50.765034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "504602",
+                "bus": "yes",
+                "name": "Wijtschate Klaprozenwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MESENSTRAAT MESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.89492,
+                    50.766059
+                ]
+            }
+        }
+    ]
+}

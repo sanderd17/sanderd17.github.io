@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;59;80",
+                "ref:De_Lijn": "507346",
+                "bus": "yes",
+                "name": "Pittem Rijsseleinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.240374,
+                    50.982791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505240",
+                "bus": "yes",
+                "name": "Pittem Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.244024,
+                    50.976101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;59",
+                "ref:De_Lijn": "505173",
+                "bus": "yes",
+                "name": "Pittem Kliniek Sint-Jozef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERSTRAAT PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.248249,
+                    50.983432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;59;80",
+                "ref:De_Lijn": "502346",
+                "bus": "yes",
+                "name": "Pittem Rijsseleinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PITTEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.238142,
+                    50.982023
+                ]
+            }
+        }
+    ]
+}

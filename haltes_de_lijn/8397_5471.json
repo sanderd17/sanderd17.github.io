@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "107407",
+                "bus": "yes",
+                "name": "Vremde Azalealaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IRISLAAN VREMDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.517586,
+                    51.180346
+                ]
+            }
+        }
+    ]
+}

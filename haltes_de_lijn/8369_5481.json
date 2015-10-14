@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201908",
+                "bus": "yes",
+                "name": "Kalken Schriekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.91026,
+                    51.04276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201906",
+                "bus": "yes",
+                "name": "Laarne Brugstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.892529,
+                    51.047642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201907",
+                "bus": "yes",
+                "name": "Kalken Zomerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOMERSTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.901647,
+                    51.04856
+                ]
+            }
+        }
+    ]
+}

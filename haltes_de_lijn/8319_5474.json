@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501095",
+                "bus": "yes",
+                "name": "Slijpe Rattevallebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RATTEVALLESTRAAT SLIJPE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.800079,
+                    51.151053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501771",
+                "bus": "yes",
+                "name": "Slijpe Rattevallestraat 24",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RATTEVALLESTRAAT MANNEKENSVERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.809751,
+                    51.138792
+                ]
+            }
+        }
+    ]
+}

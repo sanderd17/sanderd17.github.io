@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "550;565;735",
+                "ref:De_Lijn": "402945",
+                "bus": "yes",
+                "name": "Loksbergen Zelkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEBROEKSTRAAT LIEBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085832,
+                    50.952871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "550;565;735",
+                "ref:De_Lijn": "402944",
+                "bus": "yes",
+                "name": "Loksbergen Zelkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEBROEKSTRAAT LIEBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085759,
+                    50.952709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;299;35c;551;565",
+                "ref:De_Lijn": "402706",
+                "bus": "yes",
+                "name": "Halen Liebroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.095428,
+                    50.955868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "550;565",
+                "ref:De_Lijn": "306391",
+                "bus": "yes",
+                "name": "Halen Liebroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEBROEKSTRAAT HALEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.09365,
+                    50.955915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;299;35c;550;551",
+                "ref:De_Lijn": "402707",
+                "bus": "yes",
+                "name": "Halen Liebroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.094088,
+                    50.95664
+                ]
+            }
+        }
+    ]
+}

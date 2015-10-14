@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;385",
+                "ref:De_Lijn": "206563",
+                "bus": "yes",
+                "name": "Oordegem Bloso",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916993,
+                    50.953711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;385",
+                "ref:De_Lijn": "206542",
+                "bus": "yes",
+                "name": "Vlekkem Strijmeers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTENBOS VLIERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.919149,
+                    50.947004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96",
+                "ref:De_Lijn": "207561",
+                "bus": "yes",
+                "name": "Impe Papegem Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG LEDE (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.927043,
+                    50.951969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "207563",
+                "bus": "yes",
+                "name": "Oordegem Bloso",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916108,
+                    50.954031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "219995",
+                "bus": "yes",
+                "name": "Vlierzele stelplaats (fictief)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STRIJMEERS VLIERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.925662,
+                    50.952027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96;385",
+                "ref:De_Lijn": "206561",
+                "bus": "yes",
+                "name": "Impe Papegem Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG VLIERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.926289,
+                    50.951957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "207542",
+                "bus": "yes",
+                "name": "Vlekkem Strijmeers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTENBOS VLIERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.919463,
+                    50.94696
+                ]
+            }
+        }
+    ]
+}

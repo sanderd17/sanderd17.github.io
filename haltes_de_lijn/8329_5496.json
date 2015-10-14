@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84",
+                "ref:De_Lijn": "509019",
+                "bus": "yes",
+                "name": "Beselare Kapelletje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERVIKSTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.018098,
+                    50.844085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84",
+                "ref:De_Lijn": "509021",
+                "bus": "yes",
+                "name": "Beselare Kortekeer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERVIKSTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.012833,
+                    50.840995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84",
+                "ref:De_Lijn": "504019",
+                "bus": "yes",
+                "name": "Beselare Kapelletje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERVIKSTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.018485,
+                    50.844468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505204",
+                "bus": "yes",
+                "name": "Beselare Vuilewaasstraat 23",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VUILEWAASSTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.027023,
+                    50.841841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84",
+                "ref:De_Lijn": "504021",
+                "bus": "yes",
+                "name": "Beselare Kortekeer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N303 BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.012357,
+                    50.840756
+                ]
+            }
+        }
+    ]
+}

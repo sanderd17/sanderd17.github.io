@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "106373",
+                "bus": "yes",
+                "name": "Meerle Groot Eyssel Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT EYSSEL MEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.768791,
+                    51.474526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "106374",
+                "bus": "yes",
+                "name": "Meerle Heerleseloop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT EYSSEL MEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.784383,
+                    51.478265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "106372",
+                "bus": "yes",
+                "name": "Meerle Groot Eyssel Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT EYSSEL MEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.768848,
+                    51.4744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "106375",
+                "bus": "yes",
+                "name": "Meerle Heerleseloop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT EYSSEL MEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.784297,
+                    51.4784
+                ]
+            }
+        }
+    ]
+}

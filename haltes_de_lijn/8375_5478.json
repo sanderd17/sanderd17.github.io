@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204580",
+                "bus": "yes",
+                "name": "Zele Hoeksken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIL ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.033955,
+                    51.085064
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "201704",
+                "bus": "yes",
+                "name": "Wachtebeke Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.89181,
+                    51.186986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200734",
+                "bus": "yes",
+                "name": "Wachtebeke Weide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOKKESTRAAT WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.890808,
+                    51.184339
+                ]
+            }
+        }
+    ]
+}

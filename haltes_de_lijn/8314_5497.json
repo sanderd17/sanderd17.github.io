@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "509416",
+                "bus": "yes",
+                "name": "Poperinge Luttertap",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.684185,
+                    50.831997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "504416",
+                "bus": "yes",
+                "name": "Poperinge Luttertap",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.684012,
+                    50.832057
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "207311",
+                "bus": "yes",
+                "name": "Oudegem Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUBURG OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.06072,
+                    51.003903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;355",
+                "ref:De_Lijn": "206310",
+                "bus": "yes",
+                "name": "Oudegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEGEMSE BAAN OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.061653,
+                    51.009281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "207310",
+                "bus": "yes",
+                "name": "Oudegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEGEMSE BAAN OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.061768,
+                    51.009155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;355",
+                "ref:De_Lijn": "206311",
+                "bus": "yes",
+                "name": "Oudegem Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUBURG OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.06056,
+                    51.004316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204210",
+                "bus": "yes",
+                "name": "Oudegem Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.049948,
+                    51.008198
+                ]
+            }
+        }
+    ]
+}

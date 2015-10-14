@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308037",
+                "bus": "yes",
+                "name": "Tielt-Winge Dennenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEURTSTRAAT TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937556,
+                    50.948747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308038",
+                "bus": "yes",
+                "name": "Tielt-Winge Dennenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEURTSTRAAT TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937597,
+                    50.948666
+                ]
+            }
+        }
+    ]
+}

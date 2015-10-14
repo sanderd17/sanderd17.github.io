@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505586",
+                "bus": "yes",
+                "name": "Torhout De Moere",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEWEG TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.087003,
+                    51.095631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505744",
+                "bus": "yes",
+                "name": "Torhout Zeeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEWEG TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.094527,
+                    51.089347
+                ]
+            }
+        }
+    ]
+}

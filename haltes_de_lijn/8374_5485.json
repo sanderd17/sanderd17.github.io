@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54",
+                "ref:De_Lijn": "207281",
+                "bus": "yes",
+                "name": "Schoonaarde Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRANKRIJKSTRAAT SCHOONAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.019153,
+                    50.999194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204001",
+                "bus": "yes",
+                "name": "Schoonaarde Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT SCHOONAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.002135,
+                    50.989389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;355",
+                "ref:De_Lijn": "206281",
+                "bus": "yes",
+                "name": "Schoonaarde Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRANKRIJKSTRAAT SCHOONAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.018997,
+                    50.999139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "203975",
+                "bus": "yes",
+                "name": "Schoonaarde Tweebokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TWEEBOKSTRAAT SCHOONAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.008609,
+                    50.999549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204022",
+                "bus": "yes",
+                "name": "Schoonaarde Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT SCHOONAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.015708,
+                    50.993251
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;330",
+                "ref:De_Lijn": "207517",
+                "bus": "yes",
+                "name": "Aspelare Heghestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTEENWEG ASPELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.950539,
+                    50.836935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;330",
+                "ref:De_Lijn": "206517",
+                "bus": "yes",
+                "name": "Aspelare Heghestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTEENWEG ASPELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.950414,
+                    50.836548
+                ]
+            }
+        }
+    ]
+}

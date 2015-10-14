@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101474",
+                "bus": "yes",
+                "name": "Olen Neerheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIBLOEM SINT-JOZEF-OLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886514,
+                    51.189837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b;212;946",
+                "ref:De_Lijn": "109245",
+                "bus": "yes",
+                "name": "Olen Fabrieken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT SINT-JOZEF-OLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896282,
+                    51.180841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b;212;219;946",
+                "ref:De_Lijn": "109246",
+                "bus": "yes",
+                "name": "Olen Fabrieken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT SINT-JOZEF-OLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896597,
+                    51.18084
+                ]
+            }
+        }
+    ]
+}

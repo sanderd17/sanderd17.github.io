@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;69",
+                "ref:De_Lijn": "504023",
+                "bus": "yes",
+                "name": "Beveren Douane",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSTRAAT BEVEREN-AAN-DE-IJZER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.601286,
+                    50.925102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;69",
+                "ref:De_Lijn": "505121",
+                "bus": "yes",
+                "name": "Beveren Bergenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSTRAAT BEVEREN-AAN-DE-IJZER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.606434,
+                    50.92518
+                ]
+            }
+        }
+    ]
+}

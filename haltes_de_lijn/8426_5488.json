@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "90;299;35c",
+                "ref:De_Lijn": "403920",
+                "bus": "yes",
+                "name": "Donk Grote Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTEENWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.142684,
+                    50.944751
+                ]
+            }
+        }
+    ]
+}

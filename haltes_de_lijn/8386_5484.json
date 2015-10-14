@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "207326",
+                "bus": "yes",
+                "name": "Steenhuffel Eshagestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLAS STEENHUFFEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.266875,
+                    51.003641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "206326",
+                "bus": "yes",
+                "name": "Steenhuffel Eshagestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLAS STEENHUFFEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.265948,
+                    51.004008
+                ]
+            }
+        }
+    ]
+}

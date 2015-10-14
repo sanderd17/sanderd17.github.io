@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200763",
+                "bus": "yes",
+                "name": "Elsegem Domein De Ghellinck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSTRAAT ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.536119,
+                    50.816738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200774",
+                "bus": "yes",
+                "name": "Elsegem Galgestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEUWHOEK ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.523269,
+                    50.809993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200775",
+                "bus": "yes",
+                "name": "Elsegem Parking De Ghellinck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.536177,
+                    50.813466
+                ]
+            }
+        }
+    ]
+}

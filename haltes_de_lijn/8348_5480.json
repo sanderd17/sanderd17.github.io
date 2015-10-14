@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200855",
+                "bus": "yes",
+                "name": "Aalter Kattewegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTEENWEG AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.430641,
+                    51.064245
+                ]
+            }
+        }
+    ]
+}

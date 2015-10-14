@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105553",
+                "bus": "yes",
+                "name": "Rijkevorsel Heerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LENAARTSESTEENWEG RIJKEVORSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.738951,
+                    51.347796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;608;620",
+                "ref:De_Lijn": "105552",
+                "bus": "yes",
+                "name": "Rijkevorsel Heerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LENAARTSESTEENWEG RIJKEVORSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.739669,
+                    51.347866
+                ]
+            }
+        }
+    ]
+}

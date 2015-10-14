@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;290",
+                "ref:De_Lijn": "204135",
+                "bus": "yes",
+                "name": "Moerzeke Bloemenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLOEMENSTRAAT MOERZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.153778,
+                    51.067024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "205135",
+                "bus": "yes",
+                "name": "Moerzeke Bloemenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLOEMENSTRAAT MOERZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.153435,
+                    51.067077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204147",
+                "bus": "yes",
+                "name": "Moerzeke Kleinbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOTDIJKSTRAAT MOERZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.159386,
+                    51.066584
+                ]
+            }
+        }
+    ]
+}

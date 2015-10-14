@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400812",
+                "bus": "yes",
+                "name": "Mopertingen Weg op Hees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N2 HEES",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.596588,
+                    50.861064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400813",
+                "bus": "yes",
+                "name": "Mopertingen Weg op Hees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N2 HEES",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.596407,
+                    50.86121
+                ]
+            }
+        }
+    ]
+}

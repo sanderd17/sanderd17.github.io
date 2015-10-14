@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;485",
+                "ref:De_Lijn": "208855",
+                "bus": "yes",
+                "name": "Oudenaarde Pruimelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRUIMELSTRAAT EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.596273,
+                    50.862702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "209855",
+                "bus": "yes",
+                "name": "Oudenaarde Pruimelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRUIMELSTRAAT EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.596573,
+                    50.862605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "209247",
+                "bus": "yes",
+                "name": "Oudenaarde Industriepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK DE BRUWAAN EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602803,
+                    50.868183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201779",
+                "bus": "yes",
+                "name": "Oudenaarde Trompestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAROLLESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.582331,
+                    50.8691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;485",
+                "ref:De_Lijn": "208247",
+                "bus": "yes",
+                "name": "Oudenaarde Industriepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK DE BRUWAAN EINE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602523,
+                    50.867975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201780",
+                "bus": "yes",
+                "name": "Oudenaarde Serpentstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORN OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602912,
+                    50.871097
+                ]
+            }
+        }
+    ]
+}

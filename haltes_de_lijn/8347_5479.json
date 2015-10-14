@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200833",
+                "bus": "yes",
+                "name": "Aalter Sterrewijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STERREWIJK AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.424759,
+                    51.074338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200832",
+                "bus": "yes",
+                "name": "Aalter Bollebek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAGELAND AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.409681,
+                    51.078271
+                ]
+            }
+        }
+    ]
+}

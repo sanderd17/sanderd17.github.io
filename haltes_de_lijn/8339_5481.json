@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;28",
+                "ref:De_Lijn": "507540",
+                "bus": "yes",
+                "name": "Wingene De Sparre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLESTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.243137,
+                    51.051034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;28",
+                "ref:De_Lijn": "502540",
+                "bus": "yes",
+                "name": "Wingene De Sparre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLESTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.243804,
+                    51.051184
+                ]
+            }
+        }
+    ]
+}

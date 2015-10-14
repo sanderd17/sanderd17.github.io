@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "204982",
+                "bus": "yes",
+                "name": "Zegelsem Weistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROVORST ZEGELSEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.714589,
+                    50.796041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "206676",
+                "bus": "yes",
+                "name": "Zegelsem Rovorst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROVORST ZEGELSEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720154,
+                    50.793627
+                ]
+            }
+        }
+    ]
+}

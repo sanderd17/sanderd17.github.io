@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;195",
+                "ref:De_Lijn": "202236",
+                "bus": "yes",
+                "name": "Sint-Margriete Ter Kreken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.545974,
+                    51.255622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203235",
+                "bus": "yes",
+                "name": "Sint-Margriete Langeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.544311,
+                    51.250846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203236",
+                "bus": "yes",
+                "name": "Sint-Margriete Ter Kreken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.546077,
+                    51.255452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;195",
+                "ref:De_Lijn": "202235",
+                "bus": "yes",
+                "name": "Sint-Margriete Langeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.544139,
+                    51.250863
+                ]
+            }
+        }
+    ]
+}

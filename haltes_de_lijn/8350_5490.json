@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200661",
+                "bus": "yes",
+                "name": "Olsene Boswegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDESTRAAT OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.477987,
+                    50.927204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201835",
+                "bus": "yes",
+                "name": "Kruishoutem Meylegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARREWEG OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.492449,
+                    50.922907
+                ]
+            }
+        }
+    ]
+}

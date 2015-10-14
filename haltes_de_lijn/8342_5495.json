@@ -1,0 +1,593 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;75;78",
+                "ref:De_Lijn": "503190",
+                "bus": "yes",
+                "name": "Harelbeke Deerlijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.316699,
+                    50.859576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "504811",
+                "bus": "yes",
+                "name": "Kuurne Leiehoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENOVENSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.296514,
+                    50.855834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;78",
+                "ref:De_Lijn": "508183",
+                "bus": "yes",
+                "name": "Harelbeke Eierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERLEIESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.306297,
+                    50.859752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;75",
+                "ref:De_Lijn": "503203",
+                "bus": "yes",
+                "name": "Harelbeke Royal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.305738,
+                    50.85242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;74;78",
+                "ref:De_Lijn": "503211",
+                "bus": "yes",
+                "name": "Harelbeke Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315016,
+                    50.854796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;74;78",
+                "ref:De_Lijn": "503210",
+                "bus": "yes",
+                "name": "Harelbeke Tientjesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLEIN HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.313034,
+                    50.850068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "503215",
+                "bus": "yes",
+                "name": "Harelbeke Wijdhaegestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315225,
+                    50.851148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "508200",
+                "bus": "yes",
+                "name": "Harelbeke Nieuwe Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE JULISTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.301907,
+                    50.849131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "508189",
+                "bus": "yes",
+                "name": "Harelbeke De Mol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STASEGEMSESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.308904,
+                    50.848079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;75",
+                "ref:De_Lijn": "503191",
+                "bus": "yes",
+                "name": "Harelbeke Garage Rapid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298773,
+                    50.847664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;78",
+                "ref:De_Lijn": "508983",
+                "bus": "yes",
+                "name": "Harelbeke Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.314155,
+                    50.856434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;75",
+                "ref:De_Lijn": "503199",
+                "bus": "yes",
+                "name": "Harelbeke Marktstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.309094,
+                    50.855399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;75",
+                "ref:De_Lijn": "508204",
+                "bus": "yes",
+                "name": "Harelbeke Royal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.305364,
+                    50.852651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "508218",
+                "bus": "yes",
+                "name": "Harelbeke Zuidstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.314869,
+                    50.85627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "503189",
+                "bus": "yes",
+                "name": "Harelbeke De Mol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STASEGEMSESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.309054,
+                    50.847694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;74;78",
+                "ref:De_Lijn": "508211",
+                "bus": "yes",
+                "name": "Harelbeke Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315406,
+                    50.854521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "503970",
+                "bus": "yes",
+                "name": "Kuurne Grasveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEIDENSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.296369,
+                    50.854088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;75",
+                "ref:De_Lijn": "508199",
+                "bus": "yes",
+                "name": "Harelbeke Marktstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.308461,
+                    50.855097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "503200",
+                "bus": "yes",
+                "name": "Harelbeke Nieuwe Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.302607,
+                    50.84956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "503218",
+                "bus": "yes",
+                "name": "Harelbeke Zuidstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315516,
+                    50.856572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;75;78",
+                "ref:De_Lijn": "503196",
+                "bus": "yes",
+                "name": "Harelbeke Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31298,
+                    50.857538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;74;75;78",
+                "ref:De_Lijn": "508196",
+                "bus": "yes",
+                "name": "Harelbeke Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.312327,
+                    50.857505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;74;78",
+                "ref:De_Lijn": "503983",
+                "bus": "yes",
+                "name": "Harelbeke Station Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.314256,
+                    50.856372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "508215",
+                "bus": "yes",
+                "name": "Harelbeke Wijdhaegestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315054,
+                    50.851183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "507738",
+                "bus": "yes",
+                "name": "Harelbeke Teesweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.316853,
+                    50.848223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;78",
+                "ref:De_Lijn": "503183",
+                "bus": "yes",
+                "name": "Harelbeke Eierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERLEIESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.305868,
+                    50.859883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;74;75;78",
+                "ref:De_Lijn": "508190",
+                "bus": "yes",
+                "name": "Harelbeke Deerlijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.316442,
+                    50.85961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "504810",
+                "bus": "yes",
+                "name": "Kuurne Leiehoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENOVENSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.296597,
+                    50.855906
+                ]
+            }
+        }
+    ]
+}

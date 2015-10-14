@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;55",
+                "ref:De_Lijn": "503084",
+                "bus": "yes",
+                "name": "Dadizele Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLAATS DADIZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.094988,
+                    50.85168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;55",
+                "ref:De_Lijn": "508084",
+                "bus": "yes",
+                "name": "Dadizele Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLAATS DADIZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.09475,
+                    50.851551
+                ]
+            }
+        }
+    ]
+}

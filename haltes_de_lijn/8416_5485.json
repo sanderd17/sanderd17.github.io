@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "304372",
+                "bus": "yes",
+                "name": "Messelbroek Engelenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSEBAAN MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.93685,
+                    50.989149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306867",
+                "bus": "yes",
+                "name": "Messelbroek Dikkenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASSTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921897,
+                    50.988061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "305993",
+                "bus": "yes",
+                "name": "Messelbroek Maasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASSTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.930253,
+                    50.98892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "305992",
+                "bus": "yes",
+                "name": "Messelbroek De Broodhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKEVELDSTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.929281,
+                    50.993366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "304373",
+                "bus": "yes",
+                "name": "Messelbroek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANNESTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937783,
+                    50.995608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "304371",
+                "bus": "yes",
+                "name": "Messelbroek Engelenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANNESTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937133,
+                    50.990137
+                ]
+            }
+        }
+    ]
+}

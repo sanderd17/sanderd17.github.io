@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "501001",
+                "bus": "yes",
+                "name": "Adinkerke De Moerensteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERESTEENWEG ADINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.590431,
+                    51.0693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "501011",
+                "bus": "yes",
+                "name": "Adinkerke Tuinwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TUINWIJKSTRAAT ADINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.588451,
+                    51.071078
+                ]
+            }
+        }
+    ]
+}

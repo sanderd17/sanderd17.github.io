@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;93;99",
+                "ref:De_Lijn": "503596",
+                "bus": "yes",
+                "name": "Moen Montalleud",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERZETSLAAN MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.386808,
+                    50.763187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;99",
+                "ref:De_Lijn": "508078",
+                "bus": "yes",
+                "name": "Moen Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSUITSTRAAT MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.404363,
+                    50.761516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;93;99",
+                "ref:De_Lijn": "508596",
+                "bus": "yes",
+                "name": "Moen Montalleud",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERZETSLAAN MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387036,
+                    50.763117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505806",
+                "bus": "yes",
+                "name": "Moen Boeverie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEVERIESTRAAT MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.392606,
+                    50.752896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "503078",
+                "bus": "yes",
+                "name": "Moen Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSUITSTRAAT MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.404431,
+                    50.761643
+                ]
+            }
+        }
+    ]
+}

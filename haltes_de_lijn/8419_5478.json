@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405019",
+                "bus": "yes",
+                "name": "Eindhout Poeleinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP VEERLE EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.993554,
+                    51.093928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408923",
+                "bus": "yes",
+                "name": "Eindhout Oude Veerlebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE VEERLEBAAN EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990515,
+                    51.091895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405002",
+                "bus": "yes",
+                "name": "Eindhout Bergske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP VEERLE EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.988667,
+                    51.086017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408879",
+                "bus": "yes",
+                "name": "Eindhout Oude Veerlebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE VEERLEBAAN EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990526,
+                    51.091607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405018",
+                "bus": "yes",
+                "name": "Eindhout Poeleinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP VEERLE EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.993181,
+                    51.093795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "405003",
+                "bus": "yes",
+                "name": "Eindhout Bergske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP VEERLE EINDHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.988511,
+                    51.086062
+                ]
+            }
+        }
+    ]
+}

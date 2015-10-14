@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;340",
+                "ref:De_Lijn": "206198",
+                "bus": "yes",
+                "name": "Meldert Kammenkouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMMENKOUTERSTRAAT MELDERT (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.122067,
+                    50.949833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;44",
+                "ref:De_Lijn": "207199",
+                "bus": "yes",
+                "name": "Meldert Koeisteert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPWIJKSE STEENWEG MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.112413,
+                    50.948267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "207198",
+                "bus": "yes",
+                "name": "Meldert Kammenkouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMMENKOUTERSTRAAT MELDERT (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.122167,
+                    50.949717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;44;340",
+                "ref:De_Lijn": "206199",
+                "bus": "yes",
+                "name": "Meldert Koeisteert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPWIJKSE STEENWEG MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.11294,
+                    50.948097
+                ]
+            }
+        }
+    ]
+}

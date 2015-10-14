@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;50",
+                "ref:De_Lijn": "501511",
+                "bus": "yes",
+                "name": "Oostende Conterdam Rietmusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSESTEENWEG STENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.932841,
+                    51.206189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "506500",
+                "bus": "yes",
+                "name": "Stene Grintweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSESTEENWEG ZANDVOORDE (OOSTENDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.94066,
+                    51.200881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;50",
+                "ref:De_Lijn": "506511",
+                "bus": "yes",
+                "name": "Oostende Conterdam Rietmusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSESTEENWEG STENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.933176,
+                    51.205977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "501500",
+                "bus": "yes",
+                "name": "Stene Grintweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSESTEENWEG ZANDVOORDE (OOSTENDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.940303,
+                    51.200849
+                ]
+            }
+        }
+    ]
+}

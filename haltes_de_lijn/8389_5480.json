@@ -1,0 +1,383 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308889",
+                "bus": "yes",
+                "name": "Willebroek Zwembad",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHELDELAAN WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344307,
+                    51.059521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330059",
+                "bus": "yes",
+                "name": "Willebroek Fort van Breendonk (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34077,
+                    51.058451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;260;287",
+                "ref:De_Lijn": "104454",
+                "bus": "yes",
+                "name": "Willebroek Denderlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDELAAN WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3483,
+                    51.060601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;260;287",
+                "ref:De_Lijn": "104471",
+                "bus": "yes",
+                "name": "Willebroek Acacialei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL VANDERVELDESTRAAT WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.350325,
+                    51.062974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260",
+                "ref:De_Lijn": "308631",
+                "bus": "yes",
+                "name": "Breendonk Lichterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJWEG BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328703,
+                    51.058115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "308606",
+                "bus": "yes",
+                "name": "Breendonk Eigenaarsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJWEG BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331456,
+                    51.058197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;260;287",
+                "ref:De_Lijn": "104456",
+                "bus": "yes",
+                "name": "Willebroek Denderlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDELAAN WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.348343,
+                    51.060511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;287;460",
+                "ref:De_Lijn": "104478",
+                "bus": "yes",
+                "name": "Willebroek Fort van Breendonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344792,
+                    51.059135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "308608",
+                "bus": "yes",
+                "name": "Breendonk Rijweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAAFSTRAAT BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335108,
+                    51.05782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "308607",
+                "bus": "yes",
+                "name": "Breendonk Rijweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAAFSTRAAT BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.335322,
+                    51.057865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;260;287",
+                "ref:De_Lijn": "104476",
+                "bus": "yes",
+                "name": "Willebroek Schalkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDELAAN WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344321,
+                    51.05953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;287;460",
+                "ref:De_Lijn": "104479",
+                "bus": "yes",
+                "name": "Willebroek Fort van Breendonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N183 WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.34465,
+                    51.058946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330040",
+                "bus": "yes",
+                "name": "Willebroek fort van Breendonk (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.339872,
+                    51.058442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107937",
+                "bus": "yes",
+                "name": "Breendonk Lichterstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJWEG BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328703,
+                    51.058115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308888",
+                "bus": "yes",
+                "name": "Willebroek Zwembad",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHELDELAAN WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344336,
+                    51.05953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;260;287",
+                "ref:De_Lijn": "104472",
+                "bus": "yes",
+                "name": "Willebroek Acacialei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL VANDERVELDESTRAAT WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.350568,
+                    51.062821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "308605",
+                "bus": "yes",
+                "name": "Breendonk Eigenaarsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJWEG BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331627,
+                    51.058323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;260;287",
+                "ref:De_Lijn": "104477",
+                "bus": "yes",
+                "name": "Willebroek Schalkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDELAAN WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344407,
+                    51.059459
+                ]
+            }
+        }
+    ]
+}

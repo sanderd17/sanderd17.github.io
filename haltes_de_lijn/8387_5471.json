@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205350",
+                "bus": "yes",
+                "name": "Beveren Es",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.294192,
+                    51.189936
+                ]
+            }
+        }
+    ]
+}

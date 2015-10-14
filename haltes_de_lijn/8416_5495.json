@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685;712",
+                "ref:De_Lijn": "301592",
+                "bus": "yes",
+                "name": "Attenrode Wever Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT WEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.922244,
+                    50.857216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685",
+                "ref:De_Lijn": "301591",
+                "bus": "yes",
+                "name": "Attenrode Weg naar Glabbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT WEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.923664,
+                    50.859655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685",
+                "ref:De_Lijn": "301593",
+                "bus": "yes",
+                "name": "Attenrode Wever Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT WEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.922401,
+                    50.857305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685;712",
+                "ref:De_Lijn": "301590",
+                "bus": "yes",
+                "name": "Attenrode Weg naar Glabbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT WEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.923495,
+                    50.859709
+                ]
+            }
+        }
+    ]
+}

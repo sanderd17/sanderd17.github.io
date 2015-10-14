@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "410046",
+                "bus": "yes",
+                "name": "Kinrooi Batvendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BASDONKSTRAAT KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.727072,
+                    51.134747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720",
+                "ref:De_Lijn": "410045",
+                "bus": "yes",
+                "name": "Kinrooi Batvendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BASDONKSTRAAT KINROOI",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.727089,
+                    51.134836
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11;45;61;178",
+                "ref:De_Lijn": "401781",
+                "bus": "yes",
+                "name": "Elen Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N78 ELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.752552,
+                    51.069738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "721",
+                "ref:De_Lijn": "401481",
+                "bus": "yes",
+                "name": "Elen Kriekelsheuvel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN ELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.753567,
+                    51.075093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;45;61",
+                "ref:De_Lijn": "401774",
+                "bus": "yes",
+                "name": "Elen Breemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG ELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.75636,
+                    51.074467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;45;61;178",
+                "ref:De_Lijn": "401780",
+                "bus": "yes",
+                "name": "Elen Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG ELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.752533,
+                    51.069082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "721",
+                "ref:De_Lijn": "401480",
+                "bus": "yes",
+                "name": "Elen Kriekelsheuvel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN ELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.753706,
+                    51.074975
+                ]
+            }
+        }
+    ]
+}

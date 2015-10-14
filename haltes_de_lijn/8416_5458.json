@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106699",
+                "bus": "yes",
+                "name": "Turnhout Bremstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN ENGELAND TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.9334,
+                    51.365463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106700",
+                "bus": "yes",
+                "name": "Turnhout Bremstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN ENGELAND TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.933688,
+                    51.365507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106697",
+                "bus": "yes",
+                "name": "Turnhout Ter Varenbeuke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN ENGELAND TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.934493,
+                    51.359723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106698",
+                "bus": "yes",
+                "name": "Turnhout Ter Varenbeuke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN ENGELAND TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.934808,
+                    51.359623
+                ]
+            }
+        }
+    ]
+}

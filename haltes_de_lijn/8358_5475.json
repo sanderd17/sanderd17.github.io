@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203030",
+                "bus": "yes",
+                "name": "Sleidinge Langendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGENDAM SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.658353,
+                    51.133282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;150",
+                "ref:De_Lijn": "202030",
+                "bus": "yes",
+                "name": "Sleidinge Langendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGENDAM SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.658283,
+                    51.133156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;150",
+                "ref:De_Lijn": "202027",
+                "bus": "yes",
+                "name": "Sleidinge Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.666053,
+                    51.125697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203027",
+                "bus": "yes",
+                "name": "Sleidinge Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.666079,
+                    51.125868
+                ]
+            }
+        }
+    ]
+}

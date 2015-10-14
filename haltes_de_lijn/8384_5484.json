@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207710",
+                "bus": "yes",
+                "name": "Buggenhout Eikendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.221328,
+                    51.007961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207732",
+                "bus": "yes",
+                "name": "Malderen Kapel Zwaluwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWALUWSTRAAT MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237718,
+                    51.011406
+                ]
+            }
+        }
+    ]
+}

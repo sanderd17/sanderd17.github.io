@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561;569",
+                "ref:De_Lijn": "108831",
+                "bus": "yes",
+                "name": "Koningshooikt Zoetewei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN KONINGSHOOIKT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.593775,
+                    51.081465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104036",
+                "bus": "yes",
+                "name": "Onze-Lieve-Vrouw-Waver Uilelei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOETEWEI ONZE-LIEVE-VROUW-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.604314,
+                    51.071521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561;569",
+                "ref:De_Lijn": "108832",
+                "bus": "yes",
+                "name": "Koningshooikt Zoetewei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN KONINGSHOOIKT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.593903,
+                    51.081366
+                ]
+            }
+        }
+    ]
+}

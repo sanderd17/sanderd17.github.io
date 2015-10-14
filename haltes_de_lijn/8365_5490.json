@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208692",
+                "bus": "yes",
+                "name": "Balegem Issegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.804547,
+                    50.92757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208712",
+                "bus": "yes",
+                "name": "Balegem Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSE STEENWEG BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.813475,
+                    50.927918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208710",
+                "bus": "yes",
+                "name": "Balegem Leeg Bracht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSE STEENWEG BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.817724,
+                    50.921043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208688",
+                "bus": "yes",
+                "name": "Balegem Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEK BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.806854,
+                    50.921378
+                ]
+            }
+        }
+    ]
+}

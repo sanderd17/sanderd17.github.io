@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;195",
+                "ref:De_Lijn": "202700",
+                "bus": "yes",
+                "name": "Boekhoute Molenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.713151,
+                    51.255011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200921",
+                "bus": "yes",
+                "name": "Boekhoute Het Spoor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHARE BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692894,
+                    51.255221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "203700",
+                "bus": "yes",
+                "name": "Boekhoute Molenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.713064,
+                    51.255128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;195",
+                "ref:De_Lijn": "211066",
+                "bus": "yes",
+                "name": "Boekhoute Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAFJANSTRAAT BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.712765,
+                    51.258011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200941",
+                "bus": "yes",
+                "name": "Boekhoute Meuleken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEKEN BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.706805,
+                    51.257061
+                ]
+            }
+        }
+    ]
+}

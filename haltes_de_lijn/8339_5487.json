@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505413",
+                "bus": "yes",
+                "name": "Pittem Muizelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.242638,
+                    50.970379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;52;59",
+                "ref:De_Lijn": "503585",
+                "bus": "yes",
+                "name": "Meulebeke 't Veld Sint-Antonius",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANTONIUSSTRAAT SINT-ANTONIUS (MEULEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.243004,
+                    50.961653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "507916",
+                "bus": "yes",
+                "name": "Ardooie Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.237441,
+                    50.963865
+                ]
+            }
+        }
+    ]
+}

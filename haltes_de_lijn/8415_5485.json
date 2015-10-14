@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306868",
+                "bus": "yes",
+                "name": "Messelbroek Dikkenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASSTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921069,
+                    50.987921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307426",
+                "bus": "yes",
+                "name": "Messelbroek Oudestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDESTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921809,
+                    50.990309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307425",
+                "bus": "yes",
+                "name": "Messelbroek Oudestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDESTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921809,
+                    50.9903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "306770",
+                "bus": "yes",
+                "name": "Messelbroek Krijkelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASSTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.91329,
+                    50.986501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307733",
+                "bus": "yes",
+                "name": "Messelbroek Brielstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMERSTRAAT MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.92078,
+                    50.99479
+                ]
+            }
+        }
+    ]
+}

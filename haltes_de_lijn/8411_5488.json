@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300532",
+                "bus": "yes",
+                "name": "Nieuwrode Het Rot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROT HET ROT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.817375,
+                    50.955848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302286",
+                "bus": "yes",
+                "name": "Nieuwrode Kerkebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828908,
+                    50.944648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302281",
+                "bus": "yes",
+                "name": "Nieuwrode School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.830937,
+                    50.948424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302280",
+                "bus": "yes",
+                "name": "Nieuwrode School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.83125,
+                    50.948432
+                ]
+            }
+        }
+    ]
+}

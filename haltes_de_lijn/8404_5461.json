@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440;446;629",
+                "ref:De_Lijn": "106244",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Groot Veerle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT VEERLE KLEIN-VEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.676231,
+                    51.328373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440;446;629",
+                "ref:De_Lijn": "107233",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Paaltjesdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT VEERLE KLEIN-VEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.679902,
+                    51.323824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440;446;629",
+                "ref:De_Lijn": "107234",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Paaltjesdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT VEERLE KLEIN-VEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.680074,
+                    51.323842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440;446;629",
+                "ref:De_Lijn": "106243",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Groot Veerle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT VEERLE KLEIN-VEERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.676073,
+                    51.328328
+                ]
+            }
+        }
+    ]
+}

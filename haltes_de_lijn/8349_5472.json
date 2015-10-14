@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "208964",
+                "bus": "yes",
+                "name": "Maldegem Sint-Vincentiuskring",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEITKALSEIDE MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451403,
+                    51.171068
+                ]
+            }
+        }
+    ]
+}

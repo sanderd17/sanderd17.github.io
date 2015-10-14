@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501507",
+                "zone:De_Lijn": "01",
+                "name": "De Panne Kerk",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "WESTHOEKLAAN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.588845,
+                    51.093364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "501072",
+                "bus": "yes",
+                "name": "De Panne Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.589779,
+                    51.09283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "501746",
+                "bus": "yes",
+                "name": "De Panne Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.586955,
+                    51.095386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506507",
+                "zone:De_Lijn": "01",
+                "name": "De Panne Kerk",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KERKSTRAAT DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.5889,
+                    51.093419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "505824",
+                "bus": "yes",
+                "name": "De Panne De Boare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGSPLEIN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.586864,
+                    51.094755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "506072",
+                "bus": "yes",
+                "name": "De Panne Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.589928,
+                    51.093048
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;130",
+                "ref:De_Lijn": "206835",
+                "bus": "yes",
+                "name": "Massemen Oordegemsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT MASSEMEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.89199,
+                    50.978657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201917",
+                "bus": "yes",
+                "name": "Massemen Kortenbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OORDEGEMSESTEENWEG MASSEMEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.892111,
+                    50.980842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;130",
+                "ref:De_Lijn": "207835",
+                "bus": "yes",
+                "name": "Massemen Oordegemsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT MASSEMEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.891891,
+                    50.978593
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209300",
+                "bus": "yes",
+                "name": "Petegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.557401,
+                    50.83101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200764",
+                "bus": "yes",
+                "name": "Petegem Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.544579,
+                    50.828808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208300",
+                "bus": "yes",
+                "name": "Petegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.557649,
+                    50.831426
+                ]
+            }
+        }
+    ]
+}

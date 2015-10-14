@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "405601",
+                "bus": "yes",
+                "name": "Stotert Verloren Kost",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMSESTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.191498,
+                    51.124246
+                ]
+            }
+        }
+    ]
+}

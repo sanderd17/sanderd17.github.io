@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200709",
+                "bus": "yes",
+                "name": "Wachtebeke Blaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENBURGSE SLUIS WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8423,
+                    51.201526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "211076",
+                "bus": "yes",
+                "name": "Zelzate Maïsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAÏSSTRAAT ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.824849,
+                    51.197519
+                ]
+            }
+        }
+    ]
+}

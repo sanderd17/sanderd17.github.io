@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208690",
+                "bus": "yes",
+                "name": "Balegem Kattenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALEGEMSTRAAT BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.791888,
+                    50.923993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208687",
+                "bus": "yes",
+                "name": "Balegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTE BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.791238,
+                    50.919046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208689",
+                "bus": "yes",
+                "name": "Balegem Nederstenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEDERSTENBERG BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.795217,
+                    50.921654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208691",
+                "bus": "yes",
+                "name": "Balegem Pastorieberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POSTSTRAAT BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.787238,
+                    50.925112
+                ]
+            }
+        }
+    ]
+}

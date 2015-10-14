@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344",
+                "ref:De_Lijn": "300315",
+                "bus": "yes",
+                "name": "Hamme-Mille Ladrerie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE RENÉ MÉNADA HAMME-MILLE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703906,
+                    50.77996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344",
+                "ref:De_Lijn": "300316",
+                "bus": "yes",
+                "name": "Hamme-Mille Maison Vicinale",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVENUE DU CENTENAIRE HAMME-MILLE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715876,
+                    50.778388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344",
+                "ref:De_Lijn": "300314",
+                "bus": "yes",
+                "name": "Hamme-Mille Ladrerie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE RENÉ MÉNADA HAMME-MILLE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.704571,
+                    50.779742
+                ]
+            }
+        }
+    ]
+}

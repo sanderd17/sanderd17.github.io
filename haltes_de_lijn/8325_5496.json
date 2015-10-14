@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;50;84",
+                "ref:De_Lijn": "509645",
+                "bus": "yes",
+                "name": "Zillebeke Begijnenbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSEWEG ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.930556,
+                    50.847541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;50;84",
+                "ref:De_Lijn": "504645",
+                "bus": "yes",
+                "name": "Zillebeke Begijnenbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSEWEG ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.931087,
+                    50.847376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505119",
+                "bus": "yes",
+                "name": "Zillebeke Museum Hill 62",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CANADALAAN ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.938486,
+                    50.839914
+                ]
+            }
+        }
+    ]
+}

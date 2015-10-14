@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204099",
+                "bus": "yes",
+                "name": "Uitbergen Veer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARD SCHELLEBELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.930608,
+                    51.01382
+                ]
+            }
+        }
+    ]
+}

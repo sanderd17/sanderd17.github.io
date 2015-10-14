@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308290",
+                "bus": "yes",
+                "name": "Schaffen Merelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.057134,
+                    51.006719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17a;299",
+                "ref:De_Lijn": "308181",
+                "bus": "yes",
+                "name": "Schaffen Engelbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE DIJKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.07337,
+                    51.012834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401685",
+                "bus": "yes",
+                "name": "Schaffen Engelbeekstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ENGELBEEKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.073548,
+                    51.013265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401684",
+                "bus": "yes",
+                "name": "Schaffen Engelbeekstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N174 SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.073334,
+                    51.013302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17a;299;702",
+                "ref:De_Lijn": "308180",
+                "bus": "yes",
+                "name": "Schaffen Engelbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE DIJKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.072951,
+                    51.01245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;702",
+                "ref:De_Lijn": "308291",
+                "bus": "yes",
+                "name": "Schaffen Merelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.057249,
+                    51.006772
+                ]
+            }
+        }
+    ]
+}

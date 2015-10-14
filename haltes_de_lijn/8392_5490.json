@@ -1,0 +1,511 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "305305",
+                "bus": "yes",
+                "name": "Vilvoorde Oude Vaartbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTDIJK VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416032,
+                    50.926071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "533;821",
+                "ref:De_Lijn": "301740",
+                "bus": "yes",
+                "name": "Grimbergen Oude Schapenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VILVOORDSESTEENWEG GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396361,
+                    50.92561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;624",
+                "ref:De_Lijn": "305908",
+                "bus": "yes",
+                "name": "Grimbergen Tangedal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT-MOLENVELDLAAN GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.398266,
+                    50.924261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "301704",
+                "bus": "yes",
+                "name": "Grimbergen Borght",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTVAARTDIJK GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412095,
+                    50.929272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "301703",
+                "bus": "yes",
+                "name": "Grimbergen Borght",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTVAARTDIJK VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412678,
+                    50.928796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330064",
+                "bus": "yes",
+                "name": "Vilvoorde Ennepetal (tram)",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "DAVID TENIERSSTRAAT VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40846,
+                    50.919853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;533;624;821",
+                "ref:De_Lijn": "305227",
+                "bus": "yes",
+                "name": "Vilvoorde Breemput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUBENSSTRAAT VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408349,
+                    50.923682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;261;533;624;820;821",
+                "ref:De_Lijn": "305324",
+                "bus": "yes",
+                "name": "Vilvoorde Vlierkens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N211 VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413725,
+                    50.922907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305297",
+                "bus": "yes",
+                "name": "Vilvoorde Minnemolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAVID TENIERSSTRAAT VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409285,
+                    50.920985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;624",
+                "ref:De_Lijn": "301712",
+                "bus": "yes",
+                "name": "Grimbergen Groot-Molenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRESSAERTLAAN GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396771,
+                    50.921564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;624",
+                "ref:De_Lijn": "301741",
+                "bus": "yes",
+                "name": "Grimbergen Populierendallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPULIERENDALLAAN GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.394978,
+                    50.921115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330080",
+                "bus": "yes",
+                "name": "Vilvoorde Enneptal (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DAVID TENIERSSTRAAT VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408659,
+                    50.919871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305891",
+                "bus": "yes",
+                "name": "Vilvoorde Jordaen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLIERKENSSTRAAT VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409657,
+                    50.92325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;624",
+                "ref:De_Lijn": "301711",
+                "bus": "yes",
+                "name": "Grimbergen Groot-Molenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRESSAERTLAAN VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396856,
+                    50.921501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;533;624;821",
+                "ref:De_Lijn": "305230",
+                "bus": "yes",
+                "name": "Vilvoorde Breemput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUBENSSTRAAT VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408961,
+                    50.923772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;261;533;624;820;821",
+                "ref:De_Lijn": "305325",
+                "bus": "yes",
+                "name": "Vilvoorde Vlierkens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N211 VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413696,
+                    50.922781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "533;821",
+                "ref:De_Lijn": "301739",
+                "bus": "yes",
+                "name": "Grimbergen Oude Schapenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VILVOORDSESTEENWEG GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396645,
+                    50.925484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "305304",
+                "bus": "yes",
+                "name": "Vilvoorde Oude Vaartbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTDIJK VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416174,
+                    50.926125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;624",
+                "ref:De_Lijn": "305907",
+                "bus": "yes",
+                "name": "Grimbergen Populierendallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPULIERENDALLAAN GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395121,
+                    50.92125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "224;624",
+                "ref:De_Lijn": "305909",
+                "bus": "yes",
+                "name": "Grimbergen Tangedal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT-MOLENVELDLAAN GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.398052,
+                    50.924063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305228",
+                "bus": "yes",
+                "name": "Vilvoorde Twee Leeuwenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGSLOSTEENWEG VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.402229,
+                    50.916933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305233",
+                "bus": "yes",
+                "name": "Vilvoorde Ennepetal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAMES ENSORLAAN VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406383,
+                    50.919566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305234",
+                "bus": "yes",
+                "name": "Vilvoorde Ennepetal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAVID TENIERSSTRAAT VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408217,
+                    50.919296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305296",
+                "bus": "yes",
+                "name": "Vilvoorde Minnemolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLIERKENSSTRAAT VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406512,
+                    50.921103
+                ]
+            }
+        }
+    ]
+}

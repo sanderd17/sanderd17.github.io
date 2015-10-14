@@ -1,0 +1,151 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;43",
+                "ref:De_Lijn": "207692",
+                "bus": "yes",
+                "name": "Droeshout Guldenboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GULDENBOOMSTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.177864,
+                    50.956958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "308569",
+                "bus": "yes",
+                "name": "Droeshout Langeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEVELDSTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.186821,
+                    50.952297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;43",
+                "ref:De_Lijn": "207190",
+                "bus": "yes",
+                "name": "Droeshout Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP VILVOORDE MAZENZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.180862,
+                    50.954886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "308573",
+                "bus": "yes",
+                "name": "Droeshout Paddebroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAAIENBERG OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.192717,
+                    50.947128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308568",
+                "bus": "yes",
+                "name": "Droeshout Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP VILVOORDE MAZENZELE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.180876,
+                    50.954895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;43;340",
+                "ref:De_Lijn": "206190",
+                "bus": "yes",
+                "name": "Droeshout Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP VILVOORDE MAZENZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.180804,
+                    50.955012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;43;340",
+                "ref:De_Lijn": "206692",
+                "bus": "yes",
+                "name": "Droeshout Guldenboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GULDENBOOMSTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.178207,
+                    50.956652
+                ]
+            }
+        }
+    ]
+}

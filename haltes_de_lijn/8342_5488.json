@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505099",
+                "bus": "yes",
+                "name": "Meulebeke De Fazant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.312918,
+                    50.949481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "508590",
+                "bus": "yes",
+                "name": "Meulebeke Paardekens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298678,
+                    50.957983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59",
+                "ref:De_Lijn": "503590",
+                "bus": "yes",
+                "name": "Meulebeke Paardekens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298905,
+                    50.958003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505097",
+                "bus": "yes",
+                "name": "Meulebeke Kortestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTESTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.299077,
+                    50.947342
+                ]
+            }
+        }
+    ]
+}

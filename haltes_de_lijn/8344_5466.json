@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "507742",
+                "bus": "yes",
+                "name": "Moerkerke Uudsdale",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UUDSDALE MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.348975,
+                    51.252399
+                ]
+            }
+        }
+    ]
+}

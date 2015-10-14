@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "209271",
+                "bus": "yes",
+                "name": "Ouwegem Pluimke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUWEGEMSESTEENWEG OUWEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.590106,
+                    50.913472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "219006",
+                "bus": "yes",
+                "name": "Huise De Oude Smisse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.583223,
+                    50.906648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;485",
+                "ref:De_Lijn": "208271",
+                "bus": "yes",
+                "name": "Ouwegem Pluimke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUWEGEMSESTEENWEG OUWEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.590194,
+                    50.913311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;450;485",
+                "ref:De_Lijn": "201760",
+                "bus": "yes",
+                "name": "Huise De Oude Smisse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.583257,
+                    50.906351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "209272",
+                "bus": "yes",
+                "name": "Ouwegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUWEGEMSESTEENWEG OUWEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.598766,
+                    50.911713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;485",
+                "ref:De_Lijn": "208272",
+                "bus": "yes",
+                "name": "Ouwegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUWEGEMSESTEENWEG OUWEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.597742,
+                    50.911769
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204414",
+                "bus": "yes",
+                "name": "Stekene Achterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WITTINGSTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.999373,
+                    51.192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "204404",
+                "bus": "yes",
+                "name": "Stekene Polken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.013621,
+                    51.188196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "205404",
+                "bus": "yes",
+                "name": "Stekene Polken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.013277,
+                    51.188222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "204405",
+                "bus": "yes",
+                "name": "Stekene Wittingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.002844,
+                    51.185278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "205405",
+                "bus": "yes",
+                "name": "Stekene Wittingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.002258,
+                    51.185258
+                ]
+            }
+        }
+    ]
+}

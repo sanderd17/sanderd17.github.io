@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505417",
+                "bus": "yes",
+                "name": "Moerkerke Engelse Straat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIBEISTRAAT MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.382864,
+                    51.232146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505351",
+                "bus": "yes",
+                "name": "Moerkerke Scheewege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEEWEGE MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.367131,
+                    51.232724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "201739",
+                "bus": "yes",
+                "name": "Maldegem Brezendedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIBEISTRAAT MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.378128,
+                    51.230686
+                ]
+            }
+        }
+    ]
+}

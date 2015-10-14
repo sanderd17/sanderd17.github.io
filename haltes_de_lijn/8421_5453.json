@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;456;458",
+                "ref:De_Lijn": "106656",
+                "bus": "yes",
+                "name": "Poppel Grote Vond",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG WEELDE POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.032033,
+                    51.440254
+                ]
+            }
+        }
+    ]
+}

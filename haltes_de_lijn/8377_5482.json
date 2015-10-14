@@ -1,0 +1,194 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;355",
+                "ref:De_Lijn": "206307",
+                "bus": "yes",
+                "name": "Appels Handwijzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG VAN AALST APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.071168,
+                    51.030034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208988",
+                "bus": "yes",
+                "name": "Dendermonde Parkingpendel Eegene vertrek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NOORDLAAN DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.086544,
+                    51.033317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208989",
+                "bus": "yes",
+                "name": "Dendermonde Parkingpendel Eegene aankomst",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NOORDLAAN DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0869,
+                    51.033372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "207391",
+                "bus": "yes",
+                "name": "Appels 't Zand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.065685,
+                    51.029292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "207307",
+                "bus": "yes",
+                "name": "Appels Handwijzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG VAN AALST APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.070957,
+                    51.029638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29;57;355",
+                "ref:De_Lijn": "206306",
+                "bus": "yes",
+                "name": "Dendermonde Dammenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081121,
+                    51.031938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29;57",
+                "ref:De_Lijn": "207306",
+                "bus": "yes",
+                "name": "Dendermonde Dammenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.080467,
+                    51.031648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "207390",
+                "bus": "yes",
+                "name": "Appels Handwijzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.071819,
+                    51.030872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "206390",
+                "bus": "yes",
+                "name": "Appels Handwijzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.071718,
+                    51.030989
+                ]
+            }
+        }
+    ]
+}

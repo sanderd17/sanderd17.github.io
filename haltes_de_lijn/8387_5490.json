@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "242;245;543",
+                "ref:De_Lijn": "303829",
+                "bus": "yes",
+                "name": "Hamme Hooghuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG HAMME (MERCHTEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.288988,
+                    50.918287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "242;245;543",
+                "ref:De_Lijn": "303830",
+                "bus": "yes",
+                "name": "Hamme Hooghuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG HAMME (MERCHTEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.288661,
+                    50.91826
+                ]
+            }
+        }
+    ]
+}

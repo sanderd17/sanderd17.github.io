@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "300448",
+                "bus": "yes",
+                "name": "Bekkevoort Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.972647,
+                    50.944203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308061",
+                "bus": "yes",
+                "name": "Bekkevoort Keulenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUGEEN COOLSSTRAAT BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.977765,
+                    50.939493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "307904",
+                "bus": "yes",
+                "name": "Bekkevoort Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUGEEN COOLSSTRAAT BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.975781,
+                    50.943387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552;701",
+                "ref:De_Lijn": "300451",
+                "bus": "yes",
+                "name": "Bekkevoort Schillekensberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.968276,
+                    50.942868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;701",
+                "ref:De_Lijn": "308297",
+                "bus": "yes",
+                "name": "Bekkevoort Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUGEEN COOLSSTRAAT BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.975938,
+                    50.943422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701",
+                "ref:De_Lijn": "308060",
+                "bus": "yes",
+                "name": "Bekkevoort Keulenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUGEEN COOLSSTRAAT BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.977922,
+                    50.939528
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "508045",
+                "bus": "yes",
+                "name": "Beerst Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.876971,
+                    51.058835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "503045",
+                "bus": "yes",
+                "name": "Beerst Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.877453,
+                    51.058482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "508039",
+                "bus": "yes",
+                "name": "Beerst De Hert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.875986,
+                    51.065575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "508042",
+                "bus": "yes",
+                "name": "Beerst Kasteelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N369 BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.875499,
+                    51.068751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "503039",
+                "bus": "yes",
+                "name": "Beerst De Hert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.876373,
+                    51.064618
+                ]
+            }
+        }
+    ]
+}

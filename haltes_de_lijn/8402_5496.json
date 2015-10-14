@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "395;598",
+                "ref:De_Lijn": "300503",
+                "bus": "yes",
+                "name": "Korbeek-Dijle De Beek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJVELSEBAAN KORBEEK-DIJLE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.636054,
+                    50.833992
+                ]
+            }
+        }
+    ]
+}

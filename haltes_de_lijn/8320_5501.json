@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "504209",
+                "bus": "yes",
+                "name": "Kemmel De Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.827602,
+                    50.775641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "509073",
+                "bus": "yes",
+                "name": "Dranouter Hooghof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT WULVERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.827657,
+                    50.7679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504210",
+                "bus": "yes",
+                "name": "Kemmel De Lork",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.818831,
+                    50.777135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "509209",
+                "bus": "yes",
+                "name": "Kemmel De Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.827632,
+                    50.77601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "504073",
+                "bus": "yes",
+                "name": "Dranouter Hooghof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT WULVERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.827471,
+                    50.767924
+                ]
+            }
+        }
+    ]
+}

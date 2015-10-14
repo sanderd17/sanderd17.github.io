@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "501403",
+                "bus": "yes",
+                "name": "Vlissegem Lepelem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE BAAN VLISSEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.075276,
+                    51.235773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "506403",
+                "bus": "yes",
+                "name": "Vlissegem Lepelem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE BAAN STALHILLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.075993,
+                    51.235727
+                ]
+            }
+        }
+    ]
+}

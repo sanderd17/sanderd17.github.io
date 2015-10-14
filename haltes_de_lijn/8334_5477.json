@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505022",
+                "bus": "yes",
+                "name": "Zedelgem Hollevoorde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.140817,
+                    51.110192
+                ]
+            }
+        }
+    ]
+}

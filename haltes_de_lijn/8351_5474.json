@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64",
+                "ref:De_Lijn": "203078",
+                "bus": "yes",
+                "name": "Ursel Brugstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSEWEG URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.499006,
+                    51.139507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;185",
+                "ref:De_Lijn": "202078",
+                "bus": "yes",
+                "name": "Ursel Brugstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSEWEG URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.498777,
+                    51.139514
+                ]
+            }
+        }
+    ]
+}

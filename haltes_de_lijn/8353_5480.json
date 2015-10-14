@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200684",
+                "bus": "yes",
+                "name": "Hansbeke Palestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.539105,
+                    51.06602
+                ]
+            }
+        }
+    ]
+}

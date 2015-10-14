@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308064",
+                "bus": "yes",
+                "name": "Roosbeek Smisveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMISVELDSTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.853687,
+                    50.850373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "527;585;590;685",
+                "ref:De_Lijn": "300705",
+                "bus": "yes",
+                "name": "Kerkom Malendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALENDRIESSTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.855827,
+                    50.858212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308065",
+                "bus": "yes",
+                "name": "Roosbeek Smisveld",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SMISVELDSTRAAT ROOSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.853516,
+                    50.850356
+                ]
+            }
+        }
+    ]
+}

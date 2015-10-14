@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55",
+                "ref:De_Lijn": "203665",
+                "bus": "yes",
+                "name": "Kluizen Toekomststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDLAAN KLUIZEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735608,
+                    51.155079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55;150",
+                "ref:De_Lijn": "202666",
+                "bus": "yes",
+                "name": "Kluizen Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDLAAN KLUIZEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.73652,
+                    51.157368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55",
+                "ref:De_Lijn": "203666",
+                "bus": "yes",
+                "name": "Kluizen Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N458 KLUIZEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736942,
+                    51.157882
+                ]
+            }
+        }
+    ]
+}

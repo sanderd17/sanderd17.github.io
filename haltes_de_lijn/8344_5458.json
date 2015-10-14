@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "501149",
+                "bus": "yes",
+                "name": "Knokke Het Zwin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF LEON LIPPENSDREEF KNOKKE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.35114,
+                    51.358622
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680",
+                "ref:De_Lijn": "306950",
+                "bus": "yes",
+                "name": "Kumtich Breisem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKOMSTRAAT BREISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.883871,
+                    50.834234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680;713",
+                "ref:De_Lijn": "306949",
+                "bus": "yes",
+                "name": "Kerkom Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUMTICHSESTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.880712,
+                    50.846581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680;713",
+                "ref:De_Lijn": "306951",
+                "bus": "yes",
+                "name": "Kumtich Breisem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKOMSTRAAT BREISEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.883668,
+                    50.833857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680",
+                "ref:De_Lijn": "306948",
+                "bus": "yes",
+                "name": "Kerkom Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUMTICHSESTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.880869,
+                    50.846626
+                ]
+            }
+        }
+    ]
+}

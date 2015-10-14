@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505968",
+                "bus": "yes",
+                "name": "Heestert Kroon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PONTSTRAAT HEESTERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.408483,
+                    50.804857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505258",
+                "bus": "yes",
+                "name": "Otegem Truweelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPERRESTRAAT HEESTERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.415501,
+                    50.801642
+                ]
+            }
+        }
+    ]
+}

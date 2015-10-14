@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "164;732",
+                "ref:De_Lijn": "307579",
+                "bus": "yes",
+                "name": "Bellingen Kriekelaerestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIEKELAERESTRAAT BELLINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.153944,
+                    50.740889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "164;732",
+                "ref:De_Lijn": "304126",
+                "bus": "yes",
+                "name": "Bellingen Kriekelaerestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIEKELAERESTRAAT BELLINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.154015,
+                    50.740754
+                ]
+            }
+        }
+    ]
+}

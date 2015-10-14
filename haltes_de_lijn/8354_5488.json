@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "200454",
+                "bus": "yes",
+                "name": "Nazareth De Jager",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUISEPONTWEG NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.562534,
+                    50.949866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201842",
+                "bus": "yes",
+                "name": "Nazareth Wulvestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG DEINZE NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580553,
+                    50.948037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201357",
+                "bus": "yes",
+                "name": "Nazareth Lindekens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.573668,
+                    50.951236
+                ]
+            }
+        }
+    ]
+}

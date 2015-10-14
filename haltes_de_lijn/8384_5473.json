@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205262",
+                "bus": "yes",
+                "name": "Temse Blindstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTE LANDMOLENSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.229867,
+                    51.156423
+                ]
+            }
+        }
+    ]
+}

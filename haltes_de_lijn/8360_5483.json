@@ -1,0 +1,689 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;45;49;71;72",
+                "ref:De_Lijn": "201537",
+                "bus": "yes",
+                "name": "Sterre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710277,
+                    51.025326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;N5",
+                "ref:De_Lijn": "210049",
+                "bus": "yes",
+                "name": "De Pintelaan (tijdelijke halte)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE PINTELAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711326,
+                    51.022716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201313",
+                "bus": "yes",
+                "name": "Maalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.700775,
+                    51.022971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "201314",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Denijs-Westrem Flanders Expo",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MAALTEKOUTER SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692856,
+                    51.024544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201312",
+                "bus": "yes",
+                "name": "Maaltebruggestraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "KORTRIJKSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.706865,
+                    51.024687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;76;77;78",
+                "ref:De_Lijn": "201162",
+                "bus": "yes",
+                "name": "Maria Middelares - Maalte",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "KORTRIJKSESTEENWEG SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699962,
+                    51.02303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78;145;N76",
+                "ref:De_Lijn": "210026",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Flanders Expo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENRI CROMBEZLAAN SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692423,
+                    51.023895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;47;49;71;72",
+                "ref:De_Lijn": "201539",
+                "bus": "yes",
+                "name": "Zwijnaarde De Deynestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709481,
+                    51.019146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;76;77;78;N1;N76",
+                "ref:De_Lijn": "200161",
+                "bus": "yes",
+                "name": "Maaltebruggestraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "LEO BAEKELANDSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.706364,
+                    51.024855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201315",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Driekoningenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.691562,
+                    51.0214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;47;49;71;72;N5",
+                "ref:De_Lijn": "200539",
+                "bus": "yes",
+                "name": "Zwijnaarde De Deynestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709249,
+                    51.019396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;47;49;71;72;N5",
+                "ref:De_Lijn": "200540",
+                "bus": "yes",
+                "name": "Zwijnaarde E40-Autoweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG-NOORD ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708222,
+                    51.016388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78",
+                "ref:De_Lijn": "211026",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Flanders Expo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HÉLÈNE DUTRIEULAAN SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692539,
+                    51.023796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;145",
+                "ref:De_Lijn": "200315",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Driekoningenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.691631,
+                    51.021535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200379",
+                "bus": "yes",
+                "name": "Berkhoutsheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIKVORSSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.712744,
+                    51.021205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;76;77;78",
+                "ref:De_Lijn": "201161",
+                "bus": "yes",
+                "name": "Maaltebruggestraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "LEO BAEKELANDSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.706763,
+                    51.024857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "200313",
+                "bus": "yes",
+                "name": "Maalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699494,
+                    51.022874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78;N76",
+                "ref:De_Lijn": "200311",
+                "bus": "yes",
+                "name": "Sterre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709969,
+                    51.025972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;N1",
+                "ref:De_Lijn": "200314",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Denijs-Westrem Flanders Expo",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "MAALTEKOUTER SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.69287,
+                    51.024553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;45;49;71;72",
+                "ref:De_Lijn": "201538",
+                "bus": "yes",
+                "name": "De Pintelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709296,
+                    51.022138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;45;49;71;72",
+                "ref:De_Lijn": "200537",
+                "bus": "yes",
+                "name": "Sterre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710119,
+                    51.025406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;76;77;78;N1;145;N76",
+                "ref:De_Lijn": "200162",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Maria Middelares - Maalte",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "KORTRIJKSESTEENWEG SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699149,
+                    51.023025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;45;49;71;72",
+                "ref:De_Lijn": "200538",
+                "bus": "yes",
+                "name": "De Pintelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709106,
+                    51.022488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201527",
+                "bus": "yes",
+                "name": "Leebeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAALTEMEERS ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.701195,
+                    51.018524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;47;49;71;72",
+                "ref:De_Lijn": "201540",
+                "bus": "yes",
+                "name": "Zwijnaarde E40-Autoweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG-NOORD ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708107,
+                    51.015507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201384",
+                "bus": "yes",
+                "name": "Pleispark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLEISPARK SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.695058,
+                    51.020125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "211049",
+                "bus": "yes",
+                "name": "De Pintelaan (tijdelijke halte)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE PINTELAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711499,
+                    51.022555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201334",
+                "bus": "yes",
+                "name": "Rijvisschestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJVISSCHESTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.691702,
+                    51.01758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200312",
+                "bus": "yes",
+                "name": "Maaltebruggestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70719,
+                    51.024922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200979",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Flanders Expo",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DERBYSTRAAT SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.694585,
+                    51.024267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;77;78",
+                "ref:De_Lijn": "201311",
+                "bus": "yes",
+                "name": "Sterre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70993,
+                    51.025702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201379",
+                "bus": "yes",
+                "name": "Berkhoutsheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIKVORSSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711907,
+                    51.02093
+                ]
+            }
+        }
+    ]
+}

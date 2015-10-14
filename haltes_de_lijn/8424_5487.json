@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c;735",
+                "ref:De_Lijn": "402719",
+                "bus": "yes",
+                "name": "Zelem Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINNEHOEKSTRAAT ZELEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.115735,
+                    50.965404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c;735",
+                "ref:De_Lijn": "402718",
+                "bus": "yes",
+                "name": "Zelem Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINNEHOEKSTRAAT LINKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11592,
+                    50.96543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405996",
+                "bus": "yes",
+                "name": "Linkhout Vlootbrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LINKHOUTSTRAAT LINKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.117332,
+                    50.96116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c;735",
+                "ref:De_Lijn": "405997",
+                "bus": "yes",
+                "name": "Linkhout Vlootbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSTRAAT LINKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.116167,
+                    50.960403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c",
+                "ref:De_Lijn": "405995",
+                "bus": "yes",
+                "name": "Linkhout Vlootbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINKHOUTSTRAAT LINKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.117645,
+                    50.961113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c;735",
+                "ref:De_Lijn": "405994",
+                "bus": "yes",
+                "name": "Linkhout Vlootbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINNEHOEKSTRAAT LINKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.115911,
+                    50.961322
+                ]
+            }
+        }
+    ]
+}

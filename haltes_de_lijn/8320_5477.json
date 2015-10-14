@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "505354",
+                "bus": "yes",
+                "name": "Schore IJzerdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORESTRAAT SCHORE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.823797,
+                    51.099526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "509368",
+                "bus": "yes",
+                "name": "Pervijze Schoorbakke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOORBAKKESTRAAT PERVIJZE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.820858,
+                    51.098148
+                ]
+            }
+        }
+    ]
+}

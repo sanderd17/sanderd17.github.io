@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;706;707;736;738",
+                "ref:De_Lijn": "404343",
+                "bus": "yes",
+                "name": "Schalkhoven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHALKHOVENSTRAAT SCHALKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.450297,
+                    50.840542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;706;707;736",
+                "ref:De_Lijn": "404354",
+                "bus": "yes",
+                "name": "Schalkhoven Plasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLASSTRAAT SCHALKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.453402,
+                    50.842796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;706;707;736",
+                "ref:De_Lijn": "404335",
+                "bus": "yes",
+                "name": "Schalkhoven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHALKHOVENSTRAAT SCHALKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.450427,
+                    50.840612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;706;707;736;738",
+                "ref:De_Lijn": "404355",
+                "bus": "yes",
+                "name": "Schalkhoven Plasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLASSTRAAT SCHALKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.453448,
+                    50.842931
+                ]
+            }
+        }
+    ]
+}

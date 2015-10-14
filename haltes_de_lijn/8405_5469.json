@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106446",
+                "bus": "yes",
+                "name": "Pulderbos Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP PULDERBOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.691004,
+                    51.218218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;427;428",
+                "ref:De_Lijn": "106449",
+                "bus": "yes",
+                "name": "Pulderbos Draaiboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PULSEBAAN PULDERBOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69278,
+                    51.214366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;427;428",
+                "ref:De_Lijn": "106447",
+                "bus": "yes",
+                "name": "Pulderbos Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP PULDERBOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.690931,
+                    51.21803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106448",
+                "bus": "yes",
+                "name": "Pulderbos Draaiboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PULSEBAAN PULDERBOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.692838,
+                    51.214492
+                ]
+            }
+        }
+    ]
+}

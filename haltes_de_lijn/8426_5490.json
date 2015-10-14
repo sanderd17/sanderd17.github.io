@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404081",
+                "bus": "yes",
+                "name": "Herk-de-Stad Keibergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.161394,
+                    50.928625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404080",
+                "bus": "yes",
+                "name": "Herk-de-Stad Keibergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.161222,
+                    50.928554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404082",
+                "bus": "yes",
+                "name": "Herk-de-Stad Eggelstraat II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.158712,
+                    50.923959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404083",
+                "bus": "yes",
+                "name": "Herk-de-Stad Eggelstraat II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.158869,
+                    50.924003
+                ]
+            }
+        }
+    ]
+}

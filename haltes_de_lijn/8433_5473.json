@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409432",
+                "bus": "yes",
+                "name": "Kerkhoven Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIJNVENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.295827,
+                    51.162756
+                ]
+            }
+        }
+    ]
+}

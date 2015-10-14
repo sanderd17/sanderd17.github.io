@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200777",
+                "bus": "yes",
+                "name": "Wortegem Wijkschool Rijborgstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJBORGSTRAAT WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.479287,
+                    50.866863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200772",
+                "bus": "yes",
+                "name": "Wortegem Rijborgstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.486154,
+                    50.865063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209309",
+                "bus": "yes",
+                "name": "Wortegem Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSEWEG WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.476152,
+                    50.865086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208309",
+                "bus": "yes",
+                "name": "Wortegem Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSEWEG WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.475478,
+                    50.86545
+                ]
+            }
+        }
+    ]
+}

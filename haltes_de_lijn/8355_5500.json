@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;460;470;62S",
+                "ref:De_Lijn": "208367",
+                "bus": "yes",
+                "name": "Nukerke Letterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.590015,
+                    50.784249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;62S",
+                "ref:De_Lijn": "209366",
+                "bus": "yes",
+                "name": "Nukerke Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.590063,
+                    50.788223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;62S",
+                "ref:De_Lijn": "209367",
+                "bus": "yes",
+                "name": "Nukerke Letterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N60 NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.589505,
+                    50.783374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;460;470;62S",
+                "ref:De_Lijn": "208366",
+                "bus": "yes",
+                "name": "Nukerke Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.590599,
+                    50.789225
+                ]
+            }
+        }
+    ]
+}

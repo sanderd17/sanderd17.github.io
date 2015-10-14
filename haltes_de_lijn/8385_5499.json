@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144;145",
+                "ref:De_Lijn": "304609",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELBAAN SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.257206,
+                    50.797029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144;145",
+                "ref:De_Lijn": "304648",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Vagevuurstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELBAAN SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.251525,
+                    50.794264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144;145",
+                "ref:De_Lijn": "304610",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELBAAN SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.258581,
+                    50.797246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144;145",
+                "ref:De_Lijn": "304646",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw Vagevuurstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELBAAN SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.250547,
+                    50.793687
+                ]
+            }
+        }
+    ]
+}

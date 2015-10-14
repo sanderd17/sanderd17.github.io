@@ -1,0 +1,748 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103588",
+                "bus": "yes",
+                "name": "Kinderziekenhuis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LINDENDREEF ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419054,
+                    51.181427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "90;91;92",
+                "ref:De_Lijn": "103110",
+                "bus": "yes",
+                "name": "K. Coggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POSTHOFBRUG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437206,
+                    51.193103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;90;91;92",
+                "ref:De_Lijn": "101171",
+                "bus": "yes",
+                "name": "Grotesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRUITHOFLAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.434169,
+                    51.180332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33",
+                "ref:De_Lijn": "104250",
+                "bus": "yes",
+                "name": "Floraliënlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLORALIËNLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423361,
+                    51.1828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33",
+                "ref:De_Lijn": "102340",
+                "bus": "yes",
+                "name": "Koninklijkelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLORALIËNLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42046,
+                    51.18521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "90;91;92",
+                "ref:De_Lijn": "103105",
+                "bus": "yes",
+                "name": "K. Coggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODERVELDLAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437505,
+                    51.192572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;33",
+                "ref:De_Lijn": "104254",
+                "bus": "yes",
+                "name": "Middelheim",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420028,
+                    51.182784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;32",
+                "ref:De_Lijn": "102185",
+                "bus": "yes",
+                "name": "Elisabethlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINKLIJKELAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.422351,
+                    51.187475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "103675",
+                "zone:De_Lijn": "01",
+                "name": "Koninklijkelaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.425657,
+                    51.189046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "102380",
+                "zone:De_Lijn": "01",
+                "name": "Fruithoflaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432954,
+                    51.180395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33",
+                "ref:De_Lijn": "103510",
+                "bus": "yes",
+                "name": "Hindenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINS BOUDEWIJNLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.424415,
+                    51.179474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;33",
+                "ref:De_Lijn": "103586",
+                "bus": "yes",
+                "name": "Kinderziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDENDREEF ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419283,
+                    51.180852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;32",
+                "ref:De_Lijn": "103680",
+                "bus": "yes",
+                "name": "Elisabethlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINKLIJKELAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.422694,
+                    51.187843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;33",
+                "ref:De_Lijn": "101011",
+                "bus": "yes",
+                "name": "Middelheim Vijver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDENDREEF ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418927,
+                    51.182973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "104810",
+                "zone:De_Lijn": "01",
+                "name": "Pulhof",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.431113,
+                    51.183704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100813",
+                "name": "Prins Boudewijnlaan Inrij Lijn 1999 dumm",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "ELISABETHLAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423875,
+                    51.182063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;33",
+                "ref:De_Lijn": "103587",
+                "bus": "yes",
+                "name": "Kinderziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDENDREEF ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419168,
+                    51.180897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;90;91;92",
+                "ref:De_Lijn": "101310",
+                "bus": "yes",
+                "name": "Berchemboslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRUITHOFLAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437075,
+                    51.18193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;33",
+                "ref:De_Lijn": "106359",
+                "bus": "yes",
+                "name": "Lindendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDELHEIMLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418544,
+                    51.185166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;298",
+                "ref:De_Lijn": "101262",
+                "bus": "yes",
+                "name": "Sint-Willibrordus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINNENSINGEL BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.421126,
+                    51.192284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "104030",
+                "zone:De_Lijn": "01",
+                "name": "Pulhof",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.430883,
+                    51.182805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33",
+                "ref:De_Lijn": "102345",
+                "bus": "yes",
+                "name": "Floraliënlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLORALIËNLAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42329,
+                    51.183133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "102980",
+                "name": "Jan Moorkens",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429314,
+                    51.185799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "102985",
+                "name": "Jan Moorkens",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.428615,
+                    51.187103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33",
+                "ref:De_Lijn": "103665",
+                "bus": "yes",
+                "name": "Koninklijkelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLORALIËNLAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42046,
+                    51.185381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "103670",
+                "zone:De_Lijn": "01",
+                "name": "Koninklijkelaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426443,
+                    51.188983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;33",
+                "ref:De_Lijn": "104255",
+                "bus": "yes",
+                "name": "Middelheim",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419714,
+                    51.182775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;90;91;92",
+                "ref:De_Lijn": "101305",
+                "bus": "yes",
+                "name": "Berchemboslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRUITHOFLAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436947,
+                    51.182344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;33",
+                "ref:De_Lijn": "106332",
+                "bus": "yes",
+                "name": "Lindendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDELHEIMLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418543,
+                    51.185041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "104855",
+                "zone:De_Lijn": "01",
+                "name": "Fruithoflaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43311,
+                    51.179559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "105275",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Willibrordus",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42157,
+                    51.192877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;298",
+                "ref:De_Lijn": "101261",
+                "bus": "yes",
+                "name": "Sint-Willibrordus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINNENSINGEL BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4226,
+                    51.192571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;33",
+                "ref:De_Lijn": "101649",
+                "bus": "yes",
+                "name": "Middelheim Vijver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDENDREEF ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418855,
+                    51.182425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;15",
+                "ref:De_Lijn": "105270",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Willibrordus",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROTESTEENWEG BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.421527,
+                    51.19276
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;90;91;92",
+                "ref:De_Lijn": "101172",
+                "bus": "yes",
+                "name": "Grotesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRUITHOFLAAN BERCHEM (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.434427,
+                    51.180916
+                ]
+            }
+        }
+    ]
+}

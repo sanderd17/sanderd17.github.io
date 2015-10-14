@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;708;734;S12",
+                "ref:De_Lijn": "403773",
+                "bus": "yes",
+                "name": "Opheers Herckenrodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPHEERSSTRAAT OPHEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.293865,
+                    50.735795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;708;734;S12",
+                "ref:De_Lijn": "403772",
+                "bus": "yes",
+                "name": "Opheers Herckenrodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPHEERSSTRAAT OPHEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.294023,
+                    50.735884
+                ]
+            }
+        }
+    ]
+}

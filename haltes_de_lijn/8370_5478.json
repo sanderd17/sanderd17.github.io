@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;270",
+                "ref:De_Lijn": "203499",
+                "bus": "yes",
+                "name": "Lokeren Nieuwe Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE MOLENSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.917326,
+                    51.084928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;270",
+                "ref:De_Lijn": "202500",
+                "bus": "yes",
+                "name": "Lokeren Spoorweglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE MOLENSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916578,
+                    51.092943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;270",
+                "ref:De_Lijn": "202499",
+                "bus": "yes",
+                "name": "Lokeren Nieuwe Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERVELDESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916572,
+                    51.084727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;270",
+                "ref:De_Lijn": "203500",
+                "bus": "yes",
+                "name": "Lokeren Spoorweglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE MOLENSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916648,
+                    51.093042
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,215 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320;340",
+                "ref:De_Lijn": "206358",
+                "bus": "yes",
+                "name": "Opwijk Kapellebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERVELDSTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.18328,
+                    50.980482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206926",
+                "bus": "yes",
+                "name": "Opwijk Doortstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DOORTSTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.192906,
+                    50.97655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;41;43",
+                "ref:De_Lijn": "206183",
+                "bus": "yes",
+                "name": "Opwijk Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.187033,
+                    50.974627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "206957",
+                "bus": "yes",
+                "name": "Opwijk Doortstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORTSTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.192949,
+                    50.976461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;41;43;44;320;340",
+                "ref:De_Lijn": "207690",
+                "bus": "yes",
+                "name": "Opwijk Kouterlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERLAAN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.183757,
+                    50.974918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320;340",
+                "ref:De_Lijn": "217006",
+                "bus": "yes",
+                "name": "Opwijk Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.187048,
+                    50.974519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "207700",
+                "bus": "yes",
+                "name": "Opwijk Ravensveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKSKEN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.179545,
+                    50.977824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;41;43;44",
+                "ref:De_Lijn": "207183",
+                "bus": "yes",
+                "name": "Opwijk Station Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.186962,
+                    50.974582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;320;340",
+                "ref:De_Lijn": "206700",
+                "bus": "yes",
+                "name": "Opwijk Ravensveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKSKEN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17909,
+                    50.977823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;41;43;44;320;340",
+                "ref:De_Lijn": "206690",
+                "bus": "yes",
+                "name": "Opwijk Heirbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.183147,
+                    50.974495
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505717",
+                "bus": "yes",
+                "name": "Poelkapelle Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE MOLENSTRAAT POELKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.96098,
+                    50.916709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505986",
+                "bus": "yes",
+                "name": "Poelkapelle Eeckhoutmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG POELKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.949148,
+                    50.912431
+                ]
+            }
+        }
+    ]
+}

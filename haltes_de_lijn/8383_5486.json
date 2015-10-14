@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308564",
+                "bus": "yes",
+                "name": "Peizegem Ten Houte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT HUYBRECHTSTRAAT MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.211081,
+                    50.978949
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200712",
+                "bus": "yes",
+                "name": "Wachtebeke Papdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPDIJK WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9036,
+                    51.200911
+                ]
+            }
+        }
+    ]
+}

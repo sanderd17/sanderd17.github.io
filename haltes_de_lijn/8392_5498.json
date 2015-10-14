@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;343;348;349",
+                "ref:De_Lijn": "307853",
+                "bus": "yes",
+                "name": "Delta",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N210 OUDERGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.403774,
+                    50.818139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;343;348;349",
+                "ref:De_Lijn": "308957",
+                "bus": "yes",
+                "name": "Fraiteur",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N206 ELSENE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396707,
+                    50.817547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;343;348;349",
+                "ref:De_Lijn": "307852",
+                "bus": "yes",
+                "name": "Delta",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N210 OUDERGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.403831,
+                    50.818283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "504",
+                "ref:De_Lijn": "300972",
+                "bus": "yes",
+                "name": "Van Drommen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OUDERGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414759,
+                    50.819061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "504",
+                "ref:De_Lijn": "300973",
+                "bus": "yes",
+                "name": "Van Drommen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OUDERGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415511,
+                    50.81898
+                ]
+            }
+        }
+    ]
+}

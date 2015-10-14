@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;69",
+                "ref:De_Lijn": "509353",
+                "bus": "yes",
+                "name": "Oostvleteren Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RENINGESTRAAT OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.748223,
+                    50.933281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "509460",
+                "bus": "yes",
+                "name": "Reninge Kruisdoorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTVLETERENSTRAAT RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.764745,
+                    50.939442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;69",
+                "ref:De_Lijn": "504353",
+                "bus": "yes",
+                "name": "Oostvleteren Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RENINGESTRAAT OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.748514,
+                    50.933492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "509200",
+                "bus": "yes",
+                "name": "Oostvleteren Zonnegloed",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELWEG OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.752229,
+                    50.940062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "504460",
+                "bus": "yes",
+                "name": "Reninge Kruisdoorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTVLETERENSTRAAT RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.764726,
+                    50.939576
+                ]
+            }
+        }
+    ]
+}

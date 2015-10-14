@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "508555",
+                "bus": "yes",
+                "name": "Poperinge Kleine Dasdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.700282,
+                    50.837712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "504404",
+                "bus": "yes",
+                "name": "Poperinge De Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.692323,
+                    50.835099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "509404",
+                "bus": "yes",
+                "name": "Poperinge De Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.692426,
+                    50.83501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "504324",
+                "bus": "yes",
+                "name": "Poperinge Kleine Dasdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.700699,
+                    50.83797
+                ]
+            }
+        }
+    ]
+}

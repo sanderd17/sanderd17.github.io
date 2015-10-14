@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504255",
+                "bus": "yes",
+                "name": "Ploegsteert Le Bizet Touquetstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOUQUETSTRAAT LE BIZET",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.884377,
+                    50.706501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504304",
+                "bus": "yes",
+                "name": "Ploegsteert Le Bizet Driebisschoppenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIE-BISDOMMENSTRAAT LE BIZET",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885443,
+                    50.707719
+                ]
+            }
+        }
+    ]
+}

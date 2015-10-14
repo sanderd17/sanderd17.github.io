@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;78",
+                "ref:De_Lijn": "505704",
+                "bus": "yes",
+                "name": "Zwevezele Meiboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIBOOMSTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18182,
+                    51.020648
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107031",
+                "bus": "yes",
+                "name": "Bouwel Looystraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSE STEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709766,
+                    51.165259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107029",
+                "bus": "yes",
+                "name": "Nijlen Hulstsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUWELSESTEENWEG NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.705155,
+                    51.164157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107030",
+                "bus": "yes",
+                "name": "Bouwel Looystraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSE STEENWEG BOUWEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709793,
+                    51.165097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107028",
+                "bus": "yes",
+                "name": "Nijlen Hulstsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUWELSESTEENWEG NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.705311,
+                    51.164031
+                ]
+            }
+        }
+    ]
+}

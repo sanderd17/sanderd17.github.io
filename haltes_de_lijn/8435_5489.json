@@ -1,0 +1,760 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403033",
+                "bus": "yes",
+                "name": "Hasselt Handelsschool",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GOUVERNEUR VERWILGHENSINGEL HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.349872,
+                    50.938591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;9;11;46",
+                "ref:De_Lijn": "403133",
+                "bus": "yes",
+                "name": "Hasselt Kanadastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERSTEENWEG NIEUW VELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.348114,
+                    50.943667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403042",
+                "bus": "yes",
+                "name": "Hasselt Leeuweriklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEUWERIKLAAN NIEUW VELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.358011,
+                    50.943998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;9;46",
+                "ref:De_Lijn": "403095",
+                "bus": "yes",
+                "name": "Hasselt Herdersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERSTEENWEG NIEUW VELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.356023,
+                    50.943511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407551",
+                "bus": "yes",
+                "name": "Hasselt Vildersstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VILDERSSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.343447,
+                    50.936173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;36;45;H3;H5;20a;CaH",
+                "ref:De_Lijn": "403497",
+                "bus": "yes",
+                "name": "Hasselt Kapermolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N702 HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347283,
+                    50.933848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403593",
+                "bus": "yes",
+                "name": "Hasselt Rijksadministratief Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILLEKENSMOLENSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.355921,
+                    50.931951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;H2",
+                "ref:De_Lijn": "403433",
+                "bus": "yes",
+                "name": "Hasselt Zwembad Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347625,
+                    50.93594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;46",
+                "ref:De_Lijn": "403094",
+                "bus": "yes",
+                "name": "Hasselt Herdersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERSTEENWEG NIEUW VELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.357585,
+                    50.943354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;8;11;13;16;22;23;35;46;48;51;52;H2;104;180;182;18a;283",
+                "ref:De_Lijn": "403084",
+                "bus": "yes",
+                "name": "Hasselt Handelsschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUVERNEUR VERWILGHENSINGEL HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.348374,
+                    50.939089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403506",
+                "bus": "yes",
+                "name": "Hasselt Vormingscentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRICHTERHEIDEWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.360979,
+                    50.938354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;11;46",
+                "ref:De_Lijn": "403132",
+                "bus": "yes",
+                "name": "Hasselt Kanadastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERSTEENWEG NIEUW VELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.346575,
+                    50.943572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;45;H3;H5;20a;CaH",
+                "ref:De_Lijn": "403274",
+                "bus": "yes",
+                "name": "Hasselt Rijksadministratief Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N702 HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.357416,
+                    50.931965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "403435",
+                "bus": "yes",
+                "name": "Hasselt Zwembad Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347859,
+                    50.936208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407550",
+                "bus": "yes",
+                "name": "Hasselt Vildersstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VILDERSSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.343745,
+                    50.936116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403089",
+                "bus": "yes",
+                "name": "Hasselt Hazelarenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZELARENLAAN NIEUW VELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.354978,
+                    50.944581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403031",
+                "bus": "yes",
+                "name": "Hasselt Handelsschool",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.349819,
+                    50.938763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403244",
+                "bus": "yes",
+                "name": "Hasselt Dusartplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MARTELARENLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.343281,
+                    50.932254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;8;11;104",
+                "ref:De_Lijn": "403437",
+                "bus": "yes",
+                "name": "Hasselt Zwembad Perron 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.348092,
+                    50.936476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;35;283",
+                "ref:De_Lijn": "403432",
+                "bus": "yes",
+                "name": "Hasselt Zwembad Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347538,
+                    50.935842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;5;8;11;13;16;22;23;35;46;48;51;52;H2;H3;104;105;180;182;18a;283;35c",
+                "ref:De_Lijn": "403085",
+                "bus": "yes",
+                "name": "Hasselt Handelsschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUVERNEUR VERWILGHENSINGEL HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.346084,
+                    50.939117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;5;8;11;13;16;22;23;35;46;48;51;52;H2;H3;104;105;180;182;18a;283;35c",
+                "ref:De_Lijn": "403430",
+                "bus": "yes",
+                "name": "Hasselt Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347352,
+                    50.935816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "410130",
+                "bus": "yes",
+                "name": "Hasselt VDAB",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VISSERSSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.353883,
+                    50.939888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403002",
+                "bus": "yes",
+                "name": "Kuringen Demerbrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KEMPISCHE STEENWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.341177,
+                    50.939194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;36;45;H3;20a;CaH",
+                "ref:De_Lijn": "403498",
+                "bus": "yes",
+                "name": "Hasselt Kapermolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N702 HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.34837,
+                    50.934109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;8;11;13;16;22;23;35;36;45;46;48;51;52;H2;H3;H5;H9;104;105;180;182;18a;20a;283;CaH",
+                "ref:De_Lijn": "403041",
+                "bus": "yes",
+                "name": "Hasselt Dusartplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N702 HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.343501,
+                    50.932594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;5;8;11;13;16;22;23;35;36;45;46;48;51;52;BP;H2;H3;H6;104;105;180;182;18a;20a;283;35c;CaH",
+                "ref:De_Lijn": "403040",
+                "bus": "yes",
+                "name": "Hasselt Dusartplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING BOUDEWIJNLAAN HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.342921,
+                    50.93277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403505",
+                "bus": "yes",
+                "name": "Hasselt Vormingscentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRICHTERHEIDEWEG HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.361006,
+                    50.938255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H9",
+                "ref:De_Lijn": "403870",
+                "bus": "yes",
+                "name": "Hasselt Sint-Jansplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPERMOLENSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.346804,
+                    50.932045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;48",
+                "ref:De_Lijn": "403434",
+                "bus": "yes",
+                "name": "Hasselt Zwembad Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347713,
+                    50.936047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "403043",
+                "bus": "yes",
+                "name": "Hasselt Leeuweriklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEUWERIKLAAN NIEUW VELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.357639,
+                    50.94392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "403431",
+                "bus": "yes",
+                "name": "Hasselt Zwembad Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347422,
+                    50.935717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;9;46",
+                "ref:De_Lijn": "403091",
+                "bus": "yes",
+                "name": "Hasselt Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERSTEENWEG NIEUW VELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.361001,
+                    50.943397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;180;182;18a",
+                "ref:De_Lijn": "403436",
+                "bus": "yes",
+                "name": "Hasselt Zwembad Perron 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELFDE LINIESTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.347975,
+                    50.936342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;45;H3;20a;CaH",
+                "ref:De_Lijn": "403275",
+                "bus": "yes",
+                "name": "Hasselt Rijksadministratief Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N702 HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.356982,
+                    50.932329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403507",
+                "bus": "yes",
+                "name": "Hasselt VDAB",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISSERSSTRAAT HASSELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.354027,
+                    50.93995
+                ]
+            }
+        }
+    ]
+}

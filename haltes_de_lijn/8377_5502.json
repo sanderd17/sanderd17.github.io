@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "161;502",
+                "ref:De_Lijn": "301645",
+                "bus": "yes",
+                "name": "Kester Raseveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT HERFELINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.07168,
+                    50.755543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "161;502",
+                "ref:De_Lijn": "301644",
+                "bus": "yes",
+                "name": "Kester Raseveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT KESTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.071891,
+                    50.755696
+                ]
+            }
+        }
+    ]
+}

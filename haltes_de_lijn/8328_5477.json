@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505148",
+                "bus": "yes",
+                "name": "Ichtegem Beukendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERDIJKSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.008294,
+                    51.108846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "505721",
+                "bus": "yes",
+                "name": "Koekelare Geuzen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.995002,
+                    51.097526
+                ]
+            }
+        }
+    ]
+}

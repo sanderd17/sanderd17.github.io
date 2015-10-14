@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209377",
+                "bus": "yes",
+                "name": "Leupegem Westerring",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG LEUPEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.601222,
+                    50.832798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;460",
+                "ref:De_Lijn": "208378",
+                "bus": "yes",
+                "name": "Melden Schapendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG LEUPEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.59335,
+                    50.828907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;460",
+                "ref:De_Lijn": "208377",
+                "bus": "yes",
+                "name": "Leupegem Westerring",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG LEUPEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.601394,
+                    50.832673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209378",
+                "bus": "yes",
+                "name": "Melden Schapendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG LEUPEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.592799,
+                    50.828787
+                ]
+            }
+        }
+    ]
+}

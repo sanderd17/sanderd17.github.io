@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300434",
+                "bus": "yes",
+                "name": "Wezemaal Heikantberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN HEIKANT (ROTSELAAR)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.751155,
+                    50.961575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300433",
+                "bus": "yes",
+                "name": "Wezemaal Middelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PATERNOSTERSTRAAT ROTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7613,
+                    50.961047
+                ]
+            }
+        }
+    ]
+}

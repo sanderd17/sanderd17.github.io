@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "152;213;420;427;428;513",
+                "ref:De_Lijn": "106469",
+                "bus": "yes",
+                "name": "Grobbendonk Hildering",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFEINDE GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.76199,
+                    51.197428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "152;409;420;421;427;428;513",
+                "ref:De_Lijn": "106468",
+                "bus": "yes",
+                "name": "Grobbendonk Hildering",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFEINDE GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.762192,
+                    51.19758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "152;213;420;421;427;428;513",
+                "ref:De_Lijn": "106467",
+                "bus": "yes",
+                "name": "Grobbendonk Watermolenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFEINDE GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.753173,
+                    51.195093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "152;409;420;421;427;428;513",
+                "ref:De_Lijn": "106466",
+                "bus": "yes",
+                "name": "Grobbendonk Watermolenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFEINDE GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.752773,
+                    51.195139
+                ]
+            }
+        }
+    ]
+}

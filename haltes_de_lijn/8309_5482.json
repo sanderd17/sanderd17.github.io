@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "505401",
+                "bus": "yes",
+                "name": "Houtem Middenweg 10",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDENWEG DE MOEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.580383,
+                    51.037588
+                ]
+            }
+        }
+    ]
+}

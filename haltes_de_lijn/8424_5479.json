@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408212",
+                "bus": "yes",
+                "name": "Tessenderlo Begijnenwinning III",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEGIJNENWINNING TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.099406,
+                    51.07312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408214",
+                "bus": "yes",
+                "name": "Tessenderlo Begijnenwinning IV",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEGIJNENWINNING TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.100884,
+                    51.072724
+                ]
+            }
+        }
+    ]
+}

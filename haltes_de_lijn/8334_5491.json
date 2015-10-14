@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505532",
+                "bus": "yes",
+                "name": "Rumbeke Dadizeleleenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORSEELSESTEENWEG RUMBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.139619,
+                    50.9134
+                ]
+            }
+        }
+    ]
+}

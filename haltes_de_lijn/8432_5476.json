@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "405586",
+                "bus": "yes",
+                "name": "Leopoldsburg Infanterie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 LEOPOLDSBURG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.282096,
+                    51.119336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "405587",
+                "bus": "yes",
+                "name": "Leopoldsburg Infanterie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 LEOPOLDSBURG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.282637,
+                    51.11926
+                ]
+            }
+        }
+    ]
+}

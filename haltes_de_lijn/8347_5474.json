@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;64;87;185",
+                "ref:De_Lijn": "202332",
+                "bus": "yes",
+                "name": "Knesselare Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELLESTRAAT KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.412382,
+                    51.138846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200860",
+                "bus": "yes",
+                "name": "Knesselare Eentveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EENTVELDSTRAAT KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.413695,
+                    51.148718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "202291",
+                "bus": "yes",
+                "name": "Knesselare Driesselken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMISSESTRAAT KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.414415,
+                    51.139357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "202289",
+                "bus": "yes",
+                "name": "Knesselare Waterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALDEGEMSEWEG KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.425328,
+                    51.142429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;64;87",
+                "ref:De_Lijn": "203332",
+                "bus": "yes",
+                "name": "Knesselare Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE PLAATS KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.412389,
+                    51.139197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "202290",
+                "bus": "yes",
+                "name": "Knesselare Kouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTER KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.421097,
+                    51.140319
+                ]
+            }
+        }
+    ]
+}

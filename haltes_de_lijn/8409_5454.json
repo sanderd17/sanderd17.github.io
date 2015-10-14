@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "102382",
+                "bus": "yes",
+                "name": "Baarle-Nassau Schrans",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN CASTELRE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.773202,
+                    51.417655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "102381",
+                "bus": "yes",
+                "name": "Baarle-Nassau Schrans",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN CASTELRE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.773189,
+                    51.417763
+                ]
+            }
+        }
+    ]
+}

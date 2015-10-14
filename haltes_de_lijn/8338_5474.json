@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505227",
+                "bus": "yes",
+                "name": "Oostkamp Vierwege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLIEGWEG OOSTKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.208253,
+                    51.145269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "502456",
+                "bus": "yes",
+                "name": "Oostkamp Roodhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWBURGSTRAAT OOSTKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.214356,
+                    51.140645
+                ]
+            }
+        }
+    ]
+}

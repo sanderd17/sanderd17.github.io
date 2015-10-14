@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "530;532;533;538;539;660;681",
+                "ref:De_Lijn": "108522",
+                "bus": "yes",
+                "name": "Bonheiden Spiekelei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEWEG BONHEIDEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.579919,
+                    51.015413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "530;532;533;538;539;660;681;931",
+                "ref:De_Lijn": "108519",
+                "bus": "yes",
+                "name": "Bonheiden Gezonde Luchtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEWEG BONHEIDEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.57326,
+                    51.017744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104041",
+                "bus": "yes",
+                "name": "Bonheiden Hazelaarlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEULISBAAN RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582009,
+                    51.023697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "530;532;533;538;539;660;681",
+                "ref:De_Lijn": "108523",
+                "bus": "yes",
+                "name": "Bonheiden Spiekelei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEWEG BONHEIDEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.579649,
+                    51.015719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "530;532;533;538;539;660;681;931",
+                "ref:De_Lijn": "108521",
+                "bus": "yes",
+                "name": "Bonheiden Gezonde Luchtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEWEG BONHEIDEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.574557,
+                    51.017778
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "300267",
+                "bus": "yes",
+                "name": "Mollem Sint-Stefanus-Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.226861,
+                    50.930877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "307492",
+                "bus": "yes",
+                "name": "Mollem Voorste Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORSTEHOEVE MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.223737,
+                    50.933669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300313",
+                "bus": "yes",
+                "name": "Mollem Voorste Hoeve",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VOORSTEHOEVE MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.223595,
+                    50.933758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "300268",
+                "bus": "yes",
+                "name": "Mollem Sint-Stefanus-Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.226719,
+                    50.930814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "301938",
+                "bus": "yes",
+                "name": "Mollem P. De Munter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEZEWEIDE MOLLEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.222331,
+                    50.932984
+                ]
+            }
+        }
+    ]
+}

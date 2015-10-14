@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "209979",
+                "bus": "yes",
+                "name": "Arcelor Mittal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOHN KENNEDYLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.833363,
+                    51.182403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205933",
+                "bus": "yes",
+                "name": "Arcelor Mittal",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.832319,
+                    51.182371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;73",
+                "ref:De_Lijn": "215003",
+                "bus": "yes",
+                "name": "Wachtebeke Kloosterbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEBROEDERS NAUDTSLAAN WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.838374,
+                    51.180601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;96;175",
+                "ref:De_Lijn": "202607",
+                "bus": "yes",
+                "name": "Arcelor Mittal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.832405,
+                    51.182381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;73;175",
+                "ref:De_Lijn": "214003",
+                "bus": "yes",
+                "name": "Wachtebeke Kloosterbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEBROEDERS NAUDTSLAAN WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.837873,
+                    51.181974
+                ]
+            }
+        }
+    ]
+}

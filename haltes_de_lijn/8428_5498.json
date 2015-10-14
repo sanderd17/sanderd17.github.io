@@ -1,0 +1,530 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;105;21a;23a;729;731;734",
+                "ref:De_Lijn": "407874",
+                "bus": "yes",
+                "name": "Sint-Truiden Europaplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSEVEST SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1889,
+                    50.812905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;729;731;734;S12",
+                "ref:De_Lijn": "408138",
+                "bus": "yes",
+                "name": "Sint-Truiden Festraetstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.19398,
+                    50.808833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "105;21a",
+                "ref:De_Lijn": "408034",
+                "bus": "yes",
+                "name": "Schurhoven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHURHOVEN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.192511,
+                    50.818921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;23a",
+                "ref:De_Lijn": "408065",
+                "bus": "yes",
+                "name": "Sint-Truiden Veiling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.205156,
+                    50.810974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;729;731;734;S12",
+                "ref:De_Lijn": "408139",
+                "bus": "yes",
+                "name": "Sint-Truiden Festraetstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.193281,
+                    50.80944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "408120",
+                "bus": "yes",
+                "name": "Sint-Truiden Zepperenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.196536,
+                    50.817041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406764",
+                "bus": "yes",
+                "name": "Sint-Truiden Nijverheidslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RELLESTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.207018,
+                    50.814323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "105;21a;S11",
+                "ref:De_Lijn": "408057",
+                "bus": "yes",
+                "name": "Sint-Truiden Tichelrijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TICHELRIJSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.193432,
+                    50.816407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;729;731;734;S12",
+                "ref:De_Lijn": "407853",
+                "bus": "yes",
+                "name": "Sint-Truiden Champagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.198309,
+                    50.80651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455660",
+                "bus": "yes",
+                "name": "Sint-Truiden Taxi",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.198968,
+                    50.806038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S2;S11;S12",
+                "ref:De_Lijn": "407872",
+                "bus": "yes",
+                "name": "Sint-Truiden Europaplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSEVEST SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.189105,
+                    50.813237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "408035",
+                "bus": "yes",
+                "name": "Schurhoven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHURHOVEN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.193242,
+                    50.819375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "407944",
+                "bus": "yes",
+                "name": "Sint-Truiden Industriezone",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203163,
+                    50.818585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;23a",
+                "ref:De_Lijn": "408087",
+                "bus": "yes",
+                "name": "Sint-Truiden Vlierboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.196497,
+                    50.811548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;23a",
+                "ref:De_Lijn": "408064",
+                "bus": "yes",
+                "name": "Sint-Truiden Veiling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203637,
+                    50.810913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a;23a",
+                "ref:De_Lijn": "408055",
+                "bus": "yes",
+                "name": "Sint-Truiden Tichelrijlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TICHELRIJLAAN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.192555,
+                    50.816602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;S1;S2;21a;23a;729;731;734;S10;S11;S12",
+                "ref:De_Lijn": "407873",
+                "bus": "yes",
+                "name": "Sint-Truiden Europaplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N3E SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18944,
+                    50.812938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "408121",
+                "bus": "yes",
+                "name": "Sint-Truiden Zepperenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.196581,
+                    50.817149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a;S11",
+                "ref:De_Lijn": "408056",
+                "bus": "yes",
+                "name": "Sint-Truiden Tichelrijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEPPERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.194527,
+                    50.816543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;23a",
+                "ref:De_Lijn": "408086",
+                "bus": "yes",
+                "name": "Sint-Truiden Vlierboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.196706,
+                    50.811358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406762",
+                "bus": "yes",
+                "name": "Sint-Truiden Nijverheidslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RELLESTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.207149,
+                    50.814502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;729;731;734;S12",
+                "ref:De_Lijn": "407852",
+                "bus": "yes",
+                "name": "Sint-Truiden Champagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.198952,
+                    50.805939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;S1;S2;21a;23a;729;731;734;S11;S12",
+                "ref:De_Lijn": "407946",
+                "bus": "yes",
+                "name": "Sint-Truiden Kattenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.192202,
+                    50.81264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S10;S11;S12",
+                "ref:De_Lijn": "408166",
+                "bus": "yes",
+                "name": "Sint-Truiden Heilig Hartplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.186758,
+                    50.815393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;S1;S2;23a;729;731;734;S11;S12",
+                "ref:De_Lijn": "407947",
+                "bus": "yes",
+                "name": "Sint-Truiden Kattenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.192186,
+                    50.812523
+                ]
+            }
+        }
+    ]
+}

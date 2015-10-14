@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201902",
+                "bus": "yes",
+                "name": "Laarne Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEWEG LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873585,
+                    51.029343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201921",
+                "bus": "yes",
+                "name": "Laarne Veldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEKSTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.880986,
+                    51.030453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201901",
+                "bus": "yes",
+                "name": "Laarne Zevenster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENTJESTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873495,
+                    51.035141
+                ]
+            }
+        }
+    ]
+}

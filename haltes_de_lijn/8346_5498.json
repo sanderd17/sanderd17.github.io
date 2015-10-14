@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;99",
+                "ref:De_Lijn": "508675",
+                "bus": "yes",
+                "name": "Otegem Wisse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEGEMSTRAAT OTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.395914,
+                    50.816495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;99",
+                "ref:De_Lijn": "503675",
+                "bus": "yes",
+                "name": "Otegem Wisse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEGEMSTRAAT OTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.395973,
+                    50.816387
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "505414",
+                "bus": "yes",
+                "name": "Eggewaartskapelle Palinghoekstraat 11",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PALINGHOEKSTRAAT EGGEWAARTSKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.726022,
+                    51.050867
+                ]
+            }
+        }
+    ]
+}

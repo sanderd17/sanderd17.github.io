@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101239",
+                "bus": "yes",
+                "name": "Lille Tuincentrum (afgschaft)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKZIJSTRAAT LILLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80549,
+                    51.238002
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "504962",
+                "bus": "yes",
+                "name": "Ieper Oostkaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTKAAI IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.871633,
+                    50.880925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "504989",
+                "bus": "yes",
+                "name": "Ieper Bargiestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARGIESTRAAT IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.874158,
+                    50.885543
+                ]
+            }
+        }
+    ]
+}

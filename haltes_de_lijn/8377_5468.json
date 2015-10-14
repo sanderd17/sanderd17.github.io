@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205765",
+                "bus": "yes",
+                "name": "Kemzeke Voorhoute",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAATWEG KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.066353,
+                    51.228602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204798",
+                "bus": "yes",
+                "name": "Kemzeke Hofpachtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REINAKKERWEG SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.074967,
+                    51.229289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;240",
+                "ref:De_Lijn": "205480",
+                "bus": "yes",
+                "name": "Kemzeke Drieschouwen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESCHOUWEN KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.067846,
+                    51.221307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;240",
+                "ref:De_Lijn": "204480",
+                "bus": "yes",
+                "name": "Kemzeke Drieschouwen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESCHOUWEN KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.067004,
+                    51.220945
+                ]
+            }
+        }
+    ]
+}

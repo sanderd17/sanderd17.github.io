@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108188",
+                "bus": "yes",
+                "name": "Wiekevorst Wimpel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTHOUTSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780993,
+                    51.120258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943;946",
+                "ref:De_Lijn": "104937",
+                "bus": "yes",
+                "name": "Wiekevorst Dalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTHOUTSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.786793,
+                    51.114035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943;946",
+                "ref:De_Lijn": "104936",
+                "bus": "yes",
+                "name": "Wiekevorst Dalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTHOUTSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.786696,
+                    51.114341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108189",
+                "bus": "yes",
+                "name": "Wiekevorst Wimpel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTHOUTSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780213,
+                    51.120863
+                ]
+            }
+        }
+    ]
+}

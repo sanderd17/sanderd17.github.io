@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;418;429;449",
+                "ref:De_Lijn": "107459",
+                "bus": "yes",
+                "name": "Lille Boskant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WECHELSEBAAN LILLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.816652,
+                    51.250724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;418;429;449",
+                "ref:De_Lijn": "107458",
+                "bus": "yes",
+                "name": "Lille Boskant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WECHELSEBAAN LILLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.816579,
+                    51.250527
+                ]
+            }
+        }
+    ]
+}

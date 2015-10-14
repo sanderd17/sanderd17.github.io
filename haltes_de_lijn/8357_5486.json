@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201501",
+                "bus": "yes",
+                "name": "De Pinte Deurlestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAZARETHSTRAAT DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.635543,
+                    50.983407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "201389",
+                "bus": "yes",
+                "name": "De Pinte Moerkensheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.645768,
+                    50.983425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;145",
+                "ref:De_Lijn": "200389",
+                "bus": "yes",
+                "name": "De Pinte Moerkensheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.645525,
+                    50.983496
+                ]
+            }
+        }
+    ]
+}

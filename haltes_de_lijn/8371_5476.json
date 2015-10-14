@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;270",
+                "ref:De_Lijn": "202636",
+                "bus": "yes",
+                "name": "Lokeren Haneweestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE STEENWEG LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.950185,
+                    51.114712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;270",
+                "ref:De_Lijn": "202635",
+                "bus": "yes",
+                "name": "Eksaarde Doorslaardam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORSLAARDAM EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.94497,
+                    51.11499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;270",
+                "ref:De_Lijn": "203636",
+                "bus": "yes",
+                "name": "Lokeren Haneweestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE STEENWEG LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.950729,
+                    51.11457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;270",
+                "ref:De_Lijn": "203635",
+                "bus": "yes",
+                "name": "Eksaarde Doorslaardam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORSLAARDAM EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.944971,
+                    51.114828
+                ]
+            }
+        }
+    ]
+}

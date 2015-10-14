@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36;145",
+                "ref:De_Lijn": "200591",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Kareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.684736,
+                    51.032058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36;145",
+                "ref:De_Lijn": "200590",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Stijn Streuvelslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.68063,
+                    51.030137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "200592",
+                "bus": "yes",
+                "name": "Dupuislaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAURICE DUPUISLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.688962,
+                    51.03557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "201591",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Kareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.685319,
+                    51.032133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "201592",
+                "bus": "yes",
+                "name": "Dupuislaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAURICE DUPUISLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.688944,
+                    51.035803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "201590",
+                "bus": "yes",
+                "name": "Sint-Denijs-Westrem Stijn Streuvelslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN SINT-DENIJS-WESTREM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.680987,
+                    51.030085
+                ]
+            }
+        }
+    ]
+}

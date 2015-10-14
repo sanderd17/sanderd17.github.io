@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;95",
+                "ref:De_Lijn": "507187",
+                "bus": "yes",
+                "name": "Hertsberge Lodi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.272712,
+                    51.117127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505053",
+                "bus": "yes",
+                "name": "Hertsberge Breeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEWEG HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.261112,
+                    51.112362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79;95",
+                "ref:De_Lijn": "502683",
+                "bus": "yes",
+                "name": "Hertsberge Huis nummer 109",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.268975,
+                    51.120526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;95",
+                "ref:De_Lijn": "502187",
+                "bus": "yes",
+                "name": "Hertsberge Lodi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.272483,
+                    51.117125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79;95",
+                "ref:De_Lijn": "507683",
+                "bus": "yes",
+                "name": "Hertsberge Huis nummer 109",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.269073,
+                    51.120635
+                ]
+            }
+        }
+    ]
+}

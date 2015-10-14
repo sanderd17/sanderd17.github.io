@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404675",
+                "bus": "yes",
+                "name": "Villers-Saint-Siméon Route de Slins",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DU TIGE VILLERS-SAINT-SIMÉON",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.537436,
+                    50.710921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404674",
+                "bus": "yes",
+                "name": "Villers-Saint-Siméon Route de Slins",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DU TIGE JUPRELLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.53761,
+                    50.711081
+                ]
+            }
+        }
+    ]
+}

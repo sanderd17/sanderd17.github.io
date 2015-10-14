@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "500555",
+                "bus": "yes",
+                "name": "Ichtegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARTHUR COUSSENSSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.010554,
+                    51.092519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;59;64",
+                "ref:De_Lijn": "507213",
+                "bus": "yes",
+                "name": "Ichtegem Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.018538,
+                    51.094373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "502583",
+                "bus": "yes",
+                "name": "Ichtegem Sportlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.022243,
+                    51.091637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "500499",
+                "bus": "yes",
+                "name": "Ichtegem Dorp",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ARTHUR COUSSENSSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.010365,
+                    51.092634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;59;64",
+                "ref:De_Lijn": "502213",
+                "bus": "yes",
+                "name": "Ichtegem Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.018449,
+                    51.094471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "507207",
+                "bus": "yes",
+                "name": "Ichtegem Coussensstraat nummer 100",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARTHUR COUSSENSSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02074,
+                    51.085821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "507583",
+                "bus": "yes",
+                "name": "Ichtegem Sportlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.022443,
+                    51.091621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "502207",
+                "bus": "yes",
+                "name": "Ichtegem Coussensstraat nummer 100",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARTHUR COUSSENSSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.020628,
+                    51.085757
+                ]
+            }
+        }
+    ]
+}

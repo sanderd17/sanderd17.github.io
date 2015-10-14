@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306821",
+                "bus": "yes",
+                "name": "Rillaar Rommelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROMMELAAR RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.899344,
+                    50.989972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306822",
+                "bus": "yes",
+                "name": "Rillaar Rommelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROMMELAAR RILLAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.899178,
+                    50.990431
+                ]
+            }
+        }
+    ]
+}

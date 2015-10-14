@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "501594",
+                "bus": "yes",
+                "name": "Avekapelle Roesdammestraat 24",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESDAMMESTRAAT AVEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.753533,
+                    51.063835
+                ]
+            }
+        }
+    ]
+}

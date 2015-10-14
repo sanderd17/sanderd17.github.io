@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;47",
+                "ref:De_Lijn": "508146",
+                "bus": "yes",
+                "name": "Esen Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT ESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.909083,
+                    51.025028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31;32;47",
+                "ref:De_Lijn": "503146",
+                "bus": "yes",
+                "name": "Esen Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT ESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.907934,
+                    51.025787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;47",
+                "ref:De_Lijn": "508141",
+                "bus": "yes",
+                "name": "Esen Cafe Moto-Sport",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.921722,
+                    51.023853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31;32;47",
+                "ref:De_Lijn": "503141",
+                "bus": "yes",
+                "name": "Esen Cafe Moto-Sport",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.920544,
+                    51.024162
+                ]
+            }
+        }
+    ]
+}

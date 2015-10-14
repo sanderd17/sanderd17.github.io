@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;707;708",
+                "ref:De_Lijn": "307388",
+                "bus": "yes",
+                "name": "Zichem Veststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRANENBURGSTRAAT ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990174,
+                    50.998651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307389",
+                "bus": "yes",
+                "name": "Zichem Steenweg Zichem-Diest 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG DIEST ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.999897,
+                    50.993915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;707;708",
+                "ref:De_Lijn": "307390",
+                "bus": "yes",
+                "name": "Zichem Steenweg Zichem-Diest 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG DIEST ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.998508,
+                    50.994471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307387",
+                "bus": "yes",
+                "name": "Zichem Veststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRANENBURGSTRAAT ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990275,
+                    50.99874
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "205038",
+                "bus": "yes",
+                "name": "Verrebroek Bralstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIELDRECHTSEBAAN KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.185584,
+                    51.270201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "204037",
+                "bus": "yes",
+                "name": "Kieldrecht Gemenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREEK KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.183944,
+                    51.275331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "205037",
+                "bus": "yes",
+                "name": "Kieldrecht Gemenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREEK KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.184087,
+                    51.27552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "204038",
+                "bus": "yes",
+                "name": "Verrebroek Bralstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIELDRECHTSEBAAN KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.185427,
+                    51.270048
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13b",
+                "ref:De_Lijn": "406686",
+                "bus": "yes",
+                "name": "Wijshagen Soetebeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SOETEBEEK WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.553074,
+                    51.117231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405470",
+                "bus": "yes",
+                "name": "Wijshagen Broeksbeemdenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SOETEBEEK WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.552434,
+                    51.113399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13b;746;748",
+                "ref:De_Lijn": "406687",
+                "bus": "yes",
+                "name": "Wijshagen Soetebeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SOETEBEEK WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.552822,
+                    51.116865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;33;13b;746;748",
+                "ref:De_Lijn": "406674",
+                "bus": "yes",
+                "name": "Wijshagen Martinlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARTINLAAN WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.552557,
+                    51.110943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;33;13b;746;748",
+                "ref:De_Lijn": "406675",
+                "bus": "yes",
+                "name": "Wijshagen Martinlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARTINLAAN WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.552705,
+                    51.110582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405469",
+                "bus": "yes",
+                "name": "Wijshagen Broeksbeemdenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SOETEBEEK WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.552433,
+                    51.113381
+                ]
+            }
+        }
+    ]
+}

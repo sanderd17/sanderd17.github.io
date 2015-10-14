@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;290;355",
+                "ref:De_Lijn": "204151",
+                "bus": "yes",
+                "name": "Zele Hansevelde Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANSEVELDE ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.080765,
+                    51.069061
+                ]
+            }
+        }
+    ]
+}

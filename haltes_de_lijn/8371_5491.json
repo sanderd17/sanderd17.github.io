@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "207458",
+                "bus": "yes",
+                "name": "Aaigem Kapelleken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZELBEEK AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.951426,
+                    50.904954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "206861",
+                "bus": "yes",
+                "name": "Aaigem Eetsvelde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEMUNT AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.939512,
+                    50.90501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;385",
+                "ref:De_Lijn": "206458",
+                "bus": "yes",
+                "name": "Aaigem Kapelleken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZELBEEK AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.951414,
+                    50.904747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "206323",
+                "bus": "yes",
+                "name": "Bambrugge Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIES BAMBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.937995,
+                    50.912276
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "205594",
+                "bus": "yes",
+                "name": "Zele Durmen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DURMEN ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.050731,
+                    51.084059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "204776",
+                "bus": "yes",
+                "name": "Zele Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DURMEN DURMEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0603,
+                    51.087293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "204775",
+                "bus": "yes",
+                "name": "Zele Donkerputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DURMEN DURMEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.055827,
+                    51.086077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205776",
+                "bus": "yes",
+                "name": "Zele Beekstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DURMEN DURMEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.060301,
+                    51.087132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205775",
+                "bus": "yes",
+                "name": "Zele Donkerputstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DURMEN DURMEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.056041,
+                    51.086006
+                ]
+            }
+        }
+    ]
+}

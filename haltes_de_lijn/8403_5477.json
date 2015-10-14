@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104756",
+                "bus": "yes",
+                "name": "Berlaar Sportcentrum Doelvelden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WELVAARTSTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.638068,
+                    51.108114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104757",
+                "bus": "yes",
+                "name": "Berlaar Welvaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WELVAARTSTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.64032,
+                    51.104999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104759",
+                "bus": "yes",
+                "name": "Berlaar Brandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEMELSHOEK BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643038,
+                    51.098583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104742",
+                "bus": "yes",
+                "name": "Berlaar Laar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMIDSTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.654076,
+                    51.108292
+                ]
+            }
+        }
+    ]
+}

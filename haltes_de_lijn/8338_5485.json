@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;29",
+                "ref:De_Lijn": "507246",
+                "bus": "yes",
+                "name": "Koolskamp Tramstation",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARDOOISESTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.210353,
+                    50.99887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;29",
+                "ref:De_Lijn": "502246",
+                "bus": "yes",
+                "name": "Koolskamp Tramstation",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARDOOISESTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.210194,
+                    50.998949
+                ]
+            }
+        }
+    ]
+}

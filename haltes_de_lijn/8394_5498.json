@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;343;344;345;348;349;504;544;547;548",
+                "ref:De_Lijn": "300969",
+                "bus": "yes",
+                "name": "Rood Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OUDERGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.439582,
+                    50.811434
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "509381",
+                "bus": "yes",
+                "name": "Ploegsteert Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLACE DE LA RABECQUE PLOEGSTEERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.880794,
+                    50.726282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "509385",
+                "bus": "yes",
+                "name": "Ploegsteert Zwart Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MESENSTRAAT PLOEGSTEERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.879724,
+                    50.731456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504381",
+                "bus": "yes",
+                "name": "Ploegsteert Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLACE DE LA RABECQUE PLOEGSTEERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.880611,
+                    50.726243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504385",
+                "bus": "yes",
+                "name": "Ploegsteert Zwart Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MESENSTRAAT PLOEGSTEERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.879485,
+                    50.731372
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b;212;219;946",
+                "ref:De_Lijn": "109252",
+                "bus": "yes",
+                "name": "Herentals Kruisboogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOBSSTRAAT HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.859455,
+                    51.182088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b;212;219;946",
+                "ref:De_Lijn": "109251",
+                "bus": "yes",
+                "name": "Herentals Kruisboogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOBSSTRAAT HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.858626,
+                    51.1821
+                ]
+            }
+        }
+    ]
+}

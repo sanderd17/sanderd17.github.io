@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201689",
+                "bus": "yes",
+                "name": "Vinderhoute Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN VINDERHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.631503,
+                    51.086428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "201401",
+                "bus": "yes",
+                "name": "Vinderhoute Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT VINDERHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.642777,
+                    51.088359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69;160",
+                "ref:De_Lijn": "200402",
+                "bus": "yes",
+                "name": "Vinderhoute Neerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRONGENSE STEENWEG VINDERHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.637708,
+                    51.08848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "201402",
+                "bus": "yes",
+                "name": "Vinderhoute Neerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRONGENSE STEENWEG VINDERHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.637879,
+                    51.088481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69;160",
+                "ref:De_Lijn": "202364",
+                "bus": "yes",
+                "name": "Lovendegem Bierstal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.645454,
+                    51.092447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69;160",
+                "ref:De_Lijn": "200401",
+                "bus": "yes",
+                "name": "Vinderhoute Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT VINDERHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.642793,
+                    51.088269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202996",
+                "bus": "yes",
+                "name": "Vinderhoute Dorp",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KASTEELLAAN VINDERHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.640571,
+                    51.087024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "203364",
+                "bus": "yes",
+                "name": "Lovendegem Bierstal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.644659,
+                    51.093116
+                ]
+            }
+        }
+    ]
+}

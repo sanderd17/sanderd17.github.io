@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "403856",
+                "bus": "yes",
+                "name": "Herentals Langepad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.856013,
+                    51.170192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "403855",
+                "bus": "yes",
+                "name": "Herentals Greesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.861882,
+                    51.1681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "403854",
+                "bus": "yes",
+                "name": "Herentals Greesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.861865,
+                    51.167921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101464",
+                "bus": "yes",
+                "name": "Herentals Greesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.861896,
+                    51.1681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101463",
+                "bus": "yes",
+                "name": "Herentals Greesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.861865,
+                    51.167921
+                ]
+            }
+        }
+    ]
+}

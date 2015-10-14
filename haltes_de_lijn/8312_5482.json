@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "505311",
+                "bus": "yes",
+                "name": "Bulskamp Hof Ter Daele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOONAKKERSTRAAT BULSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.653622,
+                    51.03776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;58;59",
+                "ref:De_Lijn": "509058",
+                "bus": "yes",
+                "name": "Bulskamp Beauvoordestraat nummer 49",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEAUVOORDESTRAAT BULSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.64526,
+                    51.040227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504058",
+                "bus": "yes",
+                "name": "Bulskamp Beauvoordestraat nummer 49",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEAUVOORDESTRAAT BULSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.645496,
+                    51.040411
+                ]
+            }
+        }
+    ]
+}

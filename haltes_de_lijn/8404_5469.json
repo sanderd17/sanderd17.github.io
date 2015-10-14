@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102868",
+                "bus": "yes",
+                "name": "Zandhoven Markthalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.665571,
+                    51.216128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411;414;420;421;427;428",
+                "ref:De_Lijn": "106443",
+                "bus": "yes",
+                "name": "Zandhoven Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMELBERGASTRAAT ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.663877,
+                    51.217471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411;414;419;420;421;427;428",
+                "ref:De_Lijn": "106442",
+                "bus": "yes",
+                "name": "Zandhoven Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMELBERGASTRAAT ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.663734,
+                    51.217552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102867",
+                "bus": "yes",
+                "name": "Zandhoven Markthalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.665496,
+                    51.21549
+                ]
+            }
+        }
+    ]
+}

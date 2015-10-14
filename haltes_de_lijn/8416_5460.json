@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432;480",
+                "ref:De_Lijn": "106328",
+                "bus": "yes",
+                "name": "Turnhout Steenbakkerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP MERKSPLAS TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.923079,
+                    51.330764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "106689",
+                "bus": "yes",
+                "name": "Turnhout Lusthof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTELEIN TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.943515,
+                    51.343969
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504507",
+                "bus": "yes",
+                "name": "Veurne Weg Op Avekapelle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVEKAPELLESTRAAT VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.730312,
+                    51.072164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "509507",
+                "bus": "yes",
+                "name": "Veurne Weg Op Avekapelle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVEKAPELLESTRAAT VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.730346,
+                    51.072416
+                ]
+            }
+        }
+    ]
+}

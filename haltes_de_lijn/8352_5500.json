@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "207865",
+                "bus": "yes",
+                "name": "Ter Donk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.526714,
+                    50.790329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;470",
+                "ref:De_Lijn": "206865",
+                "bus": "yes",
+                "name": "Ter Donk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.527352,
+                    50.79037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "209419",
+                "bus": "yes",
+                "name": "Kluisbergen Kieverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.515631,
+                    50.783641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;470",
+                "ref:De_Lijn": "208386",
+                "bus": "yes",
+                "name": "Brugzavel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKLAAN BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.517473,
+                    50.790802
+                ]
+            }
+        }
+    ]
+}

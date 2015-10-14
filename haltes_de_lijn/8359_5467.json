@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;195",
+                "ref:De_Lijn": "202275",
+                "bus": "yes",
+                "name": "Bassevelde Bloksheule",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BOEKHOUTESTRAAT BASSEVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.672127,
+                    51.23582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209801",
+                "bus": "yes",
+                "name": "Bassevelde Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.675349,
+                    51.234823
+                ]
+            }
+        }
+    ]
+}

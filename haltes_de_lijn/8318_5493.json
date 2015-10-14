@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "504078",
+                "bus": "yes",
+                "name": "Elverdinge Gasthuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N333 ELVERDINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.787092,
+                    50.882299
+                ]
+            }
+        }
+    ]
+}

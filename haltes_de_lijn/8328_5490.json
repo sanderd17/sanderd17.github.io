@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;95",
+                "ref:De_Lijn": "504589",
+                "bus": "yes",
+                "name": "Westrozebeke Zeuge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POELKAPELLESTRAAT WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.005963,
+                    50.9257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;95",
+                "ref:De_Lijn": "509589",
+                "bus": "yes",
+                "name": "Westrozebeke Zeuge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POELKAPELLESTRAAT WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.006015,
+                    50.925853
+                ]
+            }
+        }
+    ]
+}

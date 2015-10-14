@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;49",
+                "ref:De_Lijn": "203869",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Swessestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUISBEKE SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.837567,
+                    50.932029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;49",
+                "ref:De_Lijn": "203868",
+                "bus": "yes",
+                "name": "Oosterzele Boekhoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT OOSTERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827183,
+                    50.938194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;49;440",
+                "ref:De_Lijn": "202868",
+                "bus": "yes",
+                "name": "Oosterzele Boekhoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT OOSTERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827324,
+                    50.938275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;49;390",
+                "ref:De_Lijn": "202869",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Swessestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUISBEKE SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83768,
+                    50.932156
+                ]
+            }
+        }
+    ]
+}

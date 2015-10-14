@@ -1,0 +1,1328 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;11",
+                "ref:De_Lijn": "105235",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Katelijne",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE NIEUWSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.405657,
+                    51.220064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "103500",
+                "bus": "yes",
+                "name": "Kronenburgstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRONENBURGSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400813,
+                    51.211608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "102665",
+                "zone:De_Lijn": "01",
+                "name": "Groenplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROENPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401362,
+                    51.218726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "101637",
+                "zone:De_Lijn": "01",
+                "name": "Van Bree",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MECHELSESTEENWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40831,
+                    51.209349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102264",
+                "bus": "yes",
+                "name": "Stockmansstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404517,
+                    51.208515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;22;180;181;182;183",
+                "ref:De_Lijn": "105435",
+                "bus": "yes",
+                "name": "Sint-Andries",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "NATIONALESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399256,
+                    51.216156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;11",
+                "ref:De_Lijn": "103095",
+                "name": "Jezusstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SINT-JACOBSMARKT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414116,
+                    51.219998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;291;295",
+                "ref:De_Lijn": "105220",
+                "bus": "yes",
+                "name": "Sint-Jansvliet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLANTINKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395078,
+                    51.218404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "101230",
+                "bus": "yes",
+                "name": "Begijnenvest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELPLEINSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.402185,
+                    51.209747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;5;9;15",
+                "ref:De_Lijn": "104725",
+                "zone:De_Lijn": "01",
+                "name": "Opera",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415116,
+                    51.218012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;11",
+                "ref:De_Lijn": "104220",
+                "zone:De_Lijn": "01",
+                "name": "Melkmarkt",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KORTE NIEUWSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404211,
+                    51.220334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102403",
+                "bus": "yes",
+                "name": "Afstaphalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415975,
+                    51.218434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;191;507",
+                "ref:De_Lijn": "104875",
+                "bus": "yes",
+                "name": "Rubenslei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "QUINTEN MATSIJSLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415599,
+                    51.21447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;24",
+                "ref:De_Lijn": "102270",
+                "name": "Franklin Rooseveltplaats Perron 51",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416176,
+                    51.219332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;7",
+                "ref:De_Lijn": "104161",
+                "zone:De_Lijn": "01",
+                "name": "Mechelseplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE GASTHUISSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404865,
+                    51.21371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;12;13;24",
+                "ref:De_Lijn": "104505",
+                "bus": "yes",
+                "name": "Teniers",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414743,
+                    51.217688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;20;191;290;500;507",
+                "ref:De_Lijn": "102879",
+                "bus": "yes",
+                "name": "Teniers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415502,
+                    51.21758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "101580",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Vincentius",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE LEEMSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414361,
+                    51.207226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;22;180;181;182;183",
+                "ref:De_Lijn": "102535",
+                "bus": "yes",
+                "name": "Tropisch Instituut",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "NATIONALESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.39768,
+                    51.21293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;12;13;24;290;500",
+                "ref:De_Lijn": "101565",
+                "bus": "yes",
+                "name": "Bres",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.398964,
+                    51.207716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "102825",
+                "zone:De_Lijn": "01",
+                "name": "Hemel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE LEEMSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.410285,
+                    51.209546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "104185",
+                "name": "Meirbrug",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MEIR ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404739,
+                    51.21842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "101365",
+                "zone:De_Lijn": "01",
+                "name": "Hemel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE LEEMSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412072,
+                    51.208539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;5;9;15",
+                "ref:De_Lijn": "104721",
+                "zone:De_Lijn": "01",
+                "name": "Meir",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MEIR ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4065,
+                    51.218275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;12;13;24;290;500",
+                "ref:De_Lijn": "102505",
+                "bus": "yes",
+                "name": "Kasteelplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.402228,
+                    51.20883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102402",
+                "bus": "yes",
+                "name": "Afstaphalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415889,
+                    51.218263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102406",
+                "bus": "yes",
+                "name": "Afstaphalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416147,
+                    51.218775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102263",
+                "bus": "yes",
+                "name": "Stockmansstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404803,
+                    51.208514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;7",
+                "ref:De_Lijn": "104375",
+                "name": "Nationale Bank",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408269,
+                    51.211336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;291;295",
+                "ref:De_Lijn": "104996",
+                "bus": "yes",
+                "name": "Sint-Jansvliet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLANTINKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.39505,
+                    51.218072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "101130",
+                "bus": "yes",
+                "name": "Begijnenvest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELPLEINSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401942,
+                    51.209927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "102670",
+                "zone:De_Lijn": "01",
+                "name": "Groenplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROENPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401505,
+                    51.218439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;12;13;24;290;500",
+                "ref:De_Lijn": "104365",
+                "bus": "yes",
+                "name": "Nationale Bank",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408355,
+                    51.211623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;12;13;24;290;500",
+                "ref:De_Lijn": "102500",
+                "bus": "yes",
+                "name": "Kasteelplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.403616,
+                    51.209207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "103755",
+                "bus": "yes",
+                "name": "Kronenburgstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELPLEINSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401113,
+                    51.211509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;7",
+                "ref:De_Lijn": "104370",
+                "name": "Nationale Bank",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40877,
+                    51.211497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;191;507",
+                "ref:De_Lijn": "108145",
+                "bus": "yes",
+                "name": "Rubenslei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIA-THERESIALEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415027,
+                    51.215468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;22;180;181;182;183",
+                "ref:De_Lijn": "103475",
+                "bus": "yes",
+                "name": "Sint-Andries",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "NATIONALESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.398712,
+                    51.215446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;5;9;15",
+                "ref:De_Lijn": "104555",
+                "zone:De_Lijn": "01",
+                "name": "Groenplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROENPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401433,
+                    51.2186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "105265",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Vincentius",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE LEEMSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414732,
+                    51.206893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13",
+                "ref:De_Lijn": "102275",
+                "bus": "yes",
+                "name": "Franklin Rooseveltplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITALIËLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416034,
+                    51.220645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "104200",
+                "name": "Meirbrug",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SINT-KATELIJNEVEST ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.405169,
+                    51.218986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;5;9;15",
+                "ref:De_Lijn": "104726",
+                "zone:De_Lijn": "01",
+                "name": "Opera",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415116,
+                    51.218012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;24",
+                "ref:De_Lijn": "104500",
+                "zone:De_Lijn": "01",
+                "name": "Teniers",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415659,
+                    51.217832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "104945",
+                "bus": "yes",
+                "name": "Sanderusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANSELMOSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.403257,
+                    51.207697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;22;180;181;182;183",
+                "ref:De_Lijn": "102540",
+                "bus": "yes",
+                "name": "Tropisch Instituut",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "NATIONALESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397136,
+                    51.212193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;12;13;24;290;500",
+                "ref:De_Lijn": "104355",
+                "bus": "yes",
+                "name": "Nationale Bank",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408584,
+                    51.211695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;7",
+                "ref:De_Lijn": "104162",
+                "zone:De_Lijn": "01",
+                "name": "Mechelseplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE GASTHUISSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.405065,
+                    51.213997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "104280",
+                "zone:De_Lijn": "01",
+                "name": "Van Bree",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MECHELSESTEENWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.408195,
+                    51.209125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;11",
+                "ref:De_Lijn": "105185",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Jacob",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE NIEUWSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409793,
+                    51.219694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;7",
+                "ref:De_Lijn": "104521",
+                "zone:De_Lijn": "01",
+                "name": "Oudaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE GASTHUISSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404909,
+                    51.21584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;12;13;24;290;500",
+                "ref:De_Lijn": "101195",
+                "bus": "yes",
+                "name": "Stadspark",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411562,
+                    51.214004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102404",
+                "name": "Afstaphalte",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "FRANKRIJKLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416061,
+                    51.218604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;5;9;15",
+                "ref:De_Lijn": "104720",
+                "zone:De_Lijn": "01",
+                "name": "Meir",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MEIR ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4065,
+                    51.218266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "104205",
+                "name": "Meirbrug",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MEIRBRUG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404969,
+                    51.218779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;12;13;24;290;500",
+                "ref:De_Lijn": "104075",
+                "bus": "yes",
+                "name": "Stadspark",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411663,
+                    51.213977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;180;181;182;183;999",
+                "ref:De_Lijn": "102675",
+                "bus": "yes",
+                "name": "Groenplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40129,
+                    51.218744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "105800",
+                "name": "Bres",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396646,
+                    51.207007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "104940",
+                "bus": "yes",
+                "name": "Sanderusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANSELMOSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.403715,
+                    51.207229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;7",
+                "ref:De_Lijn": "101781",
+                "zone:De_Lijn": "01",
+                "name": "Oudaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE GASTHUISSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404752,
+                    51.215777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;5;9;15",
+                "ref:De_Lijn": "104556",
+                "zone:De_Lijn": "01",
+                "name": "Groenplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROENPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401448,
+                    51.218592
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205792",
+                "bus": "yes",
+                "name": "Lokeren Hanusdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STATIONSSTRAAT OUDEBOS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.907467,
+                    51.093312
+                ]
+            }
+        }
+    ]
+}

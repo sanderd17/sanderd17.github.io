@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;212;213",
+                "ref:De_Lijn": "109139",
+                "bus": "yes",
+                "name": "Gierle Beemdenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.895704,
+                    51.282702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;212;213",
+                "ref:De_Lijn": "109142",
+                "bus": "yes",
+                "name": "Gierle Rooien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.886274,
+                    51.277639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;212;213",
+                "ref:De_Lijn": "109141",
+                "bus": "yes",
+                "name": "Gierle Rooien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.885915,
+                    51.277622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;212;213",
+                "ref:De_Lijn": "109138",
+                "bus": "yes",
+                "name": "Gierle Beemdenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89523,
+                    51.282615
+                ]
+            }
+        }
+    ]
+}

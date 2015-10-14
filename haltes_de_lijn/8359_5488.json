@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48",
+                "ref:De_Lijn": "203828",
+                "bus": "yes",
+                "name": "Semmerzake Duffelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.67029,
+                    50.945287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;48",
+                "ref:De_Lijn": "202827",
+                "bus": "yes",
+                "name": "Vurste Gentweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEENSTRAAT VURSTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.68367,
+                    50.948898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "210064",
+                "bus": "yes",
+                "name": "Semmerzake Kriephoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PALMSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.671768,
+                    50.94543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;48",
+                "ref:De_Lijn": "203827",
+                "bus": "yes",
+                "name": "Vurste Gentweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEENSTRAAT VURSTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.683513,
+                    50.948978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "211064",
+                "bus": "yes",
+                "name": "Semmerzake Kriephoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PALMSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.671925,
+                    50.945413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48;145",
+                "ref:De_Lijn": "202828",
+                "bus": "yes",
+                "name": "Semmerzake Duffelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.670377,
+                    50.945179
+                ]
+            }
+        }
+    ]
+}

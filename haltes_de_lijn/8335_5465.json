@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "501481",
+                "bus": "yes",
+                "name": "Zuienkerke Ten Doele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162917,
+                    51.267748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;36",
+                "ref:De_Lijn": "505035",
+                "bus": "yes",
+                "name": "Zuienkerke Dijk Noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160283,
+                    51.266553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "505034",
+                "bus": "yes",
+                "name": "Zuienkerke Ten Doele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.163005,
+                    51.267659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505036",
+                "bus": "yes",
+                "name": "Zuienkerke Lindenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.153364,
+                    51.264819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "501009",
+                "bus": "yes",
+                "name": "Zuienkerke Dijk Noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160224,
+                    51.266597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;36",
+                "ref:De_Lijn": "501467",
+                "bus": "yes",
+                "name": "Zuienkerke Gemeenteschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.156963,
+                    51.265287
+                ]
+            }
+        }
+    ]
+}

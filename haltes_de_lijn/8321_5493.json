@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;50;51",
+                "ref:De_Lijn": "509054",
+                "bus": "yes",
+                "name": "Brielen De Krikke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNSEWEG BRIELEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.834652,
+                    50.875701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;50;51",
+                "ref:De_Lijn": "504054",
+                "bus": "yes",
+                "name": "Brielen De Krikke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNSEWEG BRIELEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.834615,
+                    50.875511
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;67;69;160;195",
+                "ref:De_Lijn": "202040",
+                "bus": "yes",
+                "name": "Eeklo Het Leen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.583225,
+                    51.172727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;67;69",
+                "ref:De_Lijn": "203040",
+                "bus": "yes",
+                "name": "Eeklo Het Leen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.583422,
+                    51.172935
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "207804",
+                "bus": "yes",
+                "name": "Schorisse Gielestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSESTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.665828,
+                    50.779451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;460",
+                "ref:De_Lijn": "206804",
+                "bus": "yes",
+                "name": "Schorisse Gielestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSESTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.665629,
+                    50.779486
+                ]
+            }
+        }
+    ]
+}

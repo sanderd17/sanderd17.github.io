@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301519",
+                "bus": "yes",
+                "name": "Rummen Lutzestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.142884,
+                    50.872463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301518",
+                "bus": "yes",
+                "name": "Rummen Lutzestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.142433,
+                    50.872646
+                ]
+            }
+        }
+    ]
+}

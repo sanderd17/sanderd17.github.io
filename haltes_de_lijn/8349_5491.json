@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200667",
+                "bus": "yes",
+                "name": "Zulte Zonnelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAALSTRAAT ZULTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.454157,
+                    50.916466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201841",
+                "bus": "yes",
+                "name": "Zulte Berkenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENLAAN ZULTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.460428,
+                    50.908379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200666",
+                "bus": "yes",
+                "name": "Zulte Industriezone",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARREWEG ZULTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.471313,
+                    50.908022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "201565",
+                "bus": "yes",
+                "name": "Zulte Villa Salome",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSTRAAT ZULTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.450427,
+                    50.908634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;125",
+                "ref:De_Lijn": "200565",
+                "bus": "yes",
+                "name": "Zulte Villa Salome",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSTRAAT ZULTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.450721,
+                    50.908879
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404033",
+                "bus": "yes",
+                "name": "Berbroek Bosstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT BERBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211187,
+                    50.93689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H1",
+                "ref:De_Lijn": "407634",
+                "bus": "yes",
+                "name": "Spalbeek Keizerlindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJERSTRAAT SPALBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.22728,
+                    50.9385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404032",
+                "bus": "yes",
+                "name": "Berbroek Bosstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT BERBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211587,
+                    50.936959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H1",
+                "ref:De_Lijn": "407635",
+                "bus": "yes",
+                "name": "Spalbeek Oudestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDESTRAAT SPALBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.224651,
+                    50.934806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H1",
+                "ref:De_Lijn": "407599",
+                "bus": "yes",
+                "name": "Spalbeek Keizerlindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJERSTRAAT SPALBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.227124,
+                    50.938537
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505255",
+                "bus": "yes",
+                "name": "Zwevegem De Drielinden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIELINDENSTRAAT SINT-DENIJS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.344429,
+                    50.787071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505265",
+                "bus": "yes",
+                "name": "Sint-Denijs 't Hoogstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT SINT-DENIJS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.358067,
+                    50.783333
+                ]
+            }
+        }
+    ]
+}

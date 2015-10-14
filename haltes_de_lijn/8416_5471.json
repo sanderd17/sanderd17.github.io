@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107526",
+                "bus": "yes",
+                "name": "Geel Herentalsedijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LARUMSEBRUGWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.936719,
+                    51.180195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107464",
+                "bus": "yes",
+                "name": "Geel Larumse Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.935251,
+                    51.182953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104966",
+                "bus": "yes",
+                "name": "Geel Mosselgoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSELGOREN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.931869,
+                    51.190699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107434",
+                "bus": "yes",
+                "name": "Geel Vlinderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSEDIJK GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.92818,
+                    51.181297
+                ]
+            }
+        }
+    ]
+}

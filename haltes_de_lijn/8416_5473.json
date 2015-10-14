@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "109602",
+                "bus": "yes",
+                "name": "Geel Haag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLENSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.924093,
+                    51.163572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108553",
+                "bus": "yes",
+                "name": "Geel Merenseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSHONINK GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.940764,
+                    51.156733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "109603",
+                "bus": "yes",
+                "name": "Geel Haag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLENSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.923851,
+                    51.163645
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;92",
+                "ref:De_Lijn": "207435",
+                "bus": "yes",
+                "name": "Herzele Graaf Du Parclaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT HERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.889185,
+                    50.889488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209687",
+                "bus": "yes",
+                "name": "Borsbeke Borsbekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORSBEKESTRAAT RESSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.905748,
+                    50.894714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209689",
+                "bus": "yes",
+                "name": "Borsbeke Molendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENDIJK BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.89,
+                    50.900162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;385;390",
+                "ref:De_Lijn": "206643",
+                "bus": "yes",
+                "name": "Ressegem Sint-Mauritsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RESSEGEMSTRAAT RESSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.910137,
+                    50.892062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209688",
+                "bus": "yes",
+                "name": "Borsbeke IJzerenwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORSBEKESTRAAT BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.896883,
+                    50.901313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;385;390",
+                "ref:De_Lijn": "206642",
+                "bus": "yes",
+                "name": "Ressegem Ressegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RESSEGEMSTRAAT RESSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.906878,
+                    50.891096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "207643",
+                "bus": "yes",
+                "name": "Ressegem Sint-Mauritsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RESSEGEMSTRAAT RESSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.910051,
+                    50.892151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93",
+                "ref:De_Lijn": "207642",
+                "bus": "yes",
+                "name": "Ressegem Ressegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RESSEGEMSTRAAT RESSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.906792,
+                    50.891185
+                ]
+            }
+        }
+    ]
+}

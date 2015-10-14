@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200913",
+                "bus": "yes",
+                "name": "Lembeke Westermolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT LEMBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.618956,
+                    51.196088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "201738",
+                "bus": "yes",
+                "name": "Lembeke Koeistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETSEBROEK LEMBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.60583,
+                    51.203528
+                ]
+            }
+        }
+    ]
+}

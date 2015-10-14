@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;409;410;411;413;414;419;440;446;449;607;618;619;629",
+                "ref:De_Lijn": "106132",
+                "bus": "yes",
+                "name": "Oostmalle Steenovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.710271,
+                    51.298529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;409;410;411;413;414;419;440;446;449;607;618;619;629",
+                "ref:De_Lijn": "106130",
+                "bus": "yes",
+                "name": "Westmalle Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702982,
+                    51.297678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;409;410;411;413;414;419;440;446;607;618;619;629",
+                "ref:De_Lijn": "106133",
+                "bus": "yes",
+                "name": "Oostmalle Maris Stella",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N12 OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.717347,
+                    51.299506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;409;410;411;413;414;419;440;446;449;607;618;619;629",
+                "ref:De_Lijn": "106134",
+                "bus": "yes",
+                "name": "Oostmalle Maris Stella",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N12 OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.717389,
+                    51.299371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "1111112",
+                "bus": "yes",
+                "name": "Meethalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.71752,
+                    51.295901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;409;410;411;413;414;419;440;446;607;618;619;629",
+                "ref:De_Lijn": "106129",
+                "bus": "yes",
+                "name": "Westmalle Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702624,
+                    51.297787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;409;410;411;413;414;419;440;446;607;618;619;629",
+                "ref:De_Lijn": "106131",
+                "bus": "yes",
+                "name": "Oostmalle Steenovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711291,
+                    51.298786
+                ]
+            }
+        }
+    ]
+}

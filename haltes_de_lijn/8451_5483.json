@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11;61",
+                "ref:De_Lijn": "401810",
+                "bus": "yes",
+                "name": "Lanklaar Nijverheidslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.705549,
+                    51.018865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401819",
+                "bus": "yes",
+                "name": "Lanklaar Meerkensstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERKENSSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.696451,
+                    51.016199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;64;725",
+                "ref:De_Lijn": "401798",
+                "bus": "yes",
+                "name": "Lanklaar Dokter Lenstralaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANNENHUISSTRAAT DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.699838,
+                    51.021024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401869",
+                "bus": "yes",
+                "name": "Lanklaar Lieve Moenssenslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PANNENHUISSTRAAT DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.700091,
+                    51.023916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;64;725",
+                "ref:De_Lijn": "401799",
+                "bus": "yes",
+                "name": "Lanklaar Dokter Lenstralaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANNENHUISSTRAAT DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.700051,
+                    51.021489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11;61",
+                "ref:De_Lijn": "401811",
+                "bus": "yes",
+                "name": "Lanklaar Nijverheidslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSLAAN DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.70462,
+                    51.018767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401783",
+                "bus": "yes",
+                "name": "Lanklaar Modelstad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MODELSTAD LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.709489,
+                    51.021544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401820",
+                "bus": "yes",
+                "name": "Lanklaar Meerkensstraat II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERKENSSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.699143,
+                    51.014127
+                ]
+            }
+        }
+    ]
+}

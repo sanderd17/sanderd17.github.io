@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "102578",
+                "bus": "yes",
+                "name": "Mol Zilvermeerhaven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERMEERLAAN MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172787,
+                    51.227984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "103160",
+                "bus": "yes",
+                "name": "Mol Zilvermeer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERMEERLAAN MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.166809,
+                    51.22335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;475",
+                "ref:De_Lijn": "109739",
+                "bus": "yes",
+                "name": "Mol Zilvermeer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERMEERLAAN MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.167067,
+                    51.223375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "475",
+                "ref:De_Lijn": "102968",
+                "bus": "yes",
+                "name": "Mol Postelsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N136 MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.184077,
+                    51.229326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;475",
+                "ref:De_Lijn": "102577",
+                "bus": "yes",
+                "name": "Mol Zilvermeerhaven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERMEERLAAN MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172929,
+                    51.227911
+                ]
+            }
+        }
+    ]
+}

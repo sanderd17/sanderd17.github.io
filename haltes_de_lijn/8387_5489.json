@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;251;821",
+                "ref:De_Lijn": "303699",
+                "bus": "yes",
+                "name": "Wolvertem Oppemse Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPPEMSTRAAT WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.304697,
+                    50.94308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;251;821",
+                "ref:De_Lijn": "303697",
+                "bus": "yes",
+                "name": "Meise Oppem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARDINAAL STERCKXLAAN WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.306025,
+                    50.939045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;251;821",
+                "ref:De_Lijn": "303698",
+                "bus": "yes",
+                "name": "Wolvertem Oppemse Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPPEMSTRAAT WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.304938,
+                    50.943494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;251;821",
+                "ref:De_Lijn": "303696",
+                "bus": "yes",
+                "name": "Meise Oppem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARDINAAL STERCKXLAAN WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.305627,
+                    50.939134
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "103490",
+                "bus": "yes",
+                "name": "Gierle P+R Oprit E34",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSELAARSEWEG GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.857722,
+                    51.289472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "103494",
+                "bus": "yes",
+                "name": "Gierle Gielsbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSELAARSEWEG GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.863657,
+                    51.294966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "103501",
+                "bus": "yes",
+                "name": "Vosselaar Zeggelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTENHOUTLAAN VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.874628,
+                    51.299216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "103499",
+                "bus": "yes",
+                "name": "Gierle Gielsbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSELAARSEWEG GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.864109,
+                    51.295638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "103496",
+                "bus": "yes",
+                "name": "Vosselaar Zeggelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTENHOUTLAAN VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.874486,
+                    51.299307
+                ]
+            }
+        }
+    ]
+}

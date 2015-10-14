@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "334;335",
+                "ref:De_Lijn": "304345",
+                "bus": "yes",
+                "name": "Wezemaal Galgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.769511,
+                    50.957523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "334;335",
+                "ref:De_Lijn": "304346",
+                "bus": "yes",
+                "name": "Wezemaal Galgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.77017,
+                    50.957979
+                ]
+            }
+        }
+    ]
+}

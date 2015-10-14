@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505775",
+                "bus": "yes",
+                "name": "Koekelare Potelstwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOVAERESTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.96144,
+                    51.100196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505777",
+                "bus": "yes",
+                "name": "Koekelare Hovaeremolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOVAERESTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.94629,
+                    51.107261
+                ]
+            }
+        }
+    ]
+}

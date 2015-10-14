@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "182;18a;743",
+                "ref:De_Lijn": "409038",
+                "bus": "yes",
+                "name": "Achel Statie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHEL-STATIE ACHEL-STATIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.469721,
+                    51.274312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "402807",
+                "bus": "yes",
+                "name": "Achel Statie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHEL-STATIE ACHEL-STATIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.469649,
+                    51.27433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409041",
+                "bus": "yes",
+                "name": "Achel Klein Eind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODENRIJT ACHEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.469373,
+                    51.265658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "409042",
+                "bus": "yes",
+                "name": "Achel Klein Eind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODENRIJT ACHEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.469578,
+                    51.265854
+                ]
+            }
+        }
+    ]
+}

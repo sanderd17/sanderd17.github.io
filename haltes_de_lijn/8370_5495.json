@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;330",
+                "ref:De_Lijn": "207595",
+                "bus": "yes",
+                "name": "Sint-Antelinks Mutsaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIGEVELDSTRAAT SINT-ANTELINKS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.92274,
+                    50.855055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;87;330;390",
+                "ref:De_Lijn": "206596",
+                "bus": "yes",
+                "name": "Sint-Antelinks Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIGEVELDSTRAAT SINT-ANTELINKS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.92545,
+                    50.849303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;330;390",
+                "ref:De_Lijn": "206595",
+                "bus": "yes",
+                "name": "Sint-Antelinks Mutsaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIGEVELDSTRAAT SINT-ANTELINKS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.92291,
+                    50.855083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "209515",
+                "bus": "yes",
+                "name": "Sint-Lievens-Esse Mollestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAUWSTRAAT SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.914147,
+                    50.858051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;87;330",
+                "ref:De_Lijn": "207596",
+                "bus": "yes",
+                "name": "Sint-Antelinks Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIGEVELDSTRAAT SINT-ANTELINKS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.92556,
+                    50.849672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;390",
+                "ref:De_Lijn": "208515",
+                "bus": "yes",
+                "name": "Sint-Lievens-Esse Mollestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAUWSTRAAT SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9147,
+                    50.858206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209665",
+                "bus": "yes",
+                "name": "Sint-Antelinks Voetbalplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT SINT-ANTELINKS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.930392,
+                    50.858473
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63",
+                "ref:De_Lijn": "203106",
+                "bus": "yes",
+                "name": "Watervliet Munte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.626046,
+                    51.280088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63;195",
+                "ref:De_Lijn": "202106",
+                "bus": "yes",
+                "name": "Watervliet Munte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.625832,
+                    51.280077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200902",
+                "bus": "yes",
+                "name": "Watervliet Mollekot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLLEKOT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.640456,
+                    51.287089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63;195",
+                "ref:De_Lijn": "202105",
+                "bus": "yes",
+                "name": "Watervliet Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEE WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.626141,
+                    51.275972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63",
+                "ref:De_Lijn": "203105",
+                "bus": "yes",
+                "name": "Watervliet Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEE WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6263,
+                    51.275892
+                ]
+            }
+        }
+    ]
+}

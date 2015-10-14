@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "504285",
+                "bus": "yes",
+                "name": "Merkem Luigem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTBROEKSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.839354,
+                    50.962213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "509285",
+                "bus": "yes",
+                "name": "Merkem Luigem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTBROEKSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.838895,
+                    50.962306
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432",
+                "ref:De_Lijn": "106335",
+                "bus": "yes",
+                "name": "Merksplas Koekhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP TURNHOUT MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896565,
+                    51.342147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432",
+                "ref:De_Lijn": "106336",
+                "bus": "yes",
+                "name": "Merksplas Koekhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP TURNHOUT MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.897635,
+                    51.341612
+                ]
+            }
+        }
+    ]
+}

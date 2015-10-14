@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "821",
+                "ref:De_Lijn": "303850",
+                "bus": "yes",
+                "name": "Merchtem Langeveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLVERTEMSESTEENWEG MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.244398,
+                    50.958673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308561",
+                "bus": "yes",
+                "name": "Merchtem Breestraeten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.253305,
+                    50.965667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "821",
+                "ref:De_Lijn": "303849",
+                "bus": "yes",
+                "name": "Merchtem Langeveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLVERTEMSESTEENWEG MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.243672,
+                    50.958745
+                ]
+            }
+        }
+    ]
+}

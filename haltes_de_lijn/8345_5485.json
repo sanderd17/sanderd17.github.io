@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;77",
+                "ref:De_Lijn": "502481",
+                "bus": "yes",
+                "name": "Tielt Metaalconstructie Goossens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.369899,
+                    50.995792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;77",
+                "ref:De_Lijn": "507475",
+                "bus": "yes",
+                "name": "Tielt Het Winkeltje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379804,
+                    50.994914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;77",
+                "ref:De_Lijn": "507481",
+                "bus": "yes",
+                "name": "Tielt Metaalconstructie Goossens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.369888,
+                    50.995648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;77",
+                "ref:De_Lijn": "502475",
+                "bus": "yes",
+                "name": "Tielt Het Winkeltje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379402,
+                    50.995054
+                ]
+            }
+        }
+    ]
+}

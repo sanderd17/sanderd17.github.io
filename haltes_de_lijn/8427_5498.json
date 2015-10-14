@@ -1,0 +1,950 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;S1;S2;21a;23a;729;731;734;S10;S11",
+                "ref:De_Lijn": "407995",
+                "bus": "yes",
+                "name": "Sint-Truiden Naamsepoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSEVEST SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.185492,
+                    50.812731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S12",
+                "ref:De_Lijn": "408293",
+                "bus": "yes",
+                "name": "Sint-Truiden Kersenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PERZIKSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.170863,
+                    50.809461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;27;313;715",
+                "ref:De_Lijn": "407938",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 8",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176271,
+                    50.817021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;26",
+                "ref:De_Lijn": "407931",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176799,
+                    50.817206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S12",
+                "ref:De_Lijn": "408438",
+                "bus": "yes",
+                "name": "Sint-Truiden Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.16892,
+                    50.81121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407821",
+                "bus": "yes",
+                "name": "Bevingen Fruitcentrale",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N3 SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176656,
+                    50.806419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S12",
+                "ref:De_Lijn": "408263",
+                "bus": "yes",
+                "name": "Sint-Truiden Kersenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PERZIKSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.170931,
+                    50.809299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;S1;S2;21a;23a;715;729;731;734;S11;S12",
+                "ref:De_Lijn": "408090",
+                "bus": "yes",
+                "name": "Sint-Truiden Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLYMPIALAAN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.181055,
+                    50.812178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;21a;S12",
+                "ref:De_Lijn": "408122",
+                "bus": "yes",
+                "name": "Sint-Truiden Ziekeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALMAALWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.174747,
+                    50.814199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;21a;S12",
+                "ref:De_Lijn": "408059",
+                "bus": "yes",
+                "name": "Sint-Truiden Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALMAALWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17018,
+                    50.811857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455341",
+                "bus": "yes",
+                "name": "Sint-Truiden Taxi Roma",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176669,
+                    50.817054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S12",
+                "ref:De_Lijn": "408153",
+                "bus": "yes",
+                "name": "Sint-Truiden Naamsepoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CLOCKEMSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.184536,
+                    50.813251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S12",
+                "ref:De_Lijn": "407932",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176742,
+                    50.817161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;26;27;41;42;S1;S2;105;21a;23a;313;729;731;734;S11;S12",
+                "ref:De_Lijn": "408046",
+                "bus": "yes",
+                "name": "Sint-Truiden Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179673,
+                    50.815963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S12",
+                "ref:De_Lijn": "408283",
+                "bus": "yes",
+                "name": "Sint-Truiden Seniorencentrum Den Akker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZIEKERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17399,
+                    50.809781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408051",
+                "bus": "yes",
+                "name": "Sint-Truiden STVV",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.166193,
+                    50.814348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407876",
+                "bus": "yes",
+                "name": "Sint-Truiden Gazometerstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.175838,
+                    50.814956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;S2;21a;23a;729;731;734;S10;S11;S12",
+                "ref:De_Lijn": "408047",
+                "bus": "yes",
+                "name": "Sint-Truiden Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179192,
+                    50.816066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;730;S10;S11",
+                "ref:De_Lijn": "407933",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176699,
+                    50.817126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408144",
+                "bus": "yes",
+                "name": "Sint-Truiden Den Akker",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZIEKERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.174194,
+                    50.810068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;734",
+                "ref:De_Lijn": "407936",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176584,
+                    50.817037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;S1;S2;105;21a;S10",
+                "ref:De_Lijn": "407858",
+                "bus": "yes",
+                "name": "Sint-Truiden Diesterpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTERSTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.182395,
+                    50.819082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407930",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 8",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176271,
+                    50.817021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;S1;S2;105;21a;23a;729;731;734;S11;S12",
+                "ref:De_Lijn": "408091",
+                "bus": "yes",
+                "name": "Sint-Truiden Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPAANSEBRUGSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.182005,
+                    50.813799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408146",
+                "bus": "yes",
+                "name": "Sint-Truiden Perzikstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PERZIKSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.168897,
+                    50.810643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "407934",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176641,
+                    50.81709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400187",
+                "bus": "yes",
+                "name": "Sint-Truiden Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.173847,
+                    50.815518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;41;42;S1;105;21a;23a;729;731;734;S11",
+                "ref:De_Lijn": "407994",
+                "bus": "yes",
+                "name": "Sint-Truiden Naamsepoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAMSEVEST SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.184843,
+                    50.812988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408048",
+                "bus": "yes",
+                "name": "Sint-Truiden Stayen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.16366,
+                    50.813978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408145",
+                "bus": "yes",
+                "name": "Sint-Truiden Kersenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PERZIKSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.171947,
+                    50.80895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407820",
+                "bus": "yes",
+                "name": "Bevingen Fruitcentrale",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N3 SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176731,
+                    50.806643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;27;313;715",
+                "ref:De_Lijn": "303263",
+                "bus": "yes",
+                "name": "Sint-Truiden STVV",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.167257,
+                    50.814359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455343",
+                "bus": "yes",
+                "name": "Sint-Truiden Taxi Roma",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176669,
+                    50.817054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;S12",
+                "ref:De_Lijn": "408285",
+                "bus": "yes",
+                "name": "Sint-Truiden Seniorencentrum Den Akker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZIEKERENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17415,
+                    50.809996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407877",
+                "bus": "yes",
+                "name": "Sint-Truiden Gazometerstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.175806,
+                    50.81555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;41;105;729;731",
+                "ref:De_Lijn": "407937",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17654,
+                    50.816992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;715;S10;S11;S12",
+                "ref:De_Lijn": "407978",
+                "bus": "yes",
+                "name": "Sint-Truiden Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CLOCKEMSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.184342,
+                    50.814349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;S1;S2;105",
+                "ref:De_Lijn": "407856",
+                "bus": "yes",
+                "name": "Sint-Truiden Diesterpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINS ALBERTLAAN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.181237,
+                    50.818623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S10",
+                "ref:De_Lijn": "408167",
+                "bus": "yes",
+                "name": "Sint-Truiden Sint-Martenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAPELSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.182345,
+                    50.815396
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;27;313;715",
+                "ref:De_Lijn": "303262",
+                "bus": "yes",
+                "name": "Sint-Truiden STVV",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.166193,
+                    50.814357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408050",
+                "bus": "yes",
+                "name": "Sint-Truiden STVV",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.167271,
+                    50.814367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "408058",
+                "bus": "yes",
+                "name": "Sint-Truiden Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALMAALWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.168813,
+                    50.811597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455371",
+                "bus": "yes",
+                "name": "Sint-Truiden WTC",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176626,
+                    50.817009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S1;21a;S12",
+                "ref:De_Lijn": "408123",
+                "bus": "yes",
+                "name": "Sint-Truiden Ziekeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALMAALWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.174403,
+                    50.813986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "407935",
+                "bus": "yes",
+                "name": "Sint-Truiden Station Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAZOMETERSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176584,
+                    50.817046
+                ]
+            }
+        }
+    ]
+}

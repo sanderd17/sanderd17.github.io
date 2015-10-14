@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "207697",
+                "bus": "yes",
+                "name": "Buggenhout Weide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIALEBAAN BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.203272,
+                    51.033314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257;320",
+                "ref:De_Lijn": "206698",
+                "bus": "yes",
+                "name": "Buggenhout Van Praet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIALEBAAN BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.199455,
+                    51.032382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "107786",
+                "bus": "yes",
+                "name": "Sint-Amands Fok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FOK SINT-AMANDS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.212838,
+                    51.037444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "107784",
+                "bus": "yes",
+                "name": "Sint-Amands Fok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FOK SINT-AMANDS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.213009,
+                    51.037444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "207698",
+                "bus": "yes",
+                "name": "Buggenhout Van Praet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIALEBAAN BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.199526,
+                    51.032275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257;320",
+                "ref:De_Lijn": "206697",
+                "bus": "yes",
+                "name": "Buggenhout Weide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.203613,
+                    51.033539
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101834",
+                "bus": "yes",
+                "name": "Herenthout Nijlensesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJLENSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.73356,
+                    51.144028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101833",
+                "bus": "yes",
+                "name": "Herenthout Torenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJLENSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.74451,
+                    51.140955
+                ]
+            }
+        }
+    ]
+}

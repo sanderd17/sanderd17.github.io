@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;725",
+                "ref:De_Lijn": "401770",
+                "bus": "yes",
+                "name": "Dilsen Watermolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKKEMERBAAN DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.735589,
+                    51.028841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401728",
+                "bus": "yes",
+                "name": "Stokkem Boyen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOYEN STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.754893,
+                    51.031744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;725",
+                "ref:De_Lijn": "401771",
+                "bus": "yes",
+                "name": "Dilsen Watermolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKKEMERBAAN STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.735749,
+                    51.02847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401729",
+                "bus": "yes",
+                "name": "Stokkem Boyen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOYEN STOKKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.754864,
+                    51.032202
+                ]
+            }
+        }
+    ]
+}

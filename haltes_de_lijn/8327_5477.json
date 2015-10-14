@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505236",
+                "bus": "yes",
+                "name": "Koekelare Ravegheersweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BISSCHOPHOEKSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.968874,
+                    51.100393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505147",
+                "bus": "yes",
+                "name": "Koekelare Kapelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EERNEGEMSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.980415,
+                    51.096888
+                ]
+            }
+        }
+    ]
+}

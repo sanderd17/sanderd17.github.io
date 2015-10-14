@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504835",
+                "bus": "yes",
+                "name": "Abele Helleketelbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJFGEMETENSTRAAT POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.675896,
+                    50.837434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505989",
+                "bus": "yes",
+                "name": "Watou Cafe Helleketel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VUILESEULESTRAAT WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.660303,
+                    50.835877
+                ]
+            }
+        }
+    ]
+}

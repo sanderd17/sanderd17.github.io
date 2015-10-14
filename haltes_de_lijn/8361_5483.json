@@ -1,0 +1,766 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "201531",
+                "bus": "yes",
+                "name": "K 12",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CORNEEL HEYMANSLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.730778,
+                    51.024028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200344",
+                "name": "Rerum Novarumplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ZWIJNAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720375,
+                    51.022874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;5;47;N5",
+                "ref:De_Lijn": "200286",
+                "bus": "yes",
+                "name": "Universitair Ziekenhuis",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "ZWIJNAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.721901,
+                    51.026883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201359",
+                "bus": "yes",
+                "name": "Haarstedestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HAARDSTEDESTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.72019,
+                    51.018711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;5;N5",
+                "ref:De_Lijn": "201381",
+                "bus": "yes",
+                "name": "Universitair Ziekenhuis",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "DE PINTELAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.721985,
+                    51.027063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200381",
+                "name": "Haardstedestraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "HAARDSTEDESTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720246,
+                    51.018801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201287",
+                "bus": "yes",
+                "name": "Steenakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWIJNAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.721166,
+                    51.025458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200345",
+                "zone:De_Lijn": "01",
+                "name": "Zwijnaarde Gestichtstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ZWIJNAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.719841,
+                    51.018161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211079",
+                "bus": "yes",
+                "name": "UZ",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.726579,
+                    51.025677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200380",
+                "bus": "yes",
+                "name": "Jaspisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDELSTEENSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.715899,
+                    51.01982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;47",
+                "ref:De_Lijn": "200378",
+                "bus": "yes",
+                "name": "Salamanderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIKVORSSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.716508,
+                    51.023167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "200530",
+                "bus": "yes",
+                "name": "Heymanslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.728944,
+                    51.025797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "200531",
+                "bus": "yes",
+                "name": "K 12",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CORNEEL HEYMANSLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.730651,
+                    51.023946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210200",
+                "bus": "yes",
+                "name": "Zwijnaarde Gestichtstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZWIJNAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.719656,
+                    51.018142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200332",
+                "bus": "yes",
+                "name": "De Pintelaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GALGLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720151,
+                    51.026693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200291",
+                "bus": "yes",
+                "name": "Zwijnaarde Gestichtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWIJNAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.719737,
+                    51.018484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201378",
+                "bus": "yes",
+                "name": "Salamanderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIKVORSSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.715954,
+                    51.023011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200343",
+                "zone:De_Lijn": "01",
+                "name": "De Pintelaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GALGLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.72037,
+                    51.026326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201288",
+                "bus": "yes",
+                "name": "Van Haelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENAKKER GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.722873,
+                    51.022555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201289",
+                "bus": "yes",
+                "name": "Roelandtplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENAKKER GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.724876,
+                    51.01995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201290",
+                "bus": "yes",
+                "name": "Haardstedestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAARDSTEDESTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.72019,
+                    51.018711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "201344",
+                "name": "Rerum Novarumplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ZWIJNAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.72052,
+                    51.022686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "201530",
+                "bus": "yes",
+                "name": "Heymanslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CORNEEL HEYMANSLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.728723,
+                    51.026309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201377",
+                "bus": "yes",
+                "name": "Kikvorsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIKVORSSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720257,
+                    51.024186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210079",
+                "bus": "yes",
+                "name": "UZ",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.726452,
+                    51.025622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;47",
+                "ref:De_Lijn": "200377",
+                "bus": "yes",
+                "name": "Kikvorsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIKVORSSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720386,
+                    51.024115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201291",
+                "bus": "yes",
+                "name": "Zwijnaarde Gestichtstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZWIJNAARDSESTEENWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.719822,
+                    51.017495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208829",
+                "bus": "yes",
+                "name": "Pendelbus",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GESTICHTSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.719095,
+                    51.015451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201332",
+                "bus": "yes",
+                "name": "De Pintelaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GALGLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720278,
+                    51.026766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "211044",
+                "bus": "yes",
+                "name": "Universitair Ziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE PINTELAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.721942,
+                    51.027045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200287",
+                "name": "Steenakker",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "STEENAKKER GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.721197,
+                    51.025288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200289",
+                "name": "Roelandtplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "STEENAKKER GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.724674,
+                    51.020111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "201380",
+                "bus": "yes",
+                "name": "Jaspisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDELSTEENSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7159,
+                    51.019721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "201343",
+                "zone:De_Lijn": "01",
+                "name": "De Pintelaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GALGLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.72035,
+                    51.026685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200288",
+                "name": "Van Haelstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "STEENAKKER GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.72276,
+                    51.02251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;47;N5",
+                "ref:De_Lijn": "211009",
+                "bus": "yes",
+                "name": "UZ - De Pintelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE PINTELAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.719771,
+                    51.026305
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;390;480",
+                "ref:De_Lijn": "107188",
+                "bus": "yes",
+                "name": "Arendonk Onder d'Eiken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N139 ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.105388,
+                    51.341248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;390;480",
+                "ref:De_Lijn": "107184",
+                "bus": "yes",
+                "name": "Arendonk Pelgrimsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PELGRIMSPLEIN ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.098881,
+                    51.334493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;390;391;480",
+                "ref:De_Lijn": "107189",
+                "bus": "yes",
+                "name": "Arendonk Roeststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENS ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.113156,
+                    51.34421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;390;480",
+                "ref:De_Lijn": "107191",
+                "bus": "yes",
+                "name": "Arendonk Roeststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENS ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.112639,
+                    51.344151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;390;391;480",
+                "ref:De_Lijn": "107186",
+                "bus": "yes",
+                "name": "Arendonk Onder d'Eiken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENS ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.107872,
+                    51.342239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;390;391;480",
+                "ref:De_Lijn": "107183",
+                "bus": "yes",
+                "name": "Arendonk Pelgrimsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N139 ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0988,
+                    51.333864
+                ]
+            }
+        }
+    ]
+}

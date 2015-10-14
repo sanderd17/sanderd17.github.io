@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;47;92",
+                "ref:De_Lijn": "500006",
+                "bus": "yes",
+                "name": "Zwankendamme Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LISSEWEEGSE STEENWEG ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.196354,
+                    51.309668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;92",
+                "ref:De_Lijn": "506510",
+                "bus": "yes",
+                "name": "Zeebrugge Weg op Zwankendamme",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEBRUGGELAAN LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.189601,
+                    51.304459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;92",
+                "ref:De_Lijn": "501510",
+                "bus": "yes",
+                "name": "Zeebrugge Weg op Zwankendamme",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEBRUGGELAAN LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.189892,
+                    51.304309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;47",
+                "ref:De_Lijn": "501472",
+                "bus": "yes",
+                "name": "Zwankendamme Doornweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNWEG ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.197167,
+                    51.307555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;47;92",
+                "ref:De_Lijn": "500005",
+                "bus": "yes",
+                "name": "Zwankendamme Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LISSEWEEGSE STEENWEG ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.195526,
+                    51.309507
+                ]
+            }
+        }
+    ]
+}

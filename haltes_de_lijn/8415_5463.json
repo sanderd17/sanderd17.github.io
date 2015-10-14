@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;212;213",
+                "ref:De_Lijn": "109133",
+                "bus": "yes",
+                "name": "Turnhout Philips I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N140 TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.915515,
+                    51.301317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;212;213",
+                "ref:De_Lijn": "109136",
+                "bus": "yes",
+                "name": "Vosselaar De Breem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N140 VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.908503,
+                    51.291417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;435",
+                "ref:De_Lijn": "102310",
+                "bus": "yes",
+                "name": "Turnhout Philips I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HORZELENSTRAAT TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.915167,
+                    51.3022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "435",
+                "ref:De_Lijn": "109419",
+                "bus": "yes",
+                "name": "Turnhout Philips II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLACHTHUISSTRAAT TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921843,
+                    51.300461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;210;212;213",
+                "ref:De_Lijn": "109134",
+                "bus": "yes",
+                "name": "Turnhout Philips I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP GIERLE TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.916775,
+                    51.302381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;212;213",
+                "ref:De_Lijn": "109137",
+                "bus": "yes",
+                "name": "Vosselaar De Breem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N140 VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.908715,
+                    51.291129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "435",
+                "ref:De_Lijn": "106393",
+                "bus": "yes",
+                "name": "Turnhout Philips II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLACHTHUISSTRAAT TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921262,
+                    51.299852
+                ]
+            }
+        }
+    ]
+}

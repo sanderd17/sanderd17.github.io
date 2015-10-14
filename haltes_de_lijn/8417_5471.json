@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103964",
+                "bus": "yes",
+                "name": "Geel Hulter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDEKENS GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.952636,
+                    51.185906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107548",
+                "bus": "yes",
+                "name": "Geel Ganzenhoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GANZENSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.963344,
+                    51.181062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101892",
+                "bus": "yes",
+                "name": "Geel Sas 9",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEGEN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954589,
+                    51.189941
+                ]
+            }
+        }
+    ]
+}

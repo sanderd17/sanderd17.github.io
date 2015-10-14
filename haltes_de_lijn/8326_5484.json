@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505980",
+                "bus": "yes",
+                "name": "Zarren Zarren-Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZARREN-LINDESTRAAT ZARREN-WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.959914,
+                    51.008672
+                ]
+            }
+        }
+    ]
+}

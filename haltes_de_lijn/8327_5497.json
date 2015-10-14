@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505000",
+                "bus": "yes",
+                "name": "Zillebeke Hoeve Martain",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE ZONNEBEKESTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.973376,
+                    50.825984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505915",
+                "bus": "yes",
+                "name": "Zandvoorde Zandvoordestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDVOORDESTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.985895,
+                    50.821709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504846",
+                "bus": "yes",
+                "name": "Zandvoorde Oude Zonnebekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE IEPERSTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.969418,
+                    50.822575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505102",
+                "bus": "yes",
+                "name": "Geluveld Waterstraat 28",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERSTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.980056,
+                    50.822854
+                ]
+            }
+        }
+    ]
+}

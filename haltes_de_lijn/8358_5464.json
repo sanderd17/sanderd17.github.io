@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200904",
+                "bus": "yes",
+                "name": "Watervliet Maagd Van Gent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUIZENHOL WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.666296,
+                    51.275929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200903",
+                "bus": "yes",
+                "name": "Watervliet Calusdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELLEKENSSTRAAT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.648389,
+                    51.277412
+                ]
+            }
+        }
+    ]
+}

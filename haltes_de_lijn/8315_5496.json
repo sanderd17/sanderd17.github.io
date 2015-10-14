@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "505898",
+                "bus": "yes",
+                "name": "Poperinge Lahayelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NESTOR LAHAYELAAN POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.720519,
+                    50.844958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "509424",
+                "bus": "yes",
+                "name": "Poperinge Rood Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.71102,
+                    50.84165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "504438",
+                "bus": "yes",
+                "name": "Poperinge Zwijnland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CASSELSTRAAT POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.716608,
+                    50.847124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "504424",
+                "bus": "yes",
+                "name": "Poperinge Rood Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.710334,
+                    50.841388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "509438",
+                "bus": "yes",
+                "name": "Poperinge Zwijnland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CASSELSTRAAT POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.716507,
+                    50.846771
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78;410",
+                "ref:De_Lijn": "208008",
+                "bus": "yes",
+                "name": "Everbeek Hoogbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGBOS EVERBEEK-BOVEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.765463,
+                    50.778801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "209007",
+                "bus": "yes",
+                "name": "Everbeek Hayestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERMERGELSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769213,
+                    50.784916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78;410",
+                "ref:De_Lijn": "208006",
+                "bus": "yes",
+                "name": "Nederbrakel Evensveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERMERGELSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769395,
+                    50.789601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "209006",
+                "bus": "yes",
+                "name": "Nederbrakel Evensveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERMERGELSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769254,
+                    50.789555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "209008",
+                "bus": "yes",
+                "name": "Everbeek Hoogbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGBOS EVERBEEK-BOVEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.765292,
+                    50.778837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78;410",
+                "ref:De_Lijn": "208007",
+                "bus": "yes",
+                "name": "Everbeek Hayestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERMERGELSTRAAT EVERBEEK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769328,
+                    50.784836
+                ]
+            }
+        }
+    ]
+}

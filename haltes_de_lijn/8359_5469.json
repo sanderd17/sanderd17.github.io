@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "203678",
+                "bus": "yes",
+                "name": "Bassevelde Ventstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAAIGEMSTRAAT BASSEVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.67629,
+                    51.218667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "203677",
+                "bus": "yes",
+                "name": "Bassevelde Bekputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STROOMSTRAAT OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679788,
+                    51.211514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;195",
+                "ref:De_Lijn": "202677",
+                "bus": "yes",
+                "name": "Bassevelde Bekputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STROOMSTRAAT OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679631,
+                    51.211459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;195",
+                "ref:De_Lijn": "202678",
+                "bus": "yes",
+                "name": "Bassevelde Ventstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAAIGEMSTRAAT BASSEVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.675812,
+                    51.219086
+                ]
+            }
+        }
+    ]
+}

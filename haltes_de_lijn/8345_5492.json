@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "503114",
+                "bus": "yes",
+                "name": "Desselgem De Engel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEWEG DESSELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379639,
+                    50.889297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "508114",
+                "bus": "yes",
+                "name": "Desselgem De Engel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEWEG DESSELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379551,
+                    50.889431
+                ]
+            }
+        }
+    ]
+}

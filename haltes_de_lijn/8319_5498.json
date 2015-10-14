@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;79",
+                "ref:De_Lijn": "509112",
+                "bus": "yes",
+                "name": "Dikkebus Millekruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.810616,
+                    50.805988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504469",
+                "bus": "yes",
+                "name": "Klijte Witte Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RENINGELSTSTRAAT KLIJTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.803288,
+                    50.809145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "504068",
+                "bus": "yes",
+                "name": "Dikkebus Sint-Huibrechtshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDERDOMSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.809709,
+                    50.817521
+                ]
+            }
+        }
+    ]
+}

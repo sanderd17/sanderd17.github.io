@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "408029",
+                "bus": "yes",
+                "name": "Runkelen Heulken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUNKELEN-DORP RUNKELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.150003,
+                    50.853699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "408024",
+                "bus": "yes",
+                "name": "Runkelen Binderveldseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINDERVELDSEWEG RUNKELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.158891,
+                    50.856075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "408025",
+                "bus": "yes",
+                "name": "Runkelen Binderveldseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINDERVELDSEWEG RUNKELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.159231,
+                    50.856037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "408028",
+                "bus": "yes",
+                "name": "Runkelen Heulken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUNKELEN-DORP RUNKELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.149993,
+                    50.85395
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205413",
+                "bus": "yes",
+                "name": "Stekene Abelendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT KLEIN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.986159,
+                    51.188137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "204407",
+                "bus": "yes",
+                "name": "Stekene Boudelostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE HEIRWEG KLEIN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.985797,
+                    51.179867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "205407",
+                "bus": "yes",
+                "name": "Stekene Boudelostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE HEIRWEG KLEIN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.985811,
+                    51.179984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "205406",
+                "bus": "yes",
+                "name": "Stekene Klein Sinaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE HEIRWEG KLEIN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.989975,
+                    51.181381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "204406",
+                "bus": "yes",
+                "name": "Stekene Klein Sinaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE HEIRWEG KLEIN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.990219,
+                    51.181337
+                ]
+            }
+        }
+    ]
+}

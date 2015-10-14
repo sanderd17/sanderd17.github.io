@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;240",
+                "ref:De_Lijn": "204372",
+                "bus": "yes",
+                "name": "Sint-Pauwels Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIES SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.097108,
+                    51.193424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;240",
+                "ref:De_Lijn": "204373",
+                "bus": "yes",
+                "name": "Sint-Pauwels Collemanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.08786,
+                    51.196863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;240",
+                "ref:De_Lijn": "205373",
+                "bus": "yes",
+                "name": "Sint-Pauwels Collemanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.088333,
+                    51.196837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204760",
+                "bus": "yes",
+                "name": "Sint-Pauwels Grouwesteenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROUWESTEENSTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.107782,
+                    51.197969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;240",
+                "ref:De_Lijn": "205372",
+                "bus": "yes",
+                "name": "Sint-Pauwels Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIES SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.097279,
+                    51.193532
+                ]
+            }
+        }
+    ]
+}

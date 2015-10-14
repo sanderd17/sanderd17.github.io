@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206778",
+                "bus": "yes",
+                "name": "Overboelare Kleine Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKERSTRAAT OVERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.841144,
+                    50.752871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "209031",
+                "bus": "yes",
+                "name": "Zarlardinge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAKKENDRIES ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.828051,
+                    50.762682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206772",
+                "bus": "yes",
+                "name": "Zarlardinge Kohoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKERSTRAAT ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.832955,
+                    50.756439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78;370;410",
+                "ref:De_Lijn": "208031",
+                "bus": "yes",
+                "name": "Zarlardinge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAKKENDRIES ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.82795,
+                    50.762763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206771",
+                "bus": "yes",
+                "name": "Overboelare Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKERSTRAAT OVERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.844697,
+                    50.750711
+                ]
+            }
+        }
+    ]
+}

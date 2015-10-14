@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510",
+                "ref:De_Lijn": "109003",
+                "bus": "yes",
+                "name": "Zammel Neerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAMMELSEWEG ZAMMEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.950915,
+                    51.099612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510",
+                "ref:De_Lijn": "109002",
+                "bus": "yes",
+                "name": "Zammel Neerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAMMELSEWEG ZAMMEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.950544,
+                    51.099659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510",
+                "ref:De_Lijn": "109001",
+                "bus": "yes",
+                "name": "Geel Veestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAMMELSEWEG OOSTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.961584,
+                    51.102273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510",
+                "ref:De_Lijn": "109000",
+                "bus": "yes",
+                "name": "Geel Veestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAMMELSEWEG ZAMMEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.96094,
+                    51.102142
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;84;145",
+                "ref:De_Lijn": "202538",
+                "bus": "yes",
+                "name": "Semmerzake Palmstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENADIERSLAAN SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.667071,
+                    50.949331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;84",
+                "ref:De_Lijn": "211065",
+                "bus": "yes",
+                "name": "Eke Sluis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENADIERSLAAN EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.647878,
+                    50.956443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;84",
+                "ref:De_Lijn": "203538",
+                "bus": "yes",
+                "name": "Semmerzake Palmstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENADIERSLAAN SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.666872,
+                    50.949312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "203947",
+                "bus": "yes",
+                "name": "Semmerzake Grotenbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOUIS DE MEESTERSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.663524,
+                    50.94762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;84",
+                "ref:De_Lijn": "210065",
+                "bus": "yes",
+                "name": "Eke Sluis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENADIERSLAAN EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.647993,
+                    50.956326
+                ]
+            }
+        }
+    ]
+}

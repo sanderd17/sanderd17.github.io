@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "504077",
+                "bus": "yes",
+                "name": "Dranouter Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRANOUTERSTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.793294,
+                    50.760906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68;79",
+                "ref:De_Lijn": "504076",
+                "bus": "yes",
+                "name": "Dranouter Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRANOUTERSTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.80468,
+                    50.75275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "509077",
+                "bus": "yes",
+                "name": "Dranouter Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRANOUTERSTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.793478,
+                    50.760935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504692",
+                "bus": "yes",
+                "name": "Dranouter Smijterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISABELESTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.803267,
+                    50.764123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68;79",
+                "ref:De_Lijn": "509076",
+                "bus": "yes",
+                "name": "Dranouter Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N322 NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.805066,
+                    50.752638
+                ]
+            }
+        }
+    ]
+}

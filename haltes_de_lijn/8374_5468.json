@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;240",
+                "ref:De_Lijn": "204397",
+                "bus": "yes",
+                "name": "Stekene Lange Dweerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.007017,
+                    51.222764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;240",
+                "ref:De_Lijn": "205397",
+                "bus": "yes",
+                "name": "Stekene Lange Dweerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.007202,
+                    51.222818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205443",
+                "bus": "yes",
+                "name": "Stekene Riet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIET STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.00157,
+                    51.232868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205768",
+                "bus": "yes",
+                "name": "Stekene Bekaf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOGELZANGSTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.01007,
+                    51.227726
+                ]
+            }
+        }
+    ]
+}

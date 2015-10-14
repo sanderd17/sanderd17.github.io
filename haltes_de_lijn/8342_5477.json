@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "502609",
+                "bus": "yes",
+                "name": "Wingene Fazantendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.311393,
+                    51.098655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507609",
+                "bus": "yes",
+                "name": "Wingene Fazantendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.311699,
+                    51.099054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507608",
+                "bus": "yes",
+                "name": "Beernem Bulskampveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIGERLOSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315002,
+                    51.108936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28",
+                "ref:De_Lijn": "502608",
+                "bus": "yes",
+                "name": "Beernem Bulskampveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIGERLOSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.314844,
+                    51.109006
+                ]
+            }
+        }
+    ]
+}

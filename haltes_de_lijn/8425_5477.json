@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17a;302",
+                "ref:De_Lijn": "402767",
+                "bus": "yes",
+                "name": "Kwaadmechelen Processiestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALSTRAAT KWAADMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.139626,
+                    51.099724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17a;302",
+                "ref:De_Lijn": "402768",
+                "bus": "yes",
+                "name": "Kwaadmechelen Processiestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALSTRAAT KWAADMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.140455,
+                    51.099763
+                ]
+            }
+        }
+    ]
+}

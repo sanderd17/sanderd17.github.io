@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501684",
+                "bus": "yes",
+                "name": "Koksijde Galloper",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALLOPERSTRAAT KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.660303,
+                    51.108708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506684",
+                "bus": "yes",
+                "name": "Koksijde Galloper",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALLOPERSTRAAT KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.660393,
+                    51.10861
+                ]
+            }
+        }
+    ]
+}

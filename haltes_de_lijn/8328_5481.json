@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505987",
+                "bus": "yes",
+                "name": "Werken Bovekerkestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.993698,
+                    51.053988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505636",
+                "bus": "yes",
+                "name": "Kortemark Bescheewege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDEWALLESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.007406,
+                    51.044186
+                ]
+            }
+        }
+    ]
+}

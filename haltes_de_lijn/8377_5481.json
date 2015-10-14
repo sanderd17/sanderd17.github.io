@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "205595",
+                "bus": "yes",
+                "name": "Zele Dijkstraat 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJKSTRAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.075639,
+                    51.051466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204103",
+                "bus": "yes",
+                "name": "Dendermonde Den Notendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ONOLFSDIJK DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.075596,
+                    51.049237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "205145",
+                "bus": "yes",
+                "name": "Grembergen Hekkenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKKESTRAAT GREMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.086385,
+                    51.055007
+                ]
+            }
+        }
+    ]
+}

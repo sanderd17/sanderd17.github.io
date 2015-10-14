@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "505747",
+                "bus": "yes",
+                "name": "Lapscheure Sint-Job",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENTJE LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.342625,
+                    51.268875
+                ]
+            }
+        }
+    ]
+}

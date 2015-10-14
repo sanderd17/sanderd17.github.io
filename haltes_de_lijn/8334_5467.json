@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "506209",
+                "bus": "yes",
+                "name": "Meetkerke Strooien Haan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG HOUTAVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.134205,
+                    51.24701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "506210",
+                "bus": "yes",
+                "name": "Meetkerke Vuilvlage",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N9 MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14189,
+                    51.243449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "501209",
+                "bus": "yes",
+                "name": "Meetkerke Strooien Haan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG HOUTAVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.135247,
+                    51.246634
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96;195",
+                "ref:De_Lijn": "202707",
+                "bus": "yes",
+                "name": "Assenede Basseveldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.739787,
+                    51.235381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96",
+                "ref:De_Lijn": "203707",
+                "bus": "yes",
+                "name": "Assenede Basseveldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.739627,
+                    51.23556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96;195",
+                "ref:De_Lijn": "202706",
+                "bus": "yes",
+                "name": "Assenede Knotwilgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735463,
+                    51.241695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96",
+                "ref:De_Lijn": "203706",
+                "bus": "yes",
+                "name": "Assenede Knotwilgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735752,
+                    51.241489
+                ]
+            }
+        }
+    ]
+}

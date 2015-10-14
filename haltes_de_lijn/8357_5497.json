@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;445",
+                "ref:De_Lijn": "218007",
+                "bus": "yes",
+                "name": "Edelare Eikenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGENSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.63751,
+                    50.828867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;445",
+                "ref:De_Lijn": "208115",
+                "bus": "yes",
+                "name": "Edelare Kerzelare Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERZELARE OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.630154,
+                    50.829972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "209115",
+                "bus": "yes",
+                "name": "Edelare Kerzelare Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERZELARE OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.631624,
+                    50.829468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "219007",
+                "bus": "yes",
+                "name": "Edelare Eikenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGENSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.637683,
+                    50.828751
+                ]
+            }
+        }
+    ]
+}

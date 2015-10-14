@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206722",
+                "bus": "yes",
+                "name": "Ninove Hof Ter Duyst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSLAER NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.016237,
+                    50.852541
+                ]
+            }
+        }
+    ]
+}

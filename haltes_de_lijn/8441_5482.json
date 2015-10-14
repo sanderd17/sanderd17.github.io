@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "404429",
+                "bus": "yes",
+                "name": "Houthalen Berkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENSTRAAT HOUTHALEN-OOST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.47219,
+                    51.030266
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "404472",
+                "bus": "yes",
+                "name": "Houthalen Kastanjestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTANJESTRAAT HOUTHALEN-OOST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.476761,
+                    51.027634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "404428",
+                "bus": "yes",
+                "name": "Houthalen Berkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENSTRAAT HOUTHALEN-OOST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.47176,
+                    51.03018
+                ]
+            }
+        }
+    ]
+}

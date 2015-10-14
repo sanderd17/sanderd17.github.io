@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201718",
+                "bus": "yes",
+                "name": "Zomergem Bekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEBOEKEN ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.587701,
+                    51.121438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201726",
+                "bus": "yes",
+                "name": "Zomergem Langeboeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEBOEKEN BEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.600475,
+                    51.12287
+                ]
+            }
+        }
+    ]
+}

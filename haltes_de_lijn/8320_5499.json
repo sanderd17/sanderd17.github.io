@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504218",
+                "bus": "yes",
+                "name": "Kemmel Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIEKSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.83045,
+                    50.796979
+                ]
+            }
+        }
+    ]
+}

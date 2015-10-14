@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;770;772;775;778;779",
+                "ref:De_Lijn": "108120",
+                "bus": "yes",
+                "name": "Leugenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT EKEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411952,
+                    51.293227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;770;772;775;778;779",
+                "ref:De_Lijn": "108115",
+                "bus": "yes",
+                "name": "Leugenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT EKEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412009,
+                    51.293343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;770;772;775;778;779",
+                "ref:De_Lijn": "105228",
+                "bus": "yes",
+                "name": "Hoevenen Plasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSE STEENWEG HOEVENEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.410283,
+                    51.302359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;770;772;775;778;779",
+                "ref:De_Lijn": "105229",
+                "bus": "yes",
+                "name": "Plasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSE STEENWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.410484,
+                    51.302404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;770;772;775;778;779",
+                "ref:De_Lijn": "108000",
+                "bus": "yes",
+                "name": "Klein Heiken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUGENBERG EKEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411582,
+                    51.29675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;770;772;775;778;779",
+                "ref:De_Lijn": "107995",
+                "bus": "yes",
+                "name": "Klein Heiken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUGENBERG EKEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411367,
+                    51.296786
+                ]
+            }
+        }
+    ]
+}

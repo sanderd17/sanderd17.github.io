@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "307855",
+                "bus": "yes",
+                "name": "Bierbeek Dreefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORBEEK-LOSESTRAAT BIERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.756234,
+                    50.846017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "307856",
+                "bus": "yes",
+                "name": "Bierbeek Dreefstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORBEEK-LOSESTRAAT BIERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.756107,
+                    50.84608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300580",
+                "bus": "yes",
+                "name": "Bierbeek Ruisbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUISBROEKSTRAAT BIERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.760292,
+                    50.835467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "307857",
+                "bus": "yes",
+                "name": "Bierbeek Ventjesgat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORBEEK-LOSESTRAAT BIERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.750367,
+                    50.838673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "307858",
+                "bus": "yes",
+                "name": "Bierbeek Ventjesgat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORBEEK-LOSESTRAAT BIERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.750254,
+                    50.838782
+                ]
+            }
+        }
+    ]
+}

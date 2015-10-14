@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "405535",
+                "bus": "yes",
+                "name": "Halen Museum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTEMSTRAAT HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.091094,
+                    50.926759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "405536",
+                "bus": "yes",
+                "name": "Halen Museum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTEMSTRAAT HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.091008,
+                    50.926706
+                ]
+            }
+        }
+    ]
+}

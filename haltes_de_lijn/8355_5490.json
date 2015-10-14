@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201762",
+                "bus": "yes",
+                "name": "Ouwegem De Gavers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE GAVERS OUWEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.595872,
+                    50.919102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;450;485",
+                "ref:De_Lijn": "208266",
+                "bus": "yes",
+                "name": "Lozer Goedlevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAZARETHSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.584384,
+                    50.928267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "209266",
+                "bus": "yes",
+                "name": "Lozer Goedlevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAZARETHSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.584202,
+                    50.928113
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;410",
+                "ref:De_Lijn": "208152",
+                "bus": "yes",
+                "name": "Erwetegem Jempelkouterbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEMHOUTSTRAAT SINT-MARIA-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827821,
+                    50.825934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "207663",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Waesberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STUIVENBERG SINT-MARIA-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.844026,
+                    50.827518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "209793",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Nauw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAUW SINT-MARIA-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8447,
+                    50.83331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "208505",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Stuivenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT SINT-MARIA-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.843819,
+                    50.823202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25",
+                "ref:De_Lijn": "209152",
+                "bus": "yes",
+                "name": "Erwetegem Jempelkouterbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEMHOUTSTRAAT SINT-MARIA-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827619,
+                    50.826194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "208506",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT SINT-MARIA-OUDENHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.828399,
+                    50.825065
+                ]
+            }
+        }
+    ]
+}

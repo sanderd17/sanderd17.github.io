@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "202655",
+                "bus": "yes",
+                "name": "Adegem Blakkeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAKKEVELD ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.490028,
+                    51.154147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200884",
+                "bus": "yes",
+                "name": "Maldegem Elckerlijc",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAAILOKERKWEG MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.484498,
+                    51.157827
+                ]
+            }
+        }
+    ]
+}

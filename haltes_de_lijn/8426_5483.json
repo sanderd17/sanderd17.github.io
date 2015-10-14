@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "400602",
+                "bus": "yes",
+                "name": "Paal Nieuwenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTERSESTEENWEG PAAL (BERINGEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.153262,
+                    51.027557
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;527;684",
+                "ref:De_Lijn": "300734",
+                "bus": "yes",
+                "name": "Willebringen Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILLEBRINGSESTRAAT WILLEBRINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825991,
+                    50.806165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;527;684",
+                "ref:De_Lijn": "300738",
+                "bus": "yes",
+                "name": "Willebringen Windmolenveld 15",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILLEBRINGSESTRAAT WILLEBRINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.833216,
+                    50.810865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;527;684;713",
+                "ref:De_Lijn": "300733",
+                "bus": "yes",
+                "name": "Willebringen Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILLEBRINGSESTRAAT WILLEBRINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.826303,
+                    50.806236
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;195",
+                "ref:De_Lijn": "202698",
+                "bus": "yes",
+                "name": "Bassevelde Riethoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDEKENSTRAAT BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710835,
+                    51.240491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "203699",
+                "bus": "yes",
+                "name": "Boekhoute Hazenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708138,
+                    51.247891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;195",
+                "ref:De_Lijn": "202699",
+                "bus": "yes",
+                "name": "Boekhoute Hazenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N458 BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708084,
+                    51.247666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96",
+                "ref:De_Lijn": "203698",
+                "bus": "yes",
+                "name": "Bassevelde Riethoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDEKENSTRAAT BOEKHOUTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710779,
+                    51.240374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200945",
+                "bus": "yes",
+                "name": "Bassevelde Oude Boekhoutestaat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BOEKHOUTESTRAAT BASSEVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.696074,
+                    51.240273
+                ]
+            }
+        }
+    ]
+}

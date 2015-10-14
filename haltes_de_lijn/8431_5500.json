@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "408188",
+                "bus": "yes",
+                "name": "Groot-Gelmen Merelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT-GELMENLAAN GROOT-GELMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.259277,
+                    50.781105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "408186",
+                "bus": "yes",
+                "name": "Groot-Gelmen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELSHOVENSTRAAT GROOT-GELMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.265934,
+                    50.782178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "408187",
+                "bus": "yes",
+                "name": "Groot-Gelmen Bergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUDDERSTRAAT GROOT-GELMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.262396,
+                    50.78483
+                ]
+            }
+        }
+    ]
+}

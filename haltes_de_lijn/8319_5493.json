@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;50;51",
+                "ref:De_Lijn": "504084",
+                "bus": "yes",
+                "name": "Elverdinge Wandeling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNSEWEG ELVERDINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.810745,
+                    50.887803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;50;51",
+                "ref:De_Lijn": "509084",
+                "bus": "yes",
+                "name": "Elverdinge Wandeling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNSEWEG ELVERDINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.810898,
+                    50.887904
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "506139",
+                "bus": "yes",
+                "name": "Klemskerke Vosseslag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSESLAG DE HAAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.005315,
+                    51.262451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501138",
+                "zone:De_Lijn": "10",
+                "name": "De Haan Vosseslag",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "N34E KLEMSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.00246,
+                    51.264028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "501139",
+                "bus": "yes",
+                "name": "Klemskerke Vosseslag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSESLAG DE HAAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.005499,
+                    51.26204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506138",
+                "zone:De_Lijn": "10",
+                "name": "De Haan Vosseslag",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "N34E KLEMSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.002362,
+                    51.263972
+                ]
+            }
+        }
+    ]
+}

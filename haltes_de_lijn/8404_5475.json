@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104713",
+                "bus": "yes",
+                "name": "Berlaar Gestelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEGRELLESTRAAT BERLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.663814,
+                    51.12639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104711",
+                "bus": "yes",
+                "name": "Berlaar Gestel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEGRELLESTRAAT GESTEL (BERLAAR)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.67428,
+                    51.127891
+                ]
+            }
+        }
+    ]
+}

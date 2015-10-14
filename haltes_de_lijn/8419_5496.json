@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;561",
+                "ref:De_Lijn": "305122",
+                "bus": "yes",
+                "name": "Oplinter Zavelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKSTRAAT OPLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.994727,
+                    50.841676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;561;712",
+                "ref:De_Lijn": "305124",
+                "bus": "yes",
+                "name": "Oplinter Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKSTRAAT OPLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.995711,
+                    50.846247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;561",
+                "ref:De_Lijn": "305125",
+                "bus": "yes",
+                "name": "Oplinter Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKSTRAAT OPLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.995701,
+                    50.846571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;561;712",
+                "ref:De_Lijn": "305123",
+                "bus": "yes",
+                "name": "Oplinter Zavelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKSTRAAT OPLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.994541,
+                    50.841579
+                ]
+            }
+        }
+    ]
+}

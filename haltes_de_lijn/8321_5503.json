@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504325",
+                "bus": "yes",
+                "name": "Nieuwkerke Naaikorfstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAAIKORFSTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.834736,
+                    50.746862
+                ]
+            }
+        }
+    ]
+}

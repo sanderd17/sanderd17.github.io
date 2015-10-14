@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24;420",
+                "ref:De_Lijn": "208133",
+                "bus": "yes",
+                "name": "Sint-Blasius-Boekel Heuvelgem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGLAAN MICHELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735793,
+                    50.843714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208815",
+                "bus": "yes",
+                "name": "Rozebeke Rekelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REKELBERG MICHELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.745756,
+                    50.845089
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;130",
+                "ref:De_Lijn": "207241",
+                "bus": "yes",
+                "name": "Uitbergen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERSTRAAT UITBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.957043,
+                    51.018518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;130;355",
+                "ref:De_Lijn": "206241",
+                "bus": "yes",
+                "name": "Uitbergen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERSTRAAT UITBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.956873,
+                    51.018445
+                ]
+            }
+        }
+    ]
+}

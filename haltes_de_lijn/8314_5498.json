@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504007",
+                "bus": "yes",
+                "name": "Abele Grote Onze Heer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOESCHEEPSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.697049,
+                    50.81399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504010",
+                "bus": "yes",
+                "name": "Abele Wipperhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIPPERHOEKDREEF POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.689801,
+                    50.813878
+                ]
+            }
+        }
+    ]
+}

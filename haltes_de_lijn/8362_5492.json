@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;440",
+                "ref:De_Lijn": "208677",
+                "bus": "yes",
+                "name": "Hundelgem Steenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG HUNDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.74533,
+                    50.893335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "209431",
+                "bus": "yes",
+                "name": "Munkzwalm Dikkelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFD MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.737142,
+                    50.893372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81;420",
+                "ref:De_Lijn": "208431",
+                "bus": "yes",
+                "name": "Munkzwalm Dikkelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFD MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.737169,
+                    50.893507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;440",
+                "ref:De_Lijn": "200547",
+                "bus": "yes",
+                "name": "Dikkele Hoeksken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEKSKEN DIKKELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.743301,
+                    50.902682
+                ]
+            }
+        }
+    ]
+}

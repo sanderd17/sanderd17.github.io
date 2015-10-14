@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303950",
+                "bus": "yes",
+                "name": "Blanden Brainestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT BLANDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.697281,
+                    50.828083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308972",
+                "bus": "yes",
+                "name": "Vaalbeek Oud Gemeentehuis tijdelijk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GREZSTRAAT VAALBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.689461,
+                    50.826181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303949",
+                "bus": "yes",
+                "name": "Blanden Brainestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT BLANDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.69772,
+                    50.828019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "303994",
+                "bus": "yes",
+                "name": "Vaalbeek Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GREZSTRAAT VAALBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.689461,
+                    50.826172
+                ]
+            }
+        }
+    ]
+}

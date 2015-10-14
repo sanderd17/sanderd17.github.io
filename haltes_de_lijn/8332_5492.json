@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "508629",
+                "bus": "yes",
+                "name": "Moorslede School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.089572,
+                    50.897267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "503629",
+                "bus": "yes",
+                "name": "Moorslede School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.089527,
+                    50.897383
+                ]
+            }
+        }
+    ]
+}

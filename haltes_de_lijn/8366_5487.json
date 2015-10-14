@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;440",
+                "ref:De_Lijn": "202744",
+                "bus": "yes",
+                "name": "Oosterzele Moortelbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORTELBOSSTRAAT ANKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.832612,
+                    50.961106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203745",
+                "bus": "yes",
+                "name": "Oosterzele Kleistraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLEISTRAAT OOSTERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.839143,
+                    50.966412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "203744",
+                "bus": "yes",
+                "name": "Oosterzele Moortelbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORTELBOSSTRAAT ANKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.832484,
+                    50.96115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "202745",
+                "bus": "yes",
+                "name": "Oosterzele Kleistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEISTRAAT OOSTERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.839201,
+                    50.966278
+                ]
+            }
+        }
+    ]
+}

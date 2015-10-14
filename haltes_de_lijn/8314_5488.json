@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59;69",
+                "ref:De_Lijn": "504025",
+                "bus": "yes",
+                "name": "Beveren Jagershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT BEVEREN-AAN-DE-IJZER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.698616,
+                    50.95458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59;69",
+                "ref:De_Lijn": "509025",
+                "bus": "yes",
+                "name": "Beveren Jagershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT BEVEREN-AAN-DE-IJZER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.698535,
+                    50.954453
+                ]
+            }
+        }
+    ]
+}

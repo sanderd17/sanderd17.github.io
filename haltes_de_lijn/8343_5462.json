@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "501434",
+                "bus": "yes",
+                "name": "Westkapelle Marouxdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "A11 WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.322262,
+                    51.308473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "506434",
+                "bus": "yes",
+                "name": "Westkapelle Marouxdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "A11 WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.325941,
+                    51.305584
+                ]
+            }
+        }
+    ]
+}

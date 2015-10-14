@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257;938",
+                "ref:De_Lijn": "107907",
+                "bus": "yes",
+                "name": "Ruisbroek Oud-Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GANSBROEKSTRAAT RUISBROEK (PUURS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331704,
+                    51.088076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257;938",
+                "ref:De_Lijn": "107908",
+                "bus": "yes",
+                "name": "Ruisbroek Oud-Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GANSBROEKSTRAAT RUISBROEK (PUURS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.331804,
+                    51.08822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;291;294",
+                "ref:De_Lijn": "106008",
+                "bus": "yes",
+                "name": "Boom Noeveren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIELSESTRAAT BOOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35037,
+                    51.096017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "107909",
+                "bus": "yes",
+                "name": "Ruisbroek Prod. Chimique",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GANSBROEKSTRAAT RUISBROEK (PUURS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344822,
+                    51.084538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "107910",
+                "bus": "yes",
+                "name": "Ruisbroek Prod. Chimique",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GANSBROEKSTRAAT RUISBROEK (PUURS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345236,
+                    51.084511
+                ]
+            }
+        }
+    ]
+}

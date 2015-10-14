@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505296",
+                "bus": "yes",
+                "name": "Markegem Sint-Amandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTRAAT MARKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.376132,
+                    50.952369
+                ]
+            }
+        }
+    ]
+}

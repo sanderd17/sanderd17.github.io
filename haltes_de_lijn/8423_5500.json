@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405379",
+                "bus": "yes",
+                "name": "Neerlanden Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT NEERLANDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.077725,
+                    50.778291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "408445",
+                "bus": "yes",
+                "name": "Neerlanden Sint-Truidenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSTRAAT NEERLANDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.081598,
+                    50.779302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405378",
+                "bus": "yes",
+                "name": "Neerlanden Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT NEERLANDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.078052,
+                    50.778343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "408444",
+                "bus": "yes",
+                "name": "Neerlanden Sint-Truidenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSTRAAT NEERLANDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.081539,
+                    50.779185
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345;544",
+                "ref:De_Lijn": "301116",
+                "bus": "yes",
+                "name": "Overijse Barbizon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WELRIEKENDEDREEF WATERMAAL-BOSVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.467784,
+                    50.78911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343;345;504;548",
+                "ref:De_Lijn": "302225",
+                "bus": "yes",
+                "name": "Hoeilaart Guillaume De Kleermaekers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JEZUS-EIKSESTEENWEG HOEILAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.478813,
+                    50.780992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343;345;504;548",
+                "ref:De_Lijn": "304010",
+                "bus": "yes",
+                "name": "Overijse Esdoornenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VUURGATSTRAAT JEZUS-EIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479959,
+                    50.786142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345;544",
+                "ref:De_Lijn": "301118",
+                "bus": "yes",
+                "name": "Overijse Barbizon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WELRIEKENDEDREEF OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.467841,
+                    50.789029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343;345;504;548",
+                "ref:De_Lijn": "304011",
+                "bus": "yes",
+                "name": "Overijse Esdoornenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VUURGATSTRAAT JEZUS-EIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480343,
+                    50.78633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343;345;504;548",
+                "ref:De_Lijn": "302224",
+                "bus": "yes",
+                "name": "Hoeilaart Guillaume De Kleermaekers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JEZUS-EIKSESTEENWEG HOEILAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.478599,
+                    50.78074
+                ]
+            }
+        }
+    ]
+}

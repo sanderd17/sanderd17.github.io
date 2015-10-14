@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;68",
+                "ref:De_Lijn": "508276",
+                "bus": "yes",
+                "name": "Ingelmunster 't Bouwke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEBEKESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.261397,
+                    50.930856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "503276",
+                "bus": "yes",
+                "name": "Ingelmunster 't Bouwke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEBEKESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.261541,
+                    50.930776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "503277",
+                "bus": "yes",
+                "name": "Ingelmunster Bekaert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEBEKESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.266631,
+                    50.934564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;68",
+                "ref:De_Lijn": "508277",
+                "bus": "yes",
+                "name": "Ingelmunster Bekaert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEBEKESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.26629,
+                    50.934543
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;G6",
+                "ref:De_Lijn": "402240",
+                "bus": "yes",
+                "name": "Zwartberg Omlooplaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSENLAAN ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.483564,
+                    51.010408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;31;G6",
+                "ref:De_Lijn": "402420",
+                "bus": "yes",
+                "name": "Zwartberg Nieuwe Kempen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING BOUDEWIJNLAAN ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.488281,
+                    51.012799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;31;G6",
+                "ref:De_Lijn": "402421",
+                "bus": "yes",
+                "name": "Zwartberg Nieuwe Kempen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING BOUDEWIJNLAAN ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.487703,
+                    51.013074
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;390;391;430;436;437",
+                "ref:De_Lijn": "109435",
+                "bus": "yes",
+                "name": "Retie Brasel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRASEL RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.071251,
+                    51.241862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;390;391;430;436",
+                "ref:De_Lijn": "109434",
+                "bus": "yes",
+                "name": "Retie Brasel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRASEL RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.071353,
+                    51.241961
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;89",
+                "ref:De_Lijn": "205334",
+                "bus": "yes",
+                "name": "Verrebroek Haandorpweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZOPWEG KALLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.214757,
+                    51.252518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;89",
+                "ref:De_Lijn": "204334",
+                "bus": "yes",
+                "name": "Verrebroek Haandorpweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZOPWEG KALLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.214814,
+                    51.252617
+                ]
+            }
+        }
+    ]
+}

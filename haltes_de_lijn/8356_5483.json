@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "200306",
+                "bus": "yes",
+                "name": "Sint-Martens-Latem Papenaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NELEMEERSSTRAAT SINT-MARTENS-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.616434,
+                    51.019649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36;145",
+                "ref:De_Lijn": "201600",
+                "bus": "yes",
+                "name": "Sint-Martens-Latem Brakel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAARLE-FRANKRIJKSTRAAT SINT-MARTENS-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.623921,
+                    51.023868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201305",
+                "bus": "yes",
+                "name": "Sint-Martens-Latem Bogaertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRAKELMEERSSTRAAT SINT-MARTENS-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614809,
+                    51.024934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201843",
+                "bus": "yes",
+                "name": "Sint-Martens-Latem Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT SINT-MARTENS-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.623177,
+                    51.01864
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201637",
+                "bus": "yes",
+                "name": "Gontrode Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTEENWEG GONTRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.797836,
+                    50.984683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201633",
+                "bus": "yes",
+                "name": "Gontrode Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTEENWEG GONTRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.801028,
+                    50.980959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140;440",
+                "ref:De_Lijn": "200633",
+                "bus": "yes",
+                "name": "Gontrode Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTEENWEG GONTRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.800844,
+                    50.980904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "201940",
+                "bus": "yes",
+                "name": "Gontrode Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDEWEG GONTRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.785678,
+                    50.984318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "200637",
+                "bus": "yes",
+                "name": "Gontrode Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTEENWEG GONTRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.797331,
+                    50.984061
+                ]
+            }
+        }
+    ]
+}

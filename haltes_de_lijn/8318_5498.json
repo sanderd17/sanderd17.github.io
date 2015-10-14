@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504698",
+                "bus": "yes",
+                "name": "Reningelst Diepestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOKERSEWEG RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.769367,
+                    50.810503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504113",
+                "bus": "yes",
+                "name": "Klijte Rozenhil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RENINGELSTSTRAAT KLIJTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.787328,
+                    50.811952
+                ]
+            }
+        }
+    ]
+}

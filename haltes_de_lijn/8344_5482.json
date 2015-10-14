@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505761",
+                "bus": "yes",
+                "name": "Tielt Polderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.360606,
+                    51.030485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505073",
+                "bus": "yes",
+                "name": "Schuiferskapelle Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERIJSTRAAT SCHUIFERSKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.342098,
+                    51.032564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505115",
+                "bus": "yes",
+                "name": "Schuiferskapelle Rijkegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALGESTRAAT SCHUIFERSKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.348995,
+                    51.037317
+                ]
+            }
+        }
+    ]
+}

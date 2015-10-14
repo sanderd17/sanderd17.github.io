@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400224",
+                "bus": "yes",
+                "name": "Niel-bij-As Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT NIEL-BIJ-AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.602234,
+                    51.015966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400225",
+                "bus": "yes",
+                "name": "Niel-bij-As Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT NIEL-BIJ-AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.601631,
+                    51.015792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11;40",
+                "ref:De_Lijn": "400212",
+                "bus": "yes",
+                "name": "As Molendel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEËRWEG AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.581109,
+                    51.020294
+                ]
+            }
+        }
+    ]
+}

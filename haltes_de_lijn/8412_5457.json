@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;458;459",
+                "ref:De_Lijn": "109633",
+                "bus": "yes",
+                "name": "Merksplas Veldenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP HOOGSTRATEN MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.838482,
+                    51.372951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;434;458;459",
+                "ref:De_Lijn": "109634",
+                "bus": "yes",
+                "name": "Merksplas Veldenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP HOOGSTRATEN MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.839184,
+                    51.372724
+                ]
+            }
+        }
+    ]
+}

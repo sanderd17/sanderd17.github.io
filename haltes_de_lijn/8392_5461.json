@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "659;670",
+                "ref:De_Lijn": "105841",
+                "bus": "yes",
+                "name": "Kapellen Kalmthoutsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41649,
+                    51.328791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "658;720",
+                "ref:De_Lijn": "105252",
+                "bus": "yes",
+                "name": "Kapellen Kalmthoutsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSESTRAAT KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415587,
+                    51.32915
+                ]
+            }
+        }
+    ]
+}

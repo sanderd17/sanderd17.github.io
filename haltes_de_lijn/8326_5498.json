@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "504640",
+                "bus": "yes",
+                "name": "Zandvoorde Schaprulle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.965616,
+                    50.806318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "509640",
+                "bus": "yes",
+                "name": "Zandvoorde Schaprulle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.965484,
+                    50.80646
+                ]
+            }
+        }
+    ]
+}

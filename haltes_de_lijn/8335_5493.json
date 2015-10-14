@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505567",
+                "bus": "yes",
+                "name": "Rollegem-Kapelle Driepikkelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEUZESMISSESTRAAT ROLLEGEM-KAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.150568,
+                    50.879475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505568",
+                "bus": "yes",
+                "name": "Rollegem-Kapelle Knokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RENNEVOORTSTRAAT ROLLEGEM-KAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.159399,
+                    50.879809
+                ]
+            }
+        }
+    ]
+}

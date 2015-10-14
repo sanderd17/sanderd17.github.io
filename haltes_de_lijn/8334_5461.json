@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506016",
+                "zone:De_Lijn": "12",
+                "name": "Blankenberge Pier",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT RUZETTELAAN BLANKENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138523,
+                    51.317873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "501613",
+                "bus": "yes",
+                "name": "Blankenberge Pier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT RUZETTELAAN BLANKENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13907,
+                    51.317789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501016",
+                "zone:De_Lijn": "12",
+                "name": "Blankenberge Pier",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT RUZETTELAAN BLANKENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138421,
+                    51.317926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "506613",
+                "bus": "yes",
+                "name": "Blankenberge Pier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT RUZETTELAAN BLANKENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138487,
+                    51.31763
+                ]
+            }
+        }
+    ]
+}

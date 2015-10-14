@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;280",
+                "ref:De_Lijn": "205682",
+                "bus": "yes",
+                "name": "Temse Kapelanielaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGKAMERSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.185111,
+                    51.138708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95",
+                "ref:De_Lijn": "204683",
+                "bus": "yes",
+                "name": "Sint-Niklaas Hoge Heerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEN SCHOEN SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.177774,
+                    51.147532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205615",
+                "bus": "yes",
+                "name": "Temse Walgoedstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAAGSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.193121,
+                    51.140311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;280",
+                "ref:De_Lijn": "204682",
+                "bus": "yes",
+                "name": "Temse Kapelanielaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGKAMERSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.185269,
+                    51.138744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95",
+                "ref:De_Lijn": "205683",
+                "bus": "yes",
+                "name": "Sint-Niklaas Hoge Heerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEN SCHOEN SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.177517,
+                    51.147541
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "412;607",
+                "ref:De_Lijn": "108802",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Lochtenbergplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOCHTENBERGPLEIN SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.560861,
+                    51.301527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;620;621;629",
+                "ref:De_Lijn": "105481",
+                "bus": "yes",
+                "name": "Schoten Terheidedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.551277,
+                    51.296275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "412;600;601;602;607;620;621;629",
+                "ref:De_Lijn": "105486",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Zandgroefweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLEI SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.562856,
+                    51.302018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "443;600;601;602;620;621;629",
+                "ref:De_Lijn": "105482",
+                "bus": "yes",
+                "name": "Schoten Terheidedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.551132,
+                    51.296032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "443;600;601;602;620;621;629",
+                "ref:De_Lijn": "105484",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Sluisvijfbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLEI SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.556994,
+                    51.299124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "412;443;600;601;602;607;620;621;629",
+                "ref:De_Lijn": "105487",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Zandgroefweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLEI SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.562956,
+                    51.30191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;620;621;629",
+                "ref:De_Lijn": "105483",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Sluisvijfbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLEI SINT-JOB-IN-'T-GOOR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.556722,
+                    51.299142
+                ]
+            }
+        }
+    ]
+}

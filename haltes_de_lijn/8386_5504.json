@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "155",
+                "ref:De_Lijn": "307725",
+                "bus": "yes",
+                "name": "Essenbeek 's Hertogenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRABOS BUIZINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.273591,
+                    50.725269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "155",
+                "ref:De_Lijn": "307722",
+                "bus": "yes",
+                "name": "Dworp Krabbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRABBOSSTRAAT DWORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.281543,
+                    50.729024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "155",
+                "ref:De_Lijn": "307724",
+                "bus": "yes",
+                "name": "Essenbeek 's Hertogenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRABOS BUIZINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.273394,
+                    50.724577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "155",
+                "ref:De_Lijn": "307723",
+                "bus": "yes",
+                "name": "Dworp Krabbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRABBOSSTRAAT DWORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.281444,
+                    50.729114
+                ]
+            }
+        }
+    ]
+}

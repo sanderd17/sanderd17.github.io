@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;91;92",
+                "ref:De_Lijn": "207635",
+                "bus": "yes",
+                "name": "Grembergen Gaverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMSESTEENWEG GREMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.106059,
+                    51.056464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204144",
+                "bus": "yes",
+                "name": "Grembergen Bakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJFBUNDERSTRAAT GREMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.095186,
+                    51.059675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;91;290",
+                "ref:De_Lijn": "204131",
+                "bus": "yes",
+                "name": "Grembergen Zogsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMSESTEENWEG GREMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.108738,
+                    51.062052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;91;92;290",
+                "ref:De_Lijn": "206635",
+                "bus": "yes",
+                "name": "Grembergen Gaverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMSESTEENWEG GREMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.106217,
+                    51.056338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;91",
+                "ref:De_Lijn": "205131",
+                "bus": "yes",
+                "name": "Grembergen Zogsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMSESTEENWEG GREMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.108567,
+                    51.062124
+                ]
+            }
+        }
+    ]
+}

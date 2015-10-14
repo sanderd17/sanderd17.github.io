@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;49",
+                "ref:De_Lijn": "209473",
+                "bus": "yes",
+                "name": "Steenhuize Wijnhuize Eikestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKESTRAAT STEENHUIZE-WIJNHUIZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.891245,
+                    50.837761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;49;370;390",
+                "ref:De_Lijn": "208474",
+                "bus": "yes",
+                "name": "Steenhuize-Wijnhuize Hoge Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKESTRAAT STEENHUIZE-WIJNHUIZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.90067,
+                    50.833699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;49;370;390",
+                "ref:De_Lijn": "208473",
+                "bus": "yes",
+                "name": "Steenhuize-Wijnhuize Eikestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKESTRAAT STEENHUIZE-WIJNHUIZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.891372,
+                    50.837833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209669",
+                "bus": "yes",
+                "name": "Steenhuize Bergestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGESTRAAT STEENHUIZE-WIJNHUIZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.896157,
+                    50.840612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209673",
+                "bus": "yes",
+                "name": "Steenhuize Hekkestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKKESTRAAT SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8997,
+                    50.844115
+                ]
+            }
+        }
+    ]
+}

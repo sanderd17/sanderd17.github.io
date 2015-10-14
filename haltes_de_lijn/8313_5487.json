@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "504256",
+                "bus": "yes",
+                "name": "Leisele Abele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.664997,
+                    50.97012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "509101",
+                "bus": "yes",
+                "name": "Gijverinkhove Drie Boompjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALLESTRAAT GIJVERINKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.664674,
+                    50.96606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504102",
+                "bus": "yes",
+                "name": "Gijverinkhove Weegschede",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEEGSCHEDE GIJVERINKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.675946,
+                    50.969757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "509102",
+                "bus": "yes",
+                "name": "Gijverinkhove Weegschede",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEEGSCHEDE GIJVERINKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.67663,
+                    50.969749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504101",
+                "bus": "yes",
+                "name": "Gijverinkhove Drie Boompjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALLESTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.664609,
+                    50.966275
+                ]
+            }
+        }
+    ]
+}

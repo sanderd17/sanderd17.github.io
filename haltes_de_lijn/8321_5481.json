@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "503962",
+                "bus": "yes",
+                "name": "Kaaskerke Dodengang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IJZERDIJK DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.84352,
+                    51.045146
+                ]
+            }
+        }
+    ]
+}

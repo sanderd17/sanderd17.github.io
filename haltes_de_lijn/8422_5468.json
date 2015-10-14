@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "109438",
+                "bus": "yes",
+                "name": "Retie MMN Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STENEHEI RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.05827,
+                    51.225957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "109436",
+                "bus": "yes",
+                "name": "Retie Kastelsedijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STENEHEI RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.06407,
+                    51.232781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "109437",
+                "bus": "yes",
+                "name": "Dessel Kastelsedijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STENEHEI DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.064605,
+                    51.233147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "109439",
+                "bus": "yes",
+                "name": "Dessel MMN Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N118 DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.058048,
+                    51.225428
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;195",
+                "ref:De_Lijn": "202683",
+                "bus": "yes",
+                "name": "Assenede Waelpoelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.739851,
+                    51.218977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "203683",
+                "bus": "yes",
+                "name": "Assenede Waelpoelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.739806,
+                    51.219075
+                ]
+            }
+        }
+    ]
+}

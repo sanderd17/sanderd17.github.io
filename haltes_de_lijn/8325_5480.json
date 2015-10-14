@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;64",
+                "ref:De_Lijn": "504853",
+                "bus": "yes",
+                "name": "Vladslo Houtland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNENDALESTRAAT VLADSLO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.936194,
+                    51.066214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;64",
+                "ref:De_Lijn": "504852",
+                "bus": "yes",
+                "name": "Vladslo Houtland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNENDALESTRAAT VLADSLO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.935522,
+                    51.066233
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;56;59",
+                "ref:De_Lijn": "502236",
+                "bus": "yes",
+                "name": "Koekelare Westbeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CATSTRAAT MOKKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.948879,
+                    51.087828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505145",
+                "bus": "yes",
+                "name": "Koekelare Bisschopshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARNESTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.966123,
+                    51.095919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;56;59",
+                "ref:De_Lijn": "502226",
+                "bus": "yes",
+                "name": "Koekelare De Pluim",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTMEETSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.959774,
+                    51.091519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;56;59",
+                "ref:De_Lijn": "507226",
+                "bus": "yes",
+                "name": "Koekelare De Pluim",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTMEETSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.959591,
+                    51.091445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505141",
+                "bus": "yes",
+                "name": "Koekelare Hoog Kwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE HEIRWEG KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.964413,
+                    51.085371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;56;59",
+                "ref:De_Lijn": "507236",
+                "bus": "yes",
+                "name": "Koekelare Westbeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CATSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.949486,
+                    51.088042
+                ]
+            }
+        }
+    ]
+}

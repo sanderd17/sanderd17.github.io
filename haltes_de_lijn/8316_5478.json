@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "504733",
+                "bus": "yes",
+                "name": "Booitshoeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR HENRI SCHERPEREELSTRAAT BOOITSHOEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.743922,
+                    51.087502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "504734",
+                "bus": "yes",
+                "name": "Booitshoeke Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PERVIJZESTRAAT BOOITSHOEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.741046,
+                    51.090573
+                ]
+            }
+        }
+    ]
+}

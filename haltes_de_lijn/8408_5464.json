@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;429;449",
+                "ref:De_Lijn": "107443",
+                "bus": "yes",
+                "name": "Oostmalle Spaeydreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIHUIZEN OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.757035,
+                    51.284327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;429;449",
+                "ref:De_Lijn": "107442",
+                "bus": "yes",
+                "name": "Oostmalle Spaeydreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIHUIZEN OOSTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.756763,
+                    51.284328
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;195",
+                "ref:De_Lijn": "202227",
+                "bus": "yes",
+                "name": "Sint-Laureins Boterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMWEG SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.52017,
+                    51.218873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;195",
+                "ref:De_Lijn": "202226",
+                "bus": "yes",
+                "name": "Balgerhoeke Sint-Laureinsesteenweg 21",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LAUREINSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.519003,
+                    51.215368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203227",
+                "bus": "yes",
+                "name": "Sint-Laureins Boterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LAUREINSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.520179,
+                    51.218405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203226",
+                "bus": "yes",
+                "name": "Balgerhoeke Sint-Laureinsesteenweg 21",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LAUREINSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.519162,
+                    51.215315
+                ]
+            }
+        }
+    ]
+}

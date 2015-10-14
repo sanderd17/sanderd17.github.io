@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "504730",
+                "bus": "yes",
+                "name": "Steenkerke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAENESTRAAT STEENKERKE (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.69028,
+                    51.056666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;58;59",
+                "ref:De_Lijn": "504502",
+                "bus": "yes",
+                "name": "Veurne Santens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORUITGANGSSTRAAT VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.683464,
+                    51.068455
+                ]
+            }
+        }
+    ]
+}

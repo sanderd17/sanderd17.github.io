@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "504373",
+                "bus": "yes",
+                "name": "Langemark Mangelaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MANGELAARSTRAAT MANGELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.915033,
+                    50.937602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505714",
+                "bus": "yes",
+                "name": "Langemark Kwakkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MANGELAARSTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.905762,
+                    50.932803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "501628",
+                "bus": "yes",
+                "name": "Langemark Te Lande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALGESTRAAT MANGELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.912199,
+                    50.933998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505716",
+                "bus": "yes",
+                "name": "Langemark Gistelhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELHOFSTRAAT MANGELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.918789,
+                    50.93576
+                ]
+            }
+        }
+    ]
+}

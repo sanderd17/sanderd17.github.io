@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "212;215;305",
+                "ref:De_Lijn": "109174",
+                "bus": "yes",
+                "name": "Lichtaart Hof Ter Heidedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG EERSELINGEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898049,
+                    51.207988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "212;215;305",
+                "ref:De_Lijn": "109173",
+                "bus": "yes",
+                "name": "Lichtaart Hof Ter Heidedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG EERSELINGEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.897606,
+                    51.208008
+                ]
+            }
+        }
+    ]
+}

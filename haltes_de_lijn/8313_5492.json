@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504243",
+                "bus": "yes",
+                "name": "Krombeke Blasiusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLASIUSSTRAAT KROMBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.668567,
+                    50.896782
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54;270",
+                "ref:De_Lijn": "202969",
+                "bus": "yes",
+                "name": "Lokeren Gentsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIENDESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.952944,
+                    51.083881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204092",
+                "bus": "yes",
+                "name": "Lokeren Vispoelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERVELDESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.933596,
+                    51.084881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54;270",
+                "ref:De_Lijn": "203969",
+                "bus": "yes",
+                "name": "Lokeren Gentsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIENDESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.952959,
+                    51.083746
+                ]
+            }
+        }
+    ]
+}

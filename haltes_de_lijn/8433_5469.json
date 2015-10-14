@@ -1,0 +1,365 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409672",
+                "bus": "yes",
+                "name": "Balendijk Terduinen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUINENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.301041,
+                    51.219068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712;713",
+                "ref:De_Lijn": "401924",
+                "bus": "yes",
+                "name": "Lommel De Bekelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLINIEKSTRAAT KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.312674,
+                    51.215308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409417",
+                "bus": "yes",
+                "name": "Kattenbos Bezemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEZEMSTRAAT KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313462,
+                    51.21043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "405765",
+                "bus": "yes",
+                "name": "Kattenbos Spinnewielstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPINNEWIELSTRAAT KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.311493,
+                    51.209277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;711;712;713",
+                "ref:De_Lijn": "405840",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Kliniek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313381,
+                    51.216318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409418",
+                "bus": "yes",
+                "name": "Kattenbos Oude Diesterbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DIESTERSEBAAN KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.316312,
+                    51.208402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409670",
+                "bus": "yes",
+                "name": "Balendijk Hotel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DUINENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.304093,
+                    51.219925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;713",
+                "ref:De_Lijn": "405841",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Kliniek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31325,
+                    51.216894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712;713",
+                "ref:De_Lijn": "405820",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel IR Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.312616,
+                    51.21174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "405749",
+                "bus": "yes",
+                "name": "Lommel Nijshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJSHOEK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.306573,
+                    51.216543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "405764",
+                "bus": "yes",
+                "name": "Kattenbos Spinnewielstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPINNEWIELSTRAAT KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310406,
+                    51.209339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409669",
+                "bus": "yes",
+                "name": "Balendijk Hotel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DUINENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.304166,
+                    51.220023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "404689",
+                "bus": "yes",
+                "name": "Lommel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.312805,
+                    51.212628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "405748",
+                "bus": "yes",
+                "name": "Lommel Nijshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJSHOEK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.306659,
+                    51.216542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "405822",
+                "bus": "yes",
+                "name": "Lommel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313005,
+                    51.212582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409421",
+                "bus": "yes",
+                "name": "Kattenbos School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAARDSTRAAT KATTENBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.307434,
+                    51.207421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "409671",
+                "bus": "yes",
+                "name": "Balendijk Terduinen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUINENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.301141,
+                    51.219049
+                ]
+            }
+        }
+    ]
+}

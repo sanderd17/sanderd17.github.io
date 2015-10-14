@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;561;712",
+                "ref:De_Lijn": "303257",
+                "bus": "yes",
+                "name": "Drieslinter Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.045597,
+                    50.844441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;561",
+                "ref:De_Lijn": "303265",
+                "bus": "yes",
+                "name": "Drieslinter Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.053345,
+                    50.847048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;561;712",
+                "ref:De_Lijn": "303266",
+                "bus": "yes",
+                "name": "Drieslinter Stationsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.05319,
+                    50.847121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;561",
+                "ref:De_Lijn": "303256",
+                "bus": "yes",
+                "name": "Drieslinter Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.04591,
+                    50.844448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;561;712",
+                "ref:De_Lijn": "303255",
+                "bus": "yes",
+                "name": "Drieslinter Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03654,
+                    50.841562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;561",
+                "ref:De_Lijn": "303254",
+                "bus": "yes",
+                "name": "Drieslinter Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.036609,
+                    50.841463
+                ]
+            }
+        }
+    ]
+}

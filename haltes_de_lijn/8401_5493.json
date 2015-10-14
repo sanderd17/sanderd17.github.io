@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "351;521;530;651",
+                "ref:De_Lijn": "302786",
+                "bus": "yes",
+                "name": "Meerbeek Goedestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT MEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.596968,
+                    50.885342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "516",
+                "ref:De_Lijn": "308593",
+                "bus": "yes",
+                "name": "Meerbeek Dorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAARDESTRAAT MEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.594775,
+                    50.884439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "351;521;530;651",
+                "ref:De_Lijn": "302787",
+                "bus": "yes",
+                "name": "Meerbeek Goedestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT MEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.596783,
+                    50.885325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "516",
+                "ref:De_Lijn": "307705",
+                "bus": "yes",
+                "name": "Meerbeek Dorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAARDESTRAAT MEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.594675,
+                    50.884376
+                ]
+            }
+        }
+    ]
+}

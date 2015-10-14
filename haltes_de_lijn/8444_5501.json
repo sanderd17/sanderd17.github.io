@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "408699",
+                "bus": "yes",
+                "name": "Sluizen Weg naar Elst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MILLERWEG SLUIZEN (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.541185,
+                    50.771086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;726",
+                "ref:De_Lijn": "407647",
+                "bus": "yes",
+                "name": "Millen Elst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSTERWEG MILLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556047,
+                    50.769525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;726",
+                "ref:De_Lijn": "407648",
+                "bus": "yes",
+                "name": "Millen Elst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSTERWEG MILLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556159,
+                    50.769461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "408698",
+                "bus": "yes",
+                "name": "Sluizen Weg naar Elst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MILLERWEG SLUIZEN (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.541267,
+                    50.770986
+                ]
+            }
+        }
+    ]
+}

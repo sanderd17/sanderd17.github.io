@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "289",
+                "ref:De_Lijn": "305799",
+                "bus": "yes",
+                "name": "Leest Van Praet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUNIORSLAAN LEEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.384107,
+                    51.029446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "289",
+                "ref:De_Lijn": "305800",
+                "bus": "yes",
+                "name": "Leest Van Praet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUNIORSLAAN LEEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38425,
+                    51.029365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "289",
+                "ref:De_Lijn": "305797",
+                "bus": "yes",
+                "name": "Leest Weg naar Blaasveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LEEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.394201,
+                    51.0317
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54",
+                "ref:De_Lijn": "502692",
+                "bus": "yes",
+                "name": "Tielt Marialoopsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIALOOPSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.328225,
+                    50.967769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;59",
+                "ref:De_Lijn": "507339",
+                "bus": "yes",
+                "name": "Meulebeke Marialoop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIALOOPPLAATS MARIALOOP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32822,
+                    50.96348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;59",
+                "ref:De_Lijn": "502339",
+                "bus": "yes",
+                "name": "Meulebeke Marialoop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIALOOPPLAATS MARIALOOP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32839,
+                    50.963554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;450",
+                "ref:De_Lijn": "507692",
+                "bus": "yes",
+                "name": "Tielt Marialoopsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIALOOPSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.328054,
+                    50.967767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505959",
+                "bus": "yes",
+                "name": "Meulebeke Buysveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUYSVELDSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.336123,
+                    50.961473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505077",
+                "bus": "yes",
+                "name": "Tielt Marialoopsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIALOOPSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.328225,
+                    50.967769
+                ]
+            }
+        }
+    ]
+}

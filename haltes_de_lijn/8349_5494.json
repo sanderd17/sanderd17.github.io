@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;88",
+                "ref:De_Lijn": "507952",
+                "bus": "yes",
+                "name": "Waregem Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WORTEGEMSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.452181,
+                    50.873397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;88;450",
+                "ref:De_Lijn": "507942",
+                "bus": "yes",
+                "name": "Waregem Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WORTEGEMSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.452265,
+                    50.873488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200770",
+                "bus": "yes",
+                "name": "Wortegem Tjammelwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TJAMMELSSTRAAT WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.471546,
+                    50.861536
+                ]
+            }
+        }
+    ]
+}

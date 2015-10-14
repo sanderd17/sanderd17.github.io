@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505260",
+                "bus": "yes",
+                "name": "Heestert Dokkestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKKESTRAAT HEESTERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.391953,
+                    50.800126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505261",
+                "bus": "yes",
+                "name": "Heestert Schaapstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAAPSTRAAT HEESTERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.400249,
+                    50.792715
+                ]
+            }
+        }
+    ]
+}

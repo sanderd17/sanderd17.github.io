@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "105617",
+                "bus": "yes",
+                "name": "Meer Dreefweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSEWEG MEER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.743523,
+                    51.437642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "105616",
+                "bus": "yes",
+                "name": "Meer Dreefweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSEWEG MEER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.74345,
+                    51.437499
+                ]
+            }
+        }
+    ]
+}

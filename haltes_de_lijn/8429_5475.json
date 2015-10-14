@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;718",
+                "ref:De_Lijn": "405556",
+                "bus": "yes",
+                "name": "Heppen Asdonckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLMENWEG ASDONK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.22718,
+                    51.125754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;718",
+                "ref:De_Lijn": "405557",
+                "bus": "yes",
+                "name": "Heppen Asdonckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLMENWEG ASDONK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.227054,
+                    51.125863
+                ]
+            }
+        }
+    ]
+}

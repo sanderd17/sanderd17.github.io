@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201279",
+                "bus": "yes",
+                "name": "Nazareth Zonnehoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNESTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.637942,
+                    50.939112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "201619",
+                "bus": "yes",
+                "name": "Asper Bernstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.632603,
+                    50.939322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201516",
+                "bus": "yes",
+                "name": "Nazareth Bernstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STEENWEG EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.632548,
+                    50.93924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;145",
+                "ref:De_Lijn": "200618",
+                "bus": "yes",
+                "name": "Asper Pontweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEBAAN NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.629081,
+                    50.934418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "211048",
+                "bus": "yes",
+                "name": "Nazareth Zonnehoeve gebouw 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNESTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.637925,
+                    50.939328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "201618",
+                "bus": "yes",
+                "name": "Asper Pontweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEBAAN ASPER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.629716,
+                    50.934728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "200619",
+                "bus": "yes",
+                "name": "Asper Bernstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEBAAN NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.631898,
+                    50.938904
+                ]
+            }
+        }
+    ]
+}

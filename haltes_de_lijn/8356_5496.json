@@ -1,0 +1,530 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;445",
+                "ref:De_Lijn": "208117",
+                "bus": "yes",
+                "name": "Edelare Aalststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDELAREBERG OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.609399,
+                    50.835422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208232",
+                "bus": "yes",
+                "name": "Oudenaarde Myttestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SMISSESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.621425,
+                    50.841594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17;41;42;47;61;62;63;65;66;83;445;450;460;485;62S",
+                "ref:De_Lijn": "208119",
+                "bus": "yes",
+                "name": "Oudenaarde Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603793,
+                    50.843126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445;450;460;485",
+                "ref:De_Lijn": "208239",
+                "bus": "yes",
+                "name": "Oudenaarde RVT Heilig Hart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARLBOROUGHLAAN OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.609681,
+                    50.843461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;41;42;47",
+                "ref:De_Lijn": "209236",
+                "bus": "yes",
+                "name": "Oudenaarde Raepsaetplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607347,
+                    50.838492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;47",
+                "ref:De_Lijn": "209233",
+                "bus": "yes",
+                "name": "Edelare Smissestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.617036,
+                    50.844353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "209796",
+                "bus": "yes",
+                "name": "Edelare Tivolistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIVOLISTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.624211,
+                    50.839553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209239",
+                "bus": "yes",
+                "name": "Oudenaarde Markt (Marktdagen)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MARKT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.604539,
+                    50.842699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;41;42;47;445;460",
+                "ref:De_Lijn": "208236",
+                "bus": "yes",
+                "name": "Oudenaarde Raepsaetplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607449,
+                    50.83834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;41;42;47;445;460",
+                "ref:De_Lijn": "208235",
+                "bus": "yes",
+                "name": "Oudenaarde Bergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REMPARDEN OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.610562,
+                    50.840769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;47;445",
+                "ref:De_Lijn": "208233",
+                "bus": "yes",
+                "name": "Edelare Smissestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.617069,
+                    50.844075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;47",
+                "ref:De_Lijn": "209234",
+                "bus": "yes",
+                "name": "Edelare Vandefonteynelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.61501,
+                    50.840492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;445",
+                "ref:De_Lijn": "208797",
+                "bus": "yes",
+                "name": "Edelare Mijttestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIJTTESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.617297,
+                    50.838673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;47;445",
+                "ref:De_Lijn": "208234",
+                "bus": "yes",
+                "name": "Edelare Vandefonteynelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615237,
+                    50.840512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "209116",
+                "bus": "yes",
+                "name": "Edelare Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDELAREBERG EDELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.622657,
+                    50.834626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;61;62;63;445;460",
+                "ref:De_Lijn": "208118",
+                "bus": "yes",
+                "name": "Oudenaarde Casteleinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIEPENDALE OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607128,
+                    50.837106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209232",
+                "bus": "yes",
+                "name": "Oudenaarde Myttestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SMISSESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.621425,
+                    50.841594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;61;62;63",
+                "ref:De_Lijn": "209118",
+                "bus": "yes",
+                "name": "Oudenaarde Casteleinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIEPENDALE OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.606958,
+                    50.837078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "209117",
+                "bus": "yes",
+                "name": "Edelare Aalststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDELAREBERG LEUPEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.608371,
+                    50.834885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;445",
+                "ref:De_Lijn": "208227",
+                "bus": "yes",
+                "name": "Ename Rekkemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARTIJN VAN TORHOUTSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.621146,
+                    50.847508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;41;42;47",
+                "ref:De_Lijn": "209235",
+                "bus": "yes",
+                "name": "Oudenaarde Bergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REMPARDEN OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.610544,
+                    50.840994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "209797",
+                "bus": "yes",
+                "name": "Edelare Mijttestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIJTTESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.617069,
+                    50.838708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17;41;42;47;61;62;63;65;66;83;62S",
+                "ref:De_Lijn": "209119",
+                "bus": "yes",
+                "name": "Oudenaarde Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.604886,
+                    50.843169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;445",
+                "ref:De_Lijn": "208796",
+                "bus": "yes",
+                "name": "Edelare Tivolistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIVOLISTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.624241,
+                    50.839446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;445",
+                "ref:De_Lijn": "208116",
+                "bus": "yes",
+                "name": "Edelare Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDELAREBERG EDELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.623297,
+                    50.834513
+                ]
+            }
+        }
+    ]
+}

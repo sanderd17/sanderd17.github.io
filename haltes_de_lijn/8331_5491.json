@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "503625",
+                "bus": "yes",
+                "name": "Moorslede Kruisken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.074907,
+                    50.908929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "508625",
+                "bus": "yes",
+                "name": "Moorslede Kruisken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.075064,
+                    50.908886
+                ]
+            }
+        }
+    ]
+}

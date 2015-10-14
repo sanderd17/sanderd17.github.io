@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;40",
+                "ref:De_Lijn": "406112",
+                "bus": "yes",
+                "name": "Maaseik Venweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.772091,
+                    51.114072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;40",
+                "ref:De_Lijn": "406108",
+                "bus": "yes",
+                "name": "Maaseik 't Gremelslo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.767546,
+                    51.120644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;15;16;40",
+                "ref:De_Lijn": "406113",
+                "bus": "yes",
+                "name": "Maaseik Venweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.772223,
+                    51.114206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;15;16;40",
+                "ref:De_Lijn": "406109",
+                "bus": "yes",
+                "name": "Maaseik 't Gremelslo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.767637,
+                    51.120823
+                ]
+            }
+        }
+    ]
+}

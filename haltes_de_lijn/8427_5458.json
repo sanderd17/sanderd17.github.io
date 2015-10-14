@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "480",
+                "ref:De_Lijn": "109391",
+                "bus": "yes",
+                "name": "Reusel Busstation",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN REUSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.164301,
+                    51.361495
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "509630",
+                "bus": "yes",
+                "name": "Woumen Witte Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVESTRAAT WOUMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.878638,
+                    50.991218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "509621",
+                "bus": "yes",
+                "name": "Woumen Korte Wandeling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT WOUMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.884065,
+                    50.996196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "504630",
+                "bus": "yes",
+                "name": "Woumen Witte Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOUMENSTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.878922,
+                    50.990799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "504621",
+                "bus": "yes",
+                "name": "Woumen Korte Wandeling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.88435,
+                    50.996209
+                ]
+            }
+        }
+    ]
+}

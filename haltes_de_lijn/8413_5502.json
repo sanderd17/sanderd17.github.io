@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "362",
+                "ref:De_Lijn": "302445",
+                "bus": "yes",
+                "name": "Sint-Remigius-Geest Maison 10",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHEMIN DES CARRIERS SINT-REMIGIUS-GEEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.866058,
+                    50.751451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "362",
+                "ref:De_Lijn": "302439",
+                "bus": "yes",
+                "name": "Zétrud Lumay Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE SAINT-REMY ZITTERT-LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.870375,
+                    50.753572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "362",
+                "ref:De_Lijn": "302438",
+                "bus": "yes",
+                "name": "Zétrud Lumay Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE SAINT-REMY ZITTERT-LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.870048,
+                    50.753529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "362",
+                "ref:De_Lijn": "302444",
+                "bus": "yes",
+                "name": "Sint-Remigius-Geest Maison 10",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHEMIN DES CARRIERS SINT-REMIGIUS-GEEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.865974,
+                    50.75155
+                ]
+            }
+        }
+    ]
+}

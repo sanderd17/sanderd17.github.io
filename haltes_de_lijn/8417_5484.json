@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306876",
+                "bus": "yes",
+                "name": "Zichem Spellenhut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJK MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.952473,
+                    51.001595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306875",
+                "bus": "yes",
+                "name": "Zichem Spellenhut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJK ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.952644,
+                    51.001612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304415",
+                "bus": "yes",
+                "name": "Testelt Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.948824,
+                    51.009479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304409",
+                "bus": "yes",
+                "name": "Testelt Bareel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTORIESTRAAT TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.95257,
+                    51.009379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304416",
+                "bus": "yes",
+                "name": "Testelt Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.94915,
+                    51.009288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304410",
+                "bus": "yes",
+                "name": "Testelt Bareel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTORIESTRAAT TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.952741,
+                    51.009342
+                ]
+            }
+        }
+    ]
+}

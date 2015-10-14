@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207719",
+                "bus": "yes",
+                "name": "Lebbeke Lange Breestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEKSKEN LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.156085,
+                    50.979663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "207955",
+                "bus": "yes",
+                "name": "Opwijk Leen Ter Eken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAARSTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171817,
+                    50.973551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "207691",
+                "bus": "yes",
+                "name": "Lebbeke Heilig Kruiskapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPWIJKSESTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.153851,
+                    50.985673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "207954",
+                "bus": "yes",
+                "name": "Opwijk Hoeksken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEKSKEN LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.156085,
+                    50.979663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;320",
+                "ref:De_Lijn": "206691",
+                "bus": "yes",
+                "name": "Lebbeke Heilig Kruiskapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPWIJKSESTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.15435,
+                    50.985512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "207695",
+                "bus": "yes",
+                "name": "Opwijk Bolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKSKEN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171426,
+                    50.982009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;320;340",
+                "ref:De_Lijn": "206695",
+                "bus": "yes",
+                "name": "Opwijk Bolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKSKEN OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171598,
+                    50.98165
+                ]
+            }
+        }
+    ]
+}

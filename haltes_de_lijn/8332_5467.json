@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "506120",
+                "bus": "yes",
+                "name": "Houtave Hendriksbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG HOUTAVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.087825,
+                    51.238202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "501120",
+                "bus": "yes",
+                "name": "Houtave Hendriksbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG HOUTAVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.090591,
+                    51.238115
+                ]
+            }
+        }
+    ]
+}

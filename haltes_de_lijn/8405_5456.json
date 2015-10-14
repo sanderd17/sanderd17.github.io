@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "649;659;679",
+                "ref:De_Lijn": "105651",
+                "bus": "yes",
+                "name": "Loenhout Sluiskensweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.695791,
+                    51.396368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "649;659;679",
+                "ref:De_Lijn": "105649",
+                "bus": "yes",
+                "name": "Loenhout Sluiskensweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.696179,
+                    51.396403
+                ]
+            }
+        }
+    ]
+}

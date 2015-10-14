@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108573",
+                "bus": "yes",
+                "name": "Geel Wilders",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILDERSEDIJK GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990887,
+                    51.136946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108628",
+                "bus": "yes",
+                "name": "Geel Diepezoel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEPLAKENS WINKELOMHEIDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.998161,
+                    51.128592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108633",
+                "bus": "yes",
+                "name": "Geel Gemeenteheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMELDIJK WINKELOMHEIDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.007888,
+                    51.127434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108632",
+                "bus": "yes",
+                "name": "Geel Hollandsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMELDIJK WINKELOMHEIDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.002517,
+                    51.126439
+                ]
+            }
+        }
+    ]
+}

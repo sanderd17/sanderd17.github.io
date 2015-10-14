@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "204243",
+                "bus": "yes",
+                "name": "Sint-Niklaas Land En Tuinbouwschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEVERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.119074,
+                    51.143666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204247",
+                "bus": "yes",
+                "name": "Sint-Niklaas Landbouwschool",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WEVERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.119274,
+                    51.143693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204359",
+                "bus": "yes",
+                "name": "Sint-Niklaas Land En Tuinbouwschool",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WEVERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.11896,
+                    51.143576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;270",
+                "ref:De_Lijn": "205244",
+                "bus": "yes",
+                "name": "Belsele Bookmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE BAAN BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.111872,
+                    51.146185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;270",
+                "ref:De_Lijn": "204244",
+                "bus": "yes",
+                "name": "Belsele Bookmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE BAAN BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.111845,
+                    51.146032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23",
+                "ref:De_Lijn": "204242",
+                "bus": "yes",
+                "name": "Sint-Niklaas Kleiweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE BAAN SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.11931,
+                    51.147523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22",
+                "ref:De_Lijn": "205242",
+                "bus": "yes",
+                "name": "Sint-Niklaas Kleiweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE BAAN SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.118967,
+                    51.147594
+                ]
+            }
+        }
+    ]
+}

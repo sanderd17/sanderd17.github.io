@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "506464",
+                "bus": "yes",
+                "name": "Zevekote Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEVEKOTESTRAAT ZEVEKOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.919895,
+                    51.137318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;66",
+                "ref:De_Lijn": "501464",
+                "bus": "yes",
+                "name": "Zevekote Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEVEKOTESTRAAT ZEVEKOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.920131,
+                    51.137088
+                ]
+            }
+        }
+    ]
+}

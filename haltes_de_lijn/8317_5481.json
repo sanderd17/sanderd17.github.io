@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;57",
+                "ref:De_Lijn": "504682",
+                "bus": "yes",
+                "name": "Zoutenaaie Paviljoen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOUTENAAIESTRAAT ZOUTENAAIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.748676,
+                    51.049157
+                ]
+            }
+        }
+    ]
+}

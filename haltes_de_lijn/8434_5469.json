@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "409415",
+                "bus": "yes",
+                "name": "Lommel Lismortel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LISMORTEL LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.322255,
+                    51.220508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "409416",
+                "bus": "yes",
+                "name": "Lommel Kikkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIKKERSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.319213,
+                    51.217314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "408371",
+                "bus": "yes",
+                "name": "Lommel Averbodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVERBODESTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.327117,
+                    51.219569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "408377",
+                "bus": "yes",
+                "name": "Lommel Averbodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVERBODESTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.327187,
+                    51.219488
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,864 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230",
+                "ref:De_Lijn": "301720",
+                "bus": "yes",
+                "name": "Grimbergen Haneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRIMBERGSESTEENWEG STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359354,
+                    50.915392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301806",
+                "bus": "yes",
+                "name": "Strombeek-Bever Kasteelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BLOEMENDALLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360166,
+                    50.904793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "301801",
+                "bus": "yes",
+                "name": "Strombeek-Bever Gemeenteplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEMEENTEPLEIN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352389,
+                    50.907355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330076",
+                "bus": "yes",
+                "name": "Strombeek-Bever Bloemendallaan (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNALAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362697,
+                    50.903958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;820",
+                "ref:De_Lijn": "304187",
+                "bus": "yes",
+                "name": "Vilvoorde Het Voor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWENLAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.371697,
+                    50.912776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;624;820",
+                "ref:De_Lijn": "305312",
+                "bus": "yes",
+                "name": "Strombeek-Bever Ringlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNALAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.365767,
+                    50.909936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;820",
+                "ref:De_Lijn": "305275",
+                "bus": "yes",
+                "name": "Vilvoorde Koekoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWENLAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.366819,
+                    50.911059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230",
+                "ref:De_Lijn": "301719",
+                "bus": "yes",
+                "name": "Grimbergen Haneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRIMBERGSESTEENWEG STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359396,
+                    50.915194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307888",
+                "bus": "yes",
+                "name": "Strombeek-Bever Pierebad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360208,
+                    50.911643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232",
+                "ref:De_Lijn": "301793",
+                "bus": "yes",
+                "name": "Strombeek-Bever Bloemendal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-AMANDSSTRAAT STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36045,
+                    50.904497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;624;820",
+                "ref:De_Lijn": "305313",
+                "bus": "yes",
+                "name": "Strombeek-Bever Ringlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNALAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.365838,
+                    50.909693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;624",
+                "ref:De_Lijn": "301721",
+                "bus": "yes",
+                "name": "Grimbergen Hellebeekberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNALAAN VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36844,
+                    50.915311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301819",
+                "bus": "yes",
+                "name": "Strombeek-Bever Sint-Annalaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BLOEMENDALLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362356,
+                    50.90411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301820",
+                "bus": "yes",
+                "name": "Strombeek-Bever Sint-Annalaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROENDALLAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.363621,
+                    50.903886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301817",
+                "bus": "yes",
+                "name": "Strombeek-Bever Verbeytstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJKENDALSTRAAT STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.355204,
+                    50.906051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230",
+                "ref:De_Lijn": "301822",
+                "bus": "yes",
+                "name": "Strombeek-Bever Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRIMBERGSESTEENWEG STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.357065,
+                    50.912668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330077",
+                "bus": "yes",
+                "name": "Strombeek-Bever St. Annalaan (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNALAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.365327,
+                    50.908659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301815",
+                "bus": "yes",
+                "name": "Strombeek-Bever Verbeytstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJKENDALSTRAAT STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.355304,
+                    50.90598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232",
+                "ref:De_Lijn": "301823",
+                "bus": "yes",
+                "name": "Strombeek-Bever Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRIMBERGSESTEENWEG STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.357051,
+                    50.912875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330078",
+                "bus": "yes",
+                "name": "Vilvoorde Het Voor (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEEUWENLAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.371995,
+                    50.912758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;624;820",
+                "ref:De_Lijn": "301807",
+                "bus": "yes",
+                "name": "Strombeek-Bever Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-AMANDSPLEIN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356525,
+                    50.910034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305247",
+                "bus": "yes",
+                "name": "Vilvoorde Het Voor",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372137,
+                    50.913208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;624;820",
+                "ref:De_Lijn": "303891",
+                "bus": "yes",
+                "name": "Strombeek-Bever Pierebad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360961,
+                    50.911275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;820",
+                "ref:De_Lijn": "305276",
+                "bus": "yes",
+                "name": "Vilvoorde Koekoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWENLAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.367161,
+                    50.911167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232",
+                "ref:De_Lijn": "301816",
+                "bus": "yes",
+                "name": "Strombeek-Bever Rijkendal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-AMANDSSTRAAT STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359654,
+                    50.90705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330068",
+                "bus": "yes",
+                "name": "Strombeek-Bever St. Annalaan (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNALAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.365028,
+                    50.908434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305246",
+                "bus": "yes",
+                "name": "Vilvoorde Het Voor",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372308,
+                    50.912686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;624;820",
+                "ref:De_Lijn": "307889",
+                "bus": "yes",
+                "name": "Strombeek-Bever Pierebad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360179,
+                    50.911769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301800",
+                "bus": "yes",
+                "name": "Strombeek-Bever Gemeenteplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LAKENSESTRAAT STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352446,
+                    50.906986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301804",
+                "bus": "yes",
+                "name": "Strombeek-Bever Grote Winkellaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KONINGSLOSESTEENWEG STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36318,
+                    50.908722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;624;820",
+                "ref:De_Lijn": "301808",
+                "bus": "yes",
+                "name": "Strombeek-Bever Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-AMANDSPLEIN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356554,
+                    50.909926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "301802",
+                "bus": "yes",
+                "name": "Strombeek-Bever Gemeenteplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWELAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352076,
+                    50.906851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330067",
+                "bus": "yes",
+                "name": "Vilvoorde Het Voor (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEEUWENLAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.371697,
+                    50.912776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301803",
+                "bus": "yes",
+                "name": "Strombeek-Bever Grote Winkellaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KONINGSLOSESTEENWEG STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.361004,
+                    50.908803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301805",
+                "bus": "yes",
+                "name": "Strombeek-Bever Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLOEMENDALLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359754,
+                    50.904695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330069",
+                "bus": "yes",
+                "name": "Strombeek-Bever Bloemendallaan (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANNALAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362569,
+                    50.904029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232",
+                "ref:De_Lijn": "301818",
+                "bus": "yes",
+                "name": "Strombeek-Bever Rijkendal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-AMANDSSTRAAT STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359142,
+                    50.907544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;624",
+                "ref:De_Lijn": "301722",
+                "bus": "yes",
+                "name": "Grimbergen Hellebeekberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N202 STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368184,
+                    50.915518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232",
+                "ref:De_Lijn": "301821",
+                "bus": "yes",
+                "name": "Strombeek-Bever Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERIJSTRAAT STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.356994,
+                    50.912281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232;820",
+                "ref:De_Lijn": "304188",
+                "bus": "yes",
+                "name": "Vilvoorde Het Voor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWENLAAN KONINGSLO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.371995,
+                    50.912758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;232",
+                "ref:De_Lijn": "301794",
+                "bus": "yes",
+                "name": "Strombeek-Bever Bloemendal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-AMANDSSTRAAT STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360251,
+                    50.905207
+                ]
+            }
+        }
+    ]
+}

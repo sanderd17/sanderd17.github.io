@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200934",
+                "bus": "yes",
+                "name": "Lembeke Scheutbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVIN MADELEINE D'ALCANTARALAAN LEMBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.621187,
+                    51.17825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201695",
+                "bus": "yes",
+                "name": "Waarschoot Zoutweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOUTWEG WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.616066,
+                    51.16859
+                ]
+            }
+        }
+    ]
+}

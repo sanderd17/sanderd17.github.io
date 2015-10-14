@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505512",
+                "bus": "yes",
+                "zone:De_Lijn": "7962",
+                "name": "Oostburg Brugse Vaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT OOSTBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.48386,
+                    51.321349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505515",
+                "bus": "yes",
+                "zone:De_Lijn": "7962",
+                "name": "Oostburg Ziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENWEIDELAAN OOSTBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.484145,
+                    51.325226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505615",
+                "bus": "yes",
+                "zone:De_Lijn": "7962",
+                "name": "Oostburg Ziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENWEIDELAAN OOSTBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.484029,
+                    51.325279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505611",
+                "bus": "yes",
+                "zone:De_Lijn": "7962",
+                "name": "Oostburg Ledelplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEDELPLEIN OOSTBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.489052,
+                    51.325954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505612",
+                "bus": "yes",
+                "zone:De_Lijn": "7962",
+                "name": "Oostburg Brugse Vaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT OOSTBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.483545,
+                    51.321347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505511",
+                "bus": "yes",
+                "zone:De_Lijn": "7962",
+                "name": "Oostburg Ledelplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEDELPLEIN OOSTBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.489082,
+                    51.325873
+                ]
+            }
+        }
+    ]
+}

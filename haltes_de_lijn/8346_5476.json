@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200826",
+                "bus": "yes",
+                "name": "Aalter Ten Dauwe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JEZUIETENGOED AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.398771,
+                    51.113052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200875",
+                "bus": "yes",
+                "name": "Aalter Buntelare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUNTELARESTRAAT AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.402514,
+                    51.112984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200862",
+                "bus": "yes",
+                "name": "Knesselare Hoekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEKESTRAAT KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.393311,
+                    51.117394
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "509037",
+                "bus": "yes",
+                "name": "Houthulst Kwakkelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKELSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.886862,
+                    50.949658
+                ]
+            }
+        }
+    ]
+}

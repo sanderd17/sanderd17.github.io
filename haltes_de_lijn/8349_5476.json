@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64",
+                "ref:De_Lijn": "203330",
+                "bus": "yes",
+                "name": "Ursel Grote Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDELWEG URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451995,
+                    51.116849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;185",
+                "ref:De_Lijn": "202330",
+                "bus": "yes",
+                "name": "Ursel Grote Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDELWEG URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451074,
+                    51.116455
+                ]
+            }
+        }
+    ]
+}

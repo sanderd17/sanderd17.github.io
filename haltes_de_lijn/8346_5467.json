@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "210015",
+                "bus": "yes",
+                "name": "Moerkerke Leentjesbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NATIËNLAAN MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.396753,
+                    51.247264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "502292",
+                "bus": "yes",
+                "name": "Moerkerke Leentjes Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "A11 MIDDELBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.397049,
+                    51.247464
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "507292",
+                "bus": "yes",
+                "name": "Moerkerke Leentjes Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NATIËNLAAN MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.396753,
+                    51.247264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211015",
+                "bus": "yes",
+                "name": "Moerkerke Leentjesbrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "A11 MIDDELBURG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.397049,
+                    51.247473
+                ]
+            }
+        }
+    ]
+}

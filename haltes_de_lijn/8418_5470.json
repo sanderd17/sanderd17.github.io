@@ -1,0 +1,127 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104898",
+                "bus": "yes",
+                "name": "Geel Ten Aard Kanaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAVILJOENSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.980117,
+                    51.200473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107649",
+                "bus": "yes",
+                "name": "Geel Zandwaver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REEBOKSTRAAT TEN AARD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.983603,
+                    51.206558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107760",
+                "bus": "yes",
+                "name": "Geel Hazenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLUISSTRAAT TEN AARD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.984177,
+                    51.203463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107647",
+                "bus": "yes",
+                "name": "Geel Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT TEN AARD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.979491,
+                    51.202903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108957",
+                "bus": "yes",
+                "name": "Geel Aardseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEWEG TEN AARD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.980932,
+                    51.203686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108958",
+                "bus": "yes",
+                "name": "Geel Aardseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEWEG TEN AARD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.980711,
+                    51.204272
+                ]
+            }
+        }
+    ]
+}

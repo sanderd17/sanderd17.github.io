@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;51;35c",
+                "ref:De_Lijn": "404128",
+                "bus": "yes",
+                "name": "Bolderberg Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOBSTRAAT BOLDERBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.274421,
+                    50.988039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;51",
+                "ref:De_Lijn": "404129",
+                "bus": "yes",
+                "name": "Bolderberg Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOBSTRAAT BOLDERBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.274071,
+                    50.988321
+                ]
+            }
+        }
+    ]
+}

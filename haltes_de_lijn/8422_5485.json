@@ -1,0 +1,529 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;19;22;35;36;17a;299;35c;370;375;550;551;552;702",
+                "ref:De_Lijn": "301232",
+                "bus": "yes",
+                "name": "Diest Atheneum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTRAAT DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.053838,
+                    50.990827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "308559",
+                "bus": "yes",
+                "name": "Diest Palmboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTSTRAAT DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.055523,
+                    50.987194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "307622",
+                "bus": "yes",
+                "name": "Diest Ezelsdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAFFENSESTRAAT DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.056182,
+                    50.988413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401687",
+                "bus": "yes",
+                "name": "Schaffen Groenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZELEMSEWEG SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074353,
+                    50.992009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "305894",
+                "bus": "yes",
+                "name": "Schaffen Rozenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POSTBAAN SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074012,
+                    50.995849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;92;17a;299;35c;702",
+                "ref:De_Lijn": "308134",
+                "bus": "yes",
+                "name": "Schaffen Schoonaarde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAERDE SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.064649,
+                    50.992696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401702",
+                "bus": "yes",
+                "name": "Schaffen Schoonaarde",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAERDE SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.065576,
+                    50.992816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401715",
+                "bus": "yes",
+                "name": "Schaffen Vliegplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE DIJKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.069176,
+                    50.999213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c",
+                "ref:De_Lijn": "308141",
+                "bus": "yes",
+                "name": "Schaffen Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZELEMSEWEG SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074497,
+                    50.992098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;92;17a;299;35c;702",
+                "ref:De_Lijn": "308136",
+                "bus": "yes",
+                "name": "Schaffen Weg op Tessenderlo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAERDE SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.068764,
+                    50.994541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;19;22;35;36;17a;299;35c;370;375;550;551;552",
+                "ref:De_Lijn": "301236",
+                "bus": "yes",
+                "name": "Diest Euro Shoe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OMER VANAUDENHOVELAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.05843,
+                    50.99018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401686",
+                "bus": "yes",
+                "name": "Schaffen Groenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZELEMSEWEG SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074525,
+                    50.992098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401703",
+                "bus": "yes",
+                "name": "Schaffen Schoonaarde",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAERDE SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.064649,
+                    50.992696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401714",
+                "bus": "yes",
+                "name": "Schaffen Vliegplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE DIJKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.068771,
+                    50.998811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;19;22;35;36;17a;299;35c;370;375;550;551;552;702",
+                "ref:De_Lijn": "301231",
+                "bus": "yes",
+                "name": "Diest Atheneum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTRAAT DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.054206,
+                    50.990609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;92;17a;299;35c;702",
+                "ref:De_Lijn": "308137",
+                "bus": "yes",
+                "name": "Schaffen Weg op Tessenderlo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAERDE SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.068292,
+                    50.994418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702",
+                "ref:De_Lijn": "307623",
+                "bus": "yes",
+                "name": "Diest Ezelsdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAFFENSESTRAAT DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.055964,
+                    50.989115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;19;22;35;36;17a;299;35c;370;375;550;551;552",
+                "ref:De_Lijn": "301235",
+                "bus": "yes",
+                "name": "Diest Euro Shoe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OMER VANAUDENHOVELAAN DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.059037,
+                    50.989816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305952",
+                "bus": "yes",
+                "name": "Schaffen Rozenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POSTBAAN SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074067,
+                    50.995759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17a;299;702",
+                "ref:De_Lijn": "308179",
+                "bus": "yes",
+                "name": "Schaffen Vliegplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE DIJKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.069176,
+                    50.999213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17a;299",
+                "ref:De_Lijn": "308178",
+                "bus": "yes",
+                "name": "Schaffen Vliegplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE DIJKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.068757,
+                    50.998802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401718",
+                "bus": "yes",
+                "name": "Schaffen Weg op Tessenderlo",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.068091,
+                    50.994285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;92;17a;299;35c;702",
+                "ref:De_Lijn": "308135",
+                "bus": "yes",
+                "name": "Schaffen Schoonaarde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAERDE SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.065576,
+                    50.992816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401719",
+                "bus": "yes",
+                "name": "Schaffen Weg op Tessenderlo",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOONAERDE SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.068764,
+                    50.994541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;35c;702",
+                "ref:De_Lijn": "308140",
+                "bus": "yes",
+                "name": "Schaffen Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZELEMSEWEG SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.07431,
+                    50.992009
+                ]
+            }
+        }
+    ]
+}

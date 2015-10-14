@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19b",
+                "ref:De_Lijn": "402019",
+                "bus": "yes",
+                "name": "Zammel Netebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERLESEWEG ZAMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945031,
+                    51.093663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19b",
+                "ref:De_Lijn": "402018",
+                "bus": "yes",
+                "name": "Zammel Netebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERLESEWEG ZAMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.944843,
+                    51.093529
+                ]
+            }
+        }
+    ]
+}

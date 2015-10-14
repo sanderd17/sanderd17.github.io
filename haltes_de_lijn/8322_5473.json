@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;84",
+                "ref:De_Lijn": "506196",
+                "bus": "yes",
+                "name": "Leffinge Vijf Huizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLIJPESTEENWEG LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.87054,
+                    51.164384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;66",
+                "ref:De_Lijn": "501196",
+                "bus": "yes",
+                "name": "Leffinge Vijf Huizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLIJPESTEENWEG LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.870254,
+                    51.164371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;66",
+                "ref:De_Lijn": "501191",
+                "bus": "yes",
+                "name": "Leffinge De Zwaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLIJPESTEENWEG LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.864678,
+                    51.162565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;84",
+                "ref:De_Lijn": "506191",
+                "bus": "yes",
+                "name": "Leffinge De Zwaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLIJPESTEENWEG LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.86525,
+                    51.162573
+                ]
+            }
+        }
+    ]
+}

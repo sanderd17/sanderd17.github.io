@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "541;664;713",
+                "ref:De_Lijn": "302186",
+                "bus": "yes",
+                "name": "Hoegaarden Hoksem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT HOKSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.875033,
+                    50.801891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "541;664",
+                "ref:De_Lijn": "302187",
+                "bus": "yes",
+                "name": "Hoegaarden Hoksem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT HOKSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.875006,
+                    50.802017
+                ]
+            }
+        }
+    ]
+}

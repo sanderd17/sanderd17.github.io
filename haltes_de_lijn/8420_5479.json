@@ -1,0 +1,446 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b",
+                "ref:De_Lijn": "405103",
+                "bus": "yes",
+                "name": "Toke Van Nestestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBERGEN VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.013428,
+                    51.08174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405094",
+                "bus": "yes",
+                "name": "Smissestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SMISSESTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.027761,
+                    51.08006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408257",
+                "bus": "yes",
+                "name": "Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.011704,
+                    51.078846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405104",
+                "bus": "yes",
+                "name": "Hospesstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOSPESSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.027255,
+                    51.080566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405751",
+                "bus": "yes",
+                "name": "Vorst Administratief Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.020308,
+                    51.075688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405752",
+                "bus": "yes",
+                "name": "Vorst Administratief Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.02045,
+                    51.075651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405750",
+                "bus": "yes",
+                "name": "Gastenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.024818,
+                    51.077784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "102538",
+                "bus": "yes",
+                "name": "Hospestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOSPESSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.027384,
+                    51.080665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "102542",
+                "bus": "yes",
+                "name": "Vorst Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.020086,
+                    51.080256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408221",
+                "bus": "yes",
+                "name": "Veldstraat II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.017174,
+                    51.078159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405089",
+                "bus": "yes",
+                "name": "Vorst Markt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MARKT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.020192,
+                    51.080642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "102537",
+                "bus": "yes",
+                "name": "Hospestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOSPESSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.027226,
+                    51.080567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408256",
+                "bus": "yes",
+                "name": "Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.011549,
+                    51.078954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405088",
+                "bus": "yes",
+                "name": "Vorst Markt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MARKT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.020259,
+                    51.08039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "405725",
+                "bus": "yes",
+                "name": "Gastenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.024848,
+                    51.077874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408336",
+                "bus": "yes",
+                "name": "Steenbergenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOKE VAN NESTESTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.013972,
+                    51.080847
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b",
+                "ref:De_Lijn": "405102",
+                "bus": "yes",
+                "name": "Toke Van Nestestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBERGEN VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.013043,
+                    51.081787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405105",
+                "bus": "yes",
+                "name": "Hospesstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOSPESSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.027356,
+                    51.080683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;19b;751",
+                "ref:De_Lijn": "102539",
+                "bus": "yes",
+                "name": "Vorst Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.02035,
+                    51.080722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408191",
+                "bus": "yes",
+                "name": "Veldstraat II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.016948,
+                    51.078259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "751",
+                "ref:De_Lijn": "408282",
+                "bus": "yes",
+                "name": "Steenbergenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOKE VAN NESTESTRAAT VORST (LAAKDAL)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.013829,
+                    51.080803
+                ]
+            }
+        }
+    ]
+}

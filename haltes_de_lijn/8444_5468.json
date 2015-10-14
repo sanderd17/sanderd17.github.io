@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;743",
+                "ref:De_Lijn": "402825",
+                "bus": "yes",
+                "name": "Hamont College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T LO HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.540525,
+                    51.23362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;743",
+                "ref:De_Lijn": "402824",
+                "bus": "yes",
+                "name": "Hamont College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T LO HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.540176,
+                    51.23339
+                ]
+            }
+        }
+    ]
+}

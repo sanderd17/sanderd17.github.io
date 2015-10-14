@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505692",
+                "bus": "yes",
+                "name": "Wingene Sint-Elooi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAVOORDESTRAAT WULFHOEK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.256379,
+                    51.075999
+                ]
+            }
+        }
+    ]
+}

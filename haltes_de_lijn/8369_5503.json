@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;73",
+                "ref:De_Lijn": "209547",
+                "bus": "yes",
+                "name": "Moerbeke Mijnwerkersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVELSTRAAT MOERBEKE (GERAARDSBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.906814,
+                    50.750038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;73;370",
+                "ref:De_Lijn": "208547",
+                "bus": "yes",
+                "name": "Moerbeke Mijnwerkersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVELSTRAAT MOERBEKE (GERAARDSBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.906475,
+                    50.74991
+                ]
+            }
+        }
+    ]
+}

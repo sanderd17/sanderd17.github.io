@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207358",
+                "bus": "yes",
+                "name": "Lebbeke Volaardestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLAARDESTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.144894,
+                    51.015239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "206888",
+                "bus": "yes",
+                "name": "Sint-Gillis-Dendermonde Hoeksken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE DIJKSTRAAT DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.131973,
+                    51.025884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207885",
+                "bus": "yes",
+                "name": "Dendermonde Geerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGVELD SINT-GILLIS-BIJ-DENDERMONDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.148504,
+                    51.023507
+                ]
+            }
+        }
+    ]
+}

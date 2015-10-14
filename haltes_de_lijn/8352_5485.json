@@ -1,0 +1,194 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;73;75;77;81;83;84;86;87",
+                "ref:De_Lijn": "203323",
+                "bus": "yes",
+                "name": "Deinze Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N466A DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.527746,
+                    50.987541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;87;125",
+                "ref:De_Lijn": "202322",
+                "bus": "yes",
+                "name": "Deinze Biesbulck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BRUGSEPOORT DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.518494,
+                    50.990333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;86",
+                "ref:De_Lijn": "203775",
+                "bus": "yes",
+                "name": "Deinze Delcroixlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAREL PICQUÉLAAN DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.535871,
+                    50.986358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;86",
+                "ref:De_Lijn": "209640",
+                "bus": "yes",
+                "name": "Deinze Grimbaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAART LINKEROEVER DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.524313,
+                    50.989917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;86;125;450",
+                "ref:De_Lijn": "202775",
+                "bus": "yes",
+                "name": "Deinze Delcroixlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAREL PICQUÉLAAN DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.536015,
+                    50.98626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;87",
+                "ref:De_Lijn": "203322",
+                "bus": "yes",
+                "name": "Deinze Biesbulck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BRUGSEPOORT DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.518468,
+                    50.990189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;86;125",
+                "ref:De_Lijn": "208640",
+                "bus": "yes",
+                "name": "Deinze Grimbaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAART LINKEROEVER DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.524373,
+                    50.989782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;450",
+                "ref:De_Lijn": "201671",
+                "bus": "yes",
+                "name": "Deinze Ten Bosse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN BOSSE DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.534576,
+                    50.989513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;73;75;77;81;83;84;86;87;125;450",
+                "ref:De_Lijn": "202323",
+                "bus": "yes",
+                "name": "Deinze Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N466A DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.527844,
+                    50.987649
+                ]
+            }
+        }
+    ]
+}

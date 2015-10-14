@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;41",
+                "ref:De_Lijn": "501155",
+                "bus": "yes",
+                "name": "Knokke Oosthoekplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHOEKPLEIN KNOKKE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.327697,
+                    51.349538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;41",
+                "ref:De_Lijn": "506147",
+                "bus": "yes",
+                "name": "Knokke Vlindertuin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRONLAAN HET ZOUTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326416,
+                    51.350991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;41",
+                "ref:De_Lijn": "509834",
+                "bus": "yes",
+                "name": "Knokke Bronlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRONLAAN HET ZOUTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.320629,
+                    51.354257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "501147",
+                "bus": "yes",
+                "name": "Knokke Vlindertuin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRONLAAN HET ZOUTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326392,
+                    51.350785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "509833",
+                "bus": "yes",
+                "name": "Knokke Bronlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRONLAAN HET ZOUTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.320602,
+                    51.354167
+                ]
+            }
+        }
+    ]
+}

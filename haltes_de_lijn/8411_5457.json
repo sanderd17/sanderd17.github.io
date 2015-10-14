@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;434;458;459",
+                "ref:De_Lijn": "106345",
+                "bus": "yes",
+                "name": "Wortel Papenvoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGENBERG WORTEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.826911,
+                    51.381984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;434;458;459",
+                "ref:De_Lijn": "106346",
+                "bus": "yes",
+                "name": "Wortel Papenvoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGENBERG WORTEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.826539,
+                    51.38213
+                ]
+            }
+        }
+    ]
+}

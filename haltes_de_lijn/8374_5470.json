@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205416",
+                "bus": "yes",
+                "name": "Stekene Wildernis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILDERNIS STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.017285,
+                    51.203011
+                ]
+            }
+        }
+    ]
+}

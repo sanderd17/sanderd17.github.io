@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "406067",
+                "bus": "yes",
+                "name": "Neeroeteren Solt Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEËRWEG NEERHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.680288,
+                    51.109259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "406066",
+                "bus": "yes",
+                "name": "Neeroeteren Solt Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEËRWEG NEERHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.680241,
+                    51.109116
+                ]
+            }
+        }
+    ]
+}

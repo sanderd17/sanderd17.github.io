@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;392",
+                "ref:De_Lijn": "304946",
+                "bus": "yes",
+                "name": "Houwaart Neringe 110",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALDERTSTRAAT HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.882864,
+                    50.944505
+                ]
+            }
+        }
+    ]
+}

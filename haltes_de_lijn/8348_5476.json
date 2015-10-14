@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;87;185",
+                "ref:De_Lijn": "202296",
+                "bus": "yes",
+                "name": "Aalter Weststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERWEG AALTER BRUG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.433518,
+                    51.111607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64",
+                "ref:De_Lijn": "202297",
+                "bus": "yes",
+                "name": "Aalter Weststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "URSELWEG AALTER BRUG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.43458,
+                    51.111354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;87",
+                "ref:De_Lijn": "203296",
+                "bus": "yes",
+                "name": "Aalter Weststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERWEG AALTER BRUG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.433495,
+                    51.110627
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;446;447;670;673;679",
+                "ref:De_Lijn": "105889",
+                "bus": "yes",
+                "name": "Nieuwmoer Zilverhoekhoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERENHOEKSTEENWEG KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.488965,
+                    51.421223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;446;447;670;673;679",
+                "ref:De_Lijn": "105888",
+                "bus": "yes",
+                "name": "Essen Zilverhoekhoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERENHOEKSTEENWEG ESSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.488663,
+                    51.421269
+                ]
+            }
+        }
+    ]
+}

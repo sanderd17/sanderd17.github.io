@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "104636",
+                "bus": "yes",
+                "name": "Tilburg Hart van Brabantlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HART VAN BRABANTLAAN TILBURG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.067311,
+                    51.560514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "102754",
+                "bus": "yes",
+                "name": "Tilburg Hart van Brabantlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HART VAN BRABANTLAAN TILBURG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.068749,
+                    51.560253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "102753",
+                "bus": "yes",
+                "name": "Tilburg Ringbaan West / GGD",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGBAAN WEST TILBURG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.061894,
+                    51.55216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "102752",
+                "bus": "yes",
+                "name": "Tilburg Ringbaan West / GGD",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGBAAN WEST TILBURG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.062818,
+                    51.554186
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "455;457;458;459",
+                "ref:De_Lijn": "105048",
+                "bus": "yes",
+                "name": "Weelde Bosvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKSPLASSEWEG WEELDE-STATION (RAVELS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945938,
+                    51.394632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "455;456;458;459",
+                "ref:De_Lijn": "105033",
+                "bus": "yes",
+                "name": "Weelde Bosvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKSPLASSEWEG WEELDE-STATION (RAVELS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945882,
+                    51.394731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100212",
+                "bus": "yes",
+                "name": "Weelde Bosvenstraat NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE STATIONSSTRAAT WEELDE-STATION (RAVELS)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.946994,
+                    51.397485
+                ]
+            }
+        }
+    ]
+}

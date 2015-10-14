@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107577",
+                "bus": "yes",
+                "name": "Retie Werbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLSEBAAN WERBEEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.097387,
+                    51.258441
+                ]
+            }
+        }
+    ]
+}

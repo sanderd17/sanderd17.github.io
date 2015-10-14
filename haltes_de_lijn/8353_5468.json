@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200778",
+                "bus": "yes",
+                "name": "Sint-Laureins Kruiskenshoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISKENSTRAAT SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.541989,
+                    51.23314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200907",
+                "bus": "yes",
+                "name": "Sint-Laureins Waterstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISKENSTRAAT SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.558391,
+                    51.231896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200908",
+                "bus": "yes",
+                "name": "Sint-Laureins Kruyersweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EERSTESTRAAT SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.557515,
+                    51.2246
+                ]
+            }
+        }
+    ]
+}

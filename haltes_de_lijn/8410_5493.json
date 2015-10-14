@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;527;590",
+                "ref:De_Lijn": "304176",
+                "bus": "yes",
+                "name": "Pellenberg Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT PELLENBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.795893,
+                    50.87879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;527;590",
+                "ref:De_Lijn": "303472",
+                "bus": "yes",
+                "name": "Lubbeek Herendal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUBBEEKSTRAAT LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805217,
+                    50.877569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;527;590",
+                "ref:De_Lijn": "304175",
+                "bus": "yes",
+                "name": "Pellenberg Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT PELLENBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.795795,
+                    50.878934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303526",
+                "bus": "yes",
+                "name": "Pellenberg Weg naar Lubbeek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT PELLENBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.795893,
+                    50.87879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303527",
+                "bus": "yes",
+                "name": "Pellenberg Weg naar Lubbeek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT PELLENBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.795795,
+                    50.878934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;527;590",
+                "ref:De_Lijn": "303471",
+                "bus": "yes",
+                "name": "Lubbeek Herendal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUBBEEKSTRAAT LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805074,
+                    50.877452
+                ]
+            }
+        }
+    ]
+}

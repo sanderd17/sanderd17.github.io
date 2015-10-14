@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11",
+                "ref:De_Lijn": "400200",
+                "bus": "yes",
+                "name": "As Bilzerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERSTEENWEG AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.575025,
+                    50.999903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;9;11;40",
+                "ref:De_Lijn": "400229",
+                "bus": "yes",
+                "name": "As Oeleinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.564039,
+                    50.999323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;9;11;40",
+                "ref:De_Lijn": "400228",
+                "bus": "yes",
+                "name": "As Oeleinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.563906,
+                    50.999127
+                ]
+            }
+        }
+    ]
+}

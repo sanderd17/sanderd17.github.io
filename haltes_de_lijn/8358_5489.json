@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48;84",
+                "ref:De_Lijn": "203832",
+                "bus": "yes",
+                "name": "Gavere Grotenbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALBROEKSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.658621,
+                    50.934951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48;84;145",
+                "ref:De_Lijn": "202831",
+                "bus": "yes",
+                "name": "Semmerzake Opperweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALBROEKSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.661555,
+                    50.939499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48;84",
+                "ref:De_Lijn": "203831",
+                "bus": "yes",
+                "name": "Semmerzake Opperweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALBROEKSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.661384,
+                    50.939516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48;84",
+                "ref:De_Lijn": "203829",
+                "bus": "yes",
+                "name": "Semmerzake Ten Edestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPPERWEG SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.666522,
+                    50.942217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "202830",
+                "bus": "yes",
+                "name": "Semmerzake Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6634,
+                    50.942648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48;84;145",
+                "ref:De_Lijn": "202832",
+                "bus": "yes",
+                "name": "Gavere Grotenbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALBROEKSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65875,
+                    50.93488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203830",
+                "bus": "yes",
+                "name": "Semmerzake Kerk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.66364,
+                    50.942775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;47;48;84;145",
+                "ref:De_Lijn": "202829",
+                "bus": "yes",
+                "name": "Semmerzake Ten Edestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPPERWEG SEMMERZAKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.666679,
+                    50.942182
+                ]
+            }
+        }
+    ]
+}

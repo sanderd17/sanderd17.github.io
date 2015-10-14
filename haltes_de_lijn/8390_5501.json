@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "155",
+                "ref:De_Lijn": "307691",
+                "bus": "yes",
+                "name": "Linkebeek Esselaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLEBEEKSTRAAT LINKEBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351472,
+                    50.765041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "155",
+                "ref:De_Lijn": "307692",
+                "bus": "yes",
+                "name": "Linkebeek Esselaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLEBEEKSTRAAT LINKEBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351444,
+                    50.764951
+                ]
+            }
+        }
+    ]
+}

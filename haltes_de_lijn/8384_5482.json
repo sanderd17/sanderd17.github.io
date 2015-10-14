@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207706",
+                "bus": "yes",
+                "name": "Opdorp Muldersweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEKENSTRAAT BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.225332,
+                    51.031446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207742",
+                "bus": "yes",
+                "name": "Opdorp Camping Tijl",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPIEDAMSTRAAT BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.234677,
+                    51.033506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207707",
+                "bus": "yes",
+                "name": "Opdorp Spiedamstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPIEDAMSTRAAT BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.235079,
+                    51.027709
+                ]
+            }
+        }
+    ]
+}

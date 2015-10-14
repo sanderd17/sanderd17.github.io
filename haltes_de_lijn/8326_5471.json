@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "501502",
+                "bus": "yes",
+                "name": "Zandvoorde Kapittelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N346 ZANDVOORDE (OOSTENDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.96057,
+                    51.192633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;52;83",
+                "ref:De_Lijn": "506386",
+                "bus": "yes",
+                "name": "Snaaskerke Hagebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.962284,
+                    51.180382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "506502",
+                "bus": "yes",
+                "name": "Zandvoorde Kapittelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N346 ZANDVOORDE (OOSTENDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.960889,
+                    51.192502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;52;83",
+                "ref:De_Lijn": "501386",
+                "bus": "yes",
+                "name": "Snaaskerke Hagebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.962064,
+                    51.180577
+                ]
+            }
+        }
+    ]
+}

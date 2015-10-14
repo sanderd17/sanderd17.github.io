@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "509891",
+                "bus": "yes",
+                "name": "Tielt Belle Vue",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUTTERIJSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.355199,
+                    50.973308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "502924",
+                "bus": "yes",
+                "name": "Tielt Tenhovestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAKKENSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.34347,
+                    50.981612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505318",
+                "bus": "yes",
+                "name": "Tielt Moordhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORDHOEKSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.347165,
+                    50.97803
+                ]
+            }
+        }
+    ]
+}

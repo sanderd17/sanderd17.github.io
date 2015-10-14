@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "500224",
+                "name": "Mouscron stelplaats TEC",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "SPOORWEGSTRAAT MOESKROEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221124,
+                    50.735805
+                ]
+            }
+        }
+    ]
+}

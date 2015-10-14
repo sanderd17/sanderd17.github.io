@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201811",
+                "bus": "yes",
+                "name": "Kruishoutem Stokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.500485,
+                    50.9006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201813",
+                "bus": "yes",
+                "name": "Kruishoutem Lindeknokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEKNOKSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.513572,
+                    50.893162
+                ]
+            }
+        }
+    ]
+}

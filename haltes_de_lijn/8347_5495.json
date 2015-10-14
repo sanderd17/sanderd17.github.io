@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;88",
+                "ref:De_Lijn": "505218",
+                "bus": "yes",
+                "name": "Waregem Lepelboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.409119,
+                    50.857204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "500873",
+                "bus": "yes",
+                "name": "Waregem Plasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGOOIGEMSTRAAT WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.409821,
+                    50.853416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;88",
+                "ref:De_Lijn": "504994",
+                "bus": "yes",
+                "name": "Waregem Plasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGOOIGEMSTRAAT WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.409934,
+                    50.853452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505208",
+                "bus": "yes",
+                "name": "Waregem Pannewegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRABANTSTRAAT WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.41483,
+                    50.858563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "505897",
+                "bus": "yes",
+                "name": "Waregem Lepelboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.409328,
+                    50.857412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505923",
+                "bus": "yes",
+                "name": "Ingooigem Brandgatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRANDGATSTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.423044,
+                    50.850592
+                ]
+            }
+        }
+    ]
+}

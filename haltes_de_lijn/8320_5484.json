@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "505405",
+                "bus": "yes",
+                "name": "Oudekapelle Oude Zeedijk 16",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE ZEEDIJK OUDEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.813096,
+                    51.009557
+                ]
+            }
+        }
+    ]
+}

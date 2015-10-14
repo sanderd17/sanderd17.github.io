@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;440",
+                "ref:De_Lijn": "208670",
+                "bus": "yes",
+                "name": "Velzeke Ruddershovestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUDDERSHOVESTRAAT VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.75999,
+                    50.881959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "209434",
+                "bus": "yes",
+                "name": "Velzeke Molenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.775803,
+                    50.885581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "209435",
+                "bus": "yes",
+                "name": "Velzeke Provinciebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.771002,
+                    50.886537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81;420;440",
+                "ref:De_Lijn": "208434",
+                "bus": "yes",
+                "name": "Velzeke Molenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.775858,
+                    50.885699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81;420;440",
+                "ref:De_Lijn": "208433",
+                "bus": "yes",
+                "name": "Velzeke Bussegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.760987,
+                    50.886162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;420;440",
+                "ref:De_Lijn": "208435",
+                "bus": "yes",
+                "name": "Velzeke Provinciebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.770788,
+                    50.886554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "209433",
+                "bus": "yes",
+                "name": "Velzeke Bussegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.760974,
+                    50.886036
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;58;59",
+                "ref:De_Lijn": "509490",
+                "bus": "yes",
+                "name": "Steenkerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSE STEENWEG STEENKERKE (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.670636,
+                    51.048778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;58;59",
+                "ref:De_Lijn": "509491",
+                "bus": "yes",
+                "name": "Steenkerke Presende",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSE STEENWEG STEENKERKE (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.672965,
+                    51.041978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504491",
+                "bus": "yes",
+                "name": "Steenkerke Presende",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSE STEENWEG STEENKERKE (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.672737,
+                    51.041957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504490",
+                "bus": "yes",
+                "name": "Steenkerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSE STEENWEG STEENKERKE (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.670408,
+                    51.048766
+                ]
+            }
+        }
+    ]
+}

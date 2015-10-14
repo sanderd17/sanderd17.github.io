@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307409",
+                "bus": "yes",
+                "name": "Scherpenheuvel Weverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS SMEYERSSTRAAT SCHERPENHEUVEL-ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.988057,
+                    50.9711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707",
+                "ref:De_Lijn": "307408",
+                "bus": "yes",
+                "name": "Scherpenheuvel Weverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS SMEYERSSTRAAT SCHERPENHEUVEL-ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.988057,
+                    50.9711
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308535",
+                "bus": "yes",
+                "name": "Betekom Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELROODSESTEENWEG BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.781594,
+                    50.984781
+                ]
+            }
+        }
+    ]
+}

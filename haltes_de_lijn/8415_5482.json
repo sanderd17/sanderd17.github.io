@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;707;708",
+                "ref:De_Lijn": "300109",
+                "bus": "yes",
+                "name": "Langdorp Solide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SENATORLAAN LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.905733,
+                    51.027941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;707;708",
+                "ref:De_Lijn": "300150",
+                "bus": "yes",
+                "name": "Wolfsdonk School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLFSDONK-DORP WOLFSDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.91693,
+                    51.029714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;707;708",
+                "ref:De_Lijn": "300110",
+                "bus": "yes",
+                "name": "Langdorp Solide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SENATORLAAN LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.905475,
+                    51.027798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;707;708",
+                "ref:De_Lijn": "300149",
+                "bus": "yes",
+                "name": "Wolfsdonk School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLFSDONK-DORP WOLFSDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.916515,
+                    51.029653
+                ]
+            }
+        }
+    ]
+}

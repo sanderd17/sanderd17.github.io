@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "504668",
+                "bus": "yes",
+                "name": "Stuivekenskerke Oud Stuivekenskerke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICONIASTRAAT STUIVEKENSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.827442,
+                    51.06085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "509895",
+                "bus": "yes",
+                "name": "Stuivekenskerke Kleiputten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICONIASTRAAT STUIVEKENSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.82222,
+                    51.067759
+                ]
+            }
+        }
+    ]
+}

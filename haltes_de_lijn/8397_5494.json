@@ -1,0 +1,383 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "528;830",
+                "ref:De_Lijn": "305439",
+                "bus": "yes",
+                "name": "Sterrebeek Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514542,
+                    50.861967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "530",
+                "ref:De_Lijn": "306553",
+                "bus": "yes",
+                "name": "Nossegem Oude Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSKAPELLELAAN NOSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.520641,
+                    50.872539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "316;318;352;410;531;554",
+                "ref:De_Lijn": "305516",
+                "bus": "yes",
+                "name": "Sterrebeek Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMLAAN STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.515256,
+                    50.863107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352",
+                "ref:De_Lijn": "303047",
+                "bus": "yes",
+                "name": "Sterrebeek Voskapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSKAPELSTRAAT STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.517652,
+                    50.866287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "530",
+                "ref:De_Lijn": "302765",
+                "bus": "yes",
+                "name": "Kortenberg Pachthof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEWANDELAERSTRAAT STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.524223,
+                    50.872921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352",
+                "ref:De_Lijn": "307469",
+                "bus": "yes",
+                "name": "Kortenberg Vossenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSKAPELSTRAAT STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.522854,
+                    50.871521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "830",
+                "ref:De_Lijn": "307897",
+                "bus": "yes",
+                "name": "Zaventem Van Ingelgomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEIVELDLAAN NOSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.511089,
+                    50.870709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305517",
+                "bus": "yes",
+                "name": "Sterrebeek Oud Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TRAMLAAN STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.515,
+                    50.863081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "530",
+                "ref:De_Lijn": "302766",
+                "bus": "yes",
+                "name": "Kortenberg Pachthof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEWANDELAERSTRAAT NOSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.524038,
+                    50.872984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "316;318;352;410;531;554",
+                "ref:De_Lijn": "305513",
+                "bus": "yes",
+                "name": "Sterrebeek Zavelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMLAAN STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.50902,
+                    50.863142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "316;318;352;410;531;554",
+                "ref:De_Lijn": "305512",
+                "bus": "yes",
+                "name": "Sterrebeek Zavelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMLAAN STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.510156,
+                    50.863042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "316;318;352;410;531;554",
+                "ref:De_Lijn": "305514",
+                "bus": "yes",
+                "name": "Sterrebeek Leopold Nantierlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMLAAN STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.504574,
+                    50.862967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352",
+                "ref:De_Lijn": "307468",
+                "bus": "yes",
+                "name": "Kortenberg Vossenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSKAPELSTRAAT STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.522727,
+                    50.871593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352",
+                "ref:De_Lijn": "303046",
+                "bus": "yes",
+                "name": "Sterrebeek Voskapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSKAPELSTRAAT STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.517439,
+                    50.866206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "830",
+                "ref:De_Lijn": "307896",
+                "bus": "yes",
+                "name": "Zaventem Van Ingelgomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEIVELDLAAN NOSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.51096,
+                    50.870601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "316;318;352;410;554;616",
+                "ref:De_Lijn": "300858",
+                "bus": "yes",
+                "name": "Sterrebeek Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMLAAN STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514233,
+                    50.863198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "528;830",
+                "ref:De_Lijn": "305438",
+                "bus": "yes",
+                "name": "Sterrebeek Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG STERREBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514897,
+                    50.862074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "530",
+                "ref:De_Lijn": "306552",
+                "bus": "yes",
+                "name": "Nossegem Oude Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSKAPELLELAAN NOSSEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.520541,
+                    50.872423
+                ]
+            }
+        }
+    ]
+}

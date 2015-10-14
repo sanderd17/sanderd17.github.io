@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404643",
+                "bus": "yes",
+                "name": "Neerpelt Olmenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE ROOSEN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.452033,
+                    51.214472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "402648",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Romeinse Dijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.468051,
+                    51.219412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404995",
+                "bus": "yes",
+                "name": "Neerpelt Esperanza",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPARRENLAAN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.449951,
+                    51.216657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404642",
+                "bus": "yes",
+                "name": "Neerpelt Olmenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE ROOSEN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45205,
+                    51.214571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404996",
+                "bus": "yes",
+                "name": "Neerpelt Kerkhof Roosendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOSENDIJK NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.454631,
+                    51.220318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "402409",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Romeinse Dijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.468193,
+                    51.219357
+                ]
+            }
+        }
+    ]
+}

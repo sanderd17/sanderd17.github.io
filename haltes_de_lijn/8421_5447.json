@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101677",
+                "bus": "yes",
+                "name": "Goirle Wim Rotherlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIJVOORTSEBAAN GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.049941,
+                    51.511893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101679",
+                "bus": "yes",
+                "name": "Goirle De Geitenhoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKSEDIJK GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.053,
+                    51.51423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101676",
+                "bus": "yes",
+                "name": "Goirle Wim Rotherlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIJVOORTSEBAAN GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.050256,
+                    51.511783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101678",
+                "bus": "yes",
+                "name": "Goirle De Geitenhoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKSEDIJK GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.053247,
+                    51.514346
+                ]
+            }
+        }
+    ]
+}

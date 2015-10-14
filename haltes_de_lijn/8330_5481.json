@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509806",
+                "bus": "yes",
+                "name": "Kortemark Café Markhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ICHTEGEMSTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.035111,
+                    51.046382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505635",
+                "bus": "yes",
+                "name": "KORTEMARK DOORNSTRAAT",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.035286,
+                    51.046258
+                ]
+            }
+        }
+    ]
+}

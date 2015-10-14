@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560",
+                "ref:De_Lijn": "108862",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Rusthuis Sint-Elisabeth",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILSONSTRAAT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.534234,
+                    51.072243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560",
+                "ref:De_Lijn": "108858",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Muilshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILSONSTRAAT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.53669,
+                    51.07677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "551;552;558;560;561",
+                "ref:De_Lijn": "109743",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.531787,
+                    51.070386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "551;552;558;560;561",
+                "ref:De_Lijn": "108863",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.532244,
+                    51.070385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560",
+                "ref:De_Lijn": "108861",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Rusthuis Sint-Elisabeth",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILSONSTRAAT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.534062,
+                    51.072216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560",
+                "ref:De_Lijn": "108859",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Muilshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILSONSTRAAT SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.53699,
+                    51.07685
+                ]
+            }
+        }
+    ]
+}

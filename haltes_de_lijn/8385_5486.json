@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "207169",
+                "bus": "yes",
+                "name": "Merchtem Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.244155,
+                    50.975357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "206169",
+                "bus": "yes",
+                "name": "Merchtem Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.243913,
+                    50.97533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "207168",
+                "bus": "yes",
+                "name": "Steenhuffel Bontestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN STEENHUFFEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.253736,
+                    50.981479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "206168",
+                "bus": "yes",
+                "name": "Steenhuffel Bontestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN STEENHUFFEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.253864,
+                    50.981785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308563",
+                "bus": "yes",
+                "name": "Merchtem Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.244155,
+                    50.975357
+                ]
+            }
+        }
+    ]
+}

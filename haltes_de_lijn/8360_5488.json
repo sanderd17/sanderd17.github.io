@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202826",
+                "bus": "yes",
+                "name": "Melsen Melsenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MELSEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.694277,
+                    50.956466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203826",
+                "bus": "yes",
+                "name": "Melsen Melsenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MELSEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.694092,
+                    50.956483
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202271",
+                "bus": "yes",
+                "name": "Zelzate Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SUIKERKAAI ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.804496,
+                    51.192336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203437",
+                "bus": "yes",
+                "name": "Zelzate PC Sint-Jan-Baptist",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SUIKERKAAI ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.806831,
+                    51.190828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;175",
+                "ref:De_Lijn": "202437",
+                "bus": "yes",
+                "name": "Zelzate PC Sint-Jan-Baptist",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SUIKERKAAI ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.808646,
+                    51.189776
+                ]
+            }
+        }
+    ]
+}

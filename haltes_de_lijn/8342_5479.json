@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "509880",
+                "bus": "yes",
+                "name": "Wingene Burenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PREDIKHERENSTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.311251,
+                    51.070211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507611",
+                "bus": "yes",
+                "name": "Wingene Romerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTEENWEG WILDENBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298827,
+                    51.07818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28",
+                "ref:De_Lijn": "502611",
+                "bus": "yes",
+                "name": "Wingene Romerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTEENWEG WILDENBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.300622,
+                    51.079554
+                ]
+            }
+        }
+    ]
+}

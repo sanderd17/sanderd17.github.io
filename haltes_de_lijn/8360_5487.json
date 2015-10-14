@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203824",
+                "bus": "yes",
+                "name": "Melsen Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MELSEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.701466,
+                    50.961424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202825",
+                "bus": "yes",
+                "name": "Melsen Meersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MELSEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.697827,
+                    50.959039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203825",
+                "bus": "yes",
+                "name": "Melsen Meersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MELSEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.698264,
+                    50.959392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202824",
+                "bus": "yes",
+                "name": "Melsen Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG MELSEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.701778,
+                    50.961489
+                ]
+            }
+        }
+    ]
+}

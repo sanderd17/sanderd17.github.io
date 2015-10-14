@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;223;505",
+                "ref:De_Lijn": "304733",
+                "bus": "yes",
+                "name": "Steenokkerzeel Humelgem, Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BILLASTSTRAAT STEENOKKERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.517541,
+                    50.90273
+                ]
+            }
+        }
+    ]
+}

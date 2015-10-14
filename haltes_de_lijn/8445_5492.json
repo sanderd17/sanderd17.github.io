@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "400729",
+                "bus": "yes",
+                "name": "Eigenbilzen Brug Albertkanaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEFAERTWEG EIGENBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.577529,
+                    50.889394
+                ]
+            }
+        }
+    ]
+}

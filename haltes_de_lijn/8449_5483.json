@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401817",
+                "bus": "yes",
+                "name": "Lanklaar Heuvelsvenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVELSVENLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.647468,
+                    51.014251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401793",
+                "bus": "yes",
+                "name": "Lanklaar Berkenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISVENLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.650336,
+                    51.014373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401816",
+                "bus": "yes",
+                "name": "Lanklaar Zonnedauwlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEDAUWLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.649721,
+                    51.015863
+                ]
+            }
+        }
+    ]
+}

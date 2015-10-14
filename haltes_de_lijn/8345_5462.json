@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505522",
+                "bus": "yes",
+                "name": "Sluis Sint-Annastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANNASTRAAT SLUIS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.382087,
+                    51.309508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505521",
+                "bus": "yes",
+                "zone:De_Lijn": "7974",
+                "name": "Sluis Sint-Anna Ter Muiden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANNASTRAAT SINT ANNA TER MUIDEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.364874,
+                    51.31366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505621",
+                "bus": "yes",
+                "zone:De_Lijn": "7974",
+                "name": "Sluis Sint-Anna Ter Muiden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANNASTRAAT SINT ANNA TER MUIDEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.364569,
+                    51.313819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505622",
+                "bus": "yes",
+                "name": "Sluis Sint-Annastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N675 SLUIS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.383258,
+                    51.309733
+                ]
+            }
+        }
+    ]
+}

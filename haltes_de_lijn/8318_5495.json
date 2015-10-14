@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "505112",
+                "bus": "yes",
+                "name": "Vlamertinge Zevekotestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.790437,
+                    50.853373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "504418",
+                "bus": "yes",
+                "name": "Poperinge Meiboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.769013,
+                    50.855583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;60",
+                "ref:De_Lijn": "504516",
+                "bus": "yes",
+                "name": "Vlamertinge Brandhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPERINGSEWEG VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.789953,
+                    50.854697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "509418",
+                "bus": "yes",
+                "name": "Poperinge Meiboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.768988,
+                    50.855474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;60",
+                "ref:De_Lijn": "509516",
+                "bus": "yes",
+                "name": "Vlamertinge Brandhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPERINGSEWEG VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.790468,
+                    50.854587
+                ]
+            }
+        }
+    ]
+}

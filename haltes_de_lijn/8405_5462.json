@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440;446;629",
+                "ref:De_Lijn": "106241",
+                "bus": "yes",
+                "name": "Westmalle Oude Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.682247,
+                    51.312035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;410;440;446;629",
+                "ref:De_Lijn": "106239",
+                "bus": "yes",
+                "name": "Westmalle Mariagaarde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE MOLENSTRAAT WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.689962,
+                    51.303736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440;446;629",
+                "ref:De_Lijn": "106242",
+                "bus": "yes",
+                "name": "Westmalle Oude Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.68252,
+                    51.312124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;409;410;446;607;629",
+                "ref:De_Lijn": "106240",
+                "bus": "yes",
+                "name": "Westmalle Mariagaarde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE MOLENSTRAAT WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.690021,
+                    51.303862
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,509 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "402487",
+                "bus": "yes",
+                "name": "Genk Vennestraat noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VENNESTRAAT WINTERSLAG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495077,
+                    50.982527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;G1",
+                "ref:De_Lijn": "402471",
+                "bus": "yes",
+                "name": "Genk Motruine",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513559,
+                    50.983509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;33;47",
+                "ref:De_Lijn": "402387",
+                "bus": "yes",
+                "name": "Winterslag Mijn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVENCE COPPÉELAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.493666,
+                    50.980707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;33;35",
+                "ref:De_Lijn": "402120",
+                "bus": "yes",
+                "name": "Genk Erfstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVENCE COPPÉELAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.497132,
+                    50.974398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402324",
+                "bus": "yes",
+                "name": "Genk Technische School Sint-Lodewijk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "COLLEGELAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.51512,
+                    50.978612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;9;11;31;40;45;G6",
+                "ref:De_Lijn": "402099",
+                "bus": "yes",
+                "name": "Genk Koninklijk Atheneum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSELERLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.508613,
+                    50.973407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;33;35;47",
+                "ref:De_Lijn": "402386",
+                "bus": "yes",
+                "name": "Winterslag Mijn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N779 WINTERSLAG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.493222,
+                    50.980594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;9;11;31;40;45;G6",
+                "ref:De_Lijn": "402286",
+                "bus": "yes",
+                "name": "Genk Sint-Lodewijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSELERLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513371,
+                    50.978161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;33",
+                "ref:De_Lijn": "402121",
+                "bus": "yes",
+                "name": "Genk Erfstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVENCE COPPÉELAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496576,
+                    50.975555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402325",
+                "bus": "yes",
+                "name": "Genk Technische School Sint-Lodewijk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "COLLEGELAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.514916,
+                    50.978443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;46;G4",
+                "ref:De_Lijn": "402257",
+                "bus": "yes",
+                "name": "Genk Nieuwe Kuilenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE KUILENWEG GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495452,
+                    50.973246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;31;33;44;G6",
+                "ref:De_Lijn": "402299",
+                "bus": "yes",
+                "name": "Genk Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL VAN DORENLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.512321,
+                    50.984132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "402262",
+                "bus": "yes",
+                "name": "Genk Paresbemdstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGBEEMDSTRAAT WINTERSLAG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501996,
+                    50.985949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1",
+                "ref:De_Lijn": "402470",
+                "bus": "yes",
+                "name": "Genk Motruine",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513475,
+                    50.983581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "402488",
+                "bus": "yes",
+                "name": "Genk Vennestraat noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VENNESTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495175,
+                    50.982436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;31;33;G6",
+                "ref:De_Lijn": "402298",
+                "bus": "yes",
+                "name": "Genk Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL VAN DORENLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.512519,
+                    50.984094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "402261",
+                "bus": "yes",
+                "name": "Genk Negenhuizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINTERSLAGSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501379,
+                    50.974564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;46;G4",
+                "ref:De_Lijn": "402256",
+                "bus": "yes",
+                "name": "Genk Nieuwe Kuilenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE KUILENWEG GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495728,
+                    50.972866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "402473",
+                "bus": "yes",
+                "name": "Genk Hoefstadstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINTERSLAGSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500278,
+                    50.979106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "402260",
+                "bus": "yes",
+                "name": "Genk Negenhuizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINTERSLAGSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501552,
+                    50.974644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "402472",
+                "bus": "yes",
+                "name": "Genk Hoefstadstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINTERSLAGSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500448,
+                    50.97905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;47",
+                "ref:De_Lijn": "402489",
+                "bus": "yes",
+                "name": "Genk Esserslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVENCE COPPÉELAAN WINTERSLAG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.493279,
+                    50.982365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;9;11;31;35;45;G6",
+                "ref:De_Lijn": "402287",
+                "bus": "yes",
+                "name": "Genk Sint-Lodewijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSELERLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5136,
+                    50.978186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;9;11;31;35;45;G6",
+                "ref:De_Lijn": "402098",
+                "bus": "yes",
+                "name": "Genk Koninklijk Atheneum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSELERLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.50893,
+                    50.973547
+                ]
+            }
+        }
+    ]
+}

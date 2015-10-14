@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "506389",
+                "bus": "yes",
+                "name": "Snaaskerke Oprit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE BAAN SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.93412,
+                    51.161775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "506392",
+                "bus": "yes",
+                "name": "Snaaskerke Zwarte Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE BAAN SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.928874,
+                    51.164993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;83",
+                "ref:De_Lijn": "501392",
+                "bus": "yes",
+                "name": "Snaaskerke Zwarte Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE BAAN SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.929478,
+                    51.164416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;83",
+                "ref:De_Lijn": "501389",
+                "bus": "yes",
+                "name": "Snaaskerke Oprit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE BAAN SNAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.933923,
+                    51.161692
+                ]
+            }
+        }
+    ]
+}

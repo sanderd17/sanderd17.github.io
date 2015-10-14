@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;89",
+                "ref:De_Lijn": "204332",
+                "bus": "yes",
+                "name": "Kallo Kruipin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENLANDLAAN KALLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.25655,
+                    51.25314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;89",
+                "ref:De_Lijn": "205332",
+                "bus": "yes",
+                "name": "Kallo Kruipin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENLANDLAAN KALLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.256708,
+                    51.253104
+                ]
+            }
+        }
+    ]
+}

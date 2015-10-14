@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;724",
+                "ref:De_Lijn": "405263",
+                "bus": "yes",
+                "name": "Veldwezelt Geerenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELWEG VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.624797,
+                    50.868884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;724",
+                "ref:De_Lijn": "405271",
+                "bus": "yes",
+                "name": "Veldwezelt Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELWEG VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.624934,
+                    50.861807
+                ]
+            }
+        }
+    ]
+}

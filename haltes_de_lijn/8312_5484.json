@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505363",
+                "bus": "yes",
+                "name": "Vinkem Het Leege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZENBERGESTRAAT VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.654633,
+                    51.003913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "509514",
+                "bus": "yes",
+                "name": "Vinkem Weg Op Izenberge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUDEN-HOOFDSTRAAT VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.651628,
+                    51.0101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504514",
+                "bus": "yes",
+                "name": "Vinkem Weg Op Izenberge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUDEN-HOOFDSTRAAT VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.651538,
+                    51.010207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "501680",
+                "bus": "yes",
+                "name": "Vinkem Groenselarij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSWEGEL VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.644474,
+                    51.006956
+                ]
+            }
+        }
+    ]
+}

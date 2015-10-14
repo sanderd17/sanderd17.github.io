@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "203887",
+                "bus": "yes",
+                "name": "Bavegem Hoge Hellesemweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WETTERSESTEENWEG BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.862041,
+                    50.947321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47;390",
+                "ref:De_Lijn": "202887",
+                "bus": "yes",
+                "name": "Bavegem Hoge Hellesemweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WETTERSESTEENWEG BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.862281,
+                    50.947546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;390",
+                "ref:De_Lijn": "206938",
+                "bus": "yes",
+                "name": "Bavegem Houwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGBAVEGEMSTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.851667,
+                    50.947347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "207938",
+                "bus": "yes",
+                "name": "Bavegem Houwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGBAVEGEMSTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.850854,
+                    50.947542
+                ]
+            }
+        }
+    ]
+}

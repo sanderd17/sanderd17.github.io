@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;212;493",
+                "ref:De_Lijn": "109156",
+                "bus": "yes",
+                "name": "Tielen Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIERLEBAAN TIELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.892409,
+                    51.245981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;212;493",
+                "ref:De_Lijn": "109158",
+                "bus": "yes",
+                "name": "Tielen Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELENDORP TIELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.896693,
+                    51.24234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;212;493",
+                "ref:De_Lijn": "109159",
+                "bus": "yes",
+                "name": "Tielen Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELENDORP TIELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.897802,
+                    51.241607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;212;493",
+                "ref:De_Lijn": "109157",
+                "bus": "yes",
+                "name": "Tielen Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIERLEBAAN TIELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.892411,
+                    51.246152
+                ]
+            }
+        }
+    ]
+}

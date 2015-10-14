@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55",
+                "ref:De_Lijn": "203664",
+                "bus": "yes",
+                "name": "Evergem Eindeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIPPELGEM EINDEKEN WIPPELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.732059,
+                    51.146943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55;150",
+                "ref:De_Lijn": "202663",
+                "bus": "yes",
+                "name": "Evergem Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIPPELGEM DORP WIPPELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731562,
+                    51.140397
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55",
+                "ref:De_Lijn": "203663",
+                "bus": "yes",
+                "name": "Evergem Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIPPELGEM DORP WIPPELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731719,
+                    51.140433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55;150",
+                "ref:De_Lijn": "202664",
+                "bus": "yes",
+                "name": "Evergem Eindeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIPPELGEM EINDEKEN WIPPELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731862,
+                    51.146762
+                ]
+            }
+        }
+    ]
+}

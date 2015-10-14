@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;746;748",
+                "ref:De_Lijn": "406623",
+                "bus": "yes",
+                "name": "Meeuwen Kruispunt Rietenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUISVENSTRAAT GRUITRODE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.549305,
+                    51.094722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;746;748",
+                "ref:De_Lijn": "406622",
+                "bus": "yes",
+                "name": "Meeuwen Kruispunt Rietenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUISVENSTRAAT GRUITRODE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.549521,
+                    51.094783
+                ]
+            }
+        }
+    ]
+}

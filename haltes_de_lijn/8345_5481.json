@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505344",
+                "bus": "yes",
+                "name": "Ruiselede Groene Sprietstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENE-SPRIETSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.36198,
+                    51.050122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505072",
+                "bus": "yes",
+                "name": "Ruiselede Abeelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379396,
+                    51.048696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505756",
+                "bus": "yes",
+                "name": "Ruiselede Piccadilly",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.375786,
+                    51.046769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505658",
+                "bus": "yes",
+                "name": "Ruiselede 't Zwijntje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABEELSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.363291,
+                    51.04153
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505047",
+                "bus": "yes",
+                "name": "Meetkerke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE MOLENWEG MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.15192,
+                    51.235615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "501207",
+                "bus": "yes",
+                "name": "Meetkerke Breughelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160656,
+                    51.239453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "501208",
+                "bus": "yes",
+                "name": "Meetkerke Oude Molenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.148836,
+                    51.24237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "506208",
+                "bus": "yes",
+                "name": "Meetkerke Oude Molenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149516,
+                    51.242099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "501210",
+                "bus": "yes",
+                "name": "Meetkerke Vuilvlage",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14239,
+                    51.243517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35;36",
+                "ref:De_Lijn": "506207",
+                "bus": "yes",
+                "name": "Meetkerke Breughelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDSE STEENWEG MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160588,
+                    51.239318
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "501426",
+                "bus": "yes",
+                "name": "Meetkerke Heerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERWEG MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.155323,
+                    51.240738
+                ]
+            }
+        }
+    ]
+}

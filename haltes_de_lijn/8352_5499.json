@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209384",
+                "bus": "yes",
+                "name": "Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDEBAAN BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.532241,
+                    50.800168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;470",
+                "ref:De_Lijn": "208384",
+                "bus": "yes",
+                "name": "Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDEBAAN BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.531977,
+                    50.799879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209385",
+                "bus": "yes",
+                "name": "Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMSTRAAT BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5192,
+                    50.794105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;470",
+                "ref:De_Lijn": "208385",
+                "bus": "yes",
+                "name": "Pontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMSTRAAT BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.520146,
+                    50.794337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "470",
+                "ref:De_Lijn": "209237",
+                "bus": "yes",
+                "name": "Meersestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSESTRAAT BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.535945,
+                    50.804932
+                ]
+            }
+        }
+    ]
+}

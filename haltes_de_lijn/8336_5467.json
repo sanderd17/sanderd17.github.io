@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505032",
+                "bus": "yes",
+                "name": "Meetkerke Strooien Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLINKESTRAAT MEETKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.171993,
+                    51.241312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "500195",
+                "bus": "yes",
+                "name": "Brugge Ossenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N9 BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.173148,
+                    51.236479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;35",
+                "ref:De_Lijn": "500196",
+                "bus": "yes",
+                "name": "Brugge Ossenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N9 BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.173475,
+                    51.236572
+                ]
+            }
+        }
+    ]
+}

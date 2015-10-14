@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300604",
+                "bus": "yes",
+                "name": "Blanden Duivenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUIVENSTRAAT BLANDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.705559,
+                    50.836411
+                ]
+            }
+        }
+    ]
+}

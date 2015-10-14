@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31;38",
+                "ref:De_Lijn": "508812",
+                "bus": "yes",
+                "name": "Staden Voorstad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT JANSSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.018781,
+                    50.971673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31;38",
+                "ref:De_Lijn": "508805",
+                "bus": "yes",
+                "name": "Staden Lindeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT JANSSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.030988,
+                    50.964566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31;38",
+                "ref:De_Lijn": "503812",
+                "bus": "yes",
+                "name": "Staden Voorstad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT JANSSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.019077,
+                    50.971299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31;38",
+                "ref:De_Lijn": "503805",
+                "bus": "yes",
+                "name": "Staden Lindeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT JANSSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03092,
+                    50.964431
+                ]
+            }
+        }
+    ]
+}

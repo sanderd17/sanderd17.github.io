@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "501551",
+                "bus": "yes",
+                "name": "Varsenare Licht En Liefde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENBURGWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13542,
+                    51.187538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "502521",
+                "bus": "yes",
+                "name": "Varsenare Velddreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.140126,
+                    51.182679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "507521",
+                "bus": "yes",
+                "name": "Varsenare Velddreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.140355,
+                    51.182663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "502520",
+                "bus": "yes",
+                "name": "Varsenare Lijsterdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.135931,
+                    51.179597
+                ]
+            }
+        }
+    ]
+}

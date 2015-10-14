@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;573",
+                "ref:De_Lijn": "304527",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Brouwerij Lindemans",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LENNIKSEBAAN VLEZENBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.212578,
+                    50.815299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;573",
+                "ref:De_Lijn": "304525",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Groenenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.202938,
+                    50.812589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;573",
+                "ref:De_Lijn": "304528",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Brouwerij Lindemans",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N282 VLEZENBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.212593,
+                    50.815146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;573",
+                "ref:De_Lijn": "304526",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Groenenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.203931,
+                    50.812707
+                ]
+            }
+        }
+    ]
+}

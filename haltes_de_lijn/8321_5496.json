@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "505110",
+                "bus": "yes",
+                "name": "Vlamertinge Cafe Hazewind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODENBACHSTRAAT VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.834838,
+                    50.846499
+                ]
+            }
+        }
+    ]
+}

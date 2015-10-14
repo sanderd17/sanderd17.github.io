@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104053",
+                "bus": "yes",
+                "name": "Putte Wolfslei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOISCHOTBAAN BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.675047,
+                    51.044553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "520;529",
+                "ref:De_Lijn": "108411",
+                "bus": "yes",
+                "name": "Schriek Booischotbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSTRAAT SCHRIEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.662282,
+                    51.041898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "520;529",
+                "ref:De_Lijn": "108412",
+                "bus": "yes",
+                "name": "Schriek Booischotbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSTRAAT SCHRIEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.66261,
+                    51.041906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104052",
+                "bus": "yes",
+                "name": "Beerzel Kalkoenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAREELSTRAAT BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.665071,
+                    51.052255
+                ]
+            }
+        }
+    ]
+}

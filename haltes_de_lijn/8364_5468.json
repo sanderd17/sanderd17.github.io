@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200937",
+                "bus": "yes",
+                "name": "Sas van Gent Suikerplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SUIKERPLEIN SAS VAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.794205,
+                    51.230039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200922",
+                "bus": "yes",
+                "name": "Assenede Kasteeldijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT POLDERSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.780744,
+                    51.225749
+                ]
+            }
+        }
+    ]
+}

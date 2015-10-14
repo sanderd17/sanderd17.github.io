@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;270",
+                "ref:De_Lijn": "204228",
+                "bus": "yes",
+                "name": "Sinaai Bellemansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNVELD SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.061577,
+                    51.145113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;270",
+                "ref:De_Lijn": "205230",
+                "bus": "yes",
+                "name": "Sinaai Mezenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNVELD SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.049616,
+                    51.151409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;270",
+                "ref:De_Lijn": "204229",
+                "bus": "yes",
+                "name": "Sinaai Wijnveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNVELD SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.055189,
+                    51.147262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;270",
+                "ref:De_Lijn": "205228",
+                "bus": "yes",
+                "name": "Sinaai Bellemansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNVELD SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.061089,
+                    51.145399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;270",
+                "ref:De_Lijn": "205229",
+                "bus": "yes",
+                "name": "Sinaai Wijnveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNVELD SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.055174,
+                    51.147388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;270",
+                "ref:De_Lijn": "204230",
+                "bus": "yes",
+                "name": "Sinaai Mezenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNVELD SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.049416,
+                    51.151382
+                ]
+            }
+        }
+    ]
+}

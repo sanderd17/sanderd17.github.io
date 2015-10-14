@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;97",
+                "ref:De_Lijn": "502316",
+                "bus": "yes",
+                "name": "Oedelem Zuiddamme",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.346961,
+                    51.154749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "507304",
+                "bus": "yes",
+                "name": "Oedelem Driepikkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.358982,
+                    51.165334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;97",
+                "ref:De_Lijn": "507316",
+                "bus": "yes",
+                "name": "Oedelem Zuiddamme",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.346924,
+                    51.155117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;63",
+                "ref:De_Lijn": "502304",
+                "bus": "yes",
+                "name": "Oedelem Driepikkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.358697,
+                    51.165278
+                ]
+            }
+        }
+    ]
+}

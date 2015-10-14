@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205761",
+                "bus": "yes",
+                "name": "Beveren Piet Stautstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUIBEKESTEENWEG BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.26305,
+                    51.203889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205596",
+                "bus": "yes",
+                "name": "Beveren Puiput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUIBEKESTEENWEG BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.270106,
+                    51.19577
+                ]
+            }
+        }
+    ]
+}

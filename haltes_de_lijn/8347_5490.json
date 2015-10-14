@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "503836",
+                "bus": "yes",
+                "name": "Wakken Groenhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OESELGEMSTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.411462,
+                    50.9298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "508836",
+                "bus": "yes",
+                "name": "Wakken Groenhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OESELGEMSTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.411861,
+                    50.929777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505914",
+                "bus": "yes",
+                "name": "Wakken Bergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJVESTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.41608,
+                    50.925163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505160",
+                "bus": "yes",
+                "name": "Wakken Camiel Cluysestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CAMIEL CLUYSESTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.410149,
+                    50.927245
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;57",
+                "ref:De_Lijn": "500927",
+                "bus": "yes",
+                "name": "Alveringem Kruisemolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISESTRAAT ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.738592,
+                    51.038903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;57",
+                "ref:De_Lijn": "504674",
+                "bus": "yes",
+                "name": "Alveringem Kruisabele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENDAMSTRAAT ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.735594,
+                    51.030806
+                ]
+            }
+        }
+    ]
+}

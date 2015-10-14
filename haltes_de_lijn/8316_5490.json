@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;69",
+                "ref:De_Lijn": "509346",
+                "bus": "yes",
+                "name": "Oostvleteren Comte De Flandre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOESTENSTRAAT OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.746422,
+                    50.926108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504703",
+                "bus": "yes",
+                "name": "Westvleteren Eikhoekstraat 23",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKHOEKSTRAAT WESTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.725156,
+                    50.920327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;69",
+                "ref:De_Lijn": "504350",
+                "bus": "yes",
+                "name": "Oostvleteren Hogebrugstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTVLETERENSTRAAT OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.732041,
+                    50.929694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;69",
+                "ref:De_Lijn": "509350",
+                "bus": "yes",
+                "name": "Oostvleteren Hogebrugstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTVLETERENSTRAAT OOSTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.732173,
+                    50.929579
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102707",
+                "bus": "yes",
+                "name": "Mol Boeretang 276/278",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERETANG MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.081634,
+                    51.219472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "437",
+                "ref:De_Lijn": "107684",
+                "bus": "yes",
+                "name": "Mol SCK",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERETANG MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.095314,
+                    51.220135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "437",
+                "ref:De_Lijn": "107683",
+                "bus": "yes",
+                "name": "Mol SCK",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOERETANG MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.095198,
+                    51.220046
+                ]
+            }
+        }
+    ]
+}

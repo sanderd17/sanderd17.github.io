@@ -1,0 +1,177 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204440",
+                "bus": "yes",
+                "name": "Hulst (Nl) 's Gravenhofplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MINDERBROEDERSSTRAAT HULST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.049269,
+                    51.281741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204439",
+                "bus": "yes",
+                "name": "Hulst (Nl) Zandstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GLACISWEG HULST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.052012,
+                    51.285137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;42;43",
+                "ref:De_Lijn": "205439",
+                "bus": "yes",
+                "name": "Hulst (Nl) Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HULST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.053326,
+                    51.285833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205440",
+                "bus": "yes",
+                "name": "Hulst (Nl) 's Gravenhofplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MINDERBROEDERSSTRAAT HULST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.049839,
+                    51.282309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;42;43",
+                "ref:De_Lijn": "205254",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Hulst (Nl) Glacisweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLACISWEG HULST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.057395,
+                    51.283983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;42;43",
+                "ref:De_Lijn": "204437",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Hulst (Nl) Koolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSTRAAT HULST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.059895,
+                    51.282983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;42;43",
+                "ref:De_Lijn": "204254",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Hulst (Nl) Glacisweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOUTESTRAAT HULST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.057839,
+                    51.284011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;42;43",
+                "ref:De_Lijn": "205437",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Hulst (Nl) Koolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSTRAAT HULST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.060139,
+                    51.283028
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79",
+                "ref:De_Lijn": "507362",
+                "bus": "yes",
+                "name": "Ruddervoorde Posterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.188955,
+                    51.083156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79;96",
+                "ref:De_Lijn": "502362",
+                "bus": "yes",
+                "name": "Ruddervoorde Posterij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.189064,
+                    51.083373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79",
+                "ref:De_Lijn": "507356",
+                "bus": "yes",
+                "name": "Ruddervoorde Huis nummer 95",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.201783,
+                    51.089594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79;96",
+                "ref:De_Lijn": "502352",
+                "bus": "yes",
+                "name": "Ruddervoorde Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20579,
+                    51.09608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79;96",
+                "ref:De_Lijn": "502356",
+                "bus": "yes",
+                "name": "Ruddervoorde Huis nummer 95",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20189,
+                    51.089865
+                ]
+            }
+        }
+    ]
+}

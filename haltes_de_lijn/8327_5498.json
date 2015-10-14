@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505572",
+                "bus": "yes",
+                "name": "Zandvoorde Kleine Ieperstraat 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE IEPERSTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.979147,
+                    50.815165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504977",
+                "bus": "yes",
+                "name": "Zandvoorde Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDVOORDEPLAATS ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.980907,
+                    50.813234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "509639",
+                "bus": "yes",
+                "name": "Zandvoorde Houthemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.981297,
+                    50.811558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "504639",
+                "bus": "yes",
+                "name": "Zandvoorde Houthemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.981583,
+                    50.811507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505107",
+                "bus": "yes",
+                "name": "Zandvoorde Zillebekestraat 34",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILLEBEKESTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.970354,
+                    50.814476
+                ]
+            }
+        }
+    ]
+}

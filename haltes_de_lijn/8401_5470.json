@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;424",
+                "ref:De_Lijn": "106561",
+                "bus": "yes",
+                "name": "Oelegem Oelegemsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OELEGEMSESTEENWEG OELEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.598115,
+                    51.203766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;424",
+                "ref:De_Lijn": "106560",
+                "bus": "yes",
+                "name": "Oelegem Oelegemsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OELEGEMSESTEENWEG OELEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.598258,
+                    51.203694
+                ]
+            }
+        }
+    ]
+}

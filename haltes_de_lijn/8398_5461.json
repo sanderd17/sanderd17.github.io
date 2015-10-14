@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "Buur",
+                "ref:De_Lijn": "109806",
+                "bus": "yes",
+                "name": "Brasschaat Sint-Jobsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.532389,
+                    51.326997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "Buur",
+                "ref:De_Lijn": "109809",
+                "bus": "yes",
+                "name": "Brasschaat De Beelenlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN MARIA-TER-HEIDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.526948,
+                    51.325701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "Buur",
+                "ref:De_Lijn": "109807",
+                "bus": "yes",
+                "name": "Brasschaat Sint-Jobsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.532417,
+                    51.326907
+                ]
+            }
+        }
+    ]
+}

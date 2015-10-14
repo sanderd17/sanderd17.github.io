@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "401883",
+                "bus": "yes",
+                "name": "Diepenbeek Lutselusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUTSELUSSTRAAT DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.444866,
+                    50.910267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "401884",
+                "bus": "yes",
+                "name": "Diepenbeek Lutselusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUTSELUSSTRAAT DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.444911,
+                    50.910366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;741",
+                "ref:De_Lijn": "401483",
+                "bus": "yes",
+                "name": "Diepenbeek Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENDELBAAN DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.429514,
+                    50.9061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;741",
+                "ref:De_Lijn": "401482",
+                "bus": "yes",
+                "name": "Diepenbeek Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENDELBAAN DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.429595,
+                    50.905911
+                ]
+            }
+        }
+    ]
+}

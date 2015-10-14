@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201845",
+                "bus": "yes",
+                "name": "Kruishoutem Carpool E17",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.492113,
+                    50.915776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201834",
+                "bus": "yes",
+                "name": "Kruishoutem Brug E17/Stokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4903,
+                    50.906224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201809",
+                "bus": "yes",
+                "name": "Kruishoutem Leenbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARREWEG OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.486307,
+                    50.915175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201810",
+                "bus": "yes",
+                "name": "Kruishoutem Industriezone",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEZONE KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.478567,
+                    50.906405
+                ]
+            }
+        }
+    ]
+}

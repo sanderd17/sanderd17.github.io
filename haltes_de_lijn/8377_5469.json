@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;240",
+                "ref:De_Lijn": "204376",
+                "bus": "yes",
+                "name": "Kemzeke Malpertuslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.071697,
+                    51.212238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209844",
+                "bus": "yes",
+                "name": "Kemzeke Weyn Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NATIONALESTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.078212,
+                    51.207104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204765",
+                "bus": "yes",
+                "name": "Kemzeke Kerkwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKWIJK KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.07944,
+                    51.207431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;240",
+                "ref:De_Lijn": "204375",
+                "bus": "yes",
+                "name": "Kemzeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.075178,
+                    51.207133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;240",
+                "ref:De_Lijn": "205376",
+                "bus": "yes",
+                "name": "Kemzeke Malpertuslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORHOUT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.071507,
+                    51.212903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;240",
+                "ref:De_Lijn": "205377",
+                "bus": "yes",
+                "name": "Kemzeke Drieschouwen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORHOUT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.067123,
+                    51.220308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;240",
+                "ref:De_Lijn": "205375",
+                "bus": "yes",
+                "name": "Kemzeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.075436,
+                    51.20707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;240",
+                "ref:De_Lijn": "204377",
+                "bus": "yes",
+                "name": "Kemzeke Drieschouwen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORHOUT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.066606,
+                    51.220513
+                ]
+            }
+        }
+    ]
+}

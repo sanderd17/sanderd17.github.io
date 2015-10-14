@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "205029",
+                "bus": "yes",
+                "name": "Kieldrecht Nieuw Arenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N451 KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.183984,
+                    51.305046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "204029",
+                "bus": "yes",
+                "name": "Kieldrecht Nieuw Arenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N451 KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.18427,
+                    51.305262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "204028",
+                "bus": "yes",
+                "name": "Kieldrecht Westzeestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUW-ARENBERGSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.196605,
+                    51.30449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "205028",
+                "bus": "yes",
+                "name": "Kieldrecht Westzeestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUW-ARENBERGSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.196505,
+                    51.304391
+                ]
+            }
+        }
+    ]
+}

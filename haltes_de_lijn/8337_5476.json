@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "502439",
+                "bus": "yes",
+                "name": "Waardamme Veldhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SIJSLOSTRAAT WAARDAMME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.19361,
+                    51.112051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505741",
+                "bus": "yes",
+                "name": "Waardamme Stokhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKHOVESTRAAT WAARDAMME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.206335,
+                    51.115503
+                ]
+            }
+        }
+    ]
+}

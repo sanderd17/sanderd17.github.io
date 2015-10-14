@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301511",
+                "bus": "yes",
+                "name": "Rummen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETELSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.162857,
+                    50.891541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301513",
+                "bus": "yes",
+                "name": "Rummen Kruispunt Donk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETELSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.158738,
+                    50.895102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301512",
+                "bus": "yes",
+                "name": "Rummen Kruispunt Donk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETELSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.158511,
+                    50.895121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "568;715",
+                "ref:De_Lijn": "301515",
+                "bus": "yes",
+                "name": "Rummen Leeuwbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIESEMSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.156606,
+                    50.90273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301510",
+                "bus": "yes",
+                "name": "Rummen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETELSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.162952,
+                    50.891279
+                ]
+            }
+        }
+    ]
+}

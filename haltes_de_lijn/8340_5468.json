@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;98",
+                "ref:De_Lijn": "507645",
+                "bus": "yes",
+                "name": "Sint-Kruis 't Apertje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMSE VAART-ZUID SINT-KRUIS (BRUGGE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.259037,
+                    51.234133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "502645",
+                "bus": "yes",
+                "name": "Sint-Kruis 't Apertje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMSE VAART-ZUID SINT-KRUIS (BRUGGE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.259139,
+                    51.234053
+                ]
+            }
+        }
+    ]
+}

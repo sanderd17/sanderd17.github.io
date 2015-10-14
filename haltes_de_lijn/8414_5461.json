@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "103660",
+                "bus": "yes",
+                "name": "Vosselaar Oudebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFEINDE VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.881993,
+                    51.31824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "103661",
+                "bus": "yes",
+                "name": "Vosselaar Oudebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFEINDE VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.882334,
+                    51.318022
+                ]
+            }
+        }
+    ]
+}

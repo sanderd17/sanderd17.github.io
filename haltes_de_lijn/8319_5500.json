@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504690",
+                "bus": "yes",
+                "name": "Kemmel Traisnels",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELBERGWEG LOKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.80072,
+                    50.78058
+                ]
+            }
+        }
+    ]
+}

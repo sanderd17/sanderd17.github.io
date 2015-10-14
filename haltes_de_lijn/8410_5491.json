@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308915",
+                "bus": "yes",
+                "name": "Kortrijk-Dutsel Leempoel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOBBELSRODE KORTRIJK-DUTSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80725,
+                    50.915731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308916",
+                "bus": "yes",
+                "name": "Kortrijk-Dutsel Leempoel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOBBELSRODE KORTRIJK-DUTSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80708,
+                    50.915749
+                ]
+            }
+        }
+    ]
+}

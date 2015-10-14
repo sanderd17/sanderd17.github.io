@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "203719",
+                "bus": "yes",
+                "name": "De Pinte Klossestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOSSESTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.677321,
+                    51.002214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208333",
+                "bus": "yes",
+                "name": "Zwijnaarde Vogelheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOSSEBOS ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.68325,
+                    51.000073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "200386",
+                "bus": "yes",
+                "name": "De Pinte Hemelrijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE GENTWEG DE PINTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.67256,
+                    51.006196
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,194 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "205791",
+                "bus": "yes",
+                "name": "Hamme Vuurkruisenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRIJDERSLAAN HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.120521,
+                    51.091732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204789",
+                "bus": "yes",
+                "name": "Hamme Vlierkouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLIERKOUTER HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.130539,
+                    51.089298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209897",
+                "bus": "yes",
+                "name": "Hamme Sint-Jozefschool",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EVANGELIESTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.121884,
+                    51.093092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208897",
+                "bus": "yes",
+                "name": "Hamme Sint-Jozefschool (->Tem)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EVANGELIESTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.121998,
+                    51.093038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "205790",
+                "bus": "yes",
+                "name": "Hamme Zwanehals",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLIERKOUTER HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.126993,
+                    51.087754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204126",
+                "bus": "yes",
+                "name": "Hamme Kon. Albertplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTPLEIN HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.129655,
+                    51.094816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209817",
+                "bus": "yes",
+                "name": "Hamme Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTPLEIN HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.130354,
+                    51.094736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;290",
+                "ref:De_Lijn": "204788",
+                "bus": "yes",
+                "name": "Hamme Evangeliestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVANGELIESTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.122844,
+                    51.09509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91",
+                "ref:De_Lijn": "205788",
+                "bus": "yes",
+                "name": "Hamme Evangeliestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVANGELIESTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.123015,
+                    51.095189
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79",
+                "ref:De_Lijn": "502664",
+                "bus": "yes",
+                "name": "Zedelgem Hamersvelde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIERLAPONT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.166993,
+                    51.127461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79;99",
+                "ref:De_Lijn": "507664",
+                "bus": "yes",
+                "name": "Zedelgem Hamersvelde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIERLAPONT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.167081,
+                    51.12739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79",
+                "ref:De_Lijn": "507655",
+                "bus": "yes",
+                "name": "Zedelgem Pierlapont",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIERLAPONT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.170703,
+                    51.129863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79;99",
+                "ref:De_Lijn": "502655",
+                "bus": "yes",
+                "name": "Zedelgem Pierlapont",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIERLAPONT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.170777,
+                    51.129783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79;99",
+                "ref:De_Lijn": "502665",
+                "bus": "yes",
+                "name": "Zedelgem Merkemveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LELIESTRAAT ZUIDWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.174007,
+                    51.129169
+                ]
+            }
+        }
+    ]
+}

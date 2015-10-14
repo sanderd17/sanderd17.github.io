@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504571",
+                "bus": "yes",
+                "name": "Westouter Brabant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LENESTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.731486,
+                    50.822425
+                ]
+            }
+        }
+    ]
+}

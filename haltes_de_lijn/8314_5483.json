@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504515",
+                "bus": "yes",
+                "name": "Vinkem Zwart Peerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N8 VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.681016,
+                    51.016037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "509515",
+                "bus": "yes",
+                "name": "Vinkem Zwart Peerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N8 VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.68118,
+                    51.016246
+                ]
+            }
+        }
+    ]
+}

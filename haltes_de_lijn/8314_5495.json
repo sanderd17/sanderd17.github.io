@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504407",
+                "bus": "yes",
+                "name": "Poperinge Hoge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATOUSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699585,
+                    50.858149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;68;69",
+                "ref:De_Lijn": "509407",
+                "bus": "yes",
+                "name": "Poperinge Hoge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATOUSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699907,
+                    50.85828
+                ]
+            }
+        }
+    ]
+}

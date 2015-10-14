@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505150",
+                "bus": "yes",
+                "name": "Ichtegem Ermietshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMARKSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.027799,
+                    51.077595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "502216",
+                "bus": "yes",
+                "name": "Ichtegem Reiger",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDEBAAN ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.029714,
+                    51.080997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "509890",
+                "bus": "yes",
+                "name": "Ichtegem Vinkenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINKENSVELDSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.018451,
+                    51.071168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "507216",
+                "bus": "yes",
+                "name": "Ichtegem Reiger",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDEBAAN ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.03035,
+                    51.08122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505844",
+                "bus": "yes",
+                "name": "Ichtegem Veldemolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEMOLENSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.012164,
+                    51.073918
+                ]
+            }
+        }
+    ]
+}

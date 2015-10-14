@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "200384",
+                "bus": "yes",
+                "name": "Eke Ten Ede",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN EDESTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.630213,
+                    50.949303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "204929",
+                "bus": "yes",
+                "name": "Eke WZC De Lichtervelde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE LICHTERVELDESTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.638349,
+                    50.955943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;145",
+                "ref:De_Lijn": "209790",
+                "bus": "yes",
+                "name": "Eke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.641745,
+                    50.957259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "209791",
+                "bus": "yes",
+                "name": "Eke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.642236,
+                    50.956803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84;145",
+                "ref:De_Lijn": "209725",
+                "bus": "yes",
+                "name": "Eke De Lichterveldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.639695,
+                    50.957264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "209293",
+                "bus": "yes",
+                "name": "Eke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.641819,
+                    50.957071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84",
+                "ref:De_Lijn": "208293",
+                "bus": "yes",
+                "name": "Eke De Lichterveldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.640265,
+                    50.957241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "209724",
+                "bus": "yes",
+                "name": "Eke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT EKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.642323,
+                    50.95666
+                ]
+            }
+        }
+    ]
+}

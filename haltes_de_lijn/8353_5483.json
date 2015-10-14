@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;86",
+                "ref:De_Lijn": "209641",
+                "bus": "yes",
+                "name": "Meigem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTORIESTRAAT MEIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.540087,
+                    51.016971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201699",
+                "bus": "yes",
+                "name": "Vosselare Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSELAREDORP VOSSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.554656,
+                    51.02501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;86;125",
+                "ref:De_Lijn": "208641",
+                "bus": "yes",
+                "name": "Meigem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERG MEIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.539984,
+                    51.017186
+                ]
+            }
+        }
+    ]
+}

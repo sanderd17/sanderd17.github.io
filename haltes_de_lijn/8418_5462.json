@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;432",
+                "ref:De_Lijn": "102740",
+                "bus": "yes",
+                "name": "Oud-Turnhout Molenbergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENBERGEN OUD-TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.987617,
+                    51.314885
+                ]
+            }
+        }
+    ]
+}

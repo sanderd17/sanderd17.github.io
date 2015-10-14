@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;69",
+                "ref:De_Lijn": "503512",
+                "bus": "yes",
+                "name": "Ledegem Wit Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN LEDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.110204,
+                    50.864772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;69",
+                "ref:De_Lijn": "503506",
+                "bus": "yes",
+                "name": "Ledegem Huis Van Commerce",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN LEDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.110929,
+                    50.870076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505297",
+                "bus": "yes",
+                "name": "Ledegem Kleine Moorsledestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLYPSSTRAAT LEDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.098223,
+                    50.869166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;69",
+                "ref:De_Lijn": "508506",
+                "bus": "yes",
+                "name": "Ledegem Huis Van Commerce",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN LEDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.111108,
+                    50.869763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;69",
+                "ref:De_Lijn": "508512",
+                "bus": "yes",
+                "name": "Ledegem Wit Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEBAAN LEDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.110203,
+                    50.863226
+                ]
+            }
+        }
+    ]
+}

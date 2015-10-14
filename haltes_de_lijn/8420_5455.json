@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "451;455",
+                "ref:De_Lijn": "103026",
+                "bus": "yes",
+                "name": "Weelde Moleneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEWEG WEELDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.010116,
+                    51.407047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;455;456;459",
+                "ref:De_Lijn": "106640",
+                "bus": "yes",
+                "name": "Weelde Moleneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N118 WEELDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.010709,
+                    51.407269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;456;458",
+                "ref:De_Lijn": "106647",
+                "bus": "yes",
+                "name": "Weelde Weeldestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTSTRAAT WEELDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.013904,
+                    51.412761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;455;456;457;459",
+                "ref:De_Lijn": "106639",
+                "bus": "yes",
+                "name": "Weelde Moleneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N118 WEELDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.010564,
+                    51.407179
+                ]
+            }
+        }
+    ]
+}

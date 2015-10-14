@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "106370",
+                "bus": "yes",
+                "name": "Meer Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERLESEWEG MEER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.762504,
+                    51.471365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "106371",
+                "bus": "yes",
+                "name": "Meer Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERLESEWEG MEER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.762795,
+                    51.47176
+                ]
+            }
+        }
+    ]
+}

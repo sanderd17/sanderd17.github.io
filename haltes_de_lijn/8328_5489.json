@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505536",
+                "bus": "yes",
+                "name": "Westrozebeke Tiendenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERHOFWEG WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.005045,
+                    50.935732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505537",
+                "bus": "yes",
+                "name": "Westrozebeke Bultekot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ELOOISTRAAT WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.002533,
+                    50.934534
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "401264",
+                "bus": "yes",
+                "name": "Beek Dirixstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIRIXSTRAAT BEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.606296,
+                    51.155584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "401265",
+                "bus": "yes",
+                "name": "Beek Dirixstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIRIXSTRAAT BEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.606233,
+                    51.155387
+                ]
+            }
+        }
+    ]
+}

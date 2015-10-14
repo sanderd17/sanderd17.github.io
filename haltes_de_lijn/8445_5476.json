@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13b",
+                "ref:De_Lijn": "401280",
+                "bus": "yes",
+                "name": "Bree Meeuwerkiezel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERKIEZEL GERDINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.560037,
+                    51.123103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13b",
+                "ref:De_Lijn": "401281",
+                "bus": "yes",
+                "name": "Bree Meeuwerkiezel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERKIEZEL GERDINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.559522,
+                    51.1231
+                ]
+            }
+        }
+    ]
+}

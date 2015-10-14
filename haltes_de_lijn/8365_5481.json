@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "200955",
+                "bus": "yes",
+                "name": "Destelbergen Damvallei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMVALLEISTRAAT HEUSDEN (DESTELBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.821459,
+                    51.053339
+                ]
+            }
+        }
+    ]
+}

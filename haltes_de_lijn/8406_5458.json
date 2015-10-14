@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;605;608;620",
+                "ref:De_Lijn": "102702",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Laboureur",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSEBAAN SINT-LENAARTS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712034,
+                    51.370221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;605;608;620",
+                "ref:De_Lijn": "102701",
+                "bus": "yes",
+                "name": "Sint-Lenaarts Laboureur",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAATSEBAAN SINT-LENAARTS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.712137,
+                    51.370527
+                ]
+            }
+        }
+    ]
+}

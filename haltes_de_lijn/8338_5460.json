@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "501537",
+                "bus": "yes",
+                "name": "Zeebrugge Kazerne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REDERSKAAI ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.208069,
+                    51.335088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506463",
+                "zone:De_Lijn": "13",
+                "name": "Zeebrugge Zeesluis",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ELIZABETLAAN DUINBERGEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221188,
+                    51.337876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "501536",
+                "bus": "yes",
+                "name": "Zeebrugge Polderweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REINGAARDSVLIET ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213089,
+                    51.332881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501463",
+                "zone:De_Lijn": "13",
+                "name": "Zeebrugge Zeesluis",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ELIZABETLAAN DUINBERGEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221087,
+                    51.337893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "501535",
+                "bus": "yes",
+                "name": "Zeebrugge Gemeenschapshuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTPLEIN ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.210343,
+                    51.331362
+                ]
+            }
+        }
+    ]
+}

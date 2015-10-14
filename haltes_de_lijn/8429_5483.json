@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52;90",
+                "ref:De_Lijn": "405993",
+                "bus": "yes",
+                "name": "Gestel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESTELSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.208762,
+                    51.027039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52;90",
+                "ref:De_Lijn": "405992",
+                "bus": "yes",
+                "name": "Gestel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESTELSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.208386,
+                    51.026709
+                ]
+            }
+        }
+    ]
+}

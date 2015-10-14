@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "506625",
+                "bus": "yes",
+                "name": "Blankenberge Groenwaecke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUIPERSCHEEWEG UITKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.139768,
+                    51.292986
+                ]
+            }
+        }
+    ]
+}

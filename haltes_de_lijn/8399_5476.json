@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "550;555",
+                "ref:De_Lijn": "106942",
+                "bus": "yes",
+                "name": "Lier Lintsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.549959,
+                    51.124193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;556",
+                "ref:De_Lijn": "108694",
+                "bus": "yes",
+                "name": "Lier Ceciliastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.565996,
+                    51.119889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "101417",
+                "bus": "yes",
+                "name": "Lier Ceciliastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CECILIASTRAAT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.566525,
+                    51.119996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;556",
+                "ref:De_Lijn": "108697",
+                "bus": "yes",
+                "name": "Lier Wolfsleikapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.559013,
+                    51.113167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;556",
+                "ref:De_Lijn": "108696",
+                "bus": "yes",
+                "name": "Lier Ceciliastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.566368,
+                    51.120014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;556",
+                "ref:De_Lijn": "108698",
+                "bus": "yes",
+                "name": "Lier Wolfsleikapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.559155,
+                    51.113086
+                ]
+            }
+        }
+    ]
+}

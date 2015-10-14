@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44;240",
+                "ref:De_Lijn": "204387",
+                "bus": "yes",
+                "name": "Kemzeke Kwakkelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKELSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.057395,
+                    51.191654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44;240",
+                "ref:De_Lijn": "205386",
+                "bus": "yes",
+                "name": "Kemzeke Kwakkelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKELSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.062879,
+                    51.188531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44;240",
+                "ref:De_Lijn": "204386",
+                "bus": "yes",
+                "name": "Kemzeke Kwakkelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKELSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.062651,
+                    51.188477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;44;240",
+                "ref:De_Lijn": "205387",
+                "bus": "yes",
+                "name": "Kemzeke Kwakkelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAKKELSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.057653,
+                    51.191574
+                ]
+            }
+        }
+    ]
+}

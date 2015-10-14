@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;48;13b;283",
+                "ref:De_Lijn": "404406",
+                "bus": "yes",
+                "name": "Helchteren Eynderweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAZERNELAAN SONNIS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.410607,
+                    51.063775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;48;13b;283",
+                "ref:De_Lijn": "404421",
+                "bus": "yes",
+                "name": "Helchteren Sonnis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAZERNELAAN SONNISHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.417583,
+                    51.067597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;48;13b;283",
+                "ref:De_Lijn": "404420",
+                "bus": "yes",
+                "name": "Helchteren Sonnis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAZERNELAAN SONNISHEIDE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.417122,
+                    51.067394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;48;13b;283",
+                "ref:De_Lijn": "404407",
+                "bus": "yes",
+                "name": "Helchteren Eynderweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAZERNELAAN SONNIS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.411179,
+                    51.063869
+                ]
+            }
+        }
+    ]
+}

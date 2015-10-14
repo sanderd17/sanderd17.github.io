@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "408369",
+                "bus": "yes",
+                "name": "Lanaken Smeetsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMEETSSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.623011,
+                    50.892441
+                ]
+            }
+        }
+    ]
+}

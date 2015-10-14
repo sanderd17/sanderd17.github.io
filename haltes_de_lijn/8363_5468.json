@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200940",
+                "bus": "yes",
+                "name": "Assenede Molenbergplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANDRIESLAAN ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758956,
+                    51.229072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200935",
+                "bus": "yes",
+                "name": "Assenede Kloosteraprilstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SASDIJKSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766889,
+                    51.222245
+                ]
+            }
+        }
+    ]
+}

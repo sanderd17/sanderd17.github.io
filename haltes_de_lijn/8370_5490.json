@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "206553",
+                "bus": "yes",
+                "name": "Bambrugge Katstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EGEMSTRAAT BAMBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.928562,
+                    50.922031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209750",
+                "bus": "yes",
+                "name": "Zonnegem Steenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBERGSTRAAT ZONNEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.914581,
+                    50.927974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;91;93",
+                "ref:De_Lijn": "207485",
+                "bus": "yes",
+                "name": "Bambrugge Sint-Annastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG BAMBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.93111,
+                    50.917204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209756",
+                "bus": "yes",
+                "name": "Zonnegem Hazenakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBERGSTRAAT ZONNEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.916412,
+                    50.926893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;91;93;385",
+                "ref:De_Lijn": "206485",
+                "bus": "yes",
+                "name": "Bambrugge Sint-Annastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG BAMBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.931763,
+                    50.91727
+                ]
+            }
+        }
+    ]
+}

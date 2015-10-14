@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403552",
+                "bus": "yes",
+                "name": "Stokrooie Waterlozestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOZESTRAAT STOKROOIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27046,
+                    50.966494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;35c",
+                "ref:De_Lijn": "403377",
+                "bus": "yes",
+                "name": "Stokrooie Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKROOIEWEG STOKROOIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.272397,
+                    50.965086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;35c",
+                "ref:De_Lijn": "403376",
+                "bus": "yes",
+                "name": "Stokrooie Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKROOIEWEG STOKROOIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.272581,
+                    50.965022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403554",
+                "bus": "yes",
+                "name": "Stokrooie Beuzestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOZESTRAAT STOKROOIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.263819,
+                    50.969898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403553",
+                "bus": "yes",
+                "name": "Stokrooie Waterlozestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOZESTRAAT STOKROOIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.270712,
+                    50.966304
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;94",
+                "ref:De_Lijn": "504008",
+                "bus": "yes",
+                "name": "Zonnebeke Noordeinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESELARESTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.008887,
+                    50.86108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84;94",
+                "ref:De_Lijn": "509008",
+                "bus": "yes",
+                "name": "Zonnebeke Noordeinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESELARESTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.009167,
+                    50.860742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505967",
+                "bus": "yes",
+                "name": "Beselare Reutelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE WERVIKSTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.004194,
+                    50.850479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504984",
+                "bus": "yes",
+                "name": "Zonnebeke Veldhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLASSTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.000203,
+                    50.859262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504985",
+                "bus": "yes",
+                "name": "Beselare Reutel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE KORTRIJKSTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.00703,
+                    50.850152
+                ]
+            }
+        }
+    ]
+}

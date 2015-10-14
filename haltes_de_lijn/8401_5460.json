@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;608;620;629",
+                "ref:De_Lijn": "105516",
+                "bus": "yes",
+                "name": "Brecht Miksebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSTEENWEG BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6134,
+                    51.334928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100202",
+                "bus": "yes",
+                "name": "Brecht Overbroek Kerk rechts NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-WILLEBRORDUSSTRAAT OVERBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.604154,
+                    51.342326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;608;620;629",
+                "ref:De_Lijn": "105517",
+                "bus": "yes",
+                "name": "Brecht Miksebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSTEENWEG BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.61337,
+                    51.334757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100203",
+                "bus": "yes",
+                "name": "Brecht Overbroek Kerk links NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-WILLEBRORDUSSTRAAT OVERBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.604068,
+                    51.342416
+                ]
+            }
+        }
+    ]
+}

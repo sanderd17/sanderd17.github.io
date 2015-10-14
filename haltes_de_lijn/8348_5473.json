@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "202286",
+                "bus": "yes",
+                "name": "Maldegem Groot Burkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT BURKELKALSEINDE MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.434469,
+                    51.159797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203285",
+                "bus": "yes",
+                "name": "Maldegem Harinkweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERBAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.440669,
+                    51.165069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203287",
+                "bus": "yes",
+                "name": "Maldegem Oude Bruggeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOKSEWEG KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.432625,
+                    51.153355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;185",
+                "ref:De_Lijn": "202287",
+                "bus": "yes",
+                "name": "Maldegem Oude Bruggeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERBAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.433624,
+                    51.154172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;185",
+                "ref:De_Lijn": "202285",
+                "bus": "yes",
+                "name": "Maldegem Harinkweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERBAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.441155,
+                    51.165073
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;419",
+                "ref:De_Lijn": "106202",
+                "bus": "yes",
+                "name": "Beerse Nieuwe Dreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.824197,
+                    51.305947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "106205",
+                "bus": "yes",
+                "name": "Beerse Bareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.832308,
+                    51.306931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;419",
+                "ref:De_Lijn": "106204",
+                "bus": "yes",
+                "name": "Beerse Bareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.832252,
+                    51.307066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "106203",
+                "bus": "yes",
+                "name": "Beerse Nieuwe Dreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.823764,
+                    51.305732
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "502470",
+                "bus": "yes",
+                "name": "Tielt De Flesse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEMSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.368849,
+                    51.004962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77;450",
+                "ref:De_Lijn": "507691",
+                "bus": "yes",
+                "name": "Tielt Korenzak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEMSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.362052,
+                    51.004985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "502691",
+                "bus": "yes",
+                "name": "Tielt Korenzak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEMSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.362021,
+                    51.005092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "507470",
+                "bus": "yes",
+                "name": "Tielt De Flesse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEMSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.368636,
+                    51.004897
+                ]
+            }
+        }
+    ]
+}

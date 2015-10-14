@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305997",
+                "bus": "yes",
+                "name": "Nieuwrode Terheide Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERHEIDSE HOEK NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.842694,
+                    50.941617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305996",
+                "bus": "yes",
+                "name": "Nieuwrode Terheide Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERHEIDSE HOEK NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.842651,
+                    50.941627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "590",
+                "ref:De_Lijn": "300729",
+                "bus": "yes",
+                "name": "Nieuwrode Terheide Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N223 NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.841157,
+                    50.941624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "590",
+                "ref:De_Lijn": "300835",
+                "bus": "yes",
+                "name": "Nieuwrode Terheide Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N223 NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.841371,
+                    50.941695
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "103488",
+                "bus": "yes",
+                "name": "Gierle Schoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERSEBAAN GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.86294,
+                    51.277388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "102673",
+                "bus": "yes",
+                "name": "Gierle Het Laar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N132 GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.857829,
+                    51.283297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "102672",
+                "bus": "yes",
+                "name": "Gierle Het Laar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N132 GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.857671,
+                    51.283252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "103493",
+                "bus": "yes",
+                "name": "Gierle Schoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERSEBAAN GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.863651,
+                    51.276837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;493",
+                "ref:De_Lijn": "103497",
+                "bus": "yes",
+                "name": "Gierle P+R Oprit E34",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSELAARSEWEG GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.85785,
+                    51.2894
+                ]
+            }
+        }
+    ]
+}

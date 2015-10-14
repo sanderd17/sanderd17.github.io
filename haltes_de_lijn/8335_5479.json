@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "502363",
+                "bus": "yes",
+                "name": "Ruddervoorde Sasputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.163036,
+                    51.072052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "507363",
+                "bus": "yes",
+                "name": "Ruddervoorde Sasputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162931,
+                    51.072266
+                ]
+            }
+        }
+    ]
+}

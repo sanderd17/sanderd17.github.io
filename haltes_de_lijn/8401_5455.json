@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;640;641;648;649;659;679",
+                "ref:De_Lijn": "105801",
+                "bus": "yes",
+                "name": "Wuustwezel Stelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOENHOUTSE STEENWEG BRAKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.612408,
+                    51.408352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;640;641;648;649;659;679",
+                "ref:De_Lijn": "105799",
+                "bus": "yes",
+                "name": "Wuustwezel Stelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOENHOUTSE STEENWEG BRAKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.612639,
+                    51.408522
+                ]
+            }
+        }
+    ]
+}

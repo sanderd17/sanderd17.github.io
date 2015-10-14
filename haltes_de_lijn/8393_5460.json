@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "659;670",
+                "ref:De_Lijn": "105842",
+                "bus": "yes",
+                "name": "Kapellen J. Mulslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429206,
+                    51.33282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "659;670",
+                "ref:De_Lijn": "105843",
+                "bus": "yes",
+                "name": "Kapellen J. Mulslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429637,
+                    51.332829
+                ]
+            }
+        }
+    ]
+}

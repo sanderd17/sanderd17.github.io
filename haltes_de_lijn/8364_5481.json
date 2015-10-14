@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "203459",
+                "bus": "yes",
+                "name": "Destelbergen Scheldekant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REINAERTWEG DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.79602,
+                    51.048265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;140",
+                "ref:De_Lijn": "202459",
+                "bus": "yes",
+                "name": "Destelbergen Scheldekant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REINAERTWEG DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.796218,
+                    51.048437
+                ]
+            }
+        }
+    ]
+}

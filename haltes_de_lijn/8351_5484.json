@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201663",
+                "bus": "yes",
+                "name": "Zeveren Wierookstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOENDERVELDSTRAAT ZEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.511279,
+                    51.004008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201688",
+                "bus": "yes",
+                "name": "Meigem Kruiswege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISWEGE MEIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.51341,
+                    51.01375
+                ]
+            }
+        }
+    ]
+}

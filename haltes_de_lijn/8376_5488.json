@@ -1,0 +1,966 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207051",
+                "bus": "yes",
+                "name": "Aalst Spoelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BINNENSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.051967,
+                    50.947661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "206166",
+                "bus": "yes",
+                "name": "Aalst Landbouwersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEN DENDERMONDSE STEENWEG AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.046649,
+                    50.951135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "207024",
+                "bus": "yes",
+                "name": "Aalst Heilig Hartplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.04347,
+                    50.949957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "206298",
+                "bus": "yes",
+                "name": "Aalst Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSVELD AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.058688,
+                    50.953423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "206952",
+                "bus": "yes",
+                "name": "Aalst Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDREEF AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.059699,
+                    50.948994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "207880",
+                "bus": "yes",
+                "name": "Aalst Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDREEF AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.063789,
+                    50.950281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "207162",
+                "bus": "yes",
+                "name": "Aalst Popperodehof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEN DENDERMONDSE STEENWEG AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.050116,
+                    50.95198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "207298",
+                "bus": "yes",
+                "name": "Aalst Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSVELD AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.058494,
+                    50.952569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "207022",
+                "bus": "yes",
+                "name": "Aalst Popperodedries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.044396,
+                    50.953978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207951",
+                "bus": "yes",
+                "name": "Aalst Botermelkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERMELKSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.060329,
+                    50.952699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "206162",
+                "bus": "yes",
+                "name": "Aalst Popperodehof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEN DENDERMONDSE STEENWEG AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.05013,
+                    50.95207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3",
+                "ref:De_Lijn": "207046",
+                "bus": "yes",
+                "name": "Aalst Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDREEF AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.060055,
+                    50.948977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "205996",
+                "bus": "yes",
+                "name": "Aalst Dompelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEN DENDERMONDSE STEENWEG AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.053396,
+                    50.953041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "207269",
+                "bus": "yes",
+                "name": "Aalst Doornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAARDENDRIES AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064278,
+                    50.947352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207947",
+                "bus": "yes",
+                "name": "Aalst Bosveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERMELKSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.058584,
+                    50.951931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207953",
+                "bus": "yes",
+                "name": "Aalst Binnenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINNENSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.05606,
+                    50.950495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;340",
+                "ref:De_Lijn": "206046",
+                "bus": "yes",
+                "name": "Aalst Horebekeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERMELKSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064373,
+                    50.95458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;340",
+                "ref:De_Lijn": "206022",
+                "bus": "yes",
+                "name": "Aalst Popperodedries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.043954,
+                    50.953959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "207143",
+                "bus": "yes",
+                "name": "Aalst Paaskeshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEN DENDERMONDSE STEENWEG AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.055254,
+                    50.954007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206999",
+                "bus": "yes",
+                "name": "Aalst Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDREEF AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.063349,
+                    50.950199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206053",
+                "bus": "yes",
+                "name": "Aalst Sint-Gudulastraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BINNENSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.04962,
+                    50.945345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "207107",
+                "bus": "yes",
+                "name": "Aalst Ouden Dendermondsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSVELD AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.058653,
+                    50.95656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "206143",
+                "bus": "yes",
+                "name": "Aalst Paaskeshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEN DENDERMONDSE STEENWEG AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.055395,
+                    50.954224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "207021",
+                "bus": "yes",
+                "name": "Aalst Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.049527,
+                    50.957021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "207166",
+                "bus": "yes",
+                "name": "Aalst Landbouwersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDBOUWERSSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.04628,
+                    50.950999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206050",
+                "bus": "yes",
+                "name": "Aalst Groenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.055894,
+                    50.947645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "206015",
+                "bus": "yes",
+                "name": "Aalst Tulpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.044768,
+                    50.947498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;340",
+                "ref:De_Lijn": "206049",
+                "bus": "yes",
+                "name": "Aalst Binnenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINNENSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.054204,
+                    50.949303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3",
+                "ref:De_Lijn": "207999",
+                "bus": "yes",
+                "name": "Aalst Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDREEF AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.063406,
+                    50.950118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207952",
+                "bus": "yes",
+                "name": "Aalst Horebekeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERMELKSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064232,
+                    50.954435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;340",
+                "ref:De_Lijn": "206021",
+                "bus": "yes",
+                "name": "Aalst Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.048702,
+                    50.956866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207045",
+                "bus": "yes",
+                "name": "Aalst Fonteinstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROZENDREEF AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.063009,
+                    50.949938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "206951",
+                "bus": "yes",
+                "name": "Aalst Petrus Van Nuffelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PETRUS VAN NUFFELSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.056695,
+                    50.949202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;340",
+                "ref:De_Lijn": "206048",
+                "bus": "yes",
+                "name": "Aalst Bosveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERMELKSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.059165,
+                    50.952319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "206297",
+                "bus": "yes",
+                "name": "Aalst Dokter De Moorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER DE MOORSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.045353,
+                    50.945144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "206024",
+                "bus": "yes",
+                "name": "Aalst Heilig Hartplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.043299,
+                    50.950002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;340",
+                "ref:De_Lijn": "206047",
+                "bus": "yes",
+                "name": "Aalst Botermelkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERMELKSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.060613,
+                    50.952916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "206072",
+                "bus": "yes",
+                "name": "Aalst Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDREEF AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.063703,
+                    50.950353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;340",
+                "ref:De_Lijn": "207050",
+                "bus": "yes",
+                "name": "Aalst Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDREEF AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.056447,
+                    50.94797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206051",
+                "bus": "yes",
+                "name": "Aalst Drieveldenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.056148,
+                    50.94583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;340",
+                "ref:De_Lijn": "206269",
+                "bus": "yes",
+                "name": "Aalst Doornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAARDENDRIES AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064136,
+                    50.947343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "207015",
+                "bus": "yes",
+                "name": "Aalst Tulpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.044206,
+                    50.948467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "204996",
+                "bus": "yes",
+                "name": "Aalst Dompelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEN DENDERMONDSE STEENWEG AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.05341,
+                    50.953175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "207297",
+                "bus": "yes",
+                "name": "Aalst Dokter De Moorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAN DE WINDTSTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.045539,
+                    50.945019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207053",
+                "bus": "yes",
+                "name": "Aalst Sint-Gudulastraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "POLYDOOR DE PAEPESTRAAT AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.048283,
+                    50.945341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;340",
+                "ref:De_Lijn": "206107",
+                "bus": "yes",
+                "name": "Aalst Ouden Dendermondsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSVELD AALST (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.058838,
+                    50.956525
+                ]
+            }
+        }
+    ]
+}

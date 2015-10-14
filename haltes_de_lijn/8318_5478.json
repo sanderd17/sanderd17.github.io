@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;49",
+                "ref:De_Lijn": "504371",
+                "bus": "yes",
+                "name": "Pervijze Weg Op Schoorbakke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSTRAAT PERVIJZE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.782432,
+                    51.089357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;49",
+                "ref:De_Lijn": "509371",
+                "bus": "yes",
+                "name": "Pervijze Weg Op Schoorbakke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSTRAAT PERVIJZE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.782462,
+                    51.088899
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505688",
+                "bus": "yes",
+                "name": "Beernem Kasteelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEGEWEG BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.313619,
+                    51.144918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505689",
+                "bus": "yes",
+                "name": "Beernem De Gevaerts",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOIESTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.297196,
+                    51.141902
+                ]
+            }
+        }
+    ]
+}

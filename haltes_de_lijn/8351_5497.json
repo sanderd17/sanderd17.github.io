@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;85;89;92;450",
+                "ref:De_Lijn": "503021",
+                "bus": "yes",
+                "name": "Anzegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIEPLEIN ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.49509,
+                    50.82605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505280",
+                "bus": "yes",
+                "name": "Gijzelbrechtegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAARHOEKSTRAAT GIJZELBRECHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.506711,
+                    50.828572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505279",
+                "bus": "yes",
+                "name": "Anzegem Bfi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIKKELSTRAAT GIJZELBRECHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.500938,
+                    50.828341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200762",
+                "bus": "yes",
+                "name": "Wortegem Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.50675,
+                    50.824869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505285",
+                "bus": "yes",
+                "name": "Kaster Kasterstraat nummer 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTERSTRAAT KASTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.493815,
+                    50.821312
+                ]
+            }
+        }
+    ]
+}

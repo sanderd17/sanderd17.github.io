@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200669",
+                "bus": "yes",
+                "name": "Zulte Gaverbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN ZULTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.421336,
+                    50.908592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505843",
+                "bus": "yes",
+                "name": "Sint-Eloois-Vijve Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL CLAUSSTRAAT SINT-ELOOIS-VIJVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.418163,
+                    50.910103
+                ]
+            }
+        }
+    ]
+}

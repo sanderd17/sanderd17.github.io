@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100241",
+                "bus": "yes",
+                "name": "Berendrecht Bomenbank NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEBAAN BERENDRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.321461,
+                    51.341168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
+                "ref:De_Lijn": "105319",
+                "bus": "yes",
+                "name": "Berendrecht Solftplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT BERENDRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.313953,
+                    51.343322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "103993",
+                "bus": "yes",
+                "name": "Kaai 750",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE WESTWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325746,
+                    51.331921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100259",
+                "bus": "yes",
+                "name": "Berendrecht Solftplaats vervanghalte NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT BERENDRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.314255,
+                    51.343331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100242",
+                "bus": "yes",
+                "name": "Berendrecht Bomenbank NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEBAAN BERENDRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.321403,
+                    51.341365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
+                "ref:De_Lijn": "105321",
+                "bus": "yes",
+                "name": "Berendrecht Solftplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SOLFTPLAATS BERENDRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.314585,
+                    51.343385
+                ]
+            }
+        }
+    ]
+}

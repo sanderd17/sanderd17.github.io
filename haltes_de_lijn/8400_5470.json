@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "426",
+                "ref:De_Lijn": "106549",
+                "bus": "yes",
+                "name": "Ranst Oude Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT RANST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.57438,
+                    51.204098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "426",
+                "ref:De_Lijn": "106550",
+                "bus": "yes",
+                "name": "Ranst Fabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT OELEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.579948,
+                    51.20469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "426",
+                "ref:De_Lijn": "106551",
+                "bus": "yes",
+                "name": "Ranst Fabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT OELEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.580092,
+                    51.204825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "426",
+                "ref:De_Lijn": "106548",
+                "bus": "yes",
+                "name": "Ranst Oude Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT RANST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.574122,
+                    51.203963
+                ]
+            }
+        }
+    ]
+}

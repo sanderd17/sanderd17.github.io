@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "508440",
+                "bus": "yes",
+                "name": "Poperinge Couthoflaan nummer 96",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVENSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.69359,
+                    50.863315
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "509415",
+                "bus": "yes",
+                "name": "Poperinge Loviestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVENSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.685225,
+                    50.869166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "509440",
+                "bus": "yes",
+                "name": "Poperinge Couthoflaan nummer 96",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVENSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.693364,
+                    50.863285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504415",
+                "bus": "yes",
+                "name": "Poperinge Loviestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVENSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.685028,
+                    50.869118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504399",
+                "bus": "yes",
+                "name": "Poperinge T Vogeltje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOVIESTRAAT POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.696077,
+                    50.873286
+                ]
+            }
+        }
+    ]
+}

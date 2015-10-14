@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;240",
+                "ref:De_Lijn": "204431",
+                "bus": "yes",
+                "name": "Stekene Kemelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELLESTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.041619,
+                    51.238334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205767",
+                "bus": "yes",
+                "name": "Stekene Lekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEKESTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.021048,
+                    51.245385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204443",
+                "bus": "yes",
+                "name": "Stekene Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMELSTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.031519,
+                    51.237173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;240",
+                "ref:De_Lijn": "205431",
+                "bus": "yes",
+                "name": "Stekene Kemelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELLESTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.041747,
+                    51.238415
+                ]
+            }
+        }
+    ]
+}

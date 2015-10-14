@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "514;515;944",
+                "ref:De_Lijn": "108272",
+                "bus": "yes",
+                "name": "Booischot Mac Adam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IJZERENWEG BOOISCHOT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.787502,
+                    51.060998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "104602",
+                "bus": "yes",
+                "name": "Booischot Lavendelheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TER LAKEN BOOISCHOT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.769199,
+                    51.057457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "514;515;944;946",
+                "ref:De_Lijn": "108269",
+                "bus": "yes",
+                "name": "Hulshout Hulshoutveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOISCHOTSEWEG HULSHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78613,
+                    51.068688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "514;515;944",
+                "ref:De_Lijn": "108273",
+                "bus": "yes",
+                "name": "Booischot Mac Adam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IJZERENWEG BOOISCHOT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.787658,
+                    51.060835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "514;515;944;946",
+                "ref:De_Lijn": "108271",
+                "bus": "yes",
+                "name": "Hulshout Hulshoutveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOISCHOTSEWEG HULSHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.7862,
+                    51.068481
+                ]
+            }
+        }
+    ]
+}

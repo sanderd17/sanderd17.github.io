@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "201857",
+                "bus": "yes",
+                "name": "Kluizen Schildekensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHILDEKENSTRAAT KLUIZEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729405,
+                    51.156062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55;150",
+                "ref:De_Lijn": "202665",
+                "bus": "yes",
+                "name": "Kluizen Toekomststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N458 KLUIZEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735088,
+                    51.154358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "210080",
+                "bus": "yes",
+                "name": "Kluizen Pastoorshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLUIZENDORPSTRAAT KLUIZEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731993,
+                    51.15497
+                ]
+            }
+        }
+    ]
+}

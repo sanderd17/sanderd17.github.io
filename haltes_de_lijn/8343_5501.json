@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505268",
+                "bus": "yes",
+                "name": "Sint-Denijs De Muishond",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDBEEKSTRAAT SINT-DENIJS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.324492,
+                    50.770874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505266",
+                "bus": "yes",
+                "name": "Sint-Denijs Ter Klare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TER KLARE SINT-DENIJS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.338431,
+                    50.777291
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204759",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Loeverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.08978,
+                    51.215527
+                ]
+            }
+        }
+    ]
+}

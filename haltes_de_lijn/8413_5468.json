@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "214;219",
+                "ref:De_Lijn": "109229",
+                "bus": "yes",
+                "name": "Lichtaart Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POEDERLEESTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.875999,
+                    51.223833
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "214;219",
+                "ref:De_Lijn": "109228",
+                "bus": "yes",
+                "name": "Poederlee Heerle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSESTEENWEG POEDERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.866667,
+                    51.221239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "214;219",
+                "ref:De_Lijn": "109227",
+                "bus": "yes",
+                "name": "Poederlee Heerle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSESTEENWEG POEDERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.866205,
+                    51.220837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "214;219",
+                "ref:De_Lijn": "109230",
+                "bus": "yes",
+                "name": "Lichtaart Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POEDERLEESTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.876645,
+                    51.224037
+                ]
+            }
+        }
+    ]
+}

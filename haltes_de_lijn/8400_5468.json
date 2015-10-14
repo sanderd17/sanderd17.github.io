@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "424;610;619",
+                "ref:De_Lijn": "105709",
+                "bus": "yes",
+                "name": "Schilde Puttenhoflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OELEGEMSTEENWEG SCHILDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.588981,
+                    51.232672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "424;610;619",
+                "ref:De_Lijn": "105712",
+                "bus": "yes",
+                "name": "Schilde Puttenhoflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OELEGEMSTEENWEG SCHILDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.588723,
+                    51.232682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "424;610;619",
+                "ref:De_Lijn": "105707",
+                "bus": "yes",
+                "name": "Schilde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKPLEIN SCHILDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.583423,
+                    51.232107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "424;610;619",
+                "ref:De_Lijn": "105708",
+                "bus": "yes",
+                "name": "Schilde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKPLEIN SCHILDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.583208,
+                    51.232099
+                ]
+            }
+        }
+    ]
+}

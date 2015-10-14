@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;411;413;414;419;607;618;619",
+                "ref:De_Lijn": "106115",
+                "bus": "yes",
+                "name": "Westmalle Nooit Rust",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.656728,
+                    51.278726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;410;411;413;414;419;607;618;619",
+                "ref:De_Lijn": "106116",
+                "bus": "yes",
+                "name": "Westmalle Nooit Rust",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.656899,
+                    51.278618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;410;411;413;414;419;607;618;619",
+                "ref:De_Lijn": "106114",
+                "bus": "yes",
+                "name": "Westmalle Eikendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.654654,
+                    51.277159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;411;413;414;419;607;618;619",
+                "ref:De_Lijn": "106113",
+                "bus": "yes",
+                "name": "Westmalle Eikendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.654008,
+                    51.276944
+                ]
+            }
+        }
+    ]
+}

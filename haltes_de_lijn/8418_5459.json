@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;455;456;457;459",
+                "ref:De_Lijn": "106621",
+                "bus": "yes",
+                "name": "Ravels Kanaaldijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN RAVELS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.987696,
+                    51.357417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;459",
+                "ref:De_Lijn": "106618",
+                "bus": "yes",
+                "name": "Oud-Turnhout Heidehuisjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP RAVELS OOSTHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.981211,
+                    51.34902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;457;459",
+                "ref:De_Lijn": "106617",
+                "bus": "yes",
+                "name": "Oud-Turnhout Heidehuisjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP RAVELS OOSTHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.980997,
+                    51.349075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;455;456;459",
+                "ref:De_Lijn": "106620",
+                "bus": "yes",
+                "name": "Oud-Turnhout Leeuwerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP RAVELS OOSTHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.986123,
+                    51.353515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;455;456;457;459",
+                "ref:De_Lijn": "106619",
+                "bus": "yes",
+                "name": "Oud-Turnhout Leeuwerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP RAVELS OOSTHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.985746,
+                    51.353257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;457;459",
+                "ref:De_Lijn": "106615",
+                "bus": "yes",
+                "name": "Oud-Turnhout Werkendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP RAVELS OOSTHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.978053,
+                    51.346735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;459",
+                "ref:De_Lijn": "106616",
+                "bus": "yes",
+                "name": "Oud-Turnhout Werkendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP RAVELS OOSTHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.978847,
+                    51.347127
+                ]
+            }
+        }
+    ]
+}

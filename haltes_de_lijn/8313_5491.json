@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504485",
+                "bus": "yes",
+                "name": "Stavele Halfwegkapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAAIENBURGSEWEG KROMBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.672076,
+                    50.915374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504246",
+                "bus": "yes",
+                "name": "Krombeke Hapjeshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDSTRAAT KROMBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.67641,
+                    50.906786
+                ]
+            }
+        }
+    ]
+}

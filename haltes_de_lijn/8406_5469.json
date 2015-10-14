@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106450",
+                "bus": "yes",
+                "name": "Pulle Dorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUDEWIJNLAAN PULLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709432,
+                    51.207614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;427;428",
+                "ref:De_Lijn": "106451",
+                "bus": "yes",
+                "name": "Pulle Dorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUDEWIJNLAAN PULLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709133,
+                    51.207741
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79;99",
+                "ref:De_Lijn": "502528",
+                "bus": "yes",
+                "name": "Veldegem Weg Op Veldegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTSTRAAT VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.143886,
+                    51.112408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79",
+                "ref:De_Lijn": "507551",
+                "bus": "yes",
+                "name": "Zedelgem De Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.150284,
+                    51.121186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79;99",
+                "ref:De_Lijn": "502551",
+                "bus": "yes",
+                "name": "Zedelgem De Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.150805,
+                    51.121479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79",
+                "ref:De_Lijn": "507528",
+                "bus": "yes",
+                "name": "Veldegem Weg Op Veldegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTSTRAAT VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.143803,
+                    51.112317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505019",
+                "bus": "yes",
+                "name": "Veldegem Hut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT VELDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.158778,
+                    51.118073
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "205048",
+                "bus": "yes",
+                "name": "Nieuwkerken Vrasenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRASENESTRAAT NIEUWKERKEN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.18693,
+                    51.2004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "205049",
+                "bus": "yes",
+                "name": "Nieuwkerken Kolkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRASENESTRAAT NIEUWKERKEN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.183265,
+                    51.197347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204050",
+                "bus": "yes",
+                "name": "Nieuwkerken Gijselstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TEN BOS NIEUWKERKEN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.178014,
+                    51.193905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "204049",
+                "bus": "yes",
+                "name": "Nieuwkerken Kolkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRASENESTRAAT NIEUWKERKEN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.183278,
+                    51.197572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205050",
+                "bus": "yes",
+                "name": "Nieuwkerken Gijselstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TEN BOS NIEUWKERKEN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.178001,
+                    51.193707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "204048",
+                "bus": "yes",
+                "name": "Nieuwkerken Vrasenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRASENESTRAAT NIEUWKERKEN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.186701,
+                    51.200408
+                ]
+            }
+        }
+    ]
+}

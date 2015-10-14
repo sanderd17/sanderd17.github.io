@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "509328",
+                "bus": "yes",
+                "name": "Nieuwkerke De Broeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SEULESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.80983,
+                    50.727759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504694",
+                "bus": "yes",
+                "name": "Nieuwkerke Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTHOVESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.793596,
+                    50.728575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504328",
+                "bus": "yes",
+                "name": "Nieuwkerke De Broeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SEULESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.809483,
+                    50.72752
+                ]
+            }
+        }
+    ]
+}

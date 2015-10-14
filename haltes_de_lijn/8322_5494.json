@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;40",
+                "ref:De_Lijn": "504150",
+                "bus": "yes",
+                "name": "Ieper Barmstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.876906,
+                    50.863918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;40",
+                "ref:De_Lijn": "504048",
+                "bus": "yes",
+                "name": "Boezinge Sint-Pieter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8717,
+                    50.872133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;40",
+                "ref:De_Lijn": "509150",
+                "bus": "yes",
+                "name": "Ieper Barmstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.876837,
+                    50.864304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;40",
+                "ref:De_Lijn": "509048",
+                "bus": "yes",
+                "name": "Boezinge Sint-Pieter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.872283,
+                    50.871664
+                ]
+            }
+        }
+    ]
+}

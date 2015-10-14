@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505681",
+                "bus": "yes",
+                "name": "Oedelem De Pluim",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTERSTRAAT SINT-JORIS (BEERNEM)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.37562,
+                    51.140008
+                ]
+            }
+        }
+    ]
+}

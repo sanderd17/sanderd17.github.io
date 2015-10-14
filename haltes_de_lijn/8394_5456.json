@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;672;674;934",
+                "ref:De_Lijn": "104291",
+                "bus": "yes",
+                "name": "Kalmthout Korte Heuvelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVEL KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.457363,
+                    51.388518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;672;674;934",
+                "ref:De_Lijn": "102237",
+                "bus": "yes",
+                "name": "Kalmthout Korte Heuvelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVEL KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.457463,
+                    51.388401
+                ]
+            }
+        }
+    ]
+}

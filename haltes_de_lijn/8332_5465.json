@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;36",
+                "ref:De_Lijn": "501227",
+                "bus": "yes",
+                "name": "Nieuwmunster Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG NIEUWMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.091427,
+                    51.27295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505044",
+                "bus": "yes",
+                "name": "Nieuwmunster Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOELHOFSTRAAT NIEUWMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.096321,
+                    51.27373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;36",
+                "ref:De_Lijn": "501230",
+                "bus": "yes",
+                "name": "Nieuwmunster Smisje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG NIEUWMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.095281,
+                    51.268254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;36",
+                "ref:De_Lijn": "506230",
+                "bus": "yes",
+                "name": "Nieuwmunster Smisje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG NIEUWMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.095555,
+                    51.267672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;36",
+                "ref:De_Lijn": "506227",
+                "bus": "yes",
+                "name": "Nieuwmunster Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG NIEUWMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.091243,
+                    51.272858
+                ]
+            }
+        }
+    ]
+}

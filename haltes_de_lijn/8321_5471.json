@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;84",
+                "ref:De_Lijn": "506496",
+                "bus": "yes",
+                "name": "Middelkerke Kalkaert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALKAERTWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.855238,
+                    51.192671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;84",
+                "ref:De_Lijn": "501005",
+                "bus": "yes",
+                "name": "Wilskerke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLERISKOTSTRAAT WILSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.840163,
+                    51.181149
+                ]
+            }
+        }
+    ]
+}

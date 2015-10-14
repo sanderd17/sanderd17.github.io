@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;450;485",
+                "ref:De_Lijn": "208248",
+                "bus": "yes",
+                "name": "Oudenaarde Tuintjesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINZESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580801,
+                    50.859497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "209248",
+                "bus": "yes",
+                "name": "Oudenaarde Tuintjesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINZESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.579803,
+                    50.859706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200751",
+                "bus": "yes",
+                "name": "Moregem Moregemplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOREGEMPLEIN MOREGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.559852,
+                    50.849448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200768",
+                "bus": "yes",
+                "name": "Moregem Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSEWEG MOREGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.569426,
+                    50.855159
+                ]
+            }
+        }
+    ]
+}

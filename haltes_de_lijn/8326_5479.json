@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "505142",
+                "bus": "yes",
+                "name": "Koekelare Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.963659,
+                    51.074816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "502229",
+                "bus": "yes",
+                "name": "Koekelare Grote Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVEKERKESTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.963453,
+                    51.069338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59;64",
+                "ref:De_Lijn": "507229",
+                "bus": "yes",
+                "name": "Koekelare Grote Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVEKERKESTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.963304,
+                    51.069067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;59",
+                "ref:De_Lijn": "507240",
+                "bus": "yes",
+                "name": "Koekelare Westveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.957768,
+                    51.072345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "505088",
+                "bus": "yes",
+                "name": "Koekelare Pottebezem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTTEBEZEMSTRAAT MOKKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.949245,
+                    51.080478
+                ]
+            }
+        }
+    ]
+}

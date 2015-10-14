@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "501187",
+                "bus": "yes",
+                "name": "Lapscheure Noorwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAPSCHEURESTRAAT LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.350762,
+                    51.282069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "505729",
+                "bus": "yes",
+                "name": "Lapscheure Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.35951,
+                    51.279196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;49",
+                "ref:De_Lijn": "506186",
+                "bus": "yes",
+                "name": "Lapscheure Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAPSCHEURESTRAAT LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.356428,
+                    51.277911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "501189",
+                "bus": "yes",
+                "name": "Lapscheure Rustenburg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAPSCHEURESTRAAT LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345583,
+                    51.285566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "506189",
+                "bus": "yes",
+                "name": "Lapscheure Rustenburg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAPSCHEURESTRAAT LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345571,
+                    51.285432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "506187",
+                "bus": "yes",
+                "name": "Lapscheure Noorwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAPSCHEURESTRAAT LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.351042,
+                    51.281739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;49",
+                "ref:De_Lijn": "501186",
+                "bus": "yes",
+                "name": "Lapscheure Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAPSCHEURESTRAAT LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.356439,
+                    51.278082
+                ]
+            }
+        }
+    ]
+}

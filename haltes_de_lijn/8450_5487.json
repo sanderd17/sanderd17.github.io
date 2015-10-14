@@ -1,0 +1,614 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403233",
+                "bus": "yes",
+                "name": "Proosterbos Vinkenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VINKENSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.685447,
+                    50.96246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406811",
+                "bus": "yes",
+                "name": "Proosterbos Zaal Allen Thuis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTORIESTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.681933,
+                    50.964594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "406424",
+                "bus": "yes",
+                "name": "Maasmechelen Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.688129,
+                    50.971268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406419",
+                "bus": "yes",
+                "name": "Proosterbos Eindstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.676604,
+                    50.963916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;64;65;725",
+                "ref:De_Lijn": "406442",
+                "bus": "yes",
+                "name": "Maasmechelen Apotheek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSEPH SMEETSLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.690067,
+                    50.966778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401861",
+                "bus": "yes",
+                "name": "Maasmechelen Bessenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BESSENSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.685495,
+                    50.970236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "401899",
+                "bus": "yes",
+                "name": "Proosterbos Creemersweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.678156,
+                    50.965454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "409349",
+                "bus": "yes",
+                "name": "Proosterbos Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DROSSAARDSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.680634,
+                    50.964474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;65;725",
+                "ref:De_Lijn": "406268",
+                "bus": "yes",
+                "name": "Maasmechelen Tuinwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSEPH SMEETSLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.682016,
+                    50.970581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404841",
+                "bus": "yes",
+                "name": "Maasmechelen Ringlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.670747,
+                    50.964737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406422",
+                "bus": "yes",
+                "name": "Maasmechelen Boogstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.686512,
+                    50.971466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406418",
+                "bus": "yes",
+                "name": "Proosterbos Sneppenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SNEPPENLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67455,
+                    50.959687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406414",
+                "bus": "yes",
+                "name": "Proosterbos Boudewijnlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOUDEWIJNLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.683416,
+                    50.96518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;64;65;725",
+                "ref:De_Lijn": "406443",
+                "bus": "yes",
+                "name": "Maasmechelen Apotheek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSEPH SMEETSLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68988,
+                    50.966708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402760",
+                "bus": "yes",
+                "name": "Proosterbos Hulststraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "FAZANTSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.676826,
+                    50.960147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "401782",
+                "bus": "yes",
+                "name": "Proosterbos 't Kreeftje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.682192,
+                    50.969752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406409",
+                "bus": "yes",
+                "name": "Maasmechelen Boogstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.686614,
+                    50.971563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "406420",
+                "bus": "yes",
+                "name": "Proosterbos Creemersweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.677971,
+                    50.965465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406415",
+                "bus": "yes",
+                "name": "Proosterbos Kerk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DROSSAARDSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.680547,
+                    50.964394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;65;725",
+                "ref:De_Lijn": "406269",
+                "bus": "yes",
+                "name": "Maasmechelen Tuinwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSEPH SMEETSLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68166,
+                    50.970594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401862",
+                "bus": "yes",
+                "name": "Maasmechelen Schuttershoefstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHUTTERSHOEFSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.689228,
+                    50.968819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "406421",
+                "bus": "yes",
+                "name": "Proosterbos 't Kreeftje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68208,
+                    50.969843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404842",
+                "bus": "yes",
+                "name": "Maasmechelen Ringlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.670871,
+                    50.964582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403208",
+                "bus": "yes",
+                "name": "Proosterbos Vinkenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VINKENSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.685773,
+                    50.962402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402761",
+                "bus": "yes",
+                "name": "Proosterbos Hulststraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HULSTSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.676683,
+                    50.960112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "406416",
+                "bus": "yes",
+                "name": "Proosterbos Proosterbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROOSTERBOSSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.682611,
+                    50.962366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "407875",
+                "bus": "yes",
+                "name": "Proosterbos Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ANDREASSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.680299,
+                    50.964702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "409404",
+                "bus": "yes",
+                "name": "Maasmechelen Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.688032,
+                    50.971332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "406518",
+                "bus": "yes",
+                "name": "Proosterbos Proosterbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROOSTERBOSSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.682429,
+                    50.961963
+                ]
+            }
+        }
+    ]
+}

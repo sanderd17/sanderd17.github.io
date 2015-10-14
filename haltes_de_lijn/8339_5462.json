@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "506636",
+                "bus": "yes",
+                "name": "Ramskapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMSKAPELLESTRAAT RAMSKAPELLE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.250256,
+                    51.314881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "506671",
+                "bus": "yes",
+                "name": "Ramskapelle Oud Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMSKAPELLESTRAAT RAMSKAPELLE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.251912,
+                    51.313396
+                ]
+            }
+        }
+    ]
+}

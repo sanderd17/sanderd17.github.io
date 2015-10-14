@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411;414;420;424;428",
+                "ref:De_Lijn": "106158",
+                "bus": "yes",
+                "name": "Zandhoven VTI",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.687042,
+                    51.233222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411;414",
+                "ref:De_Lijn": "106157",
+                "bus": "yes",
+                "name": "Zandhoven VTI",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.686238,
+                    51.232981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;427;428",
+                "ref:De_Lijn": "106445",
+                "bus": "yes",
+                "name": "Pulderbos Roosten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOORMANSSTRAAT PULDERBOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.684512,
+                    51.223359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106444",
+                "bus": "yes",
+                "name": "Pulderbos Roosten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOORMANSSTRAAT PULDERBOS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.684627,
+                    51.22344
+                ]
+            }
+        }
+    ]
+}

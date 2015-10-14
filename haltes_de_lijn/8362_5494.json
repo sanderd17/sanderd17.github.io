@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208809",
+                "bus": "yes",
+                "name": "Roborst Borstekouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORSTEKOUTERSTRAAT ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.75409,
+                    50.869073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "209196",
+                "bus": "yes",
+                "name": "Roborst Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORSTEKOUTERSTRAAT ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.75247,
+                    50.865846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;420",
+                "ref:De_Lijn": "204993",
+                "bus": "yes",
+                "name": "Roborst Kloosterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUTTEGEMSTRAAT ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751864,
+                    50.864404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;420",
+                "ref:De_Lijn": "208196",
+                "bus": "yes",
+                "name": "Roborst Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORSTEKOUTERSTRAAT ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.752571,
+                    50.865756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "206678",
+                "bus": "yes",
+                "name": "Roborst Bruggenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGENHOEK ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.747268,
+                    50.874709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208810",
+                "bus": "yes",
+                "name": "Roborst Herpelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERPELSTRAAT ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.746493,
+                    50.870956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "205993",
+                "bus": "yes",
+                "name": "Roborst Kloosterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUTTEGEMSTRAAT ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751695,
+                    50.864313
+                ]
+            }
+        }
+    ]
+}

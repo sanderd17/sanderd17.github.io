@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "502815",
+                "bus": "yes",
+                "name": "Oostkamp Beverhout",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERHOUTSTRAAT OOSTKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.282074,
+                    51.172122
+                ]
+            }
+        }
+    ]
+}

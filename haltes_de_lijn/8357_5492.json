@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201781",
+                "bus": "yes",
+                "name": "Mullem Bekemolen(ageschaft vanaf 01/05/15)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEKEMOLEN OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.630074,
+                    50.901117
+                ]
+            }
+        }
+    ]
+}

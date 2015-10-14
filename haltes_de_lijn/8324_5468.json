@@ -1,0 +1,1164 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;51;52;53;69;85",
+                "ref:De_Lijn": "506298",
+                "bus": "yes",
+                "name": "Oostende Mac Leodplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908234,
+                    51.220973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "501513",
+                "bus": "yes",
+                "name": "Oostende Kursaal",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VAN ISEGHEMLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.912889,
+                    51.231468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506318",
+                "zone:De_Lijn": "08",
+                "name": "Oostende Marie-Joséplein Perron 1",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MARIE-JOSÉPLEIN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914518,
+                    51.230652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "506297",
+                "bus": "yes",
+                "name": "Oostende Frans Musinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90575,
+                    51.223046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "506305",
+                "bus": "yes",
+                "name": "Oostende Henri Serruysziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAÏROSTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.912175,
+                    51.222694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;9;89",
+                "ref:De_Lijn": "509898",
+                "bus": "yes",
+                "name": "Oostende Marie-Joséplein afstaphalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIE-JOSÉPLEIN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914082,
+                    51.230395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;5;9;46;85;86;89",
+                "ref:De_Lijn": "506301",
+                "bus": "yes",
+                "name": "Oostende Stadhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK SERRUYSLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917734,
+                    51.227608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;50;51;52;53;68;69;81;86",
+                "ref:De_Lijn": "501337",
+                "bus": "yes",
+                "name": "Oostende Sint-Jozefskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALFONS PIETERSLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.913079,
+                    51.225851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;5;6;7;9;21;22;23;46;50;51;52;53;68;69;81;84;85;86;89",
+                "ref:De_Lijn": "501307",
+                "bus": "yes",
+                "name": "Oostende Kapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINDICTIVELAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.921412,
+                    51.228147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;81",
+                "ref:De_Lijn": "501519",
+                "bus": "yes",
+                "name": "Oostende Sint- Petrus Paulusplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAAISTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.921924,
+                    51.230104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "501477",
+                "bus": "yes",
+                "name": "Oostende Sociaal Huis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDITH CAVELLSTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.915549,
+                    51.222843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "506275",
+                "bus": "yes",
+                "name": "Oostende Sportstraat vervangingshalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.901935,
+                    51.225085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;81",
+                "ref:De_Lijn": "501520",
+                "bus": "yes",
+                "name": "Oostende Ooststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAAISTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.920547,
+                    51.231103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;5;6;7;9;46;50;81;85;86;89",
+                "ref:De_Lijn": "506307",
+                "bus": "yes",
+                "name": "Oostende Kapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINDICTIVELAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.921856,
+                    51.228144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "506345",
+                "bus": "yes",
+                "name": "Oostende Stelplaats De Lijn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.903392,
+                    51.221992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;51;52;53;85",
+                "ref:De_Lijn": "501298",
+                "bus": "yes",
+                "name": "Oostende Mac Leodplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908165,
+                    51.221359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;52;53;69",
+                "ref:De_Lijn": "506480",
+                "bus": "yes",
+                "name": "Oostende Petit Paris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.909131,
+                    51.224346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;81",
+                "ref:De_Lijn": "501523",
+                "bus": "yes",
+                "name": "Oostende Casino-Kursaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONACOPLEIN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.912525,
+                    51.231185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;82;84;85;86",
+                "ref:De_Lijn": "501517",
+                "bus": "yes",
+                "name": "Oostende Marie-Joséplein Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIE-JOSÉPLEIN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914354,
+                    51.230407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "506274",
+                "bus": "yes",
+                "name": "Oostende Petit Paris vervangingshalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGINNELAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908514,
+                    51.224393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;81",
+                "ref:De_Lijn": "501525",
+                "bus": "yes",
+                "name": "Oostende Kapucijnenkerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPUCIJNENSTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.918836,
+                    51.233177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;85",
+                "ref:De_Lijn": "506311",
+                "bus": "yes",
+                "name": "Oostende Leopold I Plein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.910261,
+                    51.227579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "506477",
+                "bus": "yes",
+                "name": "Oostende Sociaal Huis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDITH CAVELLSTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.91586,
+                    51.222964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;50;51;52;53;68;69;81;86",
+                "ref:De_Lijn": "506337",
+                "bus": "yes",
+                "name": "Oostende Sint-Jozefskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALFONS PIETERSLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.912912,
+                    51.225688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23",
+                "ref:De_Lijn": "506332",
+                "bus": "yes",
+                "name": "Oostende Ravelijnstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N340 OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917828,
+                    51.22137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509684",
+                "bus": "yes",
+                "name": "Oostende Koninginnelaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.907714,
+                    51.227071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;50;81;85",
+                "ref:De_Lijn": "501330",
+                "bus": "yes",
+                "name": "Oostende Petit Paris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908833,
+                    51.223794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506309",
+                "zone:De_Lijn": "08",
+                "name": "Oostende Koninginnelaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KONINGIN ASTRIDLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.906151,
+                    51.226225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "506330",
+                "bus": "yes",
+                "name": "Oostende Petit Paris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908165,
+                    51.224092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "501305",
+                "bus": "yes",
+                "name": "Oostende Henri Serruysziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAÏROSTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.912701,
+                    51.222808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "506564",
+                "bus": "yes",
+                "name": "Oostende Koninginnelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGINNELAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914464,
+                    51.221364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "506276",
+                "bus": "yes",
+                "name": "Oostende Petit Paris vervangingshalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGINNELAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908655,
+                    51.224475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "501345",
+                "bus": "yes",
+                "name": "Oostende Stelplaats De Lijn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.902993,
+                    51.221933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;81",
+                "ref:De_Lijn": "501355",
+                "bus": "yes",
+                "name": "Oostende Vlaanderenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPAGALERIJ OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.915464,
+                    51.233379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;9;46;83;89",
+                "ref:De_Lijn": "501319",
+                "bus": "yes",
+                "name": "Oostende Marie-Joséplein Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIE-JOSÉPLEIN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914097,
+                    51.230377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "506277",
+                "bus": "yes",
+                "name": "Oostende Sportstraat vervangingshalte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.901815,
+                    51.225272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;50;51;52;53;68;69;81;86",
+                "ref:De_Lijn": "506300",
+                "bus": "yes",
+                "name": "Oostende Stadhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINDICTIVELAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.916857,
+                    51.226806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "501331",
+                "bus": "yes",
+                "name": "Oostende Petit Paris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908119,
+                    51.224208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;85",
+                "ref:De_Lijn": "506331",
+                "bus": "yes",
+                "name": "Oostende Petit Paris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.909131,
+                    51.224346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23",
+                "ref:De_Lijn": "501332",
+                "bus": "yes",
+                "name": "Oostende Ravelijnstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERENIGDE NATIESLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917492,
+                    51.220682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;5;81;85",
+                "ref:De_Lijn": "506517",
+                "bus": "yes",
+                "name": "Oostende Marie-Joséplein Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIE-JOSÉPLEIN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.91431,
+                    51.230434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;50;51;52;53;68;69;81;86",
+                "ref:De_Lijn": "501300",
+                "bus": "yes",
+                "name": "Oostende Stadhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINDICTIVELAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.916655,
+                    51.226875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;85",
+                "ref:De_Lijn": "501311",
+                "bus": "yes",
+                "name": "Oostende Leopold I Plein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.910116,
+                    51.22764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "501649",
+                "bus": "yes",
+                "name": "Oostende Vlaanderenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VAN ISEGHEMLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.915637,
+                    51.233336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;81",
+                "ref:De_Lijn": "506299",
+                "bus": "yes",
+                "name": "Oostende Frere Orbanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRÈRE-ORBANSTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908719,
+                    51.221492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501309",
+                "zone:De_Lijn": "08",
+                "name": "Oostende Koninginnelaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KONINGIN ASTRIDLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90608,
+                    51.226215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;81",
+                "ref:De_Lijn": "506628",
+                "bus": "yes",
+                "name": "Oostende Petit Paris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.909183,
+                    51.224509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501318",
+                "zone:De_Lijn": "08",
+                "name": "Oostende Marie-Joséplein Perron 2",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MARIE-JOSÉPLEIN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914416,
+                    51.230714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;81",
+                "ref:De_Lijn": "501299",
+                "bus": "yes",
+                "name": "Oostende Frere Orbanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRÈRE-ORBANSTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908621,
+                    51.221418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "501564",
+                "bus": "yes",
+                "name": "Oostende Koninginnelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGINNELAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.913852,
+                    51.221267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;81",
+                "ref:De_Lijn": "501521",
+                "bus": "yes",
+                "name": "Oostende Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENTEMARKT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.919226,
+                    51.23213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;5;9;46;81;85;89",
+                "ref:De_Lijn": "501301",
+                "bus": "yes",
+                "name": "Oostende Stadhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CANADAPLEIN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917887,
+                    51.227295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;68;69;86",
+                "ref:De_Lijn": "501297",
+                "bus": "yes",
+                "name": "Oostende Frans Musinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.905393,
+                    51.223006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;52;53",
+                "ref:De_Lijn": "501480",
+                "bus": "yes",
+                "name": "Oostende Petit Paris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.908871,
+                    51.223966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "506310",
+                "bus": "yes",
+                "name": "Oostende Kursaal",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VAN ISEGHEMLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.912264,
+                    51.230831
+                ]
+            }
+        }
+    ]
+}

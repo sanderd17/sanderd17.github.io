@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23",
+                "ref:De_Lijn": "400569",
+                "bus": "yes",
+                "name": "Koersel Trompetstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOERSELSESTEENWEG KOERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.253983,
+                    51.053613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23",
+                "ref:De_Lijn": "400568",
+                "bus": "yes",
+                "name": "Koersel Trompetstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOERSELSESTEENWEG KOERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.253598,
+                    51.053625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23",
+                "ref:De_Lijn": "400540",
+                "bus": "yes",
+                "name": "Koersel Kegelveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOERSELSESTEENWEG KOERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.257974,
+                    51.054967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23",
+                "ref:De_Lijn": "400541",
+                "bus": "yes",
+                "name": "Koersel Kegelveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOERSELSESTEENWEG KOERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.258072,
+                    51.054877
+                ]
+            }
+        }
+    ]
+}

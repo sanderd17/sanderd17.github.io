@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505118",
+                "bus": "yes",
+                "name": "Boezinge Wijngaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIEKESTRAAT SINT-JAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.904495,
+                    50.891797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505427",
+                "bus": "yes",
+                "name": "Langemark Bruine Broek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUINE BROEKSTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.916931,
+                    50.892329
+                ]
+            }
+        }
+    ]
+}

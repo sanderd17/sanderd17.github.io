@@ -1,0 +1,782 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;69",
+                "ref:De_Lijn": "201506",
+                "bus": "yes",
+                "name": "Mariakerke Losweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.690534,
+                    51.078593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209923",
+                "bus": "yes",
+                "name": "Mariakerke Sint-Lievenscollege (Eeklostraat)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.687331,
+                    51.081981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "201410",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.678714,
+                    51.07598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69;160",
+                "ref:De_Lijn": "200399",
+                "bus": "yes",
+                "name": "Mariakerke Trekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TREKWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.669541,
+                    51.081607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "202359",
+                "bus": "yes",
+                "name": "Mariakerke Mazestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEVAART MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.686295,
+                    51.07375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9",
+                "ref:De_Lijn": "201411",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALPHONSE CLAEYS-BOUÜAERTLAAN MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.678809,
+                    51.075387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;N3",
+                "ref:De_Lijn": "200156",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679034,
+                    51.075569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "201155",
+                "bus": "yes",
+                "name": "Mariakerke Claeysplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.680613,
+                    51.072018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;N3",
+                "ref:De_Lijn": "200154",
+                "bus": "yes",
+                "name": "Mariakerke Spellewerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.682108,
+                    51.070346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9;69;160",
+                "ref:De_Lijn": "200412",
+                "bus": "yes",
+                "name": "Mariakerke Mariakerkebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.677546,
+                    51.076854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "201454",
+                "bus": "yes",
+                "name": "Mariakerke Minoodtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMAND CASIER DE TER BEKENLAAN MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.671537,
+                    51.074023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;N3",
+                "ref:De_Lijn": "201157",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679212,
+                    51.075111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;N3",
+                "ref:De_Lijn": "200155",
+                "bus": "yes",
+                "name": "Mariakerke Claeysplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.680795,
+                    51.072298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "203358",
+                "bus": "yes",
+                "name": "Mariakerke Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEVAART MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.690591,
+                    51.071716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9",
+                "ref:De_Lijn": "200504",
+                "bus": "yes",
+                "name": "Mariakerke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALPHONSE CLAEYS-BOUÜAERTLAAN MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.67687,
+                    51.073336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201398",
+                "bus": "yes",
+                "name": "Mariakerke Anemoonstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PAUL VAN TIEGHEMLAAN MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.68155,
+                    51.077192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200410",
+                "bus": "yes",
+                "name": "Mariakerke Marsstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZUIDBROEK MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.670098,
+                    51.078716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9;69",
+                "ref:De_Lijn": "200414",
+                "bus": "yes",
+                "name": "Mariakerke Kollekasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTAAKSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.687295,
+                    51.081549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "208941",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.678557,
+                    51.075988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9;69",
+                "ref:De_Lijn": "201412",
+                "bus": "yes",
+                "name": "Mariakerke Mariakerkebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6773,
+                    51.07706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200398",
+                "bus": "yes",
+                "name": "Mariakerke Anemoonstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PAUL VAN TIEGHEMLAAN MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.681693,
+                    51.077211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208923",
+                "bus": "yes",
+                "name": "Mariakerke Sint-Lievenscollege (Eeklostraat)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.687402,
+                    51.082062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200545",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ALPHONSE CLAEYS-BOUÜAERTLAAN MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.678724,
+                    51.075342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "201399",
+                "bus": "yes",
+                "name": "Mariakerke Trekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TREKWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.669625,
+                    51.08168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "203360",
+                "bus": "yes",
+                "name": "Mariakerke Groenestaakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEVAART MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.677323,
+                    51.078417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200701",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679184,
+                    51.075129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9;69",
+                "ref:De_Lijn": "201413",
+                "bus": "yes",
+                "name": "Mariakerke Dienstencentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTAAKSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.680649,
+                    51.080261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;160",
+                "ref:De_Lijn": "200411",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.678849,
+                    51.075568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9;69",
+                "ref:De_Lijn": "201414",
+                "bus": "yes",
+                "name": "Mariakerke Kollekasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTAAKSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.687151,
+                    51.081639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9;69;160",
+                "ref:De_Lijn": "200413",
+                "bus": "yes",
+                "name": "Mariakerke Dienstencentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTAAKSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.680622,
+                    51.080144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "201154",
+                "bus": "yes",
+                "name": "Mariakerke Spellewerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.682428,
+                    51.069898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;9",
+                "ref:De_Lijn": "201453",
+                "bus": "yes",
+                "name": "Mariakerke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALPHONSE CLAEYS-BOUÜAERTLAAN MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.67671,
+                    51.073514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201545",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679212,
+                    51.075111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69",
+                "ref:De_Lijn": "203359",
+                "bus": "yes",
+                "name": "Mariakerke Mazestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEVAART MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.685718,
+                    51.074205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "200505",
+                "bus": "yes",
+                "name": "Mariakerke Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.678402,
+                    51.075906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;69",
+                "ref:De_Lijn": "200506",
+                "bus": "yes",
+                "name": "Mariakerke Losweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSTRAAT MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.690628,
+                    51.078063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;69;160",
+                "ref:De_Lijn": "202360",
+                "bus": "yes",
+                "name": "Mariakerke Groenestaakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEVAART MARIAKERKE (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.677138,
+                    51.078353
+                ]
+            }
+        }
+    ]
+}

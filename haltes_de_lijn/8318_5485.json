@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49",
+                "ref:De_Lijn": "505434",
+                "bus": "yes",
+                "name": "Lo Hazewind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOEFHOEK LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.786938,
+                    50.989032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49",
+                "ref:De_Lijn": "505435",
+                "bus": "yes",
+                "name": "Lo Kloefhoek 9",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOEFHOEK LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.777265,
+                    50.987356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49;57",
+                "ref:De_Lijn": "504676",
+                "bus": "yes",
+                "name": "Lo Hazewind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOEFHOEK LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.786944,
+                    50.98888
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49;57",
+                "ref:De_Lijn": "504858",
+                "bus": "yes",
+                "name": "Lo Kloefhoek 9",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOEFHOEK LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.777298,
+                    50.98723
+                ]
+            }
+        }
+    ]
+}

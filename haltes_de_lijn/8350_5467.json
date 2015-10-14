@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200929",
+                "bus": "yes",
+                "name": "Sint-Laureins Oosthoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLOTWEG SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.475045,
+                    51.242478
+                ]
+            }
+        }
+    ]
+}

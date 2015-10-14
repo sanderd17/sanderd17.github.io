@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504016",
+                "bus": "yes",
+                "name": "Avekapelle Cafe Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYGAERDIJKSTRAAT AVEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.720392,
+                    51.06369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "509016",
+                "bus": "yes",
+                "name": "Avekapelle Cafe Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYGAERDIJKSTRAAT AVEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.720626,
+                    51.063541
+                ]
+            }
+        }
+    ]
+}

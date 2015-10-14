@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401717",
+                "bus": "yes",
+                "name": "Schaffen Walehoef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ENGELBEEKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085986,
+                    51.01408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401716",
+                "bus": "yes",
+                "name": "Schaffen Walehoef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ENGELBEEKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085927,
+                    51.013918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408226",
+                "bus": "yes",
+                "name": "Tessenderlo Diesterbaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LAPSEHEIDE TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.076638,
+                    51.02727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "308163",
+                "bus": "yes",
+                "name": "Schaffen Walehoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELBEEKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085986,
+                    51.01408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;702",
+                "ref:De_Lijn": "308162",
+                "bus": "yes",
+                "name": "Schaffen Walehoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELBEEKSTRAAT SCHAFFEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085884,
+                    51.0139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408227",
+                "bus": "yes",
+                "name": "Tessenderlo Diesterbaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LAPSEHEIDE TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.076237,
+                    51.027146
+                ]
+            }
+        }
+    ]
+}

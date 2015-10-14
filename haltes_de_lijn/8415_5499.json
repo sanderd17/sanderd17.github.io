@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360;361;362;581;662;713",
+                "ref:De_Lijn": "302178",
+                "bus": "yes",
+                "name": "Oorbeek Overlaar Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT OVERLAAR TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.918865,
+                    50.795562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "541;580;664",
+                "ref:De_Lijn": "305161",
+                "bus": "yes",
+                "name": "Oorbeek Driebek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OORBEEKSESTEENWEG TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.919534,
+                    50.80062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "541;580;664;713",
+                "ref:De_Lijn": "305160",
+                "bus": "yes",
+                "name": "Oorbeek Driebek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OORBEEKSESTEENWEG TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.919647,
+                    50.800512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360;361;362;581;662",
+                "ref:De_Lijn": "302179",
+                "bus": "yes",
+                "name": "Oorbeek Overlaar Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT OVERLAAR TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.919535,
+                    50.795873
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205766",
+                "bus": "yes",
+                "name": "Stekene Voorthoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORTHOEK STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.052357,
+                    51.232107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;240",
+                "ref:De_Lijn": "205421",
+                "bus": "yes",
+                "name": "Kemzeke Trompstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TROMPSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.060615,
+                    51.230457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;240",
+                "ref:De_Lijn": "204421",
+                "bus": "yes",
+                "name": "Kemzeke Trompstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TROMPSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.060546,
+                    51.230106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;240",
+                "ref:De_Lijn": "205422",
+                "bus": "yes",
+                "name": "Kemzeke Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TROMPSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.059504,
+                    51.233959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204829",
+                "bus": "yes",
+                "name": "Kemzeke Park & Ride",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "REINAKKERWEG KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.063241,
+                    51.227381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;240",
+                "ref:De_Lijn": "204422",
+                "bus": "yes",
+                "name": "Kemzeke Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TROMPSTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.059274,
+                    51.234076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;240",
+                "ref:De_Lijn": "204420",
+                "bus": "yes",
+                "name": "Kemzeke Voorhoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORHOUT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064012,
+                    51.223212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;240",
+                "ref:De_Lijn": "205420",
+                "bus": "yes",
+                "name": "Kemzeke Voorhoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORHOUT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064473,
+                    51.222818
+                ]
+            }
+        }
+    ]
+}

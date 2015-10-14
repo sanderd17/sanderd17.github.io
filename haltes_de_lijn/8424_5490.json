@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402695",
+                "bus": "yes",
+                "name": "Halen Vossekotstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BLOEMENDAALSTRAAT HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.105406,
+                    50.928738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402693",
+                "bus": "yes",
+                "name": "Halen Keibergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERGSTRAAT HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.103062,
+                    50.919853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402691",
+                "bus": "yes",
+                "name": "Halen Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERBINDINGSWEG HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.118167,
+                    50.92169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402692",
+                "bus": "yes",
+                "name": "Halen Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERBINDINGSWEG HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.118137,
+                    50.921591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402696",
+                "bus": "yes",
+                "name": "Halen Vossekotstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BLOEMENDAALSTRAAT HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.105394,
+                    50.928837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402694",
+                "bus": "yes",
+                "name": "Halen Keibergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERGSTRAAT HALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.102861,
+                    50.919719
+                ]
+            }
+        }
+    ]
+}

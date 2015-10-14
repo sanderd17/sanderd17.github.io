@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505027",
+                "bus": "yes",
+                "name": "Aartrijke Dwarsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDSTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.083639,
+                    51.128696
+                ]
+            }
+        }
+    ]
+}

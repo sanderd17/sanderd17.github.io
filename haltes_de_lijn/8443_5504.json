@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404664",
+                "bus": "yes",
+                "name": "Paifve Chemin du Village",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE BRUNEHAUT PAIFVE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.520446,
+                    50.723767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404687",
+                "bus": "yes",
+                "name": "Wihogne Route de Paifve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE BRUNEHAUT NUDORP",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.515632,
+                    50.724974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "404665",
+                "bus": "yes",
+                "name": "Paifve Chemin du Village",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE BRUNEHAUT PAIFVE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.520325,
+                    50.72402
+                ]
+            }
+        }
+    ]
+}

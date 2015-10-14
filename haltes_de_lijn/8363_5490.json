@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208725",
+                "bus": "yes",
+                "name": "Scheldewindeke Frankenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE MUNTE SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.762654,
+                    50.923298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208661",
+                "bus": "yes",
+                "name": "Scheldewindeke Lange Munte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE MUNTE SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766524,
+                    50.928775
+                ]
+            }
+        }
+    ]
+}

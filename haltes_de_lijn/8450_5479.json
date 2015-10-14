@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406089",
+                "bus": "yes",
+                "name": "Opoeteren Roeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEEROETERENSTRAAT OPOETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.673772,
+                    51.081021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406088",
+                "bus": "yes",
+                "name": "Opoeteren Roeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEEROETERENSTRAAT OPOETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.673455,
+                    51.080917
+                ]
+            }
+        }
+    ]
+}

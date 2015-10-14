@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "408081",
+                "bus": "yes",
+                "name": "Velm Romeinseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELMERLAAN VELM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.142797,
+                    50.791337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21a",
+                "ref:De_Lijn": "408080",
+                "bus": "yes",
+                "name": "Velm Romeinseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELMERLAAN VELM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.142629,
+                    50.791464
+                ]
+            }
+        }
+    ]
+}

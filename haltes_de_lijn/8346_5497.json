@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;89;92",
+                "ref:De_Lijn": "508449",
+                "bus": "yes",
+                "name": "Vichte Diesveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.385979,
+                    50.830104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;78;89;92",
+                "ref:De_Lijn": "504201",
+                "bus": "yes",
+                "name": "Vichte Diesveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.385822,
+                    50.830157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505256",
+                "bus": "yes",
+                "name": "Deerlijk Diesveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESVELTSTRAAT OTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.404513,
+                    50.819973
+                ]
+            }
+        }
+    ]
+}

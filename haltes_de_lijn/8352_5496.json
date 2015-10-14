@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209089",
+                "bus": "yes",
+                "name": "Wortegem Heerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.521773,
+                    50.844262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208303",
+                "bus": "yes",
+                "name": "Elsegem Meganckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNEPPESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529404,
+                    50.835165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200776",
+                "bus": "yes",
+                "name": "Wortegem Heerbaan 21-22",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.533321,
+                    50.844884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208089",
+                "bus": "yes",
+                "name": "Wortegem Heerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.521462,
+                    50.844961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209303",
+                "bus": "yes",
+                "name": "Elsegem Meganckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNEPPESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529235,
+                    50.83511
+                ]
+            }
+        }
+    ]
+}

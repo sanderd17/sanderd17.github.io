@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "209340",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAARKEWEG MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.6545,
+                    50.815837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;460",
+                "ref:De_Lijn": "208340",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAARKEWEG MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.654101,
+                    50.815988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;460",
+                "ref:De_Lijn": "208341",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Wijmierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAARKEWEG MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.660436,
+                    50.814606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;460",
+                "ref:De_Lijn": "208342",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Kabuizestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAARKEWEG MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.668463,
+                    50.814006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "209341",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Wijmierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAARKEWEG MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.661532,
+                    50.814414
+                ]
+            }
+        }
+    ]
+}

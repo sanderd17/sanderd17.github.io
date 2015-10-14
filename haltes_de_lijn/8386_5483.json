@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308848",
+                "bus": "yes",
+                "name": "Malderen Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERBAAN MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.264902,
+                    51.0199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308797",
+                "bus": "yes",
+                "name": "Londerzeel Zwaantje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALDERSESTEENWEG LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.273728,
+                    51.024923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308798",
+                "bus": "yes",
+                "name": "Londerzeel Zwaantje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALDERSESTEENWEG LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.274226,
+                    51.02514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308847",
+                "bus": "yes",
+                "name": "Malderen Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERBAAN MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.264802,
+                    51.01999
+                ]
+            }
+        }
+    ]
+}

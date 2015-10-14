@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "203115",
+                "bus": "yes",
+                "name": "Lokeren Bakeries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRANDSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.006423,
+                    51.081594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "202118",
+                "bus": "yes",
+                "name": "Lokeren Mosten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORTELSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.00115,
+                    51.082423
+                ]
+            }
+        }
+    ]
+}

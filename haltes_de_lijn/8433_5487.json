@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403559",
+                "bus": "yes",
+                "name": "Kuringen Mellebroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERTKANAALSTRAAT KURINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.299815,
+                    50.958579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H3",
+                "ref:De_Lijn": "403560",
+                "bus": "yes",
+                "name": "Kuringen Mellebroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERTKANAALSTRAAT KURINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.299987,
+                    50.958605
+                ]
+            }
+        }
+    ]
+}

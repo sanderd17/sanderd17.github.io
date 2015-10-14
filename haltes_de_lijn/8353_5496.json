@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200767",
+                "bus": "yes",
+                "name": "Petegem Goede Geburen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.549021,
+                    50.845966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209943",
+                "bus": "yes",
+                "name": "Wortegem-Petegem Gem. Lagere School",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.555993,
+                    50.83448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209319",
+                "bus": "yes",
+                "name": "Petegem Statie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CLEMMENSTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.557028,
+                    50.837822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209375",
+                "bus": "yes",
+                "name": "Petegem Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.556225,
+                    50.835012
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208375",
+                "bus": "yes",
+                "name": "Petegem Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.555986,
+                    50.834875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208319",
+                "bus": "yes",
+                "name": "Petegem Statie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CLEMMENSTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.55697,
+                    50.837903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208943",
+                "bus": "yes",
+                "name": "Wortegem-Petegem Gem. Lagere School",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.556135,
+                    50.834481
+                ]
+            }
+        }
+    ]
+}

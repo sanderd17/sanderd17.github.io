@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408193",
+                "bus": "yes",
+                "name": "Stramproy Café Geelen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "JULIANASTRAAT STRAMPROY",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.722103,
+                    51.195523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408192",
+                "bus": "yes",
+                "name": "Stramproy Café Geelen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.721627,
+                    51.195879
+                ]
+            }
+        }
+    ]
+}

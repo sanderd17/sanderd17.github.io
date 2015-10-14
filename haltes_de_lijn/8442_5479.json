@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "400684",
+                "bus": "yes",
+                "name": "Meeuwen Hensemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500735,
+                    51.081696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "400685",
+                "bus": "yes",
+                "name": "Meeuwen Hensemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500866,
+                    51.081785
+                ]
+            }
+        }
+    ]
+}

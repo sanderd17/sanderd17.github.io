@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "502807",
+                "bus": "yes",
+                "name": "Lichtervelde Weststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11654,
+                    51.035453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;74",
+                "ref:De_Lijn": "505594",
+                "bus": "yes",
+                "name": "Torhout De Sneppe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSEWEG TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.108198,
+                    51.03709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "509725",
+                "bus": "yes",
+                "name": "Torhout De Sneppe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSEWEG TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.108394,
+                    51.0372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "501605",
+                "bus": "yes",
+                "name": "Torhout Van Coillie Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSEWEG TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.107592,
+                    51.039988
+                ]
+            }
+        }
+    ]
+}

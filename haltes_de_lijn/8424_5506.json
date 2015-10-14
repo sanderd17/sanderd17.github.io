@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402905",
+                "bus": "yes",
+                "name": "Hannut Rue de Walshoutem",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUE GREGOIRE WAUTHIER CRAS-AVERNAS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.118277,
+                    50.700813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402904",
+                "bus": "yes",
+                "name": "Hannut Rue de Walshoutem",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUE GREGOIRE WAUTHIER CRAS-AVERNAS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11814,
+                    50.701047
+                ]
+            }
+        }
+    ]
+}

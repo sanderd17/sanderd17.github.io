@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "205472",
+                "bus": "yes",
+                "name": "Waasmunster Neerstraat/Sousbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.051749,
+                    51.108709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "204472",
+                "bus": "yes",
+                "name": "Waasmunster Neerstraat/Sousbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.051579,
+                    51.10852
+                ]
+            }
+        }
+    ]
+}

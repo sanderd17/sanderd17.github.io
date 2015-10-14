@@ -1,0 +1,112 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;73",
+                "ref:De_Lijn": "509564",
+                "bus": "yes",
+                "name": "Koolskamp vervanghalte Dorp",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21272,
+                    51.001671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "501697",
+                "bus": "yes",
+                "name": "Koolskamp Egemsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EGEMSESTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.214697,
+                    51.004145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;29",
+                "ref:De_Lijn": "507244",
+                "bus": "yes",
+                "name": "Koolskamp Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE ARDOOISESTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.211806,
+                    51.001168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;73",
+                "ref:De_Lijn": "509571",
+                "bus": "yes",
+                "name": "Koolskamp vervanghalte Dorp",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21233,
+                    51.001892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;29",
+                "ref:De_Lijn": "502244",
+                "bus": "yes",
+                "name": "Koolskamp Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE ARDOOISESTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.211701,
+                    51.001401
+                ]
+            }
+        }
+    ]
+}

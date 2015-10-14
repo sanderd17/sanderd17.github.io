@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;96",
+                "ref:De_Lijn": "502710",
+                "bus": "yes",
+                "name": "Oostkamp Abraham",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERSTRAAT OOSTKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.233021,
+                    51.134093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;96",
+                "ref:De_Lijn": "507710",
+                "bus": "yes",
+                "name": "Oostkamp Abraham",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERSTRAAT OOSTKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.233147,
+                    51.134202
+                ]
+            }
+        }
+    ]
+}

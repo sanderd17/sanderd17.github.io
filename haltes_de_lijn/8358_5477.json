@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "203991",
+                "bus": "yes",
+                "name": "Evergem Grote Moerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUITENBERGSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.655301,
+                    51.103842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210851",
+                "bus": "yes",
+                "name": "Belzele Dorp",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KUITENBERGSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.661277,
+                    51.102422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69;150;160",
+                "ref:De_Lijn": "203990",
+                "bus": "yes",
+                "name": "Belzele Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELZEELSESTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.661296,
+                    51.101182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210850",
+                "bus": "yes",
+                "name": "Evergem Grote Moerstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLEINE MOERSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65469,
+                    51.10365
+                ]
+            }
+        }
+    ]
+}

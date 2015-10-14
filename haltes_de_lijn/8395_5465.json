@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "605;640;642;648;650;658;659;670",
+                "ref:De_Lijn": "107865",
+                "bus": "yes",
+                "name": "Kapelsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462646,
+                    51.266646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650;658;659;670",
+                "ref:De_Lijn": "107855",
+                "bus": "yes",
+                "name": "Schoten Kapelsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSESTEENWEG SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462246,
+                    51.26759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;648",
+                "ref:De_Lijn": "105726",
+                "bus": "yes",
+                "name": "Brasschaat Oudstrijderslei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.469134,
+                    51.272492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;648",
+                "ref:De_Lijn": "107860",
+                "bus": "yes",
+                "name": "Schoten Kapelsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463203,
+                    51.26598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;648",
+                "ref:De_Lijn": "105724",
+                "bus": "yes",
+                "name": "Brasschaat Oudstrijderslei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.46859,
+                    51.272456
+                ]
+            }
+        }
+    ]
+}

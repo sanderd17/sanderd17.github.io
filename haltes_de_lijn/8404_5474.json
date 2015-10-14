@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107071",
+                "bus": "yes",
+                "name": "Nijlen Lege Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVELSESTEENWEG NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.677321,
+                    51.14924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "102899",
+                "bus": "yes",
+                "name": "Kessel Oude Bevelsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BEVELSESTEENWEG KESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.666141,
+                    51.144065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101926",
+                "bus": "yes",
+                "name": "Bevel Akendoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVEL-DORP BEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.678336,
+                    51.138523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107069",
+                "bus": "yes",
+                "name": "Nijlen Lege Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVELSESTEENWEG NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.67739,
+                    51.148872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "102423",
+                "bus": "yes",
+                "name": "Kessel Iona-Instituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE BEVELSESTEENWEG KESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.659793,
+                    51.13902
+                ]
+            }
+        }
+    ]
+}

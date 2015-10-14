@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205104",
+                "bus": "yes",
+                "name": "Lokeren Molsbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAASMUNSTERBAAN LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.022009,
+                    51.10636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205094",
+                "bus": "yes",
+                "name": "Waasmunster Hamstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.033307,
+                    51.105746
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "673;934",
+                "ref:De_Lijn": "104334",
+                "bus": "yes",
+                "name": "Kalmthout Station Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTATIEPLEIN KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.459715,
+                    51.364564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "673;934",
+                "ref:De_Lijn": "102566",
+                "bus": "yes",
+                "name": "Kalmthout Station Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTATIEPLEIN KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.459557,
+                    51.364555
+                ]
+            }
+        }
+    ]
+}

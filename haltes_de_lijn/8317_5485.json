@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;50;57;59",
+                "ref:De_Lijn": "509266",
+                "bus": "yes",
+                "name": "Lo Monument",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "2DE GENIELAAN LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.74679,
+                    50.98667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;50;57;59",
+                "ref:De_Lijn": "504268",
+                "bus": "yes",
+                "name": "Lo Violier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RABBELARESTEENWEG LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.747635,
+                    50.993119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;50;57;59",
+                "ref:De_Lijn": "504266",
+                "bus": "yes",
+                "name": "Lo Monument",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "2DE GENIELAAN LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.746587,
+                    50.98637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;57",
+                "ref:De_Lijn": "505819",
+                "bus": "yes",
+                "name": "Lo Blauwvoet 10",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAUWVOET LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.765368,
+                    50.989505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;50;57;59",
+                "ref:De_Lijn": "509268",
+                "bus": "yes",
+                "name": "Lo Violier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RABBELARESTEENWEG LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.747744,
+                    50.992869
+                ]
+            }
+        }
+    ]
+}

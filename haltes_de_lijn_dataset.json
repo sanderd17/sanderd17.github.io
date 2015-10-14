@@ -1,0 +1,17 @@
+{
+	"data": {"source":"haltes_de_lijn", "zoom": 14},
+	"query":"[highway=bus_stop]",
+	"icon": "bus",
+	"dist":30,
+	"displayname": "Haltes De Lijn",
+	"bbox":{"t": 51.6, "l": 2.5, "b": 50.6,"r": 5.9},
+	"tagmatch":
+	[
+		{"datakey":"name", "osmkey":"name","algorithm":"equality"},
+		{"datakey":"highway", "osmkey":"highway","algorithm":"equality"},
+		{"datakey":"route_ref:De_Lijn", "osmkey":"route_ref:De_Lijn","algorithm":"equality"},
+		{"datakey":"ref:De_Lijn", "osmkey":"ref:De_Lijn","algorithm":"equality"},
+		{"datakey":"operator", "osmkey":"operator","algorithm":"equality"},
+		{"datakey":"network", "osmkey":"network","algorithm":"equality"}
+	]
+}

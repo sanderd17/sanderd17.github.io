@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402650",
+                "bus": "yes",
+                "name": "Borlo Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "THEWITSTRAAT BORLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.181605,
+                    50.735703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402651",
+                "bus": "yes",
+                "name": "Borlo Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "THEWITSTRAAT BORLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.181843,
+                    50.735522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "731",
+                "ref:De_Lijn": "402629",
+                "bus": "yes",
+                "name": "Jeuk Klein Jeukstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN-JEUKSTRAAT JEUK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18444,
+                    50.727583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "402628",
+                "bus": "yes",
+                "name": "Jeuk Klein Jeukstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN-JEUKSTRAAT JEUK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.184285,
+                    50.727638
+                ]
+            }
+        }
+    ]
+}

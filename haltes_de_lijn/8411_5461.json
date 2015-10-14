@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433",
+                "ref:De_Lijn": "106301",
+                "bus": "yes",
+                "name": "Beerse Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUIVENHOEK BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.824935,
+                    51.327066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433;435",
+                "ref:De_Lijn": "106300",
+                "bus": "yes",
+                "name": "Beerse Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUIVENHOEK BEERSE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825107,
+                    51.327128
+                ]
+            }
+        }
+    ]
+}

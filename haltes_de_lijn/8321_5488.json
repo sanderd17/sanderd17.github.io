@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "504282",
+                "bus": "yes",
+                "name": "Merkem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTBROEKSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.850317,
+                    50.954712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "504289",
+                "bus": "yes",
+                "name": "Merkem Voorstad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTBROEKSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.848909,
+                    50.956879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "509282",
+                "bus": "yes",
+                "name": "Merkem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTBROEKSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.850135,
+                    50.954638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;24;28;30",
+                "ref:De_Lijn": "504278",
+                "bus": "yes",
+                "name": "Merkem Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.853104,
+                    50.953067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "509289",
+                "bus": "yes",
+                "name": "Merkem Voorstad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTBROEKSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.848678,
+                    50.956975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;24;28;30",
+                "ref:De_Lijn": "509278",
+                "bus": "yes",
+                "name": "Merkem Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.852958,
+                    50.953155
+                ]
+            }
+        }
+    ]
+}

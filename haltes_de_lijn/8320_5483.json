@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "503964",
+                "bus": "yes",
+                "name": "Sint-Jacobs-Kapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT SINT-JACOBS-KAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.833905,
+                    51.016484
+                ]
+            }
+        }
+    ]
+}

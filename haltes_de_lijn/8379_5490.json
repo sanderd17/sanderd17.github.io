@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "207802",
+                "bus": "yes",
+                "name": "Meldert Nievelkapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEDERMOLENSTRAAT MELDERT (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.120762,
+                    50.927456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "206954",
+                "bus": "yes",
+                "name": "Hekelgem Abdij Affligem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABDIJSTRAAT HEKELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.113438,
+                    50.921831
+                ]
+            }
+        }
+    ]
+}

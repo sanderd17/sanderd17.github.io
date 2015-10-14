@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "507963",
+                "bus": "yes",
+                "name": "Wortegem Egaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.461911,
+                    50.853668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;81;85;89;92",
+                "ref:De_Lijn": "503018",
+                "bus": "yes",
+                "name": "Anzegem Oude Steenbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE LEIESTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.462492,
+                    50.852261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "507693",
+                "bus": "yes",
+                "name": "Wortegem Egaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.461911,
+                    50.853668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;85;89;92",
+                "ref:De_Lijn": "508011",
+                "bus": "yes",
+                "name": "Anzegem De Predikheer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE LEIESTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.45212,
+                    50.858347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;85;89;92",
+                "ref:De_Lijn": "508018",
+                "bus": "yes",
+                "name": "Anzegem Oude Steenbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE LEIESTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.462835,
+                    50.852129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;81;85;89;92",
+                "ref:De_Lijn": "503011",
+                "bus": "yes",
+                "name": "Anzegem De Predikheer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE LEIESTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451777,
+                    50.858444
+                ]
+            }
+        }
+    ]
+}

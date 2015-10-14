@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;178",
+                "ref:De_Lijn": "406254",
+                "bus": "yes",
+                "name": "Opgrimbie Loograaf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.693584,
+                    50.949647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;178",
+                "ref:De_Lijn": "406255",
+                "bus": "yes",
+                "name": "Opgrimbie Loograaf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.693252,
+                    50.949992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;63",
+                "ref:De_Lijn": "406286",
+                "bus": "yes",
+                "name": "Maasmechelen Endepoel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.693706,
+                    50.957989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406413",
+                "bus": "yes",
+                "name": "Maasmechelen Hazenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GILDESTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.698648,
+                    50.957061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "178",
+                "ref:De_Lijn": "410131",
+                "bus": "yes",
+                "name": "Maasmechelen Carpoolparking",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N78 MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.694256,
+                    50.954269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406412",
+                "bus": "yes",
+                "name": "Maasmechelen Processieweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLOKKENSTRAAT MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.702804,
+                    50.958066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;61",
+                "ref:De_Lijn": "406288",
+                "bus": "yes",
+                "name": "Maasmechelen Endepoel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.694239,
+                    50.957192
+                ]
+            }
+        }
+    ]
+}

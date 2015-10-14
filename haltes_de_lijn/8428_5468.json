@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "103169",
+                "bus": "yes",
+                "name": "Mol Rauw Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDENSTRAAT RAUW",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203937,
+                    51.220702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101793",
+                "bus": "yes",
+                "name": "Mol Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT RAUW",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.204481,
+                    51.222298
+                ]
+            }
+        }
+    ]
+}

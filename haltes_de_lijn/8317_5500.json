@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504579",
+                "bus": "yes",
+                "name": "Westouter Zwarteberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODEBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.747275,
+                    50.783189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504578",
+                "bus": "yes",
+                "name": "Westouter Rodeberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODEBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.761102,
+                    50.785339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "505215",
+                "bus": "yes",
+                "name": "Westouter Kleine Bergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE BERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.747979,
+                    50.786642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "509579",
+                "bus": "yes",
+                "name": "Westouter Zwarteberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODEBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.746974,
+                    50.783274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "509578",
+                "bus": "yes",
+                "name": "Westouter Rodeberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODEBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.760537,
+                    50.785269
+                ]
+            }
+        }
+    ]
+}

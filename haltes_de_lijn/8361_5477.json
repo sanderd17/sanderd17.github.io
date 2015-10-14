@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "202407",
+                "bus": "yes",
+                "name": "Passagierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANTSERSCHIPSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729256,
+                    51.100068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "202408",
+                "bus": "yes",
+                "name": "Papierfabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WONDELGEMKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.733618,
+                    51.110052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "203407",
+                "bus": "yes",
+                "name": "Passagierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANTSERSCHIPSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729454,
+                    51.100222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205934",
+                "bus": "yes",
+                "name": "Langerbrugge Stora Enso (Havendag 2015)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WONDELGEMKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.734444,
+                    51.110227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "203408",
+                "bus": "yes",
+                "name": "Papierfabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WONDELGEMKAAI GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.733705,
+                    51.109962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204934",
+                "bus": "yes",
+                "name": "Stora Enso HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N458 GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729983,
+                    51.103263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211032",
+                "bus": "yes",
+                "name": "Stora Enso HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N458 GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.729743,
+                    51.103136
+                ]
+            }
+        }
+    ]
+}

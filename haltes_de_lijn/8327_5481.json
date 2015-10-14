@@ -1,0 +1,106 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505924",
+                "bus": "yes",
+                "name": "Werken Sint-Pieterskruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.987106,
+                    51.048265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "502928",
+                "bus": "yes",
+                "name": "Bovekerke Werkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT BOVEKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.970154,
+                    51.048029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509827",
+                "bus": "yes",
+                "name": "Werken Krul",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVEKERKESTEENWEG WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.976403,
+                    51.043177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509812",
+                "bus": "yes",
+                "name": "Werken Krul",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVEKERKESTEENWEG WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.97622,
+                    51.043076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509825",
+                "bus": "yes",
+                "name": "Bovekerke Werkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT BOVEKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.970129,
+                    51.047912
+                ]
+            }
+        }
+    ]
+}

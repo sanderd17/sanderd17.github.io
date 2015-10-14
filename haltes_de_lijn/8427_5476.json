@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;17a",
+                "ref:De_Lijn": "402790",
+                "bus": "yes",
+                "name": "Oostham Olmensebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLMENSESTEENWEG OOSTHAM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.165423,
+                    51.11549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400036",
+                "bus": "yes",
+                "name": "Heivoort Molenvijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIVOORT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.164367,
+                    51.123965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402788",
+                "bus": "yes",
+                "name": "Oostham Langven",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OLMENSESTEENWEG OOSTHAM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.169867,
+                    51.110642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;17a",
+                "ref:De_Lijn": "402791",
+                "bus": "yes",
+                "name": "Oostham Olmensebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLMENSESTEENWEG OOSTHAM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.16546,
+                    51.115166
+                ]
+            }
+        }
+    ]
+}

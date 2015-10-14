@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "209094",
+                "bus": "yes",
+                "name": "Parike Wouterbosweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLEBEEKSTRAAT PARIKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.807314,
+                    50.788826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;410",
+                "ref:De_Lijn": "206774",
+                "bus": "yes",
+                "name": "Zarlardinge Pluimbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTRAAT ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.816609,
+                    50.779889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;370;410",
+                "ref:De_Lijn": "208093",
+                "bus": "yes",
+                "name": "Parike Gelategemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSHOEKSTRAAT ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.814081,
+                    50.787465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16",
+                "ref:De_Lijn": "209093",
+                "bus": "yes",
+                "name": "Parike Gelategemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSHOEKSTRAAT ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.814266,
+                    50.787421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;410",
+                "ref:De_Lijn": "208094",
+                "bus": "yes",
+                "name": "Parike Wouterbosweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLEBEEKSTRAAT PARIKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.807228,
+                    50.788898
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341",
+                "ref:De_Lijn": "304096",
+                "bus": "yes",
+                "name": "Overijse Nijvelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.552907,
+                    50.764591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341",
+                "ref:De_Lijn": "304097",
+                "bus": "yes",
+                "name": "Overijse Nijvelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.551183,
+                    50.765753
+                ]
+            }
+        }
+    ]
+}

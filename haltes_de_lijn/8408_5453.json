@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "105613",
+                "bus": "yes",
+                "name": "Meer Beeksestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSEWEG MEER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.749511,
+                    51.433111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "101789",
+                "bus": "yes",
+                "name": "Meer Kringwinkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSEWEG MINDERHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.755373,
+                    51.429048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103051",
+                "bus": "yes",
+                "name": "Minderhout Bredaseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDASEWEG MINDERHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.75981,
+                    51.426751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "105614",
+                "bus": "yes",
+                "name": "Meer Beeksestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSEWEG MEER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.749527,
+                    51.433291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103052",
+                "bus": "yes",
+                "name": "Minderhout Bredaseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDASEWEG MINDERHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.759638,
+                    51.426823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;600;602;620;935",
+                "ref:De_Lijn": "101788",
+                "bus": "yes",
+                "name": "Meer Kringwinkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSEWEG MINDERHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.755228,
+                    51.428959
+                ]
+            }
+        }
+    ]
+}

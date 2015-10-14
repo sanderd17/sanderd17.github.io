@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "300558",
+                "bus": "yes",
+                "name": "Bierbeek Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOVENJOELSESTRAAT LOVENJOEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.788393,
+                    50.842571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "300559",
+                "bus": "yes",
+                "name": "Bierbeek Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUULSTRAAT LOVENJOEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.788313,
+                    50.843164
+                ]
+            }
+        }
+    ]
+}

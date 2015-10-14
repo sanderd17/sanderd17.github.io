@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504983",
+                "bus": "yes",
+                "name": "Zonnebeke De Cité",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEMARKSTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.98159,
+                    50.876738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504845",
+                "bus": "yes",
+                "name": "Passendale Maarlestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHIPSTRAAT PASSENDALE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.986944,
+                    50.888462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504834",
+                "bus": "yes",
+                "name": "Langemark Hazeweidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAEZEWEIDESTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.971774,
+                    50.880901
+                ]
+            }
+        }
+    ]
+}

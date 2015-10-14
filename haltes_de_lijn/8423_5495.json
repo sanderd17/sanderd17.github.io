@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;715",
+                "ref:De_Lijn": "305652",
+                "bus": "yes",
+                "name": "Budingen Linterseweg 56",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTERSEWEG BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.07979,
+                    50.859539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;715",
+                "ref:De_Lijn": "305653",
+                "bus": "yes",
+                "name": "Budingen Linterseweg 56",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTERSEWEG BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.079336,
+                    50.859515
+                ]
+            }
+        }
+    ]
+}

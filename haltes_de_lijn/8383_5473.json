@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95;280",
+                "ref:De_Lijn": "205673",
+                "bus": "yes",
+                "name": "Temse Beeldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.202016,
+                    51.154203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95;280",
+                "ref:De_Lijn": "204675",
+                "bus": "yes",
+                "name": "Temse Velle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.207625,
+                    51.160709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205675",
+                "bus": "yes",
+                "name": "Temse Velle School",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VELLE TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.207268,
+                    51.160736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95;280",
+                "ref:De_Lijn": "204673",
+                "bus": "yes",
+                "name": "Temse Beeldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.202058,
+                    51.154436
+                ]
+            }
+        }
+    ]
+}

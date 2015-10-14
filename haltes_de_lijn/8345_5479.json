@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505063",
+                "bus": "yes",
+                "name": "Kruiskerke Snoeibijl",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOESTESTRAAT KRUISKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.383664,
+                    51.07358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505064",
+                "bus": "yes",
+                "name": "Kruiskerke Krommekeer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMMEKEERSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.369797,
+                    51.082147
+                ]
+            }
+        }
+    ]
+}

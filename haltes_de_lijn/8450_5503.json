@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408810",
+                "bus": "yes",
+                "name": "Visé Devant le Port",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVENUE FRANKLIN ROOSEVELT WEZET",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.686944,
+                    50.737311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408811",
+                "bus": "yes",
+                "name": "Visé Devant le Port",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVENUE FRANKLIN ROOSEVELT WEZET",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68611,
+                    50.737374
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "105392",
+                "bus": "yes",
+                "name": "Kaai 602",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEBAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325019,
+                    51.310736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "105393",
+                "bus": "yes",
+                "name": "DCD",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEBAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.321689,
+                    51.314033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "105391",
+                "bus": "yes",
+                "name": "Kaai 602",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEBAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.324661,
+                    51.310286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "109882",
+                "bus": "yes",
+                "name": "DCD",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEBAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.320612,
+                    51.315156
+                ]
+            }
+        }
+    ]
+}

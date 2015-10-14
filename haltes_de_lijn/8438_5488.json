@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;9",
+                "ref:De_Lijn": "402127",
+                "bus": "yes",
+                "name": "Bokrijk Poreistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTWEG BERENBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.416745,
+                    50.954448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;11;46",
+                "ref:De_Lijn": "402128",
+                "bus": "yes",
+                "name": "Bokrijk Weg naar Domein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTWEG BERENBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.407821,
+                    50.951902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "402126",
+                "bus": "yes",
+                "name": "Bokrijk Poreistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTWEG BERENBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.41604,
+                    50.954121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402130",
+                "bus": "yes",
+                "name": "Bokrijk Weg naar Domein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOKRIJKLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.409002,
+                    50.953204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;11;33",
+                "ref:De_Lijn": "402124",
+                "bus": "yes",
+                "name": "Bokrijk Instituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 BERENBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.426089,
+                    50.956054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;9;11;46",
+                "ref:De_Lijn": "402129",
+                "bus": "yes",
+                "name": "Bokrijk Weg naar Domein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTWEG BERENBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.408053,
+                    50.952115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;9;11",
+                "ref:De_Lijn": "402125",
+                "bus": "yes",
+                "name": "Bokrijk Instituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 BERENBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.425764,
+                    50.956129
+                ]
+            }
+        }
+    ]
+}

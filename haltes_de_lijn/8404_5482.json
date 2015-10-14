@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "520;529;931",
+                "ref:De_Lijn": "108409",
+                "bus": "yes",
+                "name": "Putte Langendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEESTER VAN DER BORGHTSTRAAT GRASHEIDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.658313,
+                    51.031822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "520;529;931",
+                "ref:De_Lijn": "108414",
+                "bus": "yes",
+                "name": "Schriek Haachtsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSTRAAT SCHRIEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.673223,
+                    51.038166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "520;529;931",
+                "ref:De_Lijn": "108408",
+                "bus": "yes",
+                "name": "Putte Langendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEESTER VAN DER BORGHTSTRAAT GRASHEIDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.658354,
+                    51.031597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "520;529;931",
+                "ref:De_Lijn": "108413",
+                "bus": "yes",
+                "name": "Schriek Haachtsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSTRAAT SCHRIEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.672339,
+                    51.038249
+                ]
+            }
+        }
+    ]
+}

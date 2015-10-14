@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "101514",
+                "bus": "yes",
+                "name": "Herselt Limberg Vest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIMBERG HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.871027,
+                    51.056185
+                ]
+            }
+        }
+    ]
+}

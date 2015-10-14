@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "509139",
+                "bus": "yes",
+                "name": "Houthulst Jagershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.924898,
+                    50.971233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "504139",
+                "bus": "yes",
+                "name": "Houthulst Jagershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.925298,
+                    50.971175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "509142",
+                "bus": "yes",
+                "name": "Houthulst Nieuw Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.929119,
+                    50.971959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "504142",
+                "bus": "yes",
+                "name": "Houthulst Nieuw Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JONKERSHOVESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.929843,
+                    50.972031
+                ]
+            }
+        }
+    ]
+}

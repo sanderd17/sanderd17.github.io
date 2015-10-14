@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "508482",
+                "bus": "yes",
+                "name": "Langemark Canadees Monument",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBEKESTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.938695,
+                    50.900292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "508490",
+                "bus": "yes",
+                "name": "Langemark Sint-Juliaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG SINT JULIAAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.937804,
+                    50.892207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "503482",
+                "bus": "yes",
+                "name": "Langemark Canadees Monument",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBEKESTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.938648,
+                    50.900435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "503490",
+                "bus": "yes",
+                "name": "Langemark Sint-Juliaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG SINT JULIAAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.938017,
+                    50.89221
+                ]
+            }
+        }
+    ]
+}

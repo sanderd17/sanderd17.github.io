@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408853",
+                "bus": "yes",
+                "name": "'s Gravenvoeren Hof de Voer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONDERDORP 'S-GRAVENVOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.756477,
+                    50.759686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408871",
+                "bus": "yes",
+                "name": "'s Gravenvoeren Grijzegraaf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOELINGERWEG 'S-GRAVENVOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.747894,
+                    50.759931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408870",
+                "bus": "yes",
+                "name": "'s Gravenvoeren Grijzegraaf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOELINGERWEG 'S-GRAVENVOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.748163,
+                    50.759919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408861",
+                "bus": "yes",
+                "name": "'s Gravenvoeren Provinciale School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERNEAUWEG 'S-GRAVENVOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.756641,
+                    50.753687
+                ]
+            }
+        }
+    ]
+}

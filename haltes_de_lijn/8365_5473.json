@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "203573",
+                "bus": "yes",
+                "name": "Kattenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOHN KENNEDYLAAN SINT-KRUIS-WINKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.813498,
+                    51.155857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;175",
+                "ref:De_Lijn": "202574",
+                "bus": "yes",
+                "name": "Sint-Kruis-Winkel De Baetsplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KRUIS-WINKELDORP SINT-KRUIS-WINKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.816732,
+                    51.155549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "202606",
+                "bus": "yes",
+                "name": "Gent N.M.B.S. Station Noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOHN KENNEDYLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.819757,
+                    51.162143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "203574",
+                "bus": "yes",
+                "name": "Sint-Kruis-Winkel De Baetsplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KRUIS-WINKELDORP SINT-KRUIS-WINKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.816561,
+                    51.155485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;175",
+                "ref:De_Lijn": "202573",
+                "bus": "yes",
+                "name": "Kattenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOHN KENNEDYLAAN SINT-KRUIS-WINKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.813266,
+                    51.156162
+                ]
+            }
+        }
+    ]
+}

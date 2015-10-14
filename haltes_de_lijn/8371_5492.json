@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "207462",
+                "bus": "yes",
+                "name": "Aaigem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPAAIGEM AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.938929,
+                    50.890975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;385",
+                "ref:De_Lijn": "206459",
+                "bus": "yes",
+                "name": "Aaigem Langemunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMUNT AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.941686,
+                    50.89886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84;385;390",
+                "ref:De_Lijn": "206462",
+                "bus": "yes",
+                "name": "Aaigem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AAIGEMDORP AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.939555,
+                    50.890905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "207459",
+                "bus": "yes",
+                "name": "Aaigem Langemunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMUNT AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.941614,
+                    50.898949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "206218",
+                "bus": "yes",
+                "name": "Aaigem RVT Sint-Vincentius",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AAIGEMDORP AAIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.937043,
+                    50.890491
+                ]
+            }
+        }
+    ]
+}

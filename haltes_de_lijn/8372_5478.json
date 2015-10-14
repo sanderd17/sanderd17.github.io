@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204093",
+                "bus": "yes",
+                "name": "Lokeren Naastveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOZEFSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.971103,
+                    51.089894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54;270",
+                "ref:De_Lijn": "203971",
+                "bus": "yes",
+                "name": "Lokeren Roggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLARESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.965548,
+                    51.091925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54;270",
+                "ref:De_Lijn": "202970",
+                "bus": "yes",
+                "name": "Lokeren Heiende Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIENDESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.958532,
+                    51.086238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54;270",
+                "ref:De_Lijn": "203970",
+                "bus": "yes",
+                "name": "Lokeren Heiende Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIENDESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.958661,
+                    51.086148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54;270",
+                "ref:De_Lijn": "202971",
+                "bus": "yes",
+                "name": "Lokeren Roggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLARESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.965447,
+                    51.09205
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "508317",
+                "bus": "yes",
+                "name": "Kaaskerke Overweg 93",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.819718,
+                    51.042462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "503317",
+                "bus": "yes",
+                "name": "Kaaskerke Overweg 93",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.820355,
+                    51.042191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "503654",
+                "bus": "yes",
+                "name": "Oostkerke Lettenburg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.81302,
+                    51.046626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "508654",
+                "bus": "yes",
+                "name": "Oostkerke Lettenburg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.812837,
+                    51.046534
+                ]
+            }
+        }
+    ]
+}

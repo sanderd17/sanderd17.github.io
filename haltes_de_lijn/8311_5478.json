@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506173",
+                "bus": "yes",
+                "name": "Koksijde Grote Bogaerde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN BOGAERDELAAN KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.635718,
+                    51.091886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501173",
+                "bus": "yes",
+                "name": "Koksijde Grote Bogaerde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N8 KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.635127,
+                    51.092426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "501174",
+                "bus": "yes",
+                "name": "Koksijde Kapelletje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNESTRAAT ADINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.620617,
+                    51.089092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "506174",
+                "bus": "yes",
+                "name": "Koksijde Kapelletje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N35 KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.621393,
+                    51.088942
+                ]
+            }
+        }
+    ]
+}

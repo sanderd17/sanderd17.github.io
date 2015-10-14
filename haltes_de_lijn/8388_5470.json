@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99",
+                "ref:De_Lijn": "102858",
+                "bus": "yes",
+                "name": "Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUIBEEKSESTEENWEG BURCHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328557,
+                    51.197449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "214002",
+                "bus": "yes",
+                "name": "Beveren Gevangenis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAARBEEKSTRAAT MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.310589,
+                    51.197154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99",
+                "ref:De_Lijn": "204626",
+                "bus": "yes",
+                "name": "Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUIBEEKSESTEENWEG BURCHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3284,
+                    51.197485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99",
+                "ref:De_Lijn": "102859",
+                "bus": "yes",
+                "name": "Terlochtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUIBEEKSESTEENWEG BURCHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325999,
+                    51.195174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99",
+                "ref:De_Lijn": "204627",
+                "bus": "yes",
+                "name": "Terlochtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUIBEEKSESTEENWEG BURCHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325798,
+                    51.195201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204446",
+                "bus": "yes",
+                "name": "Melsele Schaarbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDENSTRAAT ZWIJNDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.317879,
+                    51.20282
+                ]
+            }
+        }
+    ]
+}

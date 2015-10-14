@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;154;155;810",
+                "ref:De_Lijn": "303223",
+                "bus": "yes",
+                "name": "Bollinckx",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIELAAN ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.306872,
+                    50.813795
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;154;155;810",
+                "ref:De_Lijn": "303224",
+                "bus": "yes",
+                "name": "Bollinckx",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIELAAN ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.306971,
+                    50.813912
+                ]
+            }
+        }
+    ]
+}

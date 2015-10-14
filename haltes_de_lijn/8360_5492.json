@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;420",
+                "ref:De_Lijn": "208430",
+                "bus": "yes",
+                "name": "Sint-Maria-Latem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LATEMDREEF SINT-MARIA-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.705671,
+                    50.889459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208802",
+                "bus": "yes",
+                "name": "Sint-Maria-Latem Langemuntstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEMUNTSTRAAT SINT-MARIA-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70111,
+                    50.890377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "209595",
+                "bus": "yes",
+                "name": "Nederzwalm Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT NEDERZWALM-HERMELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692021,
+                    50.894757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;420",
+                "ref:De_Lijn": "208595",
+                "bus": "yes",
+                "name": "Nederzwalm Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT NEDERZWALM-HERMELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692545,
+                    50.894895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "209430",
+                "bus": "yes",
+                "name": "Sint-Maria-Latem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LATEMDREEF SINT-MARIA-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.705941,
+                    50.889442
+                ]
+            }
+        }
+    ]
+}

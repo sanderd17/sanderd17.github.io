@@ -1,0 +1,995 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "103515",
+                "name": "Keizerstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MINDERBROEDERSRUI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.405014,
+                    51.221898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;30",
+                "ref:De_Lijn": "105715",
+                "bus": "yes",
+                "name": "Tavernierkaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERSVLIET ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401769,
+                    51.226852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13",
+                "ref:De_Lijn": "104570",
+                "bus": "yes",
+                "name": "Paardenmarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITALIËLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415007,
+                    51.224232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;600;601;602;605;610;620;621;629;640;641;642",
+                "ref:De_Lijn": "105890",
+                "bus": "yes",
+                "name": "Paardenmarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITALIËLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415552,
+                    51.224816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102325",
+                "bus": "yes",
+                "name": "Falconplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404845,
+                    51.225386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;68",
+                "ref:De_Lijn": "105530",
+                "bus": "yes",
+                "name": "Tunnelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITALIËLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413565,
+                    51.228079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;291",
+                "ref:De_Lijn": "102411",
+                "bus": "yes",
+                "name": "Rijnkaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DINANTSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.402644,
+                    51.230186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13",
+                "ref:De_Lijn": "102756",
+                "bus": "yes",
+                "name": "Cadixstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTENDIJKDOK-OOSTKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409361,
+                    51.232764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;291",
+                "ref:De_Lijn": "105250",
+                "bus": "yes",
+                "name": "Sint-Pietersvliet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORTELIUSKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399964,
+                    51.225468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;68;762;763;764",
+                "ref:De_Lijn": "102530",
+                "bus": "yes",
+                "name": "Tunnelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITALIËLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414795,
+                    51.226865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102327",
+                "name": "Falconplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.405045,
+                    51.225359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "102773",
+                "name": "Sint-Pietersvliet",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LANGE SCHIPPERSKAPELSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400508,
+                    51.226043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;291",
+                "ref:De_Lijn": "105420",
+                "bus": "yes",
+                "name": "Suikerrui Steenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERNEST VAN DIJCKKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3976,
+                    51.22181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "103930",
+                "zone:De_Lijn": "01",
+                "name": "Klapdorp",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MINDERBROEDERSRUI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.403269,
+                    51.223391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;291",
+                "ref:De_Lijn": "105440",
+                "bus": "yes",
+                "name": "Tavernierkaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TAVERNIERKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40164,
+                    51.227463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;30",
+                "ref:De_Lijn": "104565",
+                "bus": "yes",
+                "name": "Hessenbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HESSENBRUG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409597,
+                    51.225168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;291",
+                "ref:De_Lijn": "105415",
+                "bus": "yes",
+                "name": "Suikerrui Steenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERNEST VAN DIJCKKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396826,
+                    51.220975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;30",
+                "ref:De_Lijn": "102330",
+                "bus": "yes",
+                "name": "Felixarchief",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDELEEUWENRUI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406865,
+                    51.226805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;600;601;602;605;640;641;642;720;730;760;761;762;763;764;770;771;772;775;776",
+                "ref:De_Lijn": "103516",
+                "bus": "yes",
+                "name": "Kempenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPENSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413354,
+                    51.231441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "103958",
+                "name": "Sint-Pietersvliet",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SINT-PIETERSVLIET ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.401267,
+                    51.225611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605;610;620;621;629;640;641;642",
+                "ref:De_Lijn": "104430",
+                "bus": "yes",
+                "name": "Noorderplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITALIËLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413967,
+                    51.229176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;11",
+                "ref:De_Lijn": "105180",
+                "name": "Sint-Jacob",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KIPDORP ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409479,
+                    51.220674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;762;763;764",
+                "ref:De_Lijn": "104425",
+                "bus": "yes",
+                "name": "Noorderplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITALIËLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41381,
+                    51.229625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "104363",
+                "bus": "yes",
+                "name": "Tunnelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CASSIERSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415539,
+                    51.226514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "103620",
+                "zone:De_Lijn": "01",
+                "name": "Klapdorp",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SINT-PAULUSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.402897,
+                    51.223957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;762;763;764",
+                "ref:De_Lijn": "102281",
+                "bus": "yes",
+                "name": "Indiëstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDIËSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409892,
+                    51.234381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;30",
+                "ref:De_Lijn": "102935",
+                "bus": "yes",
+                "name": "Rodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAARDENMARKT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413104,
+                    51.224745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "105520",
+                "name": "Sint-Pietersvliet",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SINT-PIETERSVLIET ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40088,
+                    51.225279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;11",
+                "ref:De_Lijn": "102700",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Katelijne",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "WOLSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404327,
+                    51.221368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;34",
+                "ref:De_Lijn": "102860",
+                "bus": "yes",
+                "name": "Hessenbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HESSENBRUG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409741,
+                    51.225258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13",
+                "ref:De_Lijn": "104045",
+                "bus": "yes",
+                "name": "Londenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LONDENSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412452,
+                    51.231109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204263",
+                "bus": "yes",
+                "name": "Tunnelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TUNNELPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413178,
+                    51.226749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;34",
+                "ref:De_Lijn": "102054",
+                "bus": "yes",
+                "name": "Felixarchief",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDELEEUWENRUI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.407223,
+                    51.227183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;762;763;764",
+                "ref:De_Lijn": "102279",
+                "bus": "yes",
+                "name": "Binnenvaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINNENVAARTSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413714,
+                    51.234083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;34",
+                "ref:De_Lijn": "104575",
+                "bus": "yes",
+                "name": "Rodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAARDENMARKT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413305,
+                    51.224808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "104362",
+                "bus": "yes",
+                "name": "Tunnelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CASSIERSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415611,
+                    51.226443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;291",
+                "ref:De_Lijn": "105115",
+                "bus": "yes",
+                "name": "Sint-Pietersvliet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN METERENKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400107,
+                    51.226025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;34",
+                "ref:De_Lijn": "101136",
+                "bus": "yes",
+                "name": "Sint-Jansplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VONDELSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415867,
+                    51.224627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205263",
+                "bus": "yes",
+                "name": "Tunnelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ANKERRUI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413764,
+                    51.226093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "108395",
+                "bus": "yes",
+                "name": "Noorderplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLERMANSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.414956,
+                    51.229822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;34",
+                "ref:De_Lijn": "105730",
+                "bus": "yes",
+                "name": "Van Schoonbekeplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERSVLIET ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404775,
+                    51.227103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605;762;763;764",
+                "ref:De_Lijn": "102413",
+                "bus": "yes",
+                "name": "Kempenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINNENVAARTSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413425,
+                    51.231441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "106015",
+                "name": "Keizerstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MINDERBROEDERSRUI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404942,
+                    51.221575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "291",
+                "ref:De_Lijn": "108895",
+                "bus": "yes",
+                "name": "Tavernierskaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TAVERNIERKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40187,
+                    51.2282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;30",
+                "ref:De_Lijn": "101605",
+                "bus": "yes",
+                "name": "Van Schoonbekeplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERSVLIET ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404145,
+                    51.226815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605;610;620;621;629;640;641;642;720;730;760;761;762;763;764;770;771;772;775;776",
+                "ref:De_Lijn": "104390",
+                "bus": "yes",
+                "name": "Noorderplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN DE WERVESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415313,
+                    51.229292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;30",
+                "ref:De_Lijn": "101135",
+                "bus": "yes",
+                "name": "Sint-Jansplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VONDELSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.415938,
+                    51.224519
+                ]
+            }
+        }
+    ]
+}

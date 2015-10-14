@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;485",
+                "ref:De_Lijn": "201804",
+                "bus": "yes",
+                "name": "Wannegem-Lede Lede Leedsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WANNEGEM-LEDESTRAAT WANNEGEM-LEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.569957,
+                    50.889981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;485",
+                "ref:De_Lijn": "201816",
+                "bus": "yes",
+                "name": "Wannegem-Lede Lede Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEDEDORP LEDE (KRUISHOUTEM)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.575311,
+                    50.889388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;485",
+                "ref:De_Lijn": "201782",
+                "bus": "yes",
+                "name": "Huise Keitelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEITELSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580159,
+                    50.897781
+                ]
+            }
+        }
+    ]
+}

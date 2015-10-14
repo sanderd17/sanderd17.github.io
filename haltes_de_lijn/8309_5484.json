@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "504125",
+                "bus": "yes",
+                "name": "Houtem Drie Koningenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDENSTRAAT HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.58733,
+                    51.00455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "501597",
+                "bus": "yes",
+                "name": "Houtem Pompestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POMPSTRAAT HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.58005,
+                    51.004134
+                ]
+            }
+        }
+    ]
+}

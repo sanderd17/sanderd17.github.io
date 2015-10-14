@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "407764",
+                "bus": "yes",
+                "name": "Kanne Bejats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEJATS KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.670242,
+                    50.813805
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;62;39b;726",
+                "ref:De_Lijn": "407640",
+                "bus": "yes",
+                "name": "Kanne Statieplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIESTRAAT KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.669102,
+                    50.814141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "407762",
+                "bus": "yes",
+                "name": "Kanne Zwerfstenenpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-HUBERTUSSTRAAT KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67198,
+                    50.813507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b;726",
+                "ref:De_Lijn": "407643",
+                "bus": "yes",
+                "name": "Kanne Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.671605,
+                    50.808692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "407721",
+                "bus": "yes",
+                "name": "Kanne Op 't Broek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OP 'T BROEK KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.672929,
+                    50.815007
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;62;39b;726",
+                "ref:De_Lijn": "407642",
+                "bus": "yes",
+                "name": "Kanne Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N619 KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.671008,
+                    50.808672
+                ]
+            }
+        }
+    ]
+}

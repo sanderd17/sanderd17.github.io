@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "254;938",
+                "ref:De_Lijn": "104513",
+                "bus": "yes",
+                "name": "Sint-Amands Fierkensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETEN SINT-AMANDS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.220418,
+                    51.048078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "254;938",
+                "ref:De_Lijn": "104511",
+                "bus": "yes",
+                "name": "Sint-Amands Keten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETEN KETEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.226789,
+                    51.049165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "254;938",
+                "ref:De_Lijn": "104509",
+                "bus": "yes",
+                "name": "Sint-Amands Keten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETEN KETEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.227146,
+                    51.049039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "254;938",
+                "ref:De_Lijn": "104512",
+                "bus": "yes",
+                "name": "Sint-Amands Fierkensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETEN SINT-AMANDS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.220504,
+                    51.047998
+                ]
+            }
+        }
+    ]
+}

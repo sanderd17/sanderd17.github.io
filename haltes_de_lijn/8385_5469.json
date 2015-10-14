@@ -1,0 +1,656 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;84;85;280",
+                "ref:De_Lijn": "204296",
+                "bus": "yes",
+                "name": "Beveren Lesseliersdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT PANISSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.245597,
+                    51.207944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "205510",
+                "bus": "yes",
+                "name": "Beveren Glazenleeuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAPPERSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.246829,
+                    51.218489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209927",
+                "bus": "yes",
+                "name": "Beveren Markt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTE MARKT BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.256017,
+                    51.212844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205536",
+                "bus": "yes",
+                "name": "Beveren Vredegerecht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENDREEF BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.258809,
+                    51.212479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;84;85;280",
+                "ref:De_Lijn": "205296",
+                "bus": "yes",
+                "name": "Beveren Lesseliersdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT PANISSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.245741,
+                    51.207828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204495",
+                "bus": "yes",
+                "name": "Beveren Van Beverenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIEDERIK VAN BEVERENLAAN BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.252226,
+                    51.212167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "ref:De_Lijn": "204293",
+                "bus": "yes",
+                "name": "Beveren Viergemeet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.262494,
+                    51.215349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;280",
+                "ref:De_Lijn": "205497",
+                "bus": "yes",
+                "name": "Beveren Vinkendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAPPERSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.245478,
+                    51.215252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204496",
+                "bus": "yes",
+                "name": "Beveren Triestlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKVIJVERSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.24743,
+                    51.213241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205529",
+                "bus": "yes",
+                "name": "Beveren Beukenhoflaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KASTEELDREEF BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.255663,
+                    51.217177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "ref:De_Lijn": "204295",
+                "bus": "yes",
+                "name": "Beveren AZ Nikolaas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE ZANDSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.250513,
+                    51.210502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "ref:De_Lijn": "204294",
+                "bus": "yes",
+                "name": "Beveren Gravendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N70 BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.259393,
+                    51.213585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205816",
+                "bus": "yes",
+                "name": "Beveren Stadionplein HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LINDENLAAN BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.244188,
+                    51.216015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204532",
+                "bus": "yes",
+                "name": "Beveren Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.259648,
+                    51.208605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204529",
+                "bus": "yes",
+                "name": "Beveren Beukenhoflaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KASTEELDREEF BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.255806,
+                    51.217195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205532",
+                "bus": "yes",
+                "name": "Beveren Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.259519,
+                    51.208461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;280",
+                "ref:De_Lijn": "205495",
+                "bus": "yes",
+                "name": "Beveren Van Beverenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIEDERIK VAN BEVERENLAAN BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.251781,
+                    51.212697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204511",
+                "bus": "yes",
+                "name": "Beveren Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLAZENLEEUWSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.241158,
+                    51.219562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "ref:De_Lijn": "205327",
+                "bus": "yes",
+                "name": "Beveren Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE ZANDSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.255288,
+                    51.212565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "ref:De_Lijn": "204327",
+                "bus": "yes",
+                "name": "Beveren Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE MARKT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.255902,
+                    51.21297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;280",
+                "ref:De_Lijn": "205496",
+                "bus": "yes",
+                "name": "Beveren Triestlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKVIJVERSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.246843,
+                    51.213069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204530",
+                "bus": "yes",
+                "name": "Beveren Meidoornlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSDAMLAAN BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.253863,
+                    51.209957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;84;85;280",
+                "ref:De_Lijn": "205295",
+                "bus": "yes",
+                "name": "Beveren AZ Nikolaas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE ZANDSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.250757,
+                    51.210457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "ref:De_Lijn": "205294",
+                "bus": "yes",
+                "name": "Beveren Gravendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N70 BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.259608,
+                    51.213486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205537",
+                "bus": "yes",
+                "name": "Beveren Blokmeers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUITENANT VAN EEPOELSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.26226,
+                    51.217614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;280",
+                "ref:De_Lijn": "204497",
+                "bus": "yes",
+                "name": "Beveren Vinkendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAPPERSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.245593,
+                    51.214964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204498",
+                "bus": "yes",
+                "name": "Beveren Glazenleeuwstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GLAZENLEEUWSTRAAT BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.246785,
+                    51.218867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204816",
+                "bus": "yes",
+                "name": "Beveren Stadionplein HD",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STADIONPLEIN BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.24353,
+                    51.215996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;280",
+                "ref:De_Lijn": "205509",
+                "bus": "yes",
+                "name": "Beveren Glazenleeuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAPPERSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.246972,
+                    51.218417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204835",
+                "bus": "yes",
+                "name": "Beveren Hendriks",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTE MARKT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.257319,
+                    51.213169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208827",
+                "bus": "yes",
+                "name": "Beveren Markt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTE MARKT BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.255831,
+                    51.212961
+                ]
+            }
+        }
+    ]
+}

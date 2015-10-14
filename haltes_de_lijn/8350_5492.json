@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201830",
+                "bus": "yes",
+                "name": "Kruishoutem Meirestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPINNEWIELSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.484383,
+                    50.900309
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505196",
+                "bus": "yes",
+                "name": "Geluwe Artoishoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DULLAARDSTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.095019,
+                    50.827486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "504093",
+                "bus": "yes",
+                "name": "Geluwe 't Wit Huis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZELESTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.085785,
+                    50.825119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "504096",
+                "bus": "yes",
+                "name": "Geluwe Panemolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZELESTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.087034,
+                    50.832433
+                ]
+            }
+        }
+    ]
+}

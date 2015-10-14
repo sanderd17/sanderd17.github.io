@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;97;195",
+                "ref:De_Lijn": "202714",
+                "bus": "yes",
+                "name": "Assenede Trieststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZELZATESTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767165,
+                    51.205303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96",
+                "ref:De_Lijn": "203729",
+                "bus": "yes",
+                "name": "Assenede Zelzatestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRIESTSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.765283,
+                    51.205887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;97",
+                "ref:De_Lijn": "203714",
+                "bus": "yes",
+                "name": "Assenede Trieststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZELZATESTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767292,
+                    51.205447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;97",
+                "ref:De_Lijn": "203065",
+                "bus": "yes",
+                "name": "Assenede Meelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOEPESTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758941,
+                    51.200578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;97;195",
+                "ref:De_Lijn": "202065",
+                "bus": "yes",
+                "name": "Assenede Meelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOEPESTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758798,
+                    51.200622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96;195",
+                "ref:De_Lijn": "202729",
+                "bus": "yes",
+                "name": "Assenede Zelzatestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRIESTSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764851,
+                    51.206082
+                ]
+            }
+        }
+    ]
+}

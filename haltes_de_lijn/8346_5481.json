@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505647",
+                "bus": "yes",
+                "name": "Ruiselede Den Bek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OMMEGANGSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.403527,
+                    51.044554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505059",
+                "bus": "yes",
+                "name": "Ruiselede De Knok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOKSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387794,
+                    51.044694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505071",
+                "bus": "yes",
+                "name": "Ruiselede Vierwege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHIETSPOELSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387051,
+                    51.049524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505649",
+                "bus": "yes",
+                "name": "Ruiselede De Tap",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.398292,
+                    51.042534
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "507918",
+                "bus": "yes",
+                "name": "Ruiselede Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDVLEUGESTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.389691,
+                    51.053583
+                ]
+            }
+        }
+    ]
+}

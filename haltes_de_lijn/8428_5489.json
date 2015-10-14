@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;735",
+                "ref:De_Lijn": "403938",
+                "bus": "yes",
+                "name": "Herk-de-Stad Populierestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVOORTWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.188288,
+                    50.932387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;735",
+                "ref:De_Lijn": "403939",
+                "bus": "yes",
+                "name": "Herk-de-Stad Populierestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVOORTWEG HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.189003,
+                    50.931824
+                ]
+            }
+        }
+    ]
+}

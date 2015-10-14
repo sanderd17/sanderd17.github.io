@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "444;640;641;648;649",
+                "ref:De_Lijn": "105762",
+                "bus": "yes",
+                "name": "Brasschaat Struikenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.528052,
+                    51.338076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "444;640;641;648;649",
+                "ref:De_Lijn": "105768",
+                "bus": "yes",
+                "name": "Wuustwezel Koersdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.533679,
+                    51.342652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "444;640;641;648;649",
+                "ref:De_Lijn": "105761",
+                "bus": "yes",
+                "name": "Brasschaat Struikenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.528124,
+                    51.338345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "444;640;641;648;649",
+                "ref:De_Lijn": "105767",
+                "bus": "yes",
+                "name": "Brasschaat Koersdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.532859,
+                    51.342195
+                ]
+            }
+        }
+    ]
+}

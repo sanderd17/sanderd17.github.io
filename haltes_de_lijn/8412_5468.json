@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "214;219",
+                "ref:De_Lijn": "109225",
+                "bus": "yes",
+                "name": "Poederlee Lichtaartsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSESTEENWEG POEDERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.836051,
+                    51.225643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "214;219",
+                "ref:De_Lijn": "109226",
+                "bus": "yes",
+                "name": "Poederlee Lichtaartsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSESTEENWEG POEDERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.836166,
+                    51.225714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;213;214;409;418;429;449",
+                "ref:De_Lijn": "109207",
+                "bus": "yes",
+                "name": "Poederlee Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP POEDERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.835221,
+                    51.228522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;213;214;409;418;429;449",
+                "ref:De_Lijn": "109208",
+                "bus": "yes",
+                "name": "Poederlee Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP POEDERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.835422,
+                    51.228531
+                ]
+            }
+        }
+    ]
+}

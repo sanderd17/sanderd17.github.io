@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "106664",
+                "bus": "yes",
+                "name": "Poppel Maarle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TILBURGSEWEG POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.042856,
+                    51.458582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "106666",
+                "bus": "yes",
+                "name": "Poppel Politie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TILBURGSEWEG POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.044568,
+                    51.462563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "106665",
+                "bus": "yes",
+                "name": "Poppel Maarle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TILBURGSEWEG POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.04316,
+                    51.458769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "106667",
+                "bus": "yes",
+                "name": "Poppel Politie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TILBURGSEWEG POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.044724,
+                    51.462391
+                ]
+            }
+        }
+    ]
+}

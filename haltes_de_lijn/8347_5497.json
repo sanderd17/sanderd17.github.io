@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;81;89",
+                "ref:De_Lijn": "508291",
+                "bus": "yes",
+                "name": "Ingooigem Pareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGOOIGEMSTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.417245,
+                    50.82976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;89",
+                "ref:De_Lijn": "503291",
+                "bus": "yes",
+                "name": "Ingooigem Pareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGOOIGEMSTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.416644,
+                    50.829971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;81;89",
+                "ref:De_Lijn": "508294",
+                "bus": "yes",
+                "name": "Ingooigem Vossenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGOOIGEMSTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.421359,
+                    50.825657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78;89",
+                "ref:De_Lijn": "505929",
+                "bus": "yes",
+                "name": "Vichte Molecule",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAREELSTRAAT VICHTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.41029,
+                    50.82831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;89",
+                "ref:De_Lijn": "503294",
+                "bus": "yes",
+                "name": "Ingooigem Vossenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGOOIGEMSTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.421683,
+                    50.825085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505809",
+                "bus": "yes",
+                "name": "Otegem Ellendedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLENDEDREEF OTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.406287,
+                    50.824834
+                ]
+            }
+        }
+    ]
+}

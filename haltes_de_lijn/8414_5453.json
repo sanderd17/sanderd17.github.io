@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "108022",
+                "bus": "yes",
+                "name": "Baarle-Nassau Dekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.890288,
+                    51.43627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "108023",
+                "bus": "yes",
+                "name": "Baarle-Nassau Dekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.890275,
+                    51.436387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "108021",
+                "bus": "yes",
+                "name": "Baarle-Nassau De Buuck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.880797,
+                    51.432321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "108019",
+                "bus": "yes",
+                "name": "Baarle-Nassau De Buuck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.880582,
+                    51.432358
+                ]
+            }
+        }
+    ]
+}

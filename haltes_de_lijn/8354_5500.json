@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "209661",
+                "bus": "yes",
+                "name": "Zulzeke Biesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZULZEKESTRAAT ZULZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.570566,
+                    50.780441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;470",
+                "ref:De_Lijn": "206866",
+                "bus": "yes",
+                "name": "Dalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.56003,
+                    50.790357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;460;470",
+                "ref:De_Lijn": "208750",
+                "bus": "yes",
+                "name": "Zulzeke Biesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZULZEKESTRAAT ZULZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.570409,
+                    50.780494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;460;470",
+                "ref:De_Lijn": "208749",
+                "bus": "yes",
+                "name": "Zulzeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZULZEKESTRAAT ZULZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.570281,
+                    50.789735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "207866",
+                "bus": "yes",
+                "name": "Dalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT ZULZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.560075,
+                    50.79025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "209639",
+                "bus": "yes",
+                "name": "Zulzeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZULZEKESTRAAT ZULZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.570422,
+                    50.78979
+                ]
+            }
+        }
+    ]
+}

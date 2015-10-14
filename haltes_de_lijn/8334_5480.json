@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "502494",
+                "bus": "yes",
+                "name": "Torhout Gouden Osse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUDDERVOORDESTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.132903,
+                    51.062156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "502812",
+                "bus": "yes",
+                "name": "Torhout Kwaplas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWAPLASSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.121625,
+                    51.058136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "507494",
+                "bus": "yes",
+                "name": "Torhout Gouden Osse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUDDERVOORDESTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13345,
+                    51.061964
+                ]
+            }
+        }
+    ]
+}

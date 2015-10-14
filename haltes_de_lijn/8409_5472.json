@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "159",
+                "ref:De_Lijn": "102612",
+                "bus": "yes",
+                "name": "Grobbendonk Wolfstee-Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOEKOMSTLAAN GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.785908,
+                    51.16834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "159",
+                "ref:De_Lijn": "102632",
+                "bus": "yes",
+                "name": "Grobbendonk Bouwelven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUWELVEN GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.778443,
+                    51.166514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "107047",
+                "bus": "yes",
+                "name": "Grobbendonk Buntvenne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.772239,
+                    51.176549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "107051",
+                "bus": "yes",
+                "name": "Grobbendonk Meirendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG MEERHOEVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.781854,
+                    51.175563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "107049",
+                "bus": "yes",
+                "name": "Grobbendonk Meirendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG MEERHOEVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.781481,
+                    51.175474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "107048",
+                "bus": "yes",
+                "name": "Grobbendonk Buntvenne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.772569,
+                    51.176683
+                ]
+            }
+        }
+    ]
+}

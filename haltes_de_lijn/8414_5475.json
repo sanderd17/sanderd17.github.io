@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101534",
+                "bus": "yes",
+                "name": "Oosterwijk De Reid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE REID OOSTERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.880525,
+                    51.129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101944",
+                "bus": "yes",
+                "name": "Oevel Prior Backxlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIJSTRAAT OEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.897468,
+                    51.127757
+                ]
+            }
+        }
+    ]
+}

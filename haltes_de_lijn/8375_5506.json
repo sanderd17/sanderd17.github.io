@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;160;732",
+                "ref:De_Lijn": "301408",
+                "bus": "yes",
+                "name": "Enghien Buurtspoorwegstation",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JOZEFVEST EDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.0374,
+                    50.696603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;160;732",
+                "ref:De_Lijn": "301412",
+                "bus": "yes",
+                "name": "Enghien Koningin Astrid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDLAAN EDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.039925,
+                    50.695873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "208590",
+                "bus": "yes",
+                "name": "Herne Geraardsbergsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.031096,
+                    50.703354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "208591",
+                "bus": "yes",
+                "name": "Enghien/Enghien Heyselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.034376,
+                    50.699939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "209590",
+                "bus": "yes",
+                "name": "Herne Geraardsbergsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG HERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.03088,
+                    50.703938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "209591",
+                "bus": "yes",
+                "name": "Enghien/Enghien Heyselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG HERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.034148,
+                    50.700217
+                ]
+            }
+        }
+    ]
+}

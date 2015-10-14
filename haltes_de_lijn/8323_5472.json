@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;66",
+                "ref:De_Lijn": "501190",
+                "bus": "yes",
+                "name": "Leffinge Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLIJPESTEENWEG LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.87919,
+                    51.171128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;84",
+                "ref:De_Lijn": "506190",
+                "bus": "yes",
+                "name": "Leffinge Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLIJPESTEENWEG LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.87939,
+                    51.17114
+                ]
+            }
+        }
+    ]
+}

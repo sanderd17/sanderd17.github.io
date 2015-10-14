@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205784",
+                "bus": "yes",
+                "name": "Hamme Zogge/Heirbaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EKELBEKE ZOGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.092587,
+                    51.077135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;290;355",
+                "ref:De_Lijn": "204150",
+                "bus": "yes",
+                "name": "Hamme Zogge Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOKMOLENSTRAAT ZOGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.091536,
+                    51.073878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204784",
+                "bus": "yes",
+                "name": "Hamme Zogge/Heirbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EKELBEKE ZOGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.092515,
+                    51.077251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "204148",
+                "bus": "yes",
+                "name": "Hamme Zogge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOGGE ZOGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.095933,
+                    51.076028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "205150",
+                "bus": "yes",
+                "name": "Hamme Zogge Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOKMOLENSTRAAT ZOGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.091878,
+                    51.073942
+                ]
+            }
+        }
+    ]
+}

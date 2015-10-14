@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "205520",
+                "bus": "yes",
+                "name": "Vrasene Kleine Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE KOUTERSTRAAT VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.173909,
+                    51.217871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "204520",
+                "bus": "yes",
+                "name": "Vrasene Kleine Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE KOUTERSTRAAT VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.173637,
+                    51.21796
+                ]
+            }
+        }
+    ]
+}

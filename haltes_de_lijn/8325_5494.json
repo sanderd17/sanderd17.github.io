@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "504157",
+                "bus": "yes",
+                "name": "Ieper Frans Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBEEKSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.925171,
+                    50.863371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "504190",
+                "bus": "yes",
+                "name": "Ieper Verloren Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBEEKSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.937008,
+                    50.865134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;94",
+                "ref:De_Lijn": "509190",
+                "bus": "yes",
+                "name": "Ieper Verloren Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBEEKSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.937082,
+                    50.865036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;94",
+                "ref:De_Lijn": "509157",
+                "bus": "yes",
+                "name": "Ieper Frans Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBEEKSEWEG IEPER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.925118,
+                    50.863244
+                ]
+            }
+        }
+    ]
+}

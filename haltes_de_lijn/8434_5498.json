@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "401118",
+                "bus": "yes",
+                "name": "Kuttekoven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUTTEKOVENSTRAAT KUTTEKOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.331185,
+                    50.808038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401103",
+                "bus": "yes",
+                "name": "Kuttekoven Oude Spoorbrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLEESTRAAT KUTTEKOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326625,
+                    50.809172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "401120",
+                "bus": "yes",
+                "name": "Kuttekoven Kleestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RULLINGEN BORGLOON",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.322205,
+                    50.806016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401116",
+                "bus": "yes",
+                "name": "Kuttekoven Kapel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLEESTRAAT KUTTEKOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.329833,
+                    50.809955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a",
+                "ref:De_Lijn": "401121",
+                "bus": "yes",
+                "name": "Kuttekoven Kleestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RULLINGEN BORGLOON",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.322263,
+                    50.806097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401067",
+                "bus": "yes",
+                "name": "Kuttekoven Oude Spoorbrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KLEESTRAAT KUTTEKOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326623,
+                    50.809064
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505975",
+                "bus": "yes",
+                "name": "Westvleteren Legerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKHOEKSTRAAT WESTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.739804,
+                    50.897073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505791",
+                "bus": "yes",
+                "name": "Westvleteren Koekuitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOEKUITSTRAAT WESTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.729847,
+                    50.891072
+                ]
+            }
+        }
+    ]
+}

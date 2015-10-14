@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206707",
+                "bus": "yes",
+                "name": "Denderwindeke Nijken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJKEN DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.989861,
+                    50.798359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206735",
+                "bus": "yes",
+                "name": "Denderwindeke Roost",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOST DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.982783,
+                    50.805222
+                ]
+            }
+        }
+    ]
+}

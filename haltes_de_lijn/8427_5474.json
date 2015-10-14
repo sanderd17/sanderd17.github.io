@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400039",
+                "bus": "yes",
+                "name": "Germeer Smalbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172873,
+                    51.139279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400041",
+                "bus": "yes",
+                "name": "Germeer Heiloop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEILOOPSTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.166663,
+                    51.140436
+                ]
+            }
+        }
+    ]
+}

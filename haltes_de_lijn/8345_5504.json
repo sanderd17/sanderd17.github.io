@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;93;99",
+                "ref:De_Lijn": "508229",
+                "bus": "yes",
+                "name": "Helkijn Suikerfabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSEWEG HELKIJN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.375109,
+                    50.729751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;93;99",
+                "ref:De_Lijn": "503229",
+                "bus": "yes",
+                "name": "Helkijn Suikerfabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSEWEG HELKIJN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.374699,
+                    50.729747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;93;99",
+                "ref:De_Lijn": "508227",
+                "bus": "yes",
+                "name": "Helkijn Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSEWEG HELKIJN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.380744,
+                    50.73192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505275",
+                "bus": "yes",
+                "name": "Helkijn Sint-Jan De Doperkerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT HELKIJN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.383059,
+                    50.730277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;93;99",
+                "ref:De_Lijn": "503227",
+                "bus": "yes",
+                "name": "Helkijn Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSEWEG HELKIJN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.380867,
+                    50.732137
+                ]
+            }
+        }
+    ]
+}

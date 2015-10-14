@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206763",
+                "bus": "yes",
+                "name": "Grimminge De Helix",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGVORST GRIMMINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.934531,
+                    50.782417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;370",
+                "ref:De_Lijn": "206623",
+                "bus": "yes",
+                "name": "Grimminge Hoogvorst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAKVIJVERSTRAAT GRIMMINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.933907,
+                    50.791647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "207623",
+                "bus": "yes",
+                "name": "Grimminge Hoogvorst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAKVIJVERSTRAAT GRIMMINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.934218,
+                    50.791765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206649",
+                "bus": "yes",
+                "name": "Zandbergen Biezenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPEKGATSTRAAT ZANDBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.952559,
+                    50.783417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "207869",
+                "bus": "yes",
+                "name": "Grimminge Keistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIERIJ ZANDBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.946093,
+                    50.785012
+                ]
+            }
+        }
+    ]
+}

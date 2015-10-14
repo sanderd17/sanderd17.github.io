@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "108058",
+                "bus": "yes",
+                "name": "Baarle-Nassau Loveren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOVEREN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.91723,
+                    51.44421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "108024",
+                "bus": "yes",
+                "name": "Baarle-Nassau Reuth",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.907873,
+                    51.442285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "108220",
+                "bus": "yes",
+                "name": "Baarle-Nassau Loveren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOVEREN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.917791,
+                    51.444253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "108026",
+                "bus": "yes",
+                "name": "Baarle-Nassau Reuth",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.904903,
+                    51.441669
+                ]
+            }
+        }
+    ]
+}

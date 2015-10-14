@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "507506",
+                "bus": "yes",
+                "name": "Torhout Paleputten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.081675,
+                    51.027777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;56;78",
+                "ref:De_Lijn": "502510",
+                "bus": "yes",
+                "name": "Torhout Sint-Henricuskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG SINT HENRICUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.094608,
+                    51.027675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "502506",
+                "bus": "yes",
+                "name": "Torhout Paleputten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.081508,
+                    51.027623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;56;78",
+                "ref:De_Lijn": "507510",
+                "bus": "yes",
+                "name": "Torhout Sint-Henricuskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG SINT HENRICUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.095336,
+                    51.027647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "502811",
+                "bus": "yes",
+                "name": "Torhout Bakvoorde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLINGERSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.092433,
+                    51.035302
+                ]
+            }
+        }
+    ]
+}

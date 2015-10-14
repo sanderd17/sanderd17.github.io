@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "70",
+                "ref:De_Lijn": "509335",
+                "bus": "yes",
+                "name": "Nieuwkerke Leeuwerikstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.840751,
+                    50.753226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "70",
+                "ref:De_Lijn": "504335",
+                "bus": "yes",
+                "name": "Nieuwkerke Leeuwerikstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N314 NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.84006,
+                    50.753145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "504633",
+                "bus": "yes",
+                "name": "Wulvergem Nieuw-Zeelanderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGHOFSTRAAT WULVERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.844393,
+                    50.763794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "509632",
+                "bus": "yes",
+                "name": "Wulvergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGHOFSTRAAT WULVERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.852202,
+                    50.760353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504634",
+                "bus": "yes",
+                "name": "Wulvergem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT WULVERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.854595,
+                    50.759538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "509633",
+                "bus": "yes",
+                "name": "Wulvergem Nieuw-Zeelanderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGHOFSTRAAT WULVERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.844087,
+                    50.764024
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "504632",
+                "bus": "yes",
+                "name": "Wulvergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKESTRAAT WULVERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.851376,
+                    50.759128
+                ]
+            }
+        }
+    ]
+}

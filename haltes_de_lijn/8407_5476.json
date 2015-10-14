@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104703",
+                "bus": "yes",
+                "name": "Itegem Rozendaelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOIWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.725448,
+                    51.112772
+                ]
+            }
+        }
+    ]
+}

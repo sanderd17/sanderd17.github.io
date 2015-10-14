@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "205264",
+                "bus": "yes",
+                "name": "Deme",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDEDIJK ZWIJNDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.31515,
+                    51.249855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "204257",
+                "bus": "yes",
+                "name": "Deme",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDEDIJK ZWIJNDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.315294,
+                    51.249765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "764",
+                "ref:De_Lijn": "101276",
+                "bus": "yes",
+                "name": "Fina Vulcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N163 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.320041,
+                    51.257048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "764",
+                "ref:De_Lijn": "101277",
+                "bus": "yes",
+                "name": "Fina Vulcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N163 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.321345,
+                    51.25703
+                ]
+            }
+        }
+    ]
+}

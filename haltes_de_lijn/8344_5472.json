@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "502306",
+                "bus": "yes",
+                "name": "Oedelem Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.350907,
+                    51.167152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "507306",
+                "bus": "yes",
+                "name": "Oedelem Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.352398,
+                    51.167004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;63",
+                "ref:De_Lijn": "502312",
+                "bus": "yes",
+                "name": "Oedelem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345096,
+                    51.168109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "507312",
+                "bus": "yes",
+                "name": "Oedelem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.344518,
+                    51.168374
+                ]
+            }
+        }
+    ]
+}

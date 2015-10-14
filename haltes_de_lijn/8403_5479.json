@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104054",
+                "bus": "yes",
+                "name": "Beerzel Oude Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653323,
+                    51.071583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "571;943",
+                "ref:De_Lijn": "108143",
+                "bus": "yes",
+                "name": "Beerzel Berlaarbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUWSTRAAT BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.657233,
+                    51.069371
+                ]
+            }
+        }
+    ]
+}

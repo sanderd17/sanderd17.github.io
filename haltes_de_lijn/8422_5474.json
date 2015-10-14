@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "299",
+                "ref:De_Lijn": "406498",
+                "bus": "yes",
+                "name": "Meerhout Zavelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIKANT MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.057778,
+                    51.140412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "299",
+                "ref:De_Lijn": "406499",
+                "bus": "yes",
+                "name": "Meerhout Zavelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIKANT MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0582,
+                    51.139996
+                ]
+            }
+        }
+    ]
+}

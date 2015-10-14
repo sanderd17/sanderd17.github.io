@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "409707",
+                "bus": "yes",
+                "name": "Gelderhorsten Horst SC",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELDERHORSTEN GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.279753,
+                    51.184509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "409705",
+                "bus": "yes",
+                "name": "Gelderhorsten Kapsalon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELDERHORSTEN GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.287213,
+                    51.185602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409708",
+                "bus": "yes",
+                "name": "Gelderhorsten Horst SC",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELDERHORSTEN GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.279582,
+                    51.184492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409706",
+                "bus": "yes",
+                "name": "Gelderhorsten Kapsalon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GELDERHORSTEN GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.287342,
+                    51.185637
+                ]
+            }
+        }
+    ]
+}

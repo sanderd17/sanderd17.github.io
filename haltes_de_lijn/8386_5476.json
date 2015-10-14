@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "104619",
+                "bus": "yes",
+                "name": "Hingene Bovenbroekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIETER COOMANSSTRAAT HINGENE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.279852,
+                    51.110574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205447",
+                "bus": "yes",
+                "name": "Steendorp Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT STEENDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.27,
+                    51.123708
+                ]
+            }
+        }
+    ]
+}

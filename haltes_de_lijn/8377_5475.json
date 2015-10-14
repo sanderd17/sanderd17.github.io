@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204067",
+                "bus": "yes",
+                "name": "Belsele Maretak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIJBERG WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.075158,
+                    51.135089
+                ]
+            }
+        }
+    ]
+}

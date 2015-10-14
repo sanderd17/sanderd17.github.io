@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;77",
+                "ref:De_Lijn": "505654",
+                "bus": "yes",
+                "name": "Doomkerke De Radio",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.349621,
+                    51.080608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505067",
+                "bus": "yes",
+                "name": "Doomkerke Amerikaplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.355108,
+                    51.076376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;26",
+                "ref:De_Lijn": "502744",
+                "bus": "yes",
+                "name": "Doomkerke De Radio",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.349379,
+                    51.080615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505697",
+                "bus": "yes",
+                "name": "Wingene Predikheren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PREDIKHERENSTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.344269,
+                    51.078683
+                ]
+            }
+        }
+    ]
+}

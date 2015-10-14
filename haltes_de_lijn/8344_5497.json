@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72",
+                "ref:De_Lijn": "508009",
+                "bus": "yes",
+                "name": "Deerlijk Brandsmis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLADIJSSTRAAT DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.361311,
+                    50.829284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;78",
+                "ref:De_Lijn": "504364",
+                "bus": "yes",
+                "name": "Deerlijk Brandsmis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLADIJSSTRAAT DEERLIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.361199,
+                    50.829202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78;99",
+                "ref:De_Lijn": "505306",
+                "bus": "yes",
+                "name": "Zwevegem Stedestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEDESTRAAT ZWEVEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.352475,
+                    50.821026
+                ]
+            }
+        }
+    ]
+}

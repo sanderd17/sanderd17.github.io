@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;672",
+                "ref:De_Lijn": "102323",
+                "bus": "yes",
+                "name": "Essen Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKANTSEBAAN ESSENHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412241,
+                    51.446514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;672;934",
+                "ref:De_Lijn": "104244",
+                "bus": "yes",
+                "name": "Essen Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKANTSEBAAN ESSENHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412686,
+                    51.446325
+                ]
+            }
+        }
+    ]
+}

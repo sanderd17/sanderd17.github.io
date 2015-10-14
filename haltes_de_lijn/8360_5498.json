@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209777",
+                "bus": "yes",
+                "name": "Sint-Kornelis-Horebeke Kouterdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT SINT-KORNELIS-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.702165,
+                    50.81699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209776",
+                "bus": "yes",
+                "name": "Sint-Kornelis-Horebeke Weverbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEKKANTSTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.694936,
+                    50.810449
+                ]
+            }
+        }
+    ]
+}

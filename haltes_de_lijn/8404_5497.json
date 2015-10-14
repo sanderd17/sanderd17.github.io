@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;537",
+                "ref:De_Lijn": "307011",
+                "bus": "yes",
+                "name": "Oud-Heverlee Dokter Vandenborght",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSEBAAN OUD-HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.659406,
+                    50.831779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;537",
+                "ref:De_Lijn": "307016",
+                "bus": "yes",
+                "name": "Oud-Heverlee Dokter Vandenborght",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSEBAAN OUD-HEVERLEE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.65939,
+                    50.831473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300598",
+                "bus": "yes",
+                "name": "Oud-Heverlee Pragen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAURITS NOËSTRAAT VAALBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.673564,
+                    50.823832
+                ]
+            }
+        }
+    ]
+}

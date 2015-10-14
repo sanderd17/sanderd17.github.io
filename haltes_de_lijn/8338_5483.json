@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;29",
+                "ref:De_Lijn": "507248",
+                "bus": "yes",
+                "name": "Koolskamp Wandeling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEZEELSESTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.208167,
+                    51.01985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;29",
+                "ref:De_Lijn": "507566",
+                "bus": "yes",
+                "name": "Zwevezele De Zwemmer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20929,
+                    51.026864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;26",
+                "ref:De_Lijn": "502566",
+                "bus": "yes",
+                "name": "Zwevezele De Zwemmer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.209143,
+                    51.027042
+                ]
+            }
+        }
+    ]
+}

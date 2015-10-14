@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204578",
+                "bus": "yes",
+                "name": "Berlare Rusthuis Kruyenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURFPUTSTRAAT BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.991009,
+                    51.023324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204163",
+                "bus": "yes",
+                "name": "Berlare Sint-Jobstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALGENBERGSTRAAT BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.992073,
+                    51.020325
+                ]
+            }
+        }
+    ]
+}

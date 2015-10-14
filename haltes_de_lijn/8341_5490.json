@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;81",
+                "ref:De_Lijn": "503286",
+                "bus": "yes",
+                "name": "Ingelmunster School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTROZEBEKESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2771,
+                    50.917517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505292",
+                "bus": "yes",
+                "name": "Meulebeke Hulstveldedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VUILPUTSTRAAT MEULEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.28688,
+                    50.927003
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "508290",
+                "bus": "yes",
+                "name": "Ingelmunster Vliegend Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTROZEBEKESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.282377,
+                    50.916901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81",
+                "ref:De_Lijn": "508286",
+                "bus": "yes",
+                "name": "Ingelmunster School",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTROZEBEKESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.276969,
+                    50.91766
+                ]
+            }
+        }
+    ]
+}

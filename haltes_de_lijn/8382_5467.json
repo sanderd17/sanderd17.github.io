@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;84",
+                "ref:De_Lijn": "205483",
+                "bus": "yes",
+                "name": "Vrasene Oprit N49",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N451 VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190065,
+                    51.237392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;84;240",
+                "ref:De_Lijn": "204042",
+                "bus": "yes",
+                "name": "Vrasene Schoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERREBROEKSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.18989,
+                    51.241958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;84;240",
+                "ref:De_Lijn": "205042",
+                "bus": "yes",
+                "name": "Vrasene Schoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERREBROEKSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190076,
+                    51.242102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;84",
+                "ref:De_Lijn": "204483",
+                "bus": "yes",
+                "name": "Vrasene Oprit N49",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N451 VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190265,
+                    51.237482
+                ]
+            }
+        }
+    ]
+}

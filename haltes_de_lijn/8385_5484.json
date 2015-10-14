@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;320",
+                "ref:De_Lijn": "207327",
+                "bus": "yes",
+                "name": "Malderen Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENHUFFELSTRAAT MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.253296,
+                    51.009992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "206327",
+                "bus": "yes",
+                "name": "Malderen Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLAS MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.254124,
+                    51.00949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "207328",
+                "bus": "yes",
+                "name": "Malderen Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENHUFFELSTRAAT MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.249384,
+                    51.013054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;320",
+                "ref:De_Lijn": "206328",
+                "bus": "yes",
+                "name": "Malderen Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENHUFFELSTRAAT MALDEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.248999,
+                    51.013179
+                ]
+            }
+        }
+    ]
+}

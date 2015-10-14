@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "501484",
+                "bus": "yes",
+                "name": "Wulpen Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNEKEIWEG WULPEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.683505,
+                    51.097821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "501445",
+                "bus": "yes",
+                "name": "Wulpen Dijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTESTRAAT WULPEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.69981,
+                    51.104679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "501446",
+                "bus": "yes",
+                "name": "Wulpen Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSPLAATS WULPEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699386,
+                    51.100573
+                ]
+            }
+        }
+    ]
+}

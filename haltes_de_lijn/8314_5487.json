@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;51;57;59",
+                "ref:De_Lijn": "509394",
+                "bus": "yes",
+                "name": "Pollinkhove Gapaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N8 POLLINKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699472,
+                    50.972143
+                ]
+            }
+        }
+    ]
+}

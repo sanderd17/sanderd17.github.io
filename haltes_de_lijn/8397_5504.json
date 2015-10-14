@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304198",
+                "bus": "yes",
+                "name": "Rosières Avenue du Parc",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GENVALSTRAAT ROSIÈRES (RIXENSART)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.526095,
+                    50.728347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304196",
+                "bus": "yes",
+                "name": "Genval Gare",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LA STATION GENVAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514966,
+                    50.725161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343",
+                "ref:De_Lijn": "307504",
+                "bus": "yes",
+                "name": "Overijse Maleizen EEG Sportcomplex",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSLAAN CHAMP DE WOO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.522365,
+                    50.735643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304199",
+                "bus": "yes",
+                "name": "Rosières Avenue du Parc",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GENVALSTRAAT CHAMP DE WOO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.526067,
+                    50.728473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304195",
+                "bus": "yes",
+                "name": "Genval Avenue Beau Site",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AVENUE ALBERT 1ER GENVAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.506684,
+                    50.726232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304194",
+                "bus": "yes",
+                "name": "Genval Avenue Beau Site",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AVENUE ALBERT 1ER GENVAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.506855,
+                    50.726295
+                ]
+            }
+        }
+    ]
+}

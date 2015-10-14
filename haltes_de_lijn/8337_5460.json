@@ -1,0 +1,132 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "505781",
+                "bus": "yes",
+                "name": "Zeebrugge Appelzak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF JANSDIJK ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.203324,
+                    51.33487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "500601",
+                "bus": "yes",
+                "name": "Zeebrugge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-DONAASSTRAAT ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.206832,
+                    51.331759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;45;47;92",
+                "ref:De_Lijn": "501456",
+                "bus": "yes",
+                "name": "Zeebrugge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-DONAASSTRAAT ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.206907,
+                    51.331598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506457",
+                "zone:De_Lijn": "13",
+                "name": "Zeebrugge Kerk",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KUSTLAAN ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.206359,
+                    51.331709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "501540",
+                "bus": "yes",
+                "name": "Zeebrugge Oude Vismijn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WANDELAARSTRAAT ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20473,
+                    51.332592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501457",
+                "name": "Zeebrugge Kerk",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KUSTLAAN ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.206245,
+                    51.331681
+                ]
+            }
+        }
+    ]
+}

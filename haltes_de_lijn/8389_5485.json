@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "308713",
+                "bus": "yes",
+                "name": "Wolvertem Westrode Stuyverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWENRODESTRAAT WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.337174,
+                    50.996363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "308714",
+                "bus": "yes",
+                "name": "Wolvertem Westrode Stuyverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWENRODESTRAAT RAMSDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.337031,
+                    50.996624
+                ]
+            }
+        }
+    ]
+}

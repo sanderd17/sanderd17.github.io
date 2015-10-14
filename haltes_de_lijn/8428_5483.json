@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52;90",
+                "ref:De_Lijn": "405974",
+                "bus": "yes",
+                "name": "Lummen Oude Straat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORTSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203546,
+                    51.015902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52;90",
+                "ref:De_Lijn": "405975",
+                "bus": "yes",
+                "name": "Lummen Oude Straat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORTSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203745,
+                    51.015909
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200851",
+                "bus": "yes",
+                "name": "Aalter Bosvijverdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOTENHULLESTRAAT AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.480878,
+                    51.072257
+                ]
+            }
+        }
+    ]
+}

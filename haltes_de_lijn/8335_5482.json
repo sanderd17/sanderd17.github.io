@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;78",
+                "ref:De_Lijn": "502263",
+                "bus": "yes",
+                "name": "Lichtervelde Mosselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEZELESTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.148768,
+                    51.030388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "502920",
+                "bus": "yes",
+                "name": "Lichtervelde Leenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BRUGGEWEG LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.146585,
+                    51.035373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "502257",
+                "bus": "yes",
+                "name": "Lichtervelde Fonteinestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N370 LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.158953,
+                    51.034044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;78",
+                "ref:De_Lijn": "507263",
+                "bus": "yes",
+                "name": "Lichtervelde Mosselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEZELESTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.149039,
+                    51.030373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "507257",
+                "bus": "yes",
+                "name": "Lichtervelde Fonteinestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N370 LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.159098,
+                    51.033947
+                ]
+            }
+        }
+    ]
+}

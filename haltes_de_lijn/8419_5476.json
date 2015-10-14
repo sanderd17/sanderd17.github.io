@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405001",
+                "bus": "yes",
+                "name": "Eindhout Amoco",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AMOCOLAAN GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.001774,
+                    51.112698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102521",
+                "bus": "yes",
+                "name": "Eindhout Amoco",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMOCOLAAN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.001759,
+                    51.112672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405000",
+                "bus": "yes",
+                "name": "Eindhout Amoco",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AMOCOLAAN GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.001605,
+                    51.112852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102524",
+                "bus": "yes",
+                "name": "Eindhout Amoco",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMOCOLAAN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.001747,
+                    51.112815
+                ]
+            }
+        }
+    ]
+}

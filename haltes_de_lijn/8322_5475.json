@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;66",
+                "ref:De_Lijn": "501394",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTRAAT SINT-PIETERS-KAPELLE (MIDDELKERKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.874868,
+                    51.126508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "506394",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTRAAT SINT-PIETERS-KAPELLE (MIDDELKERKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.875427,
+                    51.12647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501382",
+                "bus": "yes",
+                "name": "Slijpe Spermaliestraat 13",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG SLIJPE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.86768,
+                    51.124331
+                ]
+            }
+        }
+    ]
+}

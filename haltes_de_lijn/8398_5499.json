@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "549;553;830",
+                "ref:De_Lijn": "304004",
+                "bus": "yes",
+                "name": "Overijse Eizer, Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUISBURGSESTEENWEG EIZER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.546392,
+                    50.795786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "549;553;830",
+                "ref:De_Lijn": "304005",
+                "bus": "yes",
+                "name": "Overijse Eizer, Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUISBURGSESTEENWEG EIZER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.546917,
+                    50.795929
+                ]
+            }
+        }
+    ]
+}

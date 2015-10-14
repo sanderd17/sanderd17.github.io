@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "203727",
+                "bus": "yes",
+                "name": "Assenede Nieuwburg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHOEK ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720805,
+                    51.211413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;195",
+                "ref:De_Lijn": "202727",
+                "bus": "yes",
+                "name": "Assenede Nieuwburg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHOEK ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.720977,
+                    51.21136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200944",
+                "bus": "yes",
+                "name": "Assenede Hazelarenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDEKENSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.716101,
+                    51.218228
+                ]
+            }
+        }
+    ]
+}

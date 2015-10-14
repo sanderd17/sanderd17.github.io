@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;73",
+                "ref:De_Lijn": "502172",
+                "bus": "yes",
+                "name": "Egem Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.25906,
+                    51.014694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505090",
+                "bus": "yes",
+                "name": "Egem Paardestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAERTSTRAAT EGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.267531,
+                    51.018091
+                ]
+            }
+        }
+    ]
+}

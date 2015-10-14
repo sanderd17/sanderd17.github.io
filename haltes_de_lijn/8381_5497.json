@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "165",
+                "ref:De_Lijn": "303643",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Oude Brusselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAPENSTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.168306,
+                    50.828483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "165",
+                "ref:De_Lijn": "303642",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Oude Brusselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAPENSTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.168632,
+                    50.828672
+                ]
+            }
+        }
+    ]
+}

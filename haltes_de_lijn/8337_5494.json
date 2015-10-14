@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "507684",
+                "bus": "yes",
+                "name": "Sint-Eloois-Winkel Sint-Katherinepad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE IZEGEMSESTRAAT SINT-ELOOIS-WINKEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.191514,
+                    50.871397
+                ]
+            }
+        }
+    ]
+}

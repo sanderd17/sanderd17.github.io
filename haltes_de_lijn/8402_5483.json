@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104046",
+                "bus": "yes",
+                "name": "Rijmenam Meiboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKERSTRAAT RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.630165,
+                    51.020256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306636",
+                "bus": "yes",
+                "name": "Keerbergen Bakestraat 102",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BAKESTRAAT RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.632089,
+                    51.015272
+                ]
+            }
+        }
+    ]
+}

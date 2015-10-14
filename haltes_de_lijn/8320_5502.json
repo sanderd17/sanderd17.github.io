@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504341",
+                "bus": "yes",
+                "name": "Nieuwkerke Zwijnebak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.830681,
+                    50.760809
+                ]
+            }
+        }
+    ]
+}

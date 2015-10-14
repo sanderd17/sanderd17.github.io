@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "509455",
+                "bus": "yes",
+                "name": "Rekkem Paradijs",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARADIJSSTRAAT REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.177829,
+                    50.762102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "504455",
+                "bus": "yes",
+                "name": "Rekkem Paradijs",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARADIJSSTRAAT REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.177474,
+                    50.762126
+                ]
+            }
+        }
+    ]
+}

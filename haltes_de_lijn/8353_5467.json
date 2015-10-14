@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;195",
+                "ref:De_Lijn": "202234",
+                "bus": "yes",
+                "name": "Sint-Margriete Groeneweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.53867,
+                    51.246681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203234",
+                "bus": "yes",
+                "name": "Sint-Margriete Groeneweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMINGSTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.53843,
+                    51.246499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200931",
+                "bus": "yes",
+                "name": "Sint-Laureins Langeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEWEG SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.556639,
+                    51.245313
+                ]
+            }
+        }
+    ]
+}

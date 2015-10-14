@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "568;715",
+                "ref:De_Lijn": "301514",
+                "bus": "yes",
+                "name": "Rummen Leeuwbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIESEMSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.156696,
+                    50.903044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "308077",
+                "bus": "yes",
+                "name": "Rummen Diepenpoel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIEPENPOELSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.144362,
+                    50.910327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "308076",
+                "bus": "yes",
+                "name": "Rummen Diepenpoel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIEPENPOELSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.144461,
+                    50.910264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455481",
+                "bus": "yes",
+                "name": "Geetbets Taxi Luc",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BIESEMSTRAAT RUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.157997,
+                    50.906865
+                ]
+            }
+        }
+    ]
+}

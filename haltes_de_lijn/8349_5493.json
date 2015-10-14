@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;88;450",
+                "ref:De_Lijn": "507948",
+                "bus": "yes",
+                "name": "Waregem Hazewindstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOKERSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451369,
+                    50.887344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505963",
+                "bus": "yes",
+                "name": "Waregem Ganzendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.454826,
+                    50.882049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;88",
+                "ref:De_Lijn": "507957",
+                "bus": "yes",
+                "name": "Waregem Driekavenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOKERSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.461839,
+                    50.887623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;88",
+                "ref:De_Lijn": "507956",
+                "bus": "yes",
+                "name": "Waregem Hazewindstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOKERSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451357,
+                    50.887236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "503864",
+                "bus": "yes",
+                "name": "Waregem Karmel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARMELDREEF WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.463708,
+                    50.881317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;88;450",
+                "ref:De_Lijn": "507949",
+                "bus": "yes",
+                "name": "Waregem Driekavenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOKERSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.461794,
+                    50.887721
+                ]
+            }
+        }
+    ]
+}

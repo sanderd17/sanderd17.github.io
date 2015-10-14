@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "509975",
+                "bus": "yes",
+                "name": "Beveren Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNENDALESTRAAT BEVEREN (ROESELARE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.124606,
+                    50.972813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "504975",
+                "bus": "yes",
+                "name": "Beveren Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNENDALESTRAAT BEVEREN (ROESELARE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.124687,
+                    50.972967
+                ]
+            }
+        }
+    ]
+}

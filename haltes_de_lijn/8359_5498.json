@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "209342",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Kabuizestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N457 MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.669805,
+                    50.813448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "209343",
+                "bus": "yes",
+                "name": "Schorisse Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORISSESTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.677326,
+                    50.806642
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;445;460",
+                "ref:De_Lijn": "208343",
+                "bus": "yes",
+                "name": "Schorisse Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORISSESTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.677688,
+                    50.806132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445;460",
+                "ref:De_Lijn": "206670",
+                "bus": "yes",
+                "name": "Schorisse Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZOTTEGEMSTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679789,
+                    50.812851
+                ]
+            }
+        }
+    ]
+}

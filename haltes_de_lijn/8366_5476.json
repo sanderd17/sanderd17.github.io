@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;76;175",
+                "ref:De_Lijn": "200167",
+                "bus": "yes",
+                "name": "Zaffelare Verleydonckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPITEINSSTRAAT LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83407,
+                    51.11561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202618",
+                "bus": "yes",
+                "name": "Zaffelare Hoekskensstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VERLEYDONCKSTRAAT LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.833876,
+                    51.115052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76;175",
+                "ref:De_Lijn": "202620",
+                "bus": "yes",
+                "name": "Zaffelare Rechtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RECHTSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.836519,
+                    51.123765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76;175",
+                "ref:De_Lijn": "202619",
+                "bus": "yes",
+                "name": "Zaffelare Kapiteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.829887,
+                    51.121668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76",
+                "ref:De_Lijn": "203620",
+                "bus": "yes",
+                "name": "Zaffelare Rechtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RECHTSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.836649,
+                    51.123685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;76",
+                "ref:De_Lijn": "201167",
+                "bus": "yes",
+                "name": "Zaffelare Verleydonckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPITEINSSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.834226,
+                    51.115665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76",
+                "ref:De_Lijn": "203619",
+                "bus": "yes",
+                "name": "Zaffelare Kapiteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.829703,
+                    51.121541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203618",
+                "bus": "yes",
+                "name": "Zaffelare Hoekskensstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VERLEYDONCKSTRAAT LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.833905,
+                    51.114989
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;921",
+                "ref:De_Lijn": "109456",
+                "bus": "yes",
+                "name": "Geel Galven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RETIESEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.013093,
+                    51.176414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "104802",
+                "bus": "yes",
+                "name": "Geel Keulsekar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEULSEKAR GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.024125,
+                    51.165755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;921",
+                "ref:De_Lijn": "109455",
+                "bus": "yes",
+                "name": "Geel Galven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RETIESEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.012747,
+                    51.176254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "109553",
+                "bus": "yes",
+                "name": "Geel Kievermont Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.031379,
+                    51.173167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "109555",
+                "bus": "yes",
+                "name": "Geel Millegemseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEVERMONT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.029591,
+                    51.178183
+                ]
+            }
+        }
+    ]
+}

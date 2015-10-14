@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;390",
+                "ref:De_Lijn": "208465",
+                "bus": "yes",
+                "name": "Sint-Lievens-Esse Arestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARESTRAAT SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.884289,
+                    50.870796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "209466",
+                "bus": "yes",
+                "name": "Sint-Lievens-Esse Kruisweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARESTRAAT SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.87922,
+                    50.862388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "209465",
+                "bus": "yes",
+                "name": "Sint-Lievens-Esse Arestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARESTRAAT SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.88409,
+                    50.870796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;390",
+                "ref:De_Lijn": "208466",
+                "bus": "yes",
+                "name": "Sint-Lievens-Esse Kruisweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARESTRAAT SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.879363,
+                    50.862308
+                ]
+            }
+        }
+    ]
+}

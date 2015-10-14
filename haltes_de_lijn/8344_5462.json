@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505519",
+                "bus": "yes",
+                "name": "Sluis Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLUISSTRAAT WESTKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.357966,
+                    51.314707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505619",
+                "bus": "yes",
+                "zone:De_Lijn": "7974",
+                "name": "Sluis Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONDWEG SLUIS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.359517,
+                    51.31463
+                ]
+            }
+        }
+    ]
+}

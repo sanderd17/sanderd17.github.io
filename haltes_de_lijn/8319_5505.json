@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504327",
+                "bus": "yes",
+                "name": "Nieuwkerke De Seule",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N331 NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.804671,
+                    50.720973
+                ]
+            }
+        }
+    ]
+}

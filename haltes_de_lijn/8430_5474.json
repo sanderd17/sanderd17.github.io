@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c",
+                "ref:De_Lijn": "400373",
+                "bus": "yes",
+                "name": "Balen Steenweg op Leopoldsburg II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP LEOPOLDSBURG BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.23107,
+                    51.13832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c",
+                "ref:De_Lijn": "400372",
+                "bus": "yes",
+                "name": "Balen Steenweg op Leopoldsburg II",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP LEOPOLDSBURG BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.230832,
+                    51.138609
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407221",
+                "bus": "yes",
+                "name": "Peer Erpekom Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERPEKOMMERWEG GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.494001,
+                    51.120893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407360",
+                "bus": "yes",
+                "name": "Peer Erpekom Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERPEKOMMERWEG GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.494156,
+                    51.120838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407363",
+                "bus": "yes",
+                "name": "Peer Erpekom school",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLIKOMMERDIJK ERPEKOM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.49575,
+                    51.122351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "406523",
+                "bus": "yes",
+                "name": "Meeuwen Eikenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERDERBAAN MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.504347,
+                    51.11051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407220",
+                "bus": "yes",
+                "name": "Peer Erpekom school",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLIKOMMERDIJK ERPEKOM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495752,
+                    51.122441
+                ]
+            }
+        }
+    ]
+}

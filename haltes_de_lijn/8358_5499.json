@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "205988",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Bovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVENSTRAAT MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.652664,
+                    50.801307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208789",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Kerkem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKEMSTRAAT KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.64881,
+                    50.797265
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "209499",
+                "bus": "yes",
+                "name": "Tenabele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OMMEGANGSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.604997,
+                    50.766358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "209193",
+                "bus": "yes",
+                "name": "Kerkhof Hogerlucht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGERLUCHT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603735,
+                    50.764651
+                ]
+            }
+        }
+    ]
+}

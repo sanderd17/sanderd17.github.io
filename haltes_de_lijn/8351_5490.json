@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201833",
+                "bus": "yes",
+                "name": "Kruishoutem Huttegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUTTEGEMSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.511693,
+                    50.925243
+                ]
+            }
+        }
+    ]
+}

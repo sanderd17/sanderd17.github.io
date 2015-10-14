@@ -1,0 +1,605 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201898",
+                "bus": "yes",
+                "name": "Evergem Spoorwegstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHRISTOFFELWEG EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.705866,
+                    51.107481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200279",
+                "name": "Wondelgem De Post",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "INDUSTRIEWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.707297,
+                    51.097125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200784",
+                "bus": "yes",
+                "name": "Wondelgem Industrieweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "INDUSTRIEWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710599,
+                    51.098851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209814",
+                "bus": "yes",
+                "name": "Wondelgem Ganda Cars Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EVERGEMSESTEENWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.712719,
+                    51.098324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;57;58;150",
+                "ref:De_Lijn": "202016",
+                "bus": "yes",
+                "name": "Evergem Achterstege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDEKEN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709808,
+                    51.106344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "201002",
+                "zone:De_Lijn": "13",
+                "name": "Evergem Spoorwegstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "CHRISTOFFELWEG EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.704875,
+                    51.107835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200003",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Heinakker",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "HEINAKKER WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711657,
+                    51.100808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;57;58",
+                "ref:De_Lijn": "203015",
+                "bus": "yes",
+                "name": "Wondelgem Waalbrugstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERGEMSESTEENWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.713288,
+                    51.101581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210854",
+                "bus": "yes",
+                "name": "Evergem Elfputten",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOONSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.693867,
+                    51.10975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200005",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Industrieweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEFKENSSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.71132,
+                    51.09837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209941",
+                "bus": "yes",
+                "name": "Wondelgem V.D.A.B.",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.706787,
+                    51.096852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "203297",
+                "bus": "yes",
+                "name": "Evergem Stationsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.701458,
+                    51.107124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200002",
+                "zone:De_Lijn": "13",
+                "name": "Evergem Spoorwegstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "CHRISTOFFELWEG EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.705321,
+                    51.107604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200994",
+                "name": "Wondelgem Industrieweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "LIEFKENSSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711319,
+                    51.098442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201994",
+                "bus": "yes",
+                "name": "Wondelgem Industrieweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "LIEFKENSSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711971,
+                    51.09876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201784",
+                "bus": "yes",
+                "name": "Wondelgem Industrieweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "INDUSTRIEWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710542,
+                    51.098887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200878",
+                "bus": "yes",
+                "name": "Evergem Spoorwegstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHRISTOFFELWEG EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.704861,
+                    51.107844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "201004",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Industrieweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LIEFKENSSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711603,
+                    51.098524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "208889",
+                "bus": "yes",
+                "name": "Evergem Kermisstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RALINGEN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692239,
+                    51.10682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;57;58",
+                "ref:De_Lijn": "202014",
+                "bus": "yes",
+                "name": "Wondelgem Liefkensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERGEMSESTEENWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.71236,
+                    51.098483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;56;57;58;150",
+                "ref:De_Lijn": "202017",
+                "bus": "yes",
+                "name": "Evergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSPLEIN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708163,
+                    51.1086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;57;58",
+                "ref:De_Lijn": "203016",
+                "bus": "yes",
+                "name": "Evergem Achterstege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDEKEN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709979,
+                    51.10639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "201003",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Heinakker",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "HEINAKKER WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711657,
+                    51.100808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;57;58",
+                "ref:De_Lijn": "203014",
+                "bus": "yes",
+                "name": "Wondelgem Liefkensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERGEMSESTEENWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.712444,
+                    51.09861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211854",
+                "bus": "yes",
+                "name": "Evergem Elfputten",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOONSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.694339,
+                    51.109663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200004",
+                "zone:De_Lijn": "01",
+                "name": "Wondelgem Industrieweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LIEFKENSSTRAAT WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711319,
+                    51.098442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;57;58",
+                "ref:De_Lijn": "202015",
+                "bus": "yes",
+                "name": "Wondelgem Waalbrugstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERGEMSESTEENWEG WONDELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.713103,
+                    51.101526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;56;57;58",
+                "ref:De_Lijn": "203017",
+                "bus": "yes",
+                "name": "Evergem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSPLEIN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708262,
+                    51.108654
+                ]
+            }
+        }
+    ]
+}

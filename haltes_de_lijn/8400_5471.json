@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;243;420;421;422;423;426",
+                "ref:De_Lijn": "106421",
+                "bus": "yes",
+                "name": "Broechem Achterlo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG BROECHEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.583322,
+                    51.18543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;243;420;421;422;423;426",
+                "ref:De_Lijn": "106420",
+                "bus": "yes",
+                "name": "Broechem Achterlo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG BROECHEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.580922,
+                    51.18601
+                ]
+            }
+        }
+    ]
+}

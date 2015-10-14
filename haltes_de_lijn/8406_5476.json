@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108173",
+                "bus": "yes",
+                "name": "Itegem Lievenstedestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVELSESTEENWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703346,
+                    51.111389
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104706",
+                "bus": "yes",
+                "name": "Itegem Kleine Hooiweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOIWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.714632,
+                    51.113972
+                ]
+            }
+        }
+    ]
+}

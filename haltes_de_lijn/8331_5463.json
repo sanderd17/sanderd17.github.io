@@ -1,0 +1,134 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "501416",
+                "bus": "yes",
+                "name": "Wenduine Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIFT WENDUINE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.075823,
+                    51.296593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "501475",
+                "bus": "yes",
+                "name": "Wenduine Sparrenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIFT WENDUINE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.074563,
+                    51.2924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "506475",
+                "bus": "yes",
+                "name": "Wenduine Sparrenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIFT WENDUINE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.074749,
+                    51.292438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506419",
+                "zone:De_Lijn": "11",
+                "name": "Wenduine Konijnenpad",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "N34E DE HAAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06564,
+                    51.291043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501415",
+                "zone:De_Lijn": "11",
+                "name": "Wenduine Molen",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DRIFT WENDUINE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07587,
+                    51.296459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501419",
+                "zone:De_Lijn": "11",
+                "name": "Wenduine Konijnenpad",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "N34E DE HAAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.06551,
+                    51.291105
+                ]
+            }
+        }
+    ]
+}

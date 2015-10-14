@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;700",
+                "ref:De_Lijn": "409123",
+                "bus": "yes",
+                "name": "Wellen Zavel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT WELLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.339339,
+                    50.852508
+                ]
+            }
+        }
+    ]
+}

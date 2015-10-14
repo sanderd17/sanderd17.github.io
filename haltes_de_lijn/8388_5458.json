@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
+                "ref:De_Lijn": "105332",
+                "bus": "yes",
+                "name": "Zandvliet Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE KEYSERHOEVE ZANDVLIET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.308594,
+                    51.35983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
+                "ref:De_Lijn": "105336",
+                "bus": "yes",
+                "name": "Zandvliet Aakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUTSEBAAN ZANDVLIET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3156,
+                    51.359159
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
+                "ref:De_Lijn": "105334",
+                "bus": "yes",
+                "name": "Zandvliet Aakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUTSEBAAN ZANDVLIET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.315672,
+                    51.359258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
+                "ref:De_Lijn": "105333",
+                "bus": "yes",
+                "name": "Zandvliet Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE KEYSERHOEVE ZANDVLIET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.308637,
+                    51.359722
+                ]
+            }
+        }
+    ]
+}

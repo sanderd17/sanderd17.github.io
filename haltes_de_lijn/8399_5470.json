@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "243;420;421;422;423",
+                "ref:De_Lijn": "106413",
+                "bus": "yes",
+                "name": "Ranst Zevenbergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMSTRAAT RANST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.550017,
+                    51.194017
+                ]
+            }
+        }
+    ]
+}

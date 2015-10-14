@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;62;39b;726",
+                "ref:De_Lijn": "407626",
+                "bus": "yes",
+                "name": "Herderen Kruispunt Tolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG HERDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.575795,
+                    50.804828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;62;39b;726",
+                "ref:De_Lijn": "407627",
+                "bus": "yes",
+                "name": "Herderen Kruispunt Tolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG HERDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.57265,
+                    50.803907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "400184",
+                "bus": "yes",
+                "name": "Millen Oude Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPERSTRAAT MILLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.559957,
+                    50.792915
+                ]
+            }
+        }
+    ]
+}

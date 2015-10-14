@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204766",
+                "bus": "yes",
+                "name": "Kemzeke Boshoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOESTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.076433,
+                    51.235333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;240",
+                "ref:De_Lijn": "204745",
+                "bus": "yes",
+                "name": "Kemzeke Paal De Klingestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE KLINGESTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.065299,
+                    51.247745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;240",
+                "ref:De_Lijn": "205745",
+                "bus": "yes",
+                "name": "Kemzeke Paal De Klingestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE KLINGESTRAAT KEMZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.065055,
+                    51.247807
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "209397",
+                "bus": "yes",
+                "name": "Ouwegem Beertegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUWEGEMSESTEENWEG OUWEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603808,
+                    50.911216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;485",
+                "ref:De_Lijn": "208275",
+                "bus": "yes",
+                "name": "Huise Peerdeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSESTEENWEG HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.619155,
+                    50.909184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "209333",
+                "bus": "yes",
+                "name": "Huise Peerdeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUWEGEMSESTEENWEG HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615681,
+                    50.909476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;485",
+                "ref:De_Lijn": "208397",
+                "bus": "yes",
+                "name": "Ouwegem Beertegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUWEGEMSESTEENWEG OUWEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603796,
+                    50.911099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46",
+                "ref:De_Lijn": "209275",
+                "bus": "yes",
+                "name": "Huise Peerdeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSESTEENWEG HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.619068,
+                    50.9093
+                ]
+            }
+        }
+    ]
+}

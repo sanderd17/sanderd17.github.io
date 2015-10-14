@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "118;570;573",
+                "ref:De_Lijn": "306129",
+                "bus": "yes",
+                "name": "Schepdaal Caerenbergveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEF SCHEPDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.195262,
+                    50.83187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "118;570;573",
+                "ref:De_Lijn": "301355",
+                "bus": "yes",
+                "name": "Schepdaal Levenslust",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.195642,
+                    50.82911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "118;570;573",
+                "ref:De_Lijn": "306130",
+                "bus": "yes",
+                "name": "Schepdaal Caerenbergveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEF SCHEPDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.195077,
+                    50.831995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "118;570;573",
+                "ref:De_Lijn": "301354",
+                "bus": "yes",
+                "name": "Schepdaal Levenslust",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEESTRAAT SCHEPDAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.196466,
+                    50.828842
+                ]
+            }
+        }
+    ]
+}

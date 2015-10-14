@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "507740",
+                "bus": "yes",
+                "name": "Lichtervelde Hobby Center",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETELBUISERSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13499,
+                    51.045771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "502740",
+                "bus": "yes",
+                "name": "Lichtervelde Hobby Center",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETELBUISERSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.135258,
+                    51.045882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;79",
+                "ref:De_Lijn": "507513",
+                "bus": "yes",
+                "name": "Torhout Tulpenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.120241,
+                    51.053887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "502490",
+                "bus": "yes",
+                "name": "Lichtervelde Turfhauwe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.136222,
+                    51.048283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "507490",
+                "bus": "yes",
+                "name": "Lichtervelde Turfhauwe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.135779,
+                    51.048296
+                ]
+            }
+        }
+    ]
+}

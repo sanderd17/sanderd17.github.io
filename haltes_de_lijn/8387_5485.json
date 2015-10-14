@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "303370",
+                "bus": "yes",
+                "name": "Londerzeel De Zon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301419,
+                    50.997085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "303372",
+                "bus": "yes",
+                "name": "Londerzeel Driehoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEMSESTEENWEG WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298153,
+                    50.989901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "303369",
+                "bus": "yes",
+                "name": "Londerzeel De Zon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301604,
+                    50.997139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "303371",
+                "bus": "yes",
+                "name": "Londerzeel Driehoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298579,
+                    50.991088
+                ]
+            }
+        }
+    ]
+}

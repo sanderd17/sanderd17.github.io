@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "201943",
+                "bus": "yes",
+                "name": "Destelbergen Veldeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENSSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.810703,
+                    51.07391
+                ]
+            }
+        }
+    ]
+}

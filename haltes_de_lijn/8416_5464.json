@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "103658",
+                "bus": "yes",
+                "name": "Turnhout Tielendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELENDIJK ZEVENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.939213,
+                    51.288172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "103657",
+                "bus": "yes",
+                "name": "Turnhout Leiseinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUIVENDONGENSTRAAT ZEVENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.939687,
+                    51.287082
+                ]
+            }
+        }
+    ]
+}

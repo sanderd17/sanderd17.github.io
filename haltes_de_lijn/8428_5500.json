@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;731;S12",
+                "ref:De_Lijn": "407800",
+                "bus": "yes",
+                "name": "Aalst Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGWORMSESTEENWEG AALST (SINT-TRUIDEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.207037,
+                    50.779603
+                ]
+            }
+        }
+    ]
+}

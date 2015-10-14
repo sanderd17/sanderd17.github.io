@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "202751",
+                "bus": "yes",
+                "name": "Drongen Scania Vlaanderen nv",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK-DRONGEN DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.608249,
+                    51.041846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201735",
+                "bus": "yes",
+                "name": "Drongen Halewijnstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALEWIJNSTATIONSTRAAT DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.617859,
+                    51.052542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "202758",
+                "bus": "yes",
+                "name": "Drongen Booiebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK-DRONGEN DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603656,
+                    51.042832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "203751",
+                "bus": "yes",
+                "name": "Drongen Scania Vlaanderen nv",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK-DRONGEN DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.608176,
+                    51.041953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "203758",
+                "bus": "yes",
+                "name": "Drongen Booiebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK-DRONGEN DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603683,
+                    51.042922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200779",
+                "bus": "yes",
+                "name": "Drongen Nevelseheerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALEWIJNSTATIONSTRAAT DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614108,
+                    51.046351
+                ]
+            }
+        }
+    ]
+}

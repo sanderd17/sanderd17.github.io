@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200938",
+                "bus": "yes",
+                "name": "Eeklo Cafetaria Het Leen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAAIWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.57029,
+                    51.169917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;67;69",
+                "ref:De_Lijn": "203041",
+                "bus": "yes",
+                "name": "Eeklo Oude Gentweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580516,
+                    51.175685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;67;69;160;195",
+                "ref:De_Lijn": "202041",
+                "bus": "yes",
+                "name": "Eeklo Oude Gentweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580159,
+                    51.175619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200939",
+                "bus": "yes",
+                "name": "Eeklo Verloren Hoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK CONSCIENCESTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.570741,
+                    51.176104
+                ]
+            }
+        }
+    ]
+}

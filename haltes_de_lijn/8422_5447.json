@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101684",
+                "bus": "yes",
+                "name": "Goirle Wittendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKSEDIJK GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.056593,
+                    51.518496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101681",
+                "bus": "yes",
+                "name": "Goirle Nieuwkerksedijk (verwijderd door de NL-ers)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKSEDIJK GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.055334,
+                    51.517138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101686",
+                "bus": "yes",
+                "name": "Goirle Van Hogendorpplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN HOGENDORPPLEIN GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.05895,
+                    51.521026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101682",
+                "bus": "yes",
+                "name": "Goirle Nieuwkerksedijk (verwijderd door de NL-ers)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKSEDIJK GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.055506,
+                    51.51711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101687",
+                "bus": "yes",
+                "name": "Goirle Van Hogendorpplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN HOGENDORPPLEIN GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.058691,
+                    51.521028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "101683",
+                "bus": "yes",
+                "name": "Goirle Wittendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKERKSEDIJK GOIRLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.056449,
+                    51.518542
+                ]
+            }
+        }
+    ]
+}

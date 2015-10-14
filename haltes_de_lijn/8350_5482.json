@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200841",
+                "bus": "yes",
+                "name": "Lotenhulle Molenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LENTAKKERSTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.485438,
+                    51.037798
+                ]
+            }
+        }
+    ]
+}

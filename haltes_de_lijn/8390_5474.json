@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "133",
+                "ref:De_Lijn": "107196",
+                "bus": "yes",
+                "name": "Aartselaar Helststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CLEYDAELLAAN AARTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.369657,
+                    51.140351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "133",
+                "ref:De_Lijn": "107197",
+                "bus": "yes",
+                "name": "Aartselaar Helststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CLEYDAELLAAN AARTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368557,
+                    51.13983
+                ]
+            }
+        }
+    ]
+}

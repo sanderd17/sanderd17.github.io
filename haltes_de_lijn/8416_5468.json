@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;219;305;493",
+                "ref:De_Lijn": "109214",
+                "bus": "yes",
+                "name": "Lichtaart Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTERLEESTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.926901,
+                    51.22621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;305;493",
+                "ref:De_Lijn": "109215",
+                "bus": "yes",
+                "name": "Lichtaart Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTERLEESTEENWEG LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.927162,
+                    51.226416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200",
+                "ref:De_Lijn": "103479",
+                "bus": "yes",
+                "name": "Lichtaart Klein Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.923594,
+                    51.230999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;305;493",
+                "ref:De_Lijn": "109217",
+                "bus": "yes",
+                "name": "Kasterlee Koningsbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.94121,
+                    51.232667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200",
+                "ref:De_Lijn": "103476",
+                "bus": "yes",
+                "name": "Lichtaart Klein Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT LICHTAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.923448,
+                    51.230694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;219;305;493",
+                "ref:De_Lijn": "109216",
+                "bus": "yes",
+                "name": "Kasterlee Koningsbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.941396,
+                    51.232595
+                ]
+            }
+        }
+    ]
+}

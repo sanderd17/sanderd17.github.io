@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "209348",
+                "bus": "yes",
+                "name": "Koekamerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORISSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.663171,
+                    50.776028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "209350",
+                "bus": "yes",
+                "name": "Sint-Pieters Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORISSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.650681,
+                    50.771331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "209349",
+                "bus": "yes",
+                "name": "Steenweg Op Schorisse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORISSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.659249,
+                    50.771896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;460",
+                "ref:De_Lijn": "208350",
+                "bus": "yes",
+                "name": "Sint-Pieters Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORISSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.651051,
+                    50.771225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;460",
+                "ref:De_Lijn": "208348",
+                "bus": "yes",
+                "name": "Koekamerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORISSESTEENWEG SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.663412,
+                    50.776065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;460",
+                "ref:De_Lijn": "208349",
+                "bus": "yes",
+                "name": "Steenweg Op Schorisse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHORISSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.65979,
+                    50.7718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "204985",
+                "bus": "yes",
+                "name": "Boekzitting",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKZITTING RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.648281,
+                    50.766021
+                ]
+            }
+        }
+    ]
+}

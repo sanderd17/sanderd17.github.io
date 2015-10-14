@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;447;659;679;934",
+                "ref:De_Lijn": "105934",
+                "bus": "yes",
+                "name": "Achterbroek Duffelaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG ACHTERBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.510423,
+                    51.396564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;447;659;679;934",
+                "ref:De_Lijn": "105933",
+                "bus": "yes",
+                "name": "Achterbroek Duffelaarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG ACHTERBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.510595,
+                    51.39642
+                ]
+            }
+        }
+    ]
+}

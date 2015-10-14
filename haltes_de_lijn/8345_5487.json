@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;88",
+                "ref:De_Lijn": "505579",
+                "bus": "yes",
+                "name": "Dentergem Katteknok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSEWEG DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.383277,
+                    50.969969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;88",
+                "ref:De_Lijn": "505140",
+                "bus": "yes",
+                "name": "Oostrozebeke Verre Ginstestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.36757,
+                    50.958751
+                ]
+            }
+        }
+    ]
+}

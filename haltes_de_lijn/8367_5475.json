@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76",
+                "ref:De_Lijn": "203623",
+                "bus": "yes",
+                "name": "Zaffelare Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTEINDE ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.864739,
+                    51.133471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "210043",
+                "bus": "yes",
+                "name": "Zaffelare Berkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.85502,
+                    51.132557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76;175",
+                "ref:De_Lijn": "202622",
+                "bus": "yes",
+                "name": "Zaffelare Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RECHTSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.854388,
+                    51.130253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76",
+                "ref:De_Lijn": "203621",
+                "bus": "yes",
+                "name": "Zaffelare Nerenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RECHTSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.845828,
+                    51.127987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76;175",
+                "ref:De_Lijn": "202623",
+                "bus": "yes",
+                "name": "Zaffelare Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAFFELARE-DORP ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.862774,
+                    51.13286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76",
+                "ref:De_Lijn": "203622",
+                "bus": "yes",
+                "name": "Zaffelare Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENEINDE ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.855714,
+                    51.130547
+                ]
+            }
+        }
+    ]
+}

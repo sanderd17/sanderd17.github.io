@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;160",
+                "ref:De_Lijn": "200686",
+                "bus": "yes",
+                "name": "Merendree Zomergemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DURMSTRAAT ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.571978,
+                    51.09859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201710",
+                "bus": "yes",
+                "name": "Zomergem Rohoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSTRAAT ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.560736,
+                    51.101399
+                ]
+            }
+        }
+    ]
+}

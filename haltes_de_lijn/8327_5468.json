@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;35;46;89",
+                "ref:De_Lijn": "506033",
+                "bus": "yes",
+                "name": "Bredene Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDENE BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.971962,
+                    51.234113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "501037",
+                "bus": "yes",
+                "name": "Bredene Karekietenerf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLUIZENSTRAAT BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.974018,
+                    51.230505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "506037",
+                "bus": "yes",
+                "name": "Bredene Karekietenerf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLUIZENSTRAAT BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9744,
+                    51.230168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;35;46",
+                "ref:De_Lijn": "501033",
+                "bus": "yes",
+                "name": "Bredene Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDENE BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.972107,
+                    51.234043
+                ]
+            }
+        }
+    ]
+}

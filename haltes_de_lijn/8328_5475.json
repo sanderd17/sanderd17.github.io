@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "501092",
+                "bus": "yes",
+                "name": "Eernegem Dewaele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTEENWEG EERNEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.991559,
+                    51.126228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "506092",
+                "bus": "yes",
+                "name": "Eernegem Dewaele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTEENWEG EERNEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.991669,
+                    51.126355
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200698",
+                "bus": "yes",
+                "name": "Nevele Wulfhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEGEKOUTER NEVELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.550511,
+                    51.046853
+                ]
+            }
+        }
+    ]
+}

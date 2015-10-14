@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "508684",
+                "bus": "yes",
+                "name": "Rekkem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162681,
+                    50.785126
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "503689",
+                "bus": "yes",
+                "name": "Rekkem Vierwegenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.152029,
+                    50.789556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "508689",
+                "bus": "yes",
+                "name": "Rekkem Vierwegenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.153172,
+                    50.789244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "503684",
+                "bus": "yes",
+                "name": "Rekkem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT REKKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.162418,
+                    50.785429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;81;84",
+                "ref:De_Lijn": "503558",
+                "bus": "yes",
+                "name": "Menen Nieuw Kwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.143748,
+                    50.78947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "508558",
+                "bus": "yes",
+                "name": "Menen Nieuw Kwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOESKROENSTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.144069,
+                    50.789662
+                ]
+            }
+        }
+    ]
+}

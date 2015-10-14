@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "209195",
+                "bus": "yes",
+                "name": "Bierinkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.578291,
+                    50.754413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;460;470",
+                "ref:De_Lijn": "208412",
+                "bus": "yes",
+                "name": "Kasseiweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.561377,
+                    50.758137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "209387",
+                "bus": "yes",
+                "name": "Hotondstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.569208,
+                    50.761049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "209412",
+                "bus": "yes",
+                "name": "Kasseiweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.561634,
+                    50.757994
+                ]
+            }
+        }
+    ]
+}

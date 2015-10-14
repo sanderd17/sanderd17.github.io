@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501172",
+                "bus": "yes",
+                "name": "Koksijde Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROBERT VANDAMMESTRAAT KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.649127,
+                    51.10503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "501169",
+                "bus": "yes",
+                "name": "Koksijde Oud Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEELAAN KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.649334,
+                    51.105995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506175",
+                "bus": "yes",
+                "name": "Koksijde Kazerne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROBERT VANDAMMESTRAAT KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.640503,
+                    51.102647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506172",
+                "bus": "yes",
+                "name": "Koksijde Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROBERT VANDAMMESTRAAT KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.649273,
+                    51.104933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "506169",
+                "bus": "yes",
+                "name": "Koksijde Oud Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEELAAN KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.648144,
+                    51.107299
+                ]
+            }
+        }
+    ]
+}

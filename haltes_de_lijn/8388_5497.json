@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "116;117;118;140",
+                "ref:De_Lijn": "300757",
+                "bus": "yes",
+                "name": "Democratie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEMOCRATIESTRAAT ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.310128,
+                    50.831614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "116;117;118;140;141;142;144;145;170;171;620",
+                "ref:De_Lijn": "300744",
+                "bus": "yes",
+                "name": "Biestebroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.313121,
+                    50.833153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "116;117;118;141;142;144;145;170;171;620",
+                "ref:De_Lijn": "300743",
+                "bus": "yes",
+                "name": "Biestebroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.313348,
+                    50.833477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "116;117;118;140",
+                "ref:De_Lijn": "300012",
+                "bus": "yes",
+                "name": "Veeweydestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEMOCRATIESTRAAT ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.307045,
+                    50.833608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;142;144;145;170;171;620",
+                "ref:De_Lijn": "300756",
+                "bus": "yes",
+                "name": "Democratie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.309986,
+                    50.831407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "116;117;118;140;141;142;144;145;170;171;620",
+                "ref:De_Lijn": "300758",
+                "bus": "yes",
+                "name": "Democratie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGENSESTEENWEG ANDERLECHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.311206,
+                    50.831983
+                ]
+            }
+        }
+    ]
+}

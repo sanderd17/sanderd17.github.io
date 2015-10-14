@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308039",
+                "bus": "yes",
+                "name": "Tielt-Winge Varkenshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPTIELT TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.898281,
+                    50.927464
+                ]
+            }
+        }
+    ]
+}

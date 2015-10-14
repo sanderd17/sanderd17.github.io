@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "407393",
+                "bus": "yes",
+                "name": "Grote-Brogel Telenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAULILLERWEG GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513322,
+                    51.16615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "407392",
+                "bus": "yes",
+                "name": "Grote-Brogel Telenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAULILLERWEG GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513387,
+                    51.165889
+                ]
+            }
+        }
+    ]
+}

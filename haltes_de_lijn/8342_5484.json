@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505740",
+                "bus": "yes",
+                "name": "Tielt Watewy",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HONDSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.308537,
+                    51.001692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505074",
+                "bus": "yes",
+                "name": "Tielt Hoogserlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HONDSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.3166,
+                    51.004911
+                ]
+            }
+        }
+    ]
+}

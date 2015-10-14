@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207736",
+                "bus": "yes",
+                "name": "Zandbergen Heetveldstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MIDDENSTRAAT BULLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.954817,
+                    50.805657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "207621",
+                "bus": "yes",
+                "name": "Grimminge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJTESTRAAT GRIMMINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.951308,
+                    50.79501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "207622",
+                "bus": "yes",
+                "name": "Grimminge Beauprestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAKVIJVERSTRAAT GRIMMINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.942583,
+                    50.793612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330;370",
+                "ref:De_Lijn": "206756",
+                "bus": "yes",
+                "name": "Zandbergen Heetveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDENSTRAAT BULLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.954577,
+                    50.805521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;370",
+                "ref:De_Lijn": "206621",
+                "bus": "yes",
+                "name": "Grimminge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJTESTRAAT GRIMMINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.95128,
+                    50.794893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;370",
+                "ref:De_Lijn": "206622",
+                "bus": "yes",
+                "name": "Grimminge Beauprestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAKVIJVERSTRAAT GRIMMINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.942981,
+                    50.793559
+                ]
+            }
+        }
+    ]
+}

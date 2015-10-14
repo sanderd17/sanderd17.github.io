@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "508643",
+                "bus": "yes",
+                "name": "Oeselgem Vijvestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAKKENSESTEENWEG OESELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.427201,
+                    50.933083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "503643",
+                "bus": "yes",
+                "name": "Oeselgem Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAKKENSESTEENWEG OESELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.427425,
+                    50.933246
+                ]
+            }
+        }
+    ]
+}

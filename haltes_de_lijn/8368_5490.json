@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;385;390",
+                "ref:De_Lijn": "202345",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Driesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIES SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873984,
+                    50.921239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "203344",
+                "bus": "yes",
+                "name": "Letterhoutem Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN ZOTTEGEM LETTERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.881727,
+                    50.926153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205975",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Molenkouter",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MOLENKOUTER SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.872105,
+                    50.924171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203345",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Driesstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DRIES SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873799,
+                    50.921319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;390",
+                "ref:De_Lijn": "209745",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Molenkouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENKOUTER SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.871777,
+                    50.924223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;385;390",
+                "ref:De_Lijn": "202346",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Sint-Lievensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRABBENIJKSTRAAT SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.867223,
+                    50.920482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;385;390",
+                "ref:De_Lijn": "202344",
+                "bus": "yes",
+                "name": "Letterhoutem Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN ZOTTEGEM LETTERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.881659,
+                    50.925856
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "509654",
+                "bus": "yes",
+                "name": "Houthem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CORTEWILDESTRAAT HOUTHEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.963314,
+                    50.787885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "504654",
+                "bus": "yes",
+                "name": "Houthem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CORTEWILDESTRAAT HOUTHEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.963408,
+                    50.788066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "504653",
+                "bus": "yes",
+                "name": "Houthem Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLEBEKESTRAAT HOUTHEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.955209,
+                    50.78902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "509653",
+                "bus": "yes",
+                "name": "Houthem Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLEBEKESTRAAT HOUTHEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.955378,
+                    50.789067
+                ]
+            }
+        }
+    ]
+}

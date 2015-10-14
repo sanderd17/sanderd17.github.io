@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;450",
+                "ref:De_Lijn": "201667",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Terwilgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.52413,
+                    50.957408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "209262",
+                "bus": "yes",
+                "name": "Kruishoutem Truweelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.537443,
+                    50.946706
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "67",
+                "ref:De_Lijn": "201405",
+                "bus": "yes",
+                "name": "Waarschoot Stuiver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STUIVER WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.575972,
+                    51.149352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "67;160",
+                "ref:De_Lijn": "200405",
+                "bus": "yes",
+                "name": "Waarschoot Stuiver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STUIVER WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.576102,
+                    51.149281
+                ]
+            }
+        }
+    ]
+}

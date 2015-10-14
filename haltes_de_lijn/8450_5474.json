@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;40;14b",
+                "ref:De_Lijn": "401374",
+                "bus": "yes",
+                "name": "Tongerlo Vogelsdonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 TONGERLO (BREE)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.681406,
+                    51.142438
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;40;14b",
+                "ref:De_Lijn": "401241",
+                "bus": "yes",
+                "name": "Bree De Erven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.672363,
+                    51.142565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "401204",
+                "bus": "yes",
+                "name": "Bree 't Hasseltstraat 17",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAVERSTRAAT TONGERLO (BREE)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.670928,
+                    51.139821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "401205",
+                "bus": "yes",
+                "name": "Bree 't Hasseltstraat 17",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAVERSTRAAT TONGERLO (BREE)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.671022,
+                    51.14009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;40;14b",
+                "ref:De_Lijn": "401375",
+                "bus": "yes",
+                "name": "Tongerlo Vogelsdonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.681427,
+                    51.142698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;40;14b",
+                "ref:De_Lijn": "401240",
+                "bus": "yes",
+                "name": "Bree De Erven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T HASSELTKIEZEL TONGERLO (BREE)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.672541,
+                    51.142302
+                ]
+            }
+        }
+    ]
+}

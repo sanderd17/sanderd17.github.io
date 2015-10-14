@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552;701",
+                "ref:De_Lijn": "300423",
+                "bus": "yes",
+                "name": "Assent Meerbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.992249,
+                    50.950141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "300430",
+                "bus": "yes",
+                "name": "Assent Oprit A2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N2 ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.996311,
+                    50.951711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552;701",
+                "ref:De_Lijn": "300429",
+                "bus": "yes",
+                "name": "Assent Oprit A2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.999039,
+                    50.952398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "300424",
+                "bus": "yes",
+                "name": "Assent Meerbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.991564,
+                    50.950046
+                ]
+            }
+        }
+    ]
+}

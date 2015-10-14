@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;49;270",
+                "ref:De_Lijn": "203180",
+                "bus": "yes",
+                "name": "Daknam Ganzendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GANZENDRIES EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.960426,
+                    51.129247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "202181",
+                "bus": "yes",
+                "name": "Daknam Sijpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTDAM DAKNAM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.967136,
+                    51.126376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;49;270",
+                "ref:De_Lijn": "202180",
+                "bus": "yes",
+                "name": "Daknam Ganzendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GANZENDRIES DAKNAM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.960639,
+                    51.129374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "203181",
+                "bus": "yes",
+                "name": "Daknam Sijpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTDAM DAKNAM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.966993,
+                    51.126429
+                ]
+            }
+        }
+    ]
+}

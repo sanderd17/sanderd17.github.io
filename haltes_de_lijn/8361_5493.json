@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208806",
+                "bus": "yes",
+                "name": "Munkzwalm Galerijpad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAFELSTRAAT MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.715675,
+                    50.880354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208930",
+                "bus": "yes",
+                "name": "Munkzwalm Sporthal (Sportlaan)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731182,
+                    50.875918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208805",
+                "bus": "yes",
+                "name": "Munkzwalm Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDLAAN MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.733261,
+                    50.878716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "206677",
+                "bus": "yes",
+                "name": "Munkzwalm Bruul",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUUL MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.734188,
+                    50.882712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208804",
+                "bus": "yes",
+                "name": "Munkzwalm Noordlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDLAAN MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.73297,
+                    50.885546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208954",
+                "bus": "yes",
+                "name": "Munkzwalm Station / Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.73148,
+                    50.875901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208811",
+                "bus": "yes",
+                "name": "Munkzwalm Zwalmlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWALMLAAN MUNKZWALM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735112,
+                    50.876361
+                ]
+            }
+        }
+    ]
+}

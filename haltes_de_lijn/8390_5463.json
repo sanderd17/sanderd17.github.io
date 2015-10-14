@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "105377",
+                "bus": "yes",
+                "name": "General Motors",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368042,
+                    51.29114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "102994",
+                "bus": "yes",
+                "name": "General Motors",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368085,
+                    51.291239
+                ]
+            }
+        }
+    ]
+}

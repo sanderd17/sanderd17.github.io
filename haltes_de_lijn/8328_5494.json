@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505290",
+                "bus": "yes",
+                "name": "Zonnebeke Plasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLASSTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.99479,
+                    50.863191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84;94",
+                "ref:De_Lijn": "508902",
+                "bus": "yes",
+                "name": "Zonnebeke De Vier Seizoenen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.994112,
+                    50.8747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84;94",
+                "ref:De_Lijn": "508906",
+                "bus": "yes",
+                "name": "Zonnebeke Molenaarelst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESELARESTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.005053,
+                    50.86643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;94",
+                "ref:De_Lijn": "503902",
+                "bus": "yes",
+                "name": "Zonnebeke De Vier Seizoenen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.993246,
+                    50.874672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;94",
+                "ref:De_Lijn": "503906",
+                "bus": "yes",
+                "name": "Zonnebeke Molenaarelst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESELARESTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.005236,
+                    50.866468
+                ]
+            }
+        }
+    ]
+}

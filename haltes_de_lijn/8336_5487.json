@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "80",
+                "ref:De_Lijn": "507927",
+                "bus": "yes",
+                "name": "Ardooie Roeselaarsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.182919,
+                    50.967086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "80",
+                "ref:De_Lijn": "502929",
+                "bus": "yes",
+                "name": "Ardooie Tassche",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT TASSE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.168046,
+                    50.959105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "80",
+                "ref:De_Lijn": "502915",
+                "bus": "yes",
+                "name": "Ardooie Roeselaarsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.182915,
+                    50.967248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;80",
+                "ref:De_Lijn": "507915",
+                "bus": "yes",
+                "name": "Ardooie Tassche",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT TASSE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16843,
+                    50.959108
+                ]
+            }
+        }
+    ]
+}

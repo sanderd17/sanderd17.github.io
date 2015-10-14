@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205021",
+                "bus": "yes",
+                "name": "Moerbeke Waas Spelonckvaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPELONCKVAART MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.969579,
+                    51.185018
+                ]
+            }
+        }
+    ]
+}

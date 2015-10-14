@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "209553",
+                "bus": "yes",
+                "name": "Viane Embeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSEWEG VIANE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.944708,
+                    50.740256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206800",
+                "bus": "yes",
+                "name": "Viane Rodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT GALMAARDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.949739,
+                    50.740094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "208554",
+                "bus": "yes",
+                "name": "Viane Dieveketse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMBEKE VIANE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.94223,
+                    50.73702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;370",
+                "ref:De_Lijn": "208553",
+                "bus": "yes",
+                "name": "Viane Embeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSEWEG VIANE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.944724,
+                    50.740121
+                ]
+            }
+        }
+    ]
+}

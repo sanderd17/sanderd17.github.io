@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "205403",
+                "bus": "yes",
+                "name": "Stekene Colputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.023453,
+                    51.191263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;85;240",
+                "ref:De_Lijn": "204403",
+                "bus": "yes",
+                "name": "Stekene Colputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSDORP STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.023982,
+                    51.191319
+                ]
+            }
+        }
+    ]
+}

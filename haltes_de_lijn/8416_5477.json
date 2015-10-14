@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19b;306;510",
+                "ref:De_Lijn": "109004",
+                "bus": "yes",
+                "name": "Zammel Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTERLOSEWEG ZAMMEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942842,
+                    51.096739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944;946",
+                "ref:De_Lijn": "101953",
+                "bus": "yes",
+                "name": "Tongerlo Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENWIJK TONGERLO (WESTERLO)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.922967,
+                    51.104951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101528",
+                "bus": "yes",
+                "name": "Tongerlo Hondseinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIMPSTRAAT TONGERLO (WESTERLO)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.925825,
+                    51.109918
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302587",
+                "bus": "yes",
+                "name": "Kersbeek-Miskom Doddelbergstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DODDELBERGSTRAAT KERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.989114,
+                    50.892885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;561",
+                "ref:De_Lijn": "302586",
+                "bus": "yes",
+                "name": "Kersbeek-Miskom Terbeck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN KERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00668,
+                    50.890615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "302588",
+                "bus": "yes",
+                "name": "Kersbeek-Miskom Doddelbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DODDELBERGSTRAAT KERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.989442,
+                    50.892955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "302594",
+                "bus": "yes",
+                "name": "Kersbeek-Miskom Slagveldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERSBEEK-DORP KERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.993259,
+                    50.890346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "302593",
+                "bus": "yes",
+                "name": "Kersbeek-Miskom Slagveldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERSBEEK-DORP KERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.993387,
+                    50.89039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;561;712",
+                "ref:De_Lijn": "302585",
+                "bus": "yes",
+                "name": "Kersbeek-Miskom Terbeck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN KERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.007235,
+                    50.890684
+                ]
+            }
+        }
+    ]
+}

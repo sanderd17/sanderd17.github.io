@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;730;731",
+                "ref:De_Lijn": "402547",
+                "bus": "yes",
+                "name": "Montenaken Klein Vorsen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENPLAATS MONTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.146103,
+                    50.717659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;730;731",
+                "ref:De_Lijn": "402580",
+                "bus": "yes",
+                "name": "Montenaken Oud Tramstation",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER KEMPENEERSSTRAAT MONTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.142014,
+                    50.720455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;730;731",
+                "ref:De_Lijn": "402546",
+                "bus": "yes",
+                "name": "Montenaken Klein Vorsen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENPLAATS MONTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.146254,
+                    50.717352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;730;731",
+                "ref:De_Lijn": "402581",
+                "bus": "yes",
+                "name": "Montenaken Oud Tramstation",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER KEMPENEERSSTRAAT MONTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.141956,
+                    50.720356
+                ]
+            }
+        }
+    ]
+}

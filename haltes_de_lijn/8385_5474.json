@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205286",
+                "bus": "yes",
+                "name": "Temse Lauwershoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAUSELHOEKSTRAAT TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.241271,
+                    51.141389
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "505307",
+                "bus": "yes",
+                "name": "Eggewaartskapelle Heidehoekstraat 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEYDEHOEKSTRAAT EGGEWAARTSKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.723921,
+                    51.042053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504664",
+                "bus": "yes",
+                "name": "Eggewaartskapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOLLESTRAAT EGGEWAARTSKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.721559,
+                    51.049986
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;49",
+                "ref:De_Lijn": "209487",
+                "bus": "yes",
+                "name": "Nederboelare Industriepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN GERAARDSBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873328,
+                    50.786553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206801",
+                "bus": "yes",
+                "name": "Nederboelare Rusthuis Baronie Van Boelare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELDREEF GERAARDSBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.882936,
+                    50.781675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;49;370;410",
+                "ref:De_Lijn": "208488",
+                "bus": "yes",
+                "name": "Nederboelare Molendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN GERAARDSBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.874252,
+                    50.780884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;49;370;410",
+                "ref:De_Lijn": "208487",
+                "bus": "yes",
+                "name": "Nederboelare Industriepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN GERAARDSBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873557,
+                    50.786302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;49",
+                "ref:De_Lijn": "209488",
+                "bus": "yes",
+                "name": "Nederboelare Molendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN GERAARDSBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.874142,
+                    50.781953
+                ]
+            }
+        }
+    ]
+}

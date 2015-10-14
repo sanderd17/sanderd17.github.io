@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;150;160",
+                "ref:De_Lijn": "202028",
+                "bus": "yes",
+                "name": "Sleidinge Meistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDE SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.656796,
+                    51.1229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203028",
+                "bus": "yes",
+                "name": "Sleidinge Meistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDE SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.656694,
+                    51.123034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;160",
+                "ref:De_Lijn": "201880",
+                "bus": "yes",
+                "name": "Evergem Zevekotestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIEZENSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.667719,
+                    51.110794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "201854",
+                "bus": "yes",
+                "name": "Sleidinge Ledelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEDELAAN SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.663672,
+                    51.12161
+                ]
+            }
+        }
+    ]
+}

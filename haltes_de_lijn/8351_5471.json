@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "203075",
+                "bus": "yes",
+                "name": "Adegem Canadees Museum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAALIJZER ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.501206,
+                    51.19033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200809",
+                "bus": "yes",
+                "name": "Adegem Kruisken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISKEN ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.496464,
+                    51.188398
+                ]
+            }
+        }
+    ]
+}

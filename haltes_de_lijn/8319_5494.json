@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "505803",
+                "bus": "yes",
+                "name": "Elverdinge Molenzicht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOSPITAALSTRAAT ELVERDINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.805866,
+                    50.875096
+                ]
+            }
+        }
+    ]
+}

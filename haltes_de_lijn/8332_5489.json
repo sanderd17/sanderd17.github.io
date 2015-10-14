@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "508658",
+                "bus": "yes",
+                "name": "Oostnieuwkerke De Most",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.080694,
+                    50.942627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "509969",
+                "bus": "yes",
+                "name": "Roeselare Nieuw Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.09659,
+                    50.937891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "504969",
+                "bus": "yes",
+                "name": "Roeselare Nieuw Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.096621,
+                    50.93781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "503658",
+                "bus": "yes",
+                "name": "Oostnieuwkerke De Most",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELARESTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.080754,
+                    50.942528
+                ]
+            }
+        }
+    ]
+}

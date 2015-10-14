@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "470",
+                "ref:De_Lijn": "208743",
+                "bus": "yes",
+                "name": "Kluisbergen Recreatieoord Kluisbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLETSESTRAAT RUIEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.492748,
+                    50.761977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "470",
+                "ref:De_Lijn": "208742",
+                "bus": "yes",
+                "name": "Kluisbergen Bos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT RUIEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.483958,
+                    50.759052
+                ]
+            }
+        }
+    ]
+}

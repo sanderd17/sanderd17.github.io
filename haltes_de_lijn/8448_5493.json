@@ -1,0 +1,215 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455090",
+                "bus": "yes",
+                "name": "Lanaken Taxi Schijns",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.635777,
+                    50.883008
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400009",
+                "bus": "yes",
+                "name": "Lanaken Heidebloem",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.634952,
+                    50.882432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;45;61;20a",
+                "ref:De_Lijn": "405252",
+                "bus": "yes",
+                "name": "Lanaken College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.640707,
+                    50.885031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a",
+                "ref:De_Lijn": "405155",
+                "bus": "yes",
+                "name": "Lanaken Commandant Giddelostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.635117,
+                    50.88279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;724",
+                "ref:De_Lijn": "405161",
+                "bus": "yes",
+                "name": "Gellik Briegden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELWEG VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.628652,
+                    50.878598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400001",
+                "bus": "yes",
+                "name": "Lanaken LAN001",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N78 LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.638729,
+                    50.884423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a",
+                "ref:De_Lijn": "408367",
+                "bus": "yes",
+                "name": "Lanaken College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.640748,
+                    50.884986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;724",
+                "ref:De_Lijn": "405160",
+                "bus": "yes",
+                "name": "Gellik Briegden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZELWEG VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.629073,
+                    50.878917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a",
+                "ref:De_Lijn": "405154",
+                "bus": "yes",
+                "name": "Lanaken Commandant Giddelostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.633896,
+                    50.882309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "405206",
+                "bus": "yes",
+                "name": "Lanaken Arkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANNESTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.639197,
+                    50.888572
+                ]
+            }
+        }
+    ]
+}

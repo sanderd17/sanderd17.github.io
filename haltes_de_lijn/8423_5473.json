@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "406469",
+                "bus": "yes",
+                "name": "Meerhout Grees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE TRAMSTRAAT BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.094544,
+                    51.154197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "406468",
+                "bus": "yes",
+                "name": "Meerhout Grees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE TRAMSTRAAT MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.093912,
+                    51.153958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109426",
+                "bus": "yes",
+                "name": "Mol Voortdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEEPLOOPWEG MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.079074,
+                    51.165168
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "132;133",
+                "ref:De_Lijn": "106881",
+                "bus": "yes",
+                "name": "Kontich Pannebossen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIERSTRAAT KONTICH",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41608,
+                    51.126337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "132;133",
+                "ref:De_Lijn": "106882",
+                "bus": "yes",
+                "name": "Kontich Pannebossen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIERSTRAAT KONTICH",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416338,
+                    51.126571
+                ]
+            }
+        }
+    ]
+}

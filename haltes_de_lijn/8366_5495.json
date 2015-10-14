@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;390",
+                "ref:De_Lijn": "208584",
+                "bus": "yes",
+                "name": "Godveerdegem Rodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT GODVEERDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.841878,
+                    50.854621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "209583",
+                "bus": "yes",
+                "name": "Godveerdegem Rozenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT GODVEERDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.835029,
+                    50.857476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "209584",
+                "bus": "yes",
+                "name": "Godveerdegem Rodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT GODVEERDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.841879,
+                    50.854531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;390",
+                "ref:De_Lijn": "208583",
+                "bus": "yes",
+                "name": "Godveerdegem Rozenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT GODVEERDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.835171,
+                    50.857468
+                ]
+            }
+        }
+    ]
+}

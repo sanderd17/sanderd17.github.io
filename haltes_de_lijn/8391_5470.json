@@ -1,0 +1,607 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;24",
+                "ref:De_Lijn": "103650",
+                "name": "Kolonel Silvertop",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOLONEL SILVERTOPSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38817,
+                    51.195638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "101235",
+                "name": "Montigny",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393211,
+                    51.205866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;180;181;182;183;291;295",
+                "ref:De_Lijn": "107065",
+                "bus": "yes",
+                "name": "Troonplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONTIGNYSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.392123,
+                    51.203835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;38;180;181;182;183;290;291;295;298;500",
+                "ref:De_Lijn": "104406",
+                "bus": "yes",
+                "name": "Antwerpen Station Zuid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOLONEL SILVERTOPSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389387,
+                    51.197732
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;24",
+                "ref:De_Lijn": "104407",
+                "zone:De_Lijn": "01",
+                "name": "Antwerpen Station Zuid",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOLONEL SILVERTOPSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.390188,
+                    51.198154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13",
+                "ref:De_Lijn": "105325",
+                "bus": "yes",
+                "name": "Stedelijke Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL VLOORSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.378413,
+                    51.194138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "101460",
+                "name": "Bolivarplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BOLIVARPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389247,
+                    51.203701
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "103505",
+                "name": "Montigny",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.392868,
+                    51.205812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;24",
+                "ref:De_Lijn": "103098",
+                "zone:De_Lijn": "01",
+                "name": "Brussel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BREDERODESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.390919,
+                    51.200509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;24;290;500",
+                "ref:De_Lijn": "101600",
+                "bus": "yes",
+                "name": "Broedermin",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BREDERODESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393653,
+                    51.20316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;24",
+                "ref:De_Lijn": "104408",
+                "zone:De_Lijn": "01",
+                "name": "Antwerpen Station Zuid",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOLONEL SILVERTOPSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389645,
+                    51.198191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;24",
+                "ref:De_Lijn": "103097",
+                "zone:De_Lijn": "01",
+                "name": "Brussel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MONTIGNYSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.391405,
+                    51.200446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;24",
+                "ref:De_Lijn": "103646",
+                "zone:De_Lijn": "01",
+                "name": "Generaal Armstrong",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOLONEL SILVERTOPSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.38405,
+                    51.194749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;38;180;181;182;183;290;291;295;298;500",
+                "ref:De_Lijn": "104405",
+                "bus": "yes",
+                "name": "Antwerpen Station Zuid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOLONEL SILVERTOPSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389787,
+                    51.197373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "180;181;182;183;291;295",
+                "ref:De_Lijn": "107180",
+                "bus": "yes",
+                "name": "Brederodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONTIGNYSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.391592,
+                    51.201345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;24",
+                "ref:De_Lijn": "103645",
+                "zone:De_Lijn": "01",
+                "name": "Generaal Armstrong",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOLONEL SILVERTOPSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.384278,
+                    51.194452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;24",
+                "ref:De_Lijn": "103651",
+                "name": "Kolonel Silvertop",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOLONEL SILVERTOPSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.388056,
+                    51.196078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "102182",
+                "zone:De_Lijn": "01",
+                "name": "Pacificatie",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "EMIEL BANNINGSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.390121,
+                    51.206226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "103974",
+                "bus": "yes",
+                "name": "Balansstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEDERMINSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.394254,
+                    51.202531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "180;181;182;183;291;295",
+                "ref:De_Lijn": "107185",
+                "bus": "yes",
+                "name": "Brederodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONTIGNYSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.391478,
+                    51.201821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13",
+                "ref:De_Lijn": "105320",
+                "bus": "yes",
+                "name": "Stedelijke Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EMIEL VLOORSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.377569,
+                    51.193788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;180;181;182;183;291;295",
+                "ref:De_Lijn": "102733",
+                "bus": "yes",
+                "name": "Troonplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONTIGNYSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.392023,
+                    51.204302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;180;181;182;183;291;295",
+                "ref:De_Lijn": "107070",
+                "bus": "yes",
+                "name": "Amerikalei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF VAN HOORNESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.392525,
+                    51.206612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "101756",
+                "zone:De_Lijn": "01",
+                "name": "Bolivarplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BOLIVARPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.388818,
+                    51.20451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "101757",
+                "zone:De_Lijn": "01",
+                "name": "Bolivarplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BOLIVARPLAATS ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.388803,
+                    51.204501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "102181",
+                "zone:De_Lijn": "01",
+                "name": "Pacificatie",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "EMIEL BANNINGSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.389992,
+                    51.206262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;13;24;290;500",
+                "ref:De_Lijn": "101595",
+                "bus": "yes",
+                "name": "Broedermin",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BREDERODESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393124,
+                    51.202783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "180;181;182;183;291;295",
+                "ref:De_Lijn": "103041",
+                "bus": "yes",
+                "name": "Graaf Van Hoornestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF VAN HOORNESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.392653,
+                    51.206405
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560",
+                "ref:De_Lijn": "108854",
+                "bus": "yes",
+                "name": "Duffel Heidestraat smid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKHEUVEL MIJLSTRAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.554666,
+                    51.090334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560",
+                "ref:De_Lijn": "108853",
+                "bus": "yes",
+                "name": "Duffel Baetens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKHEUVEL DUFFEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.566158,
+                    51.08743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;556;560",
+                "ref:De_Lijn": "108855",
+                "bus": "yes",
+                "name": "Duffel Heidestraat smid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT MIJLSTRAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.553167,
+                    51.090354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560",
+                "ref:De_Lijn": "108852",
+                "bus": "yes",
+                "name": "Duffel Baetens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKHEUVEL DUFFEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.566201,
+                    51.087555
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;556",
+                "ref:De_Lijn": "108708",
+                "bus": "yes",
+                "name": "Duffel Heidestraat smid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIJLSTRAAT MIJLSTRAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.554354,
+                    51.090811
+                ]
+            }
+        }
+    ]
+}

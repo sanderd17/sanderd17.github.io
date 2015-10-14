@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504775",
+                "bus": "yes",
+                "name": "Westvleteren Sint-Sixtdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOEKUITSTRAAT WESTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.712835,
+                    50.889718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504594",
+                "bus": "yes",
+                "name": "Westvleteren Sint-Sixtus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKERSTRAAT WESTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.720619,
+                    50.895177
+                ]
+            }
+        }
+    ]
+}

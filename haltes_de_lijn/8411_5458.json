@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;434",
+                "ref:De_Lijn": "106344",
+                "bus": "yes",
+                "name": "Merksplas Steenweg op Wortel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP WORTEL MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828293,
+                    51.359105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;434",
+                "ref:De_Lijn": "106343",
+                "bus": "yes",
+                "name": "Merksplas Steenweg op Wortel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP WORTEL MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828437,
+                    51.359122
+                ]
+            }
+        }
+    ]
+}

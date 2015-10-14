@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;52;83",
+                "ref:De_Lijn": "501107",
+                "bus": "yes",
+                "name": "Gistel Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.954728,
+                    51.149824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "506105",
+                "bus": "yes",
+                "name": "Gistel Klokkenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.94496,
+                    51.144825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "501105",
+                "bus": "yes",
+                "name": "Gistel Klokkenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.945844,
+                    51.144898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;52",
+                "ref:De_Lijn": "506107",
+                "bus": "yes",
+                "name": "Gistel Kruiskalsijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.954695,
+                    51.149967
+                ]
+            }
+        }
+    ]
+}

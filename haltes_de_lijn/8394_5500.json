@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345;544",
+                "ref:De_Lijn": "302245",
+                "bus": "yes",
+                "name": "Hoeilaart Welriekende",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERBLOKSTRAAT OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.453234,
+                    50.781516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345;544",
+                "ref:De_Lijn": "302244",
+                "bus": "yes",
+                "name": "Hoeilaart Welriekende",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERBLOKSTRAAT HOEILAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.453007,
+                    50.781508
+                ]
+            }
+        }
+    ]
+}

@@ -1,10 +1,43 @@
+<!-- 
+	vim: tabstop=2:softtabstop=2:shiftwidth=2:noexpandtab
+-->
 <html>
-<body>
-<h2>See the different reports</h2>
-<ul>
-<li> <a href="localisation_street.html">Streetnames with wrong or missing localisation</a>
-<li> <a href="localisation_addr.html">Addresses with wrong or missing localisation</a>
-<li> ...
-</ul>
+	<head>
+		<meta charset='utf-8'>
+		<title>POI Importer</title>
+		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
+		<style type="text/css">
+			#map { height: 100%; width: 100%; }
+			a, th {cursor: pointer; }
+			a:hover, a:focus {text-decoration: underline; }
+			a.blueLink {color: #0645AD; }
+			tr.dataRow:hover {background-color: lightgrey; }
+		</style>
+	</head>
+	<body>
+
+	<div id="mapSection">
+		<div id="map"></div>
+	</div>
+
+	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
+	<script src="Leaflet.MakiMarkers.js"></script>
+	<script type="text/javascript" src="loadData.js"></script>
+	<script type="text/javascript" src="compareData.js"></script>
+	<script type="text/javascript">
+		var mapObj = L.map('map');
+		mapObj.fitWorld();
+		mapObj.setZoom(3);
+		mapObj.on("zoomend", loadData);
+		mapObj.on("moveend", loadData);
+		mapObj.on("overlayadd", loadData);
+		L.tileLayer("http://otile{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png", {
+            subdomains: "1234",
+			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
+			maxZoom: 18
+		})
+			.addTo(mapObj);
+		loadDatasets();
+	</script>
+
 </body>
-</html>

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400264",
+                "bus": "yes",
+                "name": "Kaulille Lozerheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N747 BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.545792,
+                    51.20463
+                ]
+            }
+        }
+    ]
+}

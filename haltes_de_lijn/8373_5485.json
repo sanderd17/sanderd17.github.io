@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201927",
+                "bus": "yes",
+                "name": "Wichelen Rimeir",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIMEIR WICHELEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.996387,
+                    50.990422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201926",
+                "bus": "yes",
+                "name": "Wichelen Bogaert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOGAERT WICHELEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.985801,
+                    50.990883
+                ]
+            }
+        }
+    ]
+}

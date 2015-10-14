@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408701",
+                "bus": "yes",
+                "name": "Sluizen Weg op Wezet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISÉWEG SLUIZEN (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.52824,
+                    50.761883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408700",
+                "bus": "yes",
+                "name": "Sluizen Weg op Wezet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISÉWEG SLUIZEN (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.528115,
+                    50.762001
+                ]
+            }
+        }
+    ]
+}

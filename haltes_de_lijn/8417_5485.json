@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "307421",
+                "bus": "yes",
+                "name": "Keiberg Processieweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTRAAT SCHERPENHEUVEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.952339,
+                    50.990808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "307424",
+                "bus": "yes",
+                "name": "Keiberg Pelgrimsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTRAAT SCHERPENHEUVEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.951121,
+                    50.994797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "307422",
+                "bus": "yes",
+                "name": "Keiberg Processieweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTRAAT SCHERPENHEUVEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.952182,
+                    50.990782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;707;708",
+                "ref:De_Lijn": "307423",
+                "bus": "yes",
+                "name": "Keiberg Pelgrimsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTRAAT SCHERPENHEUVEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.951252,
+                    50.995039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "307501",
+                "bus": "yes",
+                "name": "Messelbroek Testeltsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSEBAAN MESSELBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.94582,
+                    50.998158
+                ]
+            }
+        }
+    ]
+}

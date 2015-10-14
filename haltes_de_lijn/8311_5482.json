@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "505305",
+                "bus": "yes",
+                "name": "Bulskamp Debarkestraat 8",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEBARKESTRAAT VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.621469,
+                    51.03646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "504059",
+                "bus": "yes",
+                "name": "Bulskamp De Barke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELLAAN VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.620527,
+                    51.041068
+                ]
+            }
+        }
+    ]
+}

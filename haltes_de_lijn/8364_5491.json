@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208684",
+                "bus": "yes",
+                "name": "Balegem Evelandweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIERMAN BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.791539,
+                    50.907289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208686",
+                "bus": "yes",
+                "name": "Balegem Houte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTE BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.787955,
+                    50.91538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "205981",
+                "bus": "yes",
+                "name": "Balegem Cijnsweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTE BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.783095,
+                    50.911679
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208685",
+                "bus": "yes",
+                "name": "Balegem Gootje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOIGEMSTRAAT BALEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.799766,
+                    50.914772
+                ]
+            }
+        }
+    ]
+}

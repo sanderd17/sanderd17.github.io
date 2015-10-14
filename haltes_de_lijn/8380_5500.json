@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "163",
+                "ref:De_Lijn": "304499",
+                "bus": "yes",
+                "name": "Sint-Kwintens-Lennik Luckxstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS LUCKXSTRAAT SINT-KWINTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.150719,
+                    50.791783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "163",
+                "ref:De_Lijn": "304498",
+                "bus": "yes",
+                "name": "Sint-Kwintens-Lennik Luckxstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS LUCKXSTRAAT SINT-KWINTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.151061,
+                    50.791559
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "421;428",
+                "ref:De_Lijn": "106507",
+                "bus": "yes",
+                "name": "Zandhoven Het Ven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERSELBAAN ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.658769,
+                    51.206275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "421;428",
+                "ref:De_Lijn": "106505",
+                "bus": "yes",
+                "name": "Viersel Dijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSEBAAN VIERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.664281,
+                    51.193246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "421;428",
+                "ref:De_Lijn": "106508",
+                "bus": "yes",
+                "name": "Zandhoven Het Ven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERSELBAAN ZANDHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.658856,
+                    51.206401
+                ]
+            }
+        }
+    ]
+}

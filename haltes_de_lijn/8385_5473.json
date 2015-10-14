@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205535",
+                "bus": "yes",
+                "name": "Bazel Portugezenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PORTUGEZENSTRAAT BAZEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.256845,
+                    51.153548
+                ]
+            }
+        }
+    ]
+}

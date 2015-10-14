@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "305042",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Kiezegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLABBEEKSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.889186,
+                    50.900068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "307950",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Meenselbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLABBEEKSESTEENWEG KIEZEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894389,
+                    50.896324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "307951",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Meenselbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLABBEEKSESTEENWEG KIEZEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894474,
+                    50.896224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "305043",
+                "bus": "yes",
+                "name": "Sint-Joris-Winge Kiezegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GLABBEEKSESTEENWEG SINT-JORIS-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.889497,
+                    50.899923
+                ]
+            }
+        }
+    ]
+}

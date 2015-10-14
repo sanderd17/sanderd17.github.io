@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209308",
+                "bus": "yes",
+                "name": "Wortegem Tjammelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSEWEG WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.48287,
+                    50.860678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200773",
+                "bus": "yes",
+                "name": "Wortegem Tjammel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TJAMMELSSTRAAT WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.478527,
+                    50.858973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208308",
+                "bus": "yes",
+                "name": "Wortegem Tjammelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAREGEMSEWEG WORTEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.483025,
+                    50.860724
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505973",
+                "bus": "yes",
+                "name": "Anzegem Heuntjeshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUNTJESSTRAAT ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.481401,
+                    50.850445
+                ]
+            }
+        }
+    ]
+}

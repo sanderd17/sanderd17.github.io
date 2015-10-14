@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "301265",
+                "bus": "yes",
+                "name": "Kaggevinne Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.035257,
+                    50.970258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "301266",
+                "bus": "yes",
+                "name": "Kaggevinne Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.035015,
+                    50.970295
+                ]
+            }
+        }
+    ]
+}

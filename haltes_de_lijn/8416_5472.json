@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "109597",
+                "bus": "yes",
+                "name": "Geel Buiteneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLENSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.935635,
+                    51.16634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15b",
+                "ref:De_Lijn": "109601",
+                "bus": "yes",
+                "name": "Geel Buiteneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLENSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.935293,
+                    51.166431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107542",
+                "bus": "yes",
+                "name": "Geel Buitensteinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LARUMSEBRUGWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.936873,
+                    51.175215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107539",
+                "bus": "yes",
+                "name": "Geel Keersvennen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.928038,
+                    51.174241
+                ]
+            }
+        }
+    ]
+}

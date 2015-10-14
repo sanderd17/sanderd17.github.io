@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "505403",
+                "bus": "yes",
+                "name": "Bulskamp Bewesterpoort-West",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEWESTERPOORT-WEST VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.617214,
+                    51.058327
+                ]
+            }
+        }
+    ]
+}

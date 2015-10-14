@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "203974",
+                "bus": "yes",
+                "name": "Lokeren Sinaaistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PONTWEG LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.010579,
+                    51.133401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204238",
+                "bus": "yes",
+                "name": "Sinaai Hulstbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTBAAN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.019508,
+                    51.137275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204236",
+                "bus": "yes",
+                "name": "Lokeren Boogscheutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOGSCHEUTSTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.009081,
+                    51.127482
+                ]
+            }
+        }
+    ]
+}

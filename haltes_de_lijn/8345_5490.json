@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "508994",
+                "bus": "yes",
+                "name": "Wielsbeke Abeele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG WIELSBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.373492,
+                    50.920468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505158",
+                "bus": "yes",
+                "name": "Wielsbeke De Krote",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG SINT-BAAFS-VIJVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.383579,
+                    50.924392
+                ]
+            }
+        }
+    ]
+}

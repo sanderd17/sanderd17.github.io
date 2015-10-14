@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "504281",
+                "bus": "yes",
+                "name": "Merkem Jonkershofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTEENWEG MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.867957,
+                    50.964883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;28",
+                "ref:De_Lijn": "509281",
+                "bus": "yes",
+                "name": "Merkem Jonkershofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTEENWEG MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.868058,
+                    50.964399
+                ]
+            }
+        }
+    ]
+}

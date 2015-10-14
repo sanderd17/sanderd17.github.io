@@ -1,0 +1,113 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "205434",
+                "bus": "yes",
+                "zone:De_Lijn": "7854",
+                "name": "Sint-Jansteen (Nl) Wilhelminastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILHELMINASTRAAT SINT JANSTEEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.047953,
+                    51.258422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "205425",
+                "bus": "yes",
+                "name": "Sint-Jansteen (Nl) Sint-Janstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERIJSTRAAT KAPELLEBRUG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.061303,
+                    51.256444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "204434",
+                "bus": "yes",
+                "zone:De_Lijn": "7854",
+                "name": "Sint-Jansteen (Nl) Wilhelminastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILHELMINASTRAAT SINT JANSTEEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.047753,
+                    51.258439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "204425",
+                "bus": "yes",
+                "name": "Sint-Jansteen (Nl) Sint-Janstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERIJSTRAAT KAPELLEBRUG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.061691,
+                    51.256157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;43",
+                "ref:De_Lijn": "204435",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Sint-Jansteen (Nl) Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFDSTRAAT SINT JANSTEEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.052156,
+                    51.261876
+                ]
+            }
+        }
+    ]
+}

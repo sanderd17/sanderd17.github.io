@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;456;458",
+                "ref:De_Lijn": "106654",
+                "bus": "yes",
+                "name": "Poppel Verbindingsweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG WEELDE POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.027315,
+                    51.436173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;456;458",
+                "ref:De_Lijn": "106653",
+                "bus": "yes",
+                "name": "Weelde Rustoord Emmaus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINSENLAAN WEELDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.02177,
+                    51.430433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;456;458",
+                "ref:De_Lijn": "106655",
+                "bus": "yes",
+                "name": "Poppel Verbindingsweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG WEELDE POPPEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.027283,
+                    51.435894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;451;456;458",
+                "ref:De_Lijn": "106652",
+                "bus": "yes",
+                "name": "Weelde Rustoord Emmaus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINSENLAAN WEELDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.02157,
+                    51.430497
+                ]
+            }
+        }
+    ]
+}

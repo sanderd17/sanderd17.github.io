@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505341",
+                "bus": "yes",
+                "name": "Tielt Ervestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERVESTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.367894,
+                    51.028965
+                ]
+            }
+        }
+    ]
+}

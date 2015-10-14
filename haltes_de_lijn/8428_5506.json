@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41/2",
+                "ref:De_Lijn": "406767",
+                "bus": "yes",
+                "name": "Rosoux Congo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE HESBAYE ROOST-KRENWIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.186221,
+                    50.702928
+                ]
+            }
+        }
+    ]
+}

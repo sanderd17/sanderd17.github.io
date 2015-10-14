@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;99",
+                "ref:De_Lijn": "508053",
+                "bus": "yes",
+                "name": "Bellegem Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSERIJKSWEG BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.291771,
+                    50.791895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;99",
+                "ref:De_Lijn": "503053",
+                "bus": "yes",
+                "name": "Bellegem Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNIKSERIJKSWEG BELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.292492,
+                    50.790786
+                ]
+            }
+        }
+    ]
+}

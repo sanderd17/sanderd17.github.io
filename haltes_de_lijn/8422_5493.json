@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "542;560;715",
+                "ref:De_Lijn": "305651",
+                "bus": "yes",
+                "name": "Budingen Hogen Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGENSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.067128,
+                    50.882027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "542;560;715",
+                "ref:De_Lijn": "305650",
+                "bus": "yes",
+                "name": "Budingen Hogen Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINNEBEEKSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.067281,
+                    50.881793
+                ]
+            }
+        }
+    ]
+}

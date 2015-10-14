@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505124",
+                "bus": "yes",
+                "name": "Meulebeke Kerk Paanders",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLVENSTRAAT PAANDERS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.310538,
+                    50.938303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505125",
+                "bus": "yes",
+                "name": "Meulebeke 't Fort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAANDERSTRAAT PAANDERS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.301588,
+                    50.934536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505123",
+                "bus": "yes",
+                "name": "Meulebeke Linnenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAANDERSTRAAT PAANDERS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.317846,
+                    50.940445
+                ]
+            }
+        }
+    ]
+}

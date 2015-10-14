@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "508632",
+                "bus": "yes",
+                "name": "Moorslede Vierkavenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.078511,
+                    50.914381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "503632",
+                "bus": "yes",
+                "name": "Moorslede Vierkavenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.078409,
+                    50.914479
+                ]
+            }
+        }
+    ]
+}

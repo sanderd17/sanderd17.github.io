@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "503557",
+                "bus": "yes",
+                "name": "Menen Nieuw Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUURTWEG MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.114134,
+                    50.81015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "503576",
+                "bus": "yes",
+                "name": "Menen Ter Beke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENRI DUNANTLAAN MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.116914,
+                    50.81392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "503562",
+                "bus": "yes",
+                "name": "Menen Ons Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZELESTRAAT MENEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.1118,
+                    50.806664
+                ]
+            }
+        }
+    ]
+}

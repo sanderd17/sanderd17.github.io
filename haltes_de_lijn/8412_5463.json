@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "415",
+                "ref:De_Lijn": "106213",
+                "bus": "yes",
+                "name": "Gierle P+R Oprit E34",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N132 GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.855173,
+                    51.289698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "415",
+                "ref:De_Lijn": "106214",
+                "bus": "yes",
+                "name": "Gierle P+R Oprit E34",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N132 GIERLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.855327,
+                    51.289419
+                ]
+            }
+        }
+    ]
+}

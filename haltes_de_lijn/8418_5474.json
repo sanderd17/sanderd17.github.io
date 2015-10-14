@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;492;510;921",
+                "ref:De_Lijn": "108987",
+                "bus": "yes",
+                "name": "Geel Kapellenblok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING-ALBERTSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.982147,
+                    51.144911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "492;510;921",
+                "ref:De_Lijn": "108991",
+                "bus": "yes",
+                "name": "Geel Doornboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING-ALBERTSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.979903,
+                    51.138325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "492;510;921",
+                "ref:De_Lijn": "108988",
+                "bus": "yes",
+                "name": "Geel Kapellenblok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING-ALBERTSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.982568,
+                    51.145394
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "508326",
+                "bus": "yes",
+                "name": "Kanegem Axpoelmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEMSTRAAT KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.391866,
+                    51.00947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505081",
+                "bus": "yes",
+                "name": "Kanegem Kruiswege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TER KOUTER KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.401038,
+                    51.009698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "503327",
+                "bus": "yes",
+                "name": "Kanegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEMSTRAAT KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.402073,
+                    51.012719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "508327",
+                "bus": "yes",
+                "name": "Kanegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEM-DORP KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.403092,
+                    51.013051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "503326",
+                "bus": "yes",
+                "name": "Kanegem Axpoelmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANEGEMSTRAAT KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.391976,
+                    51.009678
+                ]
+            }
+        }
+    ]
+}

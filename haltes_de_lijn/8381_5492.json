@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "165;213",
+                "ref:De_Lijn": "300631",
+                "bus": "yes",
+                "name": "Asse Zavellos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.172825,
+                    50.895714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "215",
+                "ref:De_Lijn": "300192",
+                "bus": "yes",
+                "name": "Asse Heedstraat Huis 63",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEEDSTRAAT ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.165011,
+                    50.901472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "215",
+                "ref:De_Lijn": "300191",
+                "bus": "yes",
+                "name": "Asse Heedstraat Huis 63",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEEDSTRAAT ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.165011,
+                    50.901301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "165;213",
+                "ref:De_Lijn": "300632",
+                "bus": "yes",
+                "name": "Asse Zavellos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.172611,
+                    50.895758
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "505424",
+                "bus": "yes",
+                "name": "Elverdinge Den Bocht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT ELVERDINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.819102,
+                    50.900358
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103533",
+                "bus": "yes",
+                "name": "Merksplas 't Zwart Goor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWART GOOR MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.888281,
+                    51.384221
+                ]
+            }
+        }
+    ]
+}

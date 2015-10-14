@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "501501",
+                "bus": "yes",
+                "name": "Zandvoorde Groene 62",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSESTEENWEG ZANDVOORDE (OOSTENDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.950713,
+                    51.197792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "506501",
+                "bus": "yes",
+                "name": "Zandvoorde Groene 62",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSESTEENWEG ZANDVOORDE (OOSTENDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.950234,
+                    51.198029
+                ]
+            }
+        }
+    ]
+}

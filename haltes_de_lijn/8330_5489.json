@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "508657",
+                "bus": "yes",
+                "name": "Oostnieuwkerke Bourgondisch Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTROZEBEKESTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.043328,
+                    50.943533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "503657",
+                "bus": "yes",
+                "name": "Oostnieuwkerke Bourgondisch Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTROZEBEKESTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.044615,
+                    50.943305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505534",
+                "bus": "yes",
+                "name": "Westrozebeke De Brieke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIBOOMSTRAAT WESTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.037194,
+                    50.932001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;95",
+                "ref:De_Lijn": "504943",
+                "bus": "yes",
+                "name": "Oostnieuwkerke Bombeekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTROZEBEKESTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.054183,
+                    50.942099
+                ]
+            }
+        }
+    ]
+}

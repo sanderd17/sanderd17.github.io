@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "203874",
+                "bus": "yes",
+                "name": "Oombergen Cothem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESPENHOEK SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.845008,
+                    50.909005
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47",
+                "ref:De_Lijn": "203875",
+                "bus": "yes",
+                "name": "Oombergen Astridstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOMBERGENSTRAAT OOMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.839943,
+                    50.904235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47;390",
+                "ref:De_Lijn": "202874",
+                "bus": "yes",
+                "name": "Oombergen Cothem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESPENHOEK SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.845193,
+                    50.908951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;47;390",
+                "ref:De_Lijn": "202875",
+                "bus": "yes",
+                "name": "Oombergen Astridstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOMBERGENSTRAAT OOMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.839141,
+                    50.903504
+                ]
+            }
+        }
+    ]
+}

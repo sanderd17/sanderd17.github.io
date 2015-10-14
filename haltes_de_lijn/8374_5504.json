@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;102",
+                "ref:De_Lijn": "300307",
+                "bus": "yes",
+                "name": "Herne Groeneboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHERPSTRAAT HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.01966,
+                    50.729877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;102",
+                "ref:De_Lijn": "300306",
+                "bus": "yes",
+                "name": "Herne Groeneboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHERPSTRAAT HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.019561,
+                    50.729787
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;102",
+                "ref:De_Lijn": "302134",
+                "bus": "yes",
+                "name": "Herne Imbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHERPSTRAAT HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.017492,
+                    50.731911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;102",
+                "ref:De_Lijn": "302135",
+                "bus": "yes",
+                "name": "Herne Imbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHERPSTRAAT HERNE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.017079,
+                    50.732144
+                ]
+            }
+        }
+    ]
+}

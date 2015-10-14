@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;34;51;92;283",
+                "ref:De_Lijn": "404174",
+                "bus": "yes",
+                "name": "Heusden Rode Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.303129,
+                    51.040504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;34;51;92;283",
+                "ref:De_Lijn": "404146",
+                "bus": "yes",
+                "name": "Heusden Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.295611,
+                    51.038208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "404198",
+                "bus": "yes",
+                "name": "Heusden Zolderseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOTSTRAAT HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.29624,
+                    51.035398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;34;51;92;283",
+                "ref:De_Lijn": "404175",
+                "bus": "yes",
+                "name": "Heusden Rode Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302637,
+                    51.040175
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "404199",
+                "bus": "yes",
+                "name": "Heusden Zolderseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOTSTRAAT HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.296438,
+                    51.035325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;34",
+                "ref:De_Lijn": "404219",
+                "bus": "yes",
+                "name": "Zolder Ketelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLUISBAMD ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.307816,
+                    51.028232
+                ]
+            }
+        }
+    ]
+}

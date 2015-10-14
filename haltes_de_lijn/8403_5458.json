@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;640",
+                "ref:De_Lijn": "102609",
+                "bus": "yes",
+                "name": "Brecht Sint-Lenaartsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643638,
+                    51.369942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;640",
+                "ref:De_Lijn": "102611",
+                "bus": "yes",
+                "name": "Brecht Sint-Lenaartsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643885,
+                    51.370283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;640",
+                "ref:De_Lijn": "102226",
+                "bus": "yes",
+                "name": "Brecht Oude Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.641711,
+                    51.359547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;640",
+                "ref:De_Lijn": "102224",
+                "bus": "yes",
+                "name": "Brecht Oude Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.641883,
+                    51.359619
+                ]
+            }
+        }
+    ]
+}

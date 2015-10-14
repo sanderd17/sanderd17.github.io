@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;81;85;92",
+                "ref:De_Lijn": "503848",
+                "bus": "yes",
+                "name": "Waregem Steenovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANZEGEMSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.445481,
+                    50.865829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;81;85;89;92",
+                "ref:De_Lijn": "504378",
+                "bus": "yes",
+                "name": "Waregem Carpool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANKLIN ROOSEVELTLAAN WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.440284,
+                    50.873664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;85;92",
+                "ref:De_Lijn": "508848",
+                "bus": "yes",
+                "name": "Waregem Steenovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANZEGEMSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.445651,
+                    50.865894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;85;92",
+                "ref:De_Lijn": "504379",
+                "bus": "yes",
+                "name": "Waregem Carpool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANKLIN ROOSEVELTLAAN WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.440357,
+                    50.873565
+                ]
+            }
+        }
+    ]
+}

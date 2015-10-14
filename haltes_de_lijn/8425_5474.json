@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400027",
+                "bus": "yes",
+                "name": "Hulsen Watermolenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HULSEN HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.125913,
+                    51.14857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "102497",
+                "bus": "yes",
+                "name": "Hulsen Watermolenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSEN HULSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12607,
+                    51.148551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400029",
+                "bus": "yes",
+                "name": "Zandvliet Vloedbeemden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLOEDBEEMDENSTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.139552,
+                    51.141039
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400004",
+                "bus": "yes",
+                "name": "Hulsen Ossenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OSSENBERG HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.126091,
+                    51.150762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "102502",
+                "bus": "yes",
+                "name": "Hulsen Watermolenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSEN HULSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.125756,
+                    51.148616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400028",
+                "bus": "yes",
+                "name": "Hulsen Straal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLOEDBEEMDENSTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.130688,
+                    51.141663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400030",
+                "bus": "yes",
+                "name": "Zandvliet Oude Brugstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BRUGSTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.13958,
+                    51.138459
+                ]
+            }
+        }
+    ]
+}

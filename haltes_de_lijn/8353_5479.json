@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "203809",
+                "bus": "yes",
+                "name": "Hansbeke Overbroekkouterslag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERENDREESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.548884,
+                    51.070547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "201681",
+                "bus": "yes",
+                "name": "Hansbeke Voordestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANSBEKESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.554619,
+                    51.071423
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209649",
+                "bus": "yes",
+                "name": "Hansbeke Cardijnlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZANDESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.542998,
+                    51.070191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125;160",
+                "ref:De_Lijn": "202809",
+                "bus": "yes",
+                "name": "Hansbeke Overbroekkouterslag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERENDREESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.548796,
+                    51.070672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125;160",
+                "ref:De_Lijn": "200681",
+                "bus": "yes",
+                "name": "Hansbeke Voordestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANSBEKESTRAAT MERENDREE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.554731,
+                    51.071567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "208649",
+                "bus": "yes",
+                "name": "Hansbeke Cardijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.543139,
+                    51.070246
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b",
+                "ref:De_Lijn": "400470",
+                "bus": "yes",
+                "name": "Emael Rue du Fort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LA VALLÉE EBEN-EMAEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.668425,
+                    50.797363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b",
+                "ref:De_Lijn": "400469",
+                "bus": "yes",
+                "name": "Emael Maison Communale",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE HAUTE EBEN-EMAEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.666141,
+                    50.793738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b",
+                "ref:De_Lijn": "400468",
+                "bus": "yes",
+                "name": "Emael Maison Communale",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE HAUTE EBEN-EMAEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.665359,
+                    50.793162
+                ]
+            }
+        }
+    ]
+}

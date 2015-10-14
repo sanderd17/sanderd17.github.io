@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208724",
+                "bus": "yes",
+                "name": "Scheldewindeke Schaperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAPERSTRAAT SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.738825,
+                    50.919505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208693",
+                "bus": "yes",
+                "name": "Scheldewindeke Wijkschoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAUWSESTRAAT SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.754976,
+                    50.927474
+                ]
+            }
+        }
+    ]
+}

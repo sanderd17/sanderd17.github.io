@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59;77",
+                "ref:De_Lijn": "507484",
+                "bus": "yes",
+                "name": "Tielt Sint-Amandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEBEEKSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.311832,
+                    50.97877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59;77",
+                "ref:De_Lijn": "502484",
+                "bus": "yes",
+                "name": "Tielt Sint-Amandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEBEEKSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.312486,
+                    50.979441
+                ]
+            }
+        }
+    ]
+}

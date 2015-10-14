@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "206266",
+                "bus": "yes",
+                "name": "Erpe Honegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HONEGEMSTRAAT ERPE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.999524,
+                    50.946466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "205986",
+                "bus": "yes",
+                "name": "Lede Sasbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SASSTRAAT LEDE (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.009202,
+                    50.957409
+                ]
+            }
+        }
+    ]
+}

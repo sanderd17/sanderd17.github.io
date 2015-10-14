@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;87",
+                "ref:De_Lijn": "203321",
+                "bus": "yes",
+                "name": "Deinze Kouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTER DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.510244,
+                    50.990489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;125",
+                "ref:De_Lijn": "202320",
+                "bus": "yes",
+                "name": "Zeveren Kaleshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERSESTEENWEG DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.504527,
+                    50.991535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;125",
+                "ref:De_Lijn": "202319",
+                "bus": "yes",
+                "name": "Zeveren Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINKTSTRAAT ZEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.500332,
+                    50.996592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203320",
+                "bus": "yes",
+                "name": "Zeveren Kaleshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALTERSESTEENWEG DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.504071,
+                    50.99155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203319",
+                "bus": "yes",
+                "name": "Zeveren Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINKTSTRAAT ZEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.499661,
+                    50.996632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;87;125",
+                "ref:De_Lijn": "202321",
+                "bus": "yes",
+                "name": "Deinze Kouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTER DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.509873,
+                    50.990531
+                ]
+            }
+        }
+    ]
+}

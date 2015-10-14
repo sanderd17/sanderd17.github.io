@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204261",
+                "bus": "yes",
+                "name": "Waasmunster Bouchoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOUCHOUTSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.053209,
+                    51.122933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "204207",
+                "bus": "yes",
+                "name": "Waasmunster Oude Sousbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SOUSBEEKSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.047061,
+                    51.111402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "205207",
+                "bus": "yes",
+                "name": "Waasmunster Oude Sousbeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SOUSBEEKSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.046945,
+                    51.111609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205250",
+                "bus": "yes",
+                "name": "Waasmunster Hollestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEHEERWEG-HEIDE WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.064482,
+                    51.120221
+                ]
+            }
+        }
+    ]
+}

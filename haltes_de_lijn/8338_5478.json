@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "503979",
+                "bus": "yes",
+                "name": "Ruddervoorde Leegtestraat 80",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEGTESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.209813,
+                    51.090429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;79",
+                "ref:De_Lijn": "502365",
+                "bus": "yes",
+                "name": "Ruddervoorde Sint-Hubert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.223357,
+                    51.087639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505054",
+                "bus": "yes",
+                "name": "Ruddervoorde Laurier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAURIERSTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.214431,
+                    51.094762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;79",
+                "ref:De_Lijn": "507365",
+                "bus": "yes",
+                "name": "Ruddervoorde Sint-Hubert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.223625,
+                    51.087201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "507679",
+                "bus": "yes",
+                "name": "Ruddervoorde Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.223021,
+                    51.092032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "502679",
+                "bus": "yes",
+                "name": "Ruddervoorde Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.22286,
+                    51.092219
+                ]
+            }
+        }
+    ]
+}

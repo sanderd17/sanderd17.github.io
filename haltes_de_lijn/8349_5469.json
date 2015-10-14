@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;58;87;185",
+                "ref:De_Lijn": "210073",
+                "bus": "yes",
+                "name": "Maldegem Zwarte Zusterslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANUNNIK ANDRIESLAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.450088,
+                    51.208129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "201734",
+                "bus": "yes",
+                "name": "Maldegem OCMW Warmhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEGIJNHOFLAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.452287,
+                    51.209827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200817",
+                "bus": "yes",
+                "name": "Maldegem Kleine Warmestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE WARMESTRAAT MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.456357,
+                    51.216115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200887",
+                "bus": "yes",
+                "name": "Maldegem Bloemestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLOEMESTRAAT MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.454502,
+                    51.213646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;185",
+                "ref:De_Lijn": "202057",
+                "bus": "yes",
+                "name": "Maldegem Godshuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEVROUW COURTMANSLAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451782,
+                    51.207818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203057",
+                "bus": "yes",
+                "name": "Maldegem Godshuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEVROUW COURTMANSLAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451376,
+                    51.208121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209841",
+                "bus": "yes",
+                "name": "Maldegem Van Hoorebeke Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEVROUW COURTMANSLAAN MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.451249,
+                    51.208021
+                ]
+            }
+        }
+    ]
+}

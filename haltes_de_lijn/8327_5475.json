@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "501225",
+                "bus": "yes",
+                "name": "Moere Moerdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSE BAAN MOERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.982376,
+                    51.131874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505085",
+                "bus": "yes",
+                "name": "Moere Provincieweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG MOERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.967852,
+                    51.125931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "506225",
+                "bus": "yes",
+                "name": "Moere Moerdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSE BAAN MOERE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.982516,
+                    51.131984
+                ]
+            }
+        }
+    ]
+}

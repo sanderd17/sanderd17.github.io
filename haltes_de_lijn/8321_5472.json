@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501641",
+                "bus": "yes",
+                "name": "Leffinge Meeuwenoord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTDIJK ZUID LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.847733,
+                    51.167437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501595",
+                "bus": "yes",
+                "name": "Wilskerke Korte Dreve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLERISKOTSTRAAT WILSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.835286,
+                    51.178964
+                ]
+            }
+        }
+    ]
+}

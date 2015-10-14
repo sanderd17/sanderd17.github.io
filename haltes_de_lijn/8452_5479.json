@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;721",
+                "ref:De_Lijn": "401786",
+                "bus": "yes",
+                "name": "Elen Schootsheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG NAAR NEEROETEREN ELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.720656,
+                    51.072563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;721",
+                "ref:De_Lijn": "401787",
+                "bus": "yes",
+                "name": "Elen Schootsheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG NAAR NEEROETEREN ELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.720006,
+                    51.072795
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "407487",
+                "bus": "yes",
+                "name": "Lozen Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMONTERWEG LOZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556169,
+                    51.206972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "400953",
+                "bus": "yes",
+                "name": "Lozen Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMONTERWEG LOZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556384,
+                    51.206978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "400950",
+                "bus": "yes",
+                "name": "Lozen Brug kanaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOZERSTRAAT BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.557067,
+                    51.207942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "400951",
+                "bus": "yes",
+                "name": "Lozen Brug kanaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOZERSTRAAT BOCHOLT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556342,
+                    51.207554
+                ]
+            }
+        }
+    ]
+}

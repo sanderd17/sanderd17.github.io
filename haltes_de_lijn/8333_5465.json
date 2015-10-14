@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505221",
+                "bus": "yes",
+                "name": "Nieuwmunster Den Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEUWENSTRAAT NIEUWMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.112529,
+                    51.269004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505045",
+                "bus": "yes",
+                "name": "Nieuwmunster Hoeksam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOELHOFSTRAAT NIEUWMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.098573,
+                    51.273674
+                ]
+            }
+        }
+    ]
+}

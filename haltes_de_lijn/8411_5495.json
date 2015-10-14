@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;713",
+                "ref:De_Lijn": "300691",
+                "bus": "yes",
+                "name": "Boutersem Jagershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG BOUTERSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.819707,
+                    50.847704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307787",
+                "bus": "yes",
+                "name": "Lubbeek Butselbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DROGENHOF LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.82285,
+                    50.861401
+                ]
+            }
+        }
+    ]
+}

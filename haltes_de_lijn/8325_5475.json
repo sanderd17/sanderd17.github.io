@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505561",
+                "bus": "yes",
+                "name": "Zande Speersweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPERESTRAAT ZEVEKOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.924305,
+                    51.136563
+                ]
+            }
+        }
+    ]
+}

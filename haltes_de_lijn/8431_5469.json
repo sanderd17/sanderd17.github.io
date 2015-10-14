@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "401601",
+                "bus": "yes",
+                "name": "Lommel Waaltjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAALTJES LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.252254,
+                    51.220252
+                ]
+            }
+        }
+    ]
+}

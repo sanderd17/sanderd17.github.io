@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;62;63",
+                "ref:De_Lijn": "209338",
+                "bus": "yes",
+                "name": "Etikhove Gieterijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ETIKHOVESTRAAT ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.625424,
+                    50.814047
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;62;63",
+                "ref:De_Lijn": "209337",
+                "bus": "yes",
+                "name": "Etikhove Ladeuze",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ETIKHOVESTRAAT ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.622675,
+                    50.816484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;63",
+                "ref:De_Lijn": "209360",
+                "bus": "yes",
+                "name": "Etikhove Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEDERHOLBEEKSTRAAT ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.62546,
+                    50.811719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208790",
+                "bus": "yes",
+                "name": "Etikhove Spoorwegdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAALZAAKSTRAAT ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.608056,
+                    50.812219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;63",
+                "ref:De_Lijn": "209399",
+                "bus": "yes",
+                "name": "Etikhove Eierput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEDERHOLBEEKSTRAAT ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.623828,
+                    50.809084
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;62;63;460",
+                "ref:De_Lijn": "208337",
+                "bus": "yes",
+                "name": "Etikhove Ladeuze",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ETIKHOVESTRAAT ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.622801,
+                    50.816557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;63;460",
+                "ref:De_Lijn": "208399",
+                "bus": "yes",
+                "name": "Etikhove Eierput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEDERHOLBEEKSTRAAT ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.623998,
+                    50.809049
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;514;515;944",
+                "ref:De_Lijn": "108282",
+                "bus": "yes",
+                "name": "Houtvenne Arbor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARKENSMARKT RAMSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.813142,
+                    51.058629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;514;515;944",
+                "ref:De_Lijn": "108286",
+                "bus": "yes",
+                "name": "Westmeerbeek Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT WESTMEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825159,
+                    51.059338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;514;515;944",
+                "ref:De_Lijn": "108284",
+                "bus": "yes",
+                "name": "Westmeerbeek Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT WESTMEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825414,
+                    51.059212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;514;515;944",
+                "ref:De_Lijn": "108283",
+                "bus": "yes",
+                "name": "Houtvenne Arbor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARKENSMARKT HOUTVENNE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.812386,
+                    51.058659
+                ]
+            }
+        }
+    ]
+}

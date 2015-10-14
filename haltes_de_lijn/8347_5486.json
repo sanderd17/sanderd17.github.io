@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77;88",
+                "ref:De_Lijn": "503111",
+                "bus": "yes",
+                "name": "Dentergem Electrische Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIESTRAAT DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.415626,
+                    50.976951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "508006",
+                "bus": "yes",
+                "name": "Aarsele Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGENHOVESTRAAT AARSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.417443,
+                    50.984984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77;88",
+                "ref:De_Lijn": "508111",
+                "bus": "yes",
+                "name": "Dentergem Electrische Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIESTRAAT DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.41544,
+                    50.977021
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505316",
+                "bus": "yes",
+                "name": "Aarsele Keibos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBOSSTRAAT AARSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.406462,
+                    50.985641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "503006",
+                "bus": "yes",
+                "name": "Aarsele Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGENHOVESTRAAT AARSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.417686,
+                    50.984923
+                ]
+            }
+        }
+    ]
+}

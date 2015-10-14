@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "204557",
+                "bus": "yes",
+                "name": "Kieldrecht Singel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERODESTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.166288,
+                    51.292245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "204030",
+                "bus": "yes",
+                "name": "Kieldrecht Sportpleinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171213,
+                    51.293718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "205030",
+                "bus": "yes",
+                "name": "Kieldrecht Sportpleinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.170769,
+                    51.293655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205557",
+                "bus": "yes",
+                "name": "Kieldrecht Pillendijk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUW-ARENBERGSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.172776,
+                    51.293775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "204031",
+                "bus": "yes",
+                "name": "Kieldrecht Merodestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.165616,
+                    51.291893
+                ]
+            }
+        }
+    ]
+}

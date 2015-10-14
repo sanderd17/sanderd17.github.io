@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "504458",
+                "bus": "yes",
+                "name": "Reninge Hoflandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTVLETERENSTRAAT RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.777778,
+                    50.94371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "509458",
+                "bus": "yes",
+                "name": "Reninge Hoflandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTVLETERENSTRAAT RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.778161,
+                    50.943751
+                ]
+            }
+        }
+    ]
+}

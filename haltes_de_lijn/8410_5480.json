@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221",
+                "ref:De_Lijn": "109340",
+                "bus": "yes",
+                "name": "Houtvenne Varkensmarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VENNEKENSSTRAAT RAMSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805092,
+                    51.056556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221",
+                "ref:De_Lijn": "109339",
+                "bus": "yes",
+                "name": "Houtvenne Varkensmarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VENNEKENSSTRAAT HOUTVENNE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.804836,
+                    51.056674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;514;515;944",
+                "ref:De_Lijn": "108281",
+                "bus": "yes",
+                "name": "Houtvenne Varkensmarkt Provinciebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARKENSMARKT HOUTVENNE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805485,
+                    51.057364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;514;515;944",
+                "ref:De_Lijn": "108279",
+                "bus": "yes",
+                "name": "Houtvenne Varkensmarkt Provinciebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARKENSMARKT RAMSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805426,
+                    51.05722
+                ]
+            }
+        }
+    ]
+}

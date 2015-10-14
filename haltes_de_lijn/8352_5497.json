@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208301",
+                "bus": "yes",
+                "name": "Elsegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSEGEMPLEIN ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.535296,
+                    50.824742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;450",
+                "ref:De_Lijn": "208302",
+                "bus": "yes",
+                "name": "Elsegem Kloosterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNEPPESTRAAT ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.530253,
+                    50.827367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209302",
+                "bus": "yes",
+                "name": "Elsegem Kloosterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNEPPESTRAAT ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.530113,
+                    50.827294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "209301",
+                "bus": "yes",
+                "name": "Elsegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSEGEMPLEIN ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.535083,
+                    50.824741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200759",
+                "bus": "yes",
+                "name": "Elsegem Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEKSTRAAT ELSEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.516409,
+                    50.822907
+                ]
+            }
+        }
+    ]
+}

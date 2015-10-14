@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;434;458;459",
+                "ref:De_Lijn": "106347",
+                "bus": "yes",
+                "name": "Wortel Neerven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGENBERG WORTEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.815247,
+                    51.389345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;434;458;459",
+                "ref:De_Lijn": "106348",
+                "bus": "yes",
+                "name": "Wortel Neerven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGENBERG WORTEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.814831,
+                    51.389356
+                ]
+            }
+        }
+    ]
+}

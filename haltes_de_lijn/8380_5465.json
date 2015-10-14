@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "205751",
+                "bus": "yes",
+                "name": "Meerdonk Molenhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENHOEKSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.13279,
+                    51.271735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "204752",
+                "bus": "yes",
+                "name": "Meerdonk Lange Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.143307,
+                    51.262821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "205752",
+                "bus": "yes",
+                "name": "Meerdonk Lange Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.142675,
+                    51.263188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "204751",
+                "bus": "yes",
+                "name": "Meerdonk Molenhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENHOEKSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.13236,
+                    51.27168
+                ]
+            }
+        }
+    ]
+}

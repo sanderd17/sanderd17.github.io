@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42",
+                "ref:De_Lijn": "501435",
+                "bus": "yes",
+                "name": "Westkapelle Pelikaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUDZELESTRAAT DAMME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.274115,
+                    51.300632
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "492;510;921",
+                "ref:De_Lijn": "108995",
+                "bus": "yes",
+                "name": "Geel Stelensdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING-ALBERTSTRAAT STELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.979395,
+                    51.120233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108568",
+                "bus": "yes",
+                "name": "Geel Stelen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STELEN STELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.976961,
+                    51.124155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108571",
+                "bus": "yes",
+                "name": "Geel Eggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-APOLLONIASTRAAT STELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.972883,
+                    51.123655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;492;510;921",
+                "ref:De_Lijn": "108994",
+                "bus": "yes",
+                "name": "Geel Stelensedijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING-ALBERTSTRAAT STELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.979253,
+                    51.120323
+                ]
+            }
+        }
+    ]
+}

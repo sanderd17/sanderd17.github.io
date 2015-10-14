@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "405394",
+                "bus": "yes",
+                "name": "Hamont Mulkerheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MULK HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.533934,
+                    51.262631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743",
+                "ref:De_Lijn": "405395",
+                "bus": "yes",
+                "name": "Hamont Mulkerheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MULK HAMONT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.534119,
+                    51.262575
+                ]
+            }
+        }
+    ]
+}

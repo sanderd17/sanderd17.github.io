@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308092",
+                "bus": "yes",
+                "name": "Bunsbeek Ruekenbos",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUEKENBOSSTRAAT BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.975322,
+                    50.850786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308093",
+                "bus": "yes",
+                "name": "Bunsbeek Ruekenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUEKENBOSSTRAAT BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.975208,
+                    50.850724
+                ]
+            }
+        }
+    ]
+}

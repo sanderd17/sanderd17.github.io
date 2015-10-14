@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505222",
+                "bus": "yes",
+                "name": "Zedelgem Faliestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FALIESTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.121621,
+                    51.134884
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;94",
+                "ref:De_Lijn": "502548",
+                "bus": "yes",
+                "name": "Zedelgem Borsbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.129512,
+                    51.125572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505735",
+                "bus": "yes",
+                "name": "Zedelgem Westhille",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTHILLE ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.135832,
+                    51.135662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;79;94",
+                "ref:De_Lijn": "507548",
+                "bus": "yes",
+                "name": "Zedelgem Borsbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.130483,
+                    51.125609
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "201458",
+                "bus": "yes",
+                "name": "Grammene Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE HEIRBAAN GRAMMENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.472444,
+                    50.976929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;125",
+                "ref:De_Lijn": "200459",
+                "bus": "yes",
+                "name": "Grammene Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE HEIRBAAN GRAMMENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.474329,
+                    50.978904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201686",
+                "bus": "yes",
+                "name": "Machelen Grammenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAMMENESTRAAT MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.481692,
+                    50.973574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;125",
+                "ref:De_Lijn": "200458",
+                "bus": "yes",
+                "name": "Grammene Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE HEIRBAAN GRAMMENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.471979,
+                    50.976674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "201459",
+                "bus": "yes",
+                "name": "Grammene Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE HEIRBAAN GRAMMENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.474403,
+                    50.978733
+                ]
+            }
+        }
+    ]
+}

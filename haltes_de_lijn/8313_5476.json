@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506683",
+                "bus": "yes",
+                "name": "Oostduinkerke West Hinder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOKSIJDESTEENWEG KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.670845,
+                    51.11064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501682",
+                "bus": "yes",
+                "name": "Oostduinkerke Ammanswalle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.680475,
+                    51.11451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501683",
+                "bus": "yes",
+                "name": "Oostduinkerke West Hinder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOKSIJDESTEENWEG KOKSIJDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.670756,
+                    51.110738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "501261",
+                "bus": "yes",
+                "name": "Oostduinkerke Witte Burg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLD II LAAN OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.678299,
+                    51.122157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "506261",
+                "bus": "yes",
+                "name": "Oostduinkerke Witte Burg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLD II LAAN OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.678466,
+                    51.121494
+                ]
+            }
+        }
+    ]
+}

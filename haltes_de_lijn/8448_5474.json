@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;14b",
+                "ref:De_Lijn": "401266",
+                "bus": "yes",
+                "name": "Bree Kanaal Noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.629378,
+                    51.142709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401994",
+                "bus": "yes",
+                "name": "Bree Expodroom",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIETERREIN KANAAL-NOORD BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.627793,
+                    51.146456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;14b",
+                "ref:De_Lijn": "401267",
+                "bus": "yes",
+                "name": "Bree Kanaal Noord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T HASSELTKIEZEL BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.629571,
+                    51.142967
+                ]
+            }
+        }
+    ]
+}

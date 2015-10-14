@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "156",
+                "ref:De_Lijn": "300407",
+                "bus": "yes",
+                "name": "Lembeek Witte Roos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGENSESTEENWEG HALLE (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2074,
+                    50.72348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "156",
+                "ref:De_Lijn": "300408",
+                "bus": "yes",
+                "name": "Lembeek Witte Roos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGENSESTEENWEG HALLE (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.2075,
+                    50.723372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "156",
+                "ref:De_Lijn": "300395",
+                "bus": "yes",
+                "name": "Halle Groene Jager (Colruyt)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGENSESTEENWEG HALLE (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.21678,
+                    50.726639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "156",
+                "ref:De_Lijn": "300396",
+                "bus": "yes",
+                "name": "Halle Groene Jager (Colruyt)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDINGENSESTEENWEG HALLE (VLAAMS-BRABANT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.216879,
+                    50.726513
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "504518",
+                "bus": "yes",
+                "name": "Vlamertinge Casselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPERINGSEWEG VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.809077,
+                    50.854117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "504517",
+                "bus": "yes",
+                "name": "Vlamertinge Bruneel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPERINGSEWEG VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.802525,
+                    50.854227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "509518",
+                "bus": "yes",
+                "name": "Vlamertinge Casselstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPERINGSEWEG VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.809223,
+                    50.85402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "509517",
+                "bus": "yes",
+                "name": "Vlamertinge Bruneel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPERINGSEWEG VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.802928,
+                    50.85408
+                ]
+            }
+        }
+    ]
+}

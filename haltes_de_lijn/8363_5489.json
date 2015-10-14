@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208696",
+                "bus": "yes",
+                "name": "Scheldewindeke Streekt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STREEKT SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767864,
+                    50.935245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208698",
+                "bus": "yes",
+                "name": "Scheldewindeke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.778993,
+                    50.937144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208695",
+                "bus": "yes",
+                "name": "Scheldewindeke Heet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSE STEENWEG SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.760764,
+                    50.936368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208697",
+                "bus": "yes",
+                "name": "Scheldewindeke Klaproosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERBLOEMSTRAAT SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.774841,
+                    50.934705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202811",
+                "bus": "yes",
+                "name": "Scheldewindeke Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.778639,
+                    50.937007
+                ]
+            }
+        }
+    ]
+}

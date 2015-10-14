@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;140",
+                "ref:De_Lijn": "202509",
+                "bus": "yes",
+                "name": "Destelbergen Palingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDESTEENWEG DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.82923,
+                    51.060962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203509",
+                "bus": "yes",
+                "name": "Destelbergen Palingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDESTEENWEG DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.829559,
+                    51.060918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "203510",
+                "bus": "yes",
+                "name": "Destelbergen Meersakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDESTEENWEG HEUSDEN (DESTELBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.837605,
+                    51.058303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "203607",
+                "bus": "yes",
+                "name": "Destelbergen Draaiboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT DESTELBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.840116,
+                    51.067087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;140",
+                "ref:De_Lijn": "202510",
+                "bus": "yes",
+                "name": "Destelbergen Meersakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDESTEENWEG HEUSDEN (DESTELBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83746,
+                    51.058509
+                ]
+            }
+        }
+    ]
+}

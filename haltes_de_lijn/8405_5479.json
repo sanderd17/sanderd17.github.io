@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;161;510;511;512;515;527",
+                "ref:De_Lijn": "109620",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIEKORFSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.701917,
+                    51.073271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104781",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Oude Liersebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERFTSESTEENWEG WERFT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.694572,
+                    51.077849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;943",
+                "ref:De_Lijn": "104783",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Van Kerckhovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERFTSESTEENWEG HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702022,
+                    51.076013
+                ]
+            }
+        }
+    ]
+}

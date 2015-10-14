@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;T1",
+                "ref:De_Lijn": "408607",
+                "bus": "yes",
+                "name": "Mal Strikstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISÉWEG MAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.520722,
+                    50.78019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;39;61;62;39b",
+                "ref:De_Lijn": "408564",
+                "bus": "yes",
+                "name": "Tongeren Ketsingen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG BERG (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.517079,
+                    50.790736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;T1;738",
+                "ref:De_Lijn": "408546",
+                "bus": "yes",
+                "name": "Mal Strikstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISÉWEG MAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.520788,
+                    50.780019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;T1;738",
+                "ref:De_Lijn": "408616",
+                "bus": "yes",
+                "name": "Tongeren Muggenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISÉWEG MAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.517327,
+                    50.781716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;T1",
+                "ref:De_Lijn": "408617",
+                "bus": "yes",
+                "name": "Tongeren Muggenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISÉWEG MAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.516505,
+                    50.782327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408707",
+                "bus": "yes",
+                "name": "Tongeren Bewel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEERSTERVELDWEG TONGEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.522813,
+                    50.787416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;39;61;62;39b",
+                "ref:De_Lijn": "408565",
+                "bus": "yes",
+                "name": "Tongeren Ketsingen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG BERG (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.517318,
+                    50.790635
+                ]
+            }
+        }
+    ]
+}

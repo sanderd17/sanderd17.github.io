@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "504991",
+                "bus": "yes",
+                "name": "Waregem Jagersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE HEERWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.450517,
+                    50.893154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505797",
+                "bus": "yes",
+                "name": "Waregem Kruishoutemseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.4651,
+                    50.893204
+                ]
+            }
+        }
+    ]
+}

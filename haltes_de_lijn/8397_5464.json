@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "443;780",
+                "ref:De_Lijn": "109934",
+                "bus": "yes",
+                "name": "Schoten Dennenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSHOUTBAAN ELSHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.517853,
+                    51.28124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;620;621;629;780",
+                "ref:De_Lijn": "105475",
+                "bus": "yes",
+                "name": "Schoten Botermelkbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN ELSHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.525796,
+                    51.277886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "780",
+                "ref:De_Lijn": "109949",
+                "bus": "yes",
+                "name": "Schoten Dennenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSHOUTBAAN ELSHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.51781,
+                    51.281402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;620;621;629;780",
+                "ref:De_Lijn": "105473",
+                "bus": "yes",
+                "name": "Schoten Wildhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN ELSHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.524199,
+                    51.276036
+                ]
+            }
+        }
+    ]
+}

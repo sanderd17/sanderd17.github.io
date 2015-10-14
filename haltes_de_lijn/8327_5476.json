@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505762",
+                "bus": "yes",
+                "name": "Koekelare Clevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CLEVENSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.977258,
+                    51.115677
+                ]
+            }
+        }
+    ]
+}

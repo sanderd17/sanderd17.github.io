@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "503680",
+                "bus": "yes",
+                "name": "Outrijve Weg Op Bossuit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOENSTRAAT BOSSUIT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.413757,
+                    50.750499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;99",
+                "ref:De_Lijn": "508077",
+                "bus": "yes",
+                "name": "Moen Maraillestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSUITSTRAAT MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.409588,
+                    50.756911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "508680",
+                "bus": "yes",
+                "name": "Outrijve Weg Op Bossuit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOENSTRAAT BOSSUIT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.413514,
+                    50.750614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "503077",
+                "bus": "yes",
+                "name": "Moen Maraillestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSUITSTRAAT MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.409846,
+                    50.756778
+                ]
+            }
+        }
+    ]
+}

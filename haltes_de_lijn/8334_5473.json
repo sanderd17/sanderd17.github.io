@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;79",
+                "ref:De_Lijn": "502555",
+                "bus": "yes",
+                "name": "Zedelgem Heirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNELLEGEMSESTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.130529,
+                    51.151923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "509892",
+                "bus": "yes",
+                "name": "Zedelgem Kezelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEZELBERGSTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138473,
+                    51.152051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;79",
+                "ref:De_Lijn": "507555",
+                "bus": "yes",
+                "name": "Zedelgem Heirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNELLEGEMSESTRAAT ZEDELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.130715,
+                    51.151898
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208784",
+                "bus": "yes",
+                "name": "Schorisse Hoevestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOEKAMERSTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.669466,
+                    50.772254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208785",
+                "bus": "yes",
+                "name": "Schorisse Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANNOVENSTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.677425,
+                    50.772876
+                ]
+            }
+        }
+    ]
+}

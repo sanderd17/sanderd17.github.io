@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "504776",
+                "bus": "yes",
+                "name": "Houthulst Kapel Melane",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELANEDREEF MERKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90905,
+                    50.954737
+                ]
+            }
+        }
+    ]
+}

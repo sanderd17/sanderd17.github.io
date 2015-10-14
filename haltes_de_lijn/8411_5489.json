@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300544",
+                "bus": "yes",
+                "name": "Sint-Pieters-Rode Kasteel v. Horst",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HORSTSTRAAT SINT-PIETERS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.829011,
+                    50.932026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302287",
+                "bus": "yes",
+                "name": "Nieuwrode Kerkebos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828722,
+                    50.944568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302299",
+                "bus": "yes",
+                "name": "Sint-Pieters-Rode Horst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENSTRAAT SINT-PIETERS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.822033,
+                    50.932719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302283",
+                "bus": "yes",
+                "name": "Nieuwrode Hertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828256,
+                    50.940578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302282",
+                "bus": "yes",
+                "name": "Nieuwrode Hertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODESTRAAT NIEUWRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828427,
+                    50.940586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302298",
+                "bus": "yes",
+                "name": "Sint-Pieters-Rode Horst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENSTRAAT SINT-PIETERS-RODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.823029,
+                    50.93267
+                ]
+            }
+        }
+    ]
+}

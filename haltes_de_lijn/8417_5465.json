@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;490;492",
+                "ref:De_Lijn": "108931",
+                "bus": "yes",
+                "name": "Kasterlee Klein Rees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.959836,
+                    51.266391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;490;492",
+                "ref:De_Lijn": "108933",
+                "bus": "yes",
+                "name": "Kasterlee Zandhoef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.960819,
+                    51.262557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;490;492",
+                "ref:De_Lijn": "108928",
+                "bus": "yes",
+                "name": "Kasterlee De Borcht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP DIEST KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.955284,
+                    51.27471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;490;492",
+                "ref:De_Lijn": "108927",
+                "bus": "yes",
+                "name": "Turnhout De Borcht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP DIEST TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954894,
+                    51.27446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;490;492",
+                "ref:De_Lijn": "108929",
+                "bus": "yes",
+                "name": "Kasterlee Klein Rees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N19 KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.959748,
+                    51.265151
+                ]
+            }
+        }
+    ]
+}

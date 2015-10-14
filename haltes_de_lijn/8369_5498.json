@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206752",
+                "bus": "yes",
+                "name": "Ophasselt Ruisenbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOENEBROEKSTRAAT SCHENDELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.900631,
+                    50.811827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206777",
+                "bus": "yes",
+                "name": "Ophasselt Alfonslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BILDEKEN OPHASSELT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.892602,
+                    50.817288
+                ]
+            }
+        }
+    ]
+}

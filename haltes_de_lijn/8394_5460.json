@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "659;670",
+                "ref:De_Lijn": "105846",
+                "bus": "yes",
+                "name": "Kapellen Marcottedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.447347,
+                    51.344062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "659;670",
+                "ref:De_Lijn": "105844",
+                "bus": "yes",
+                "name": "Kapellen Marcottedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.447419,
+                    51.344323
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203258",
+                "bus": "yes",
+                "name": "Bassevelde Gravenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENSTRAAT BASSEVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614711,
+                    51.248088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203257",
+                "bus": "yes",
+                "name": "Bentille Kerselarenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERSELAARSTRAAT BENTILLE (KAPRIJKE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.60756,
+                    51.247485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "203099",
+                "bus": "yes",
+                "name": "Kaprijke Molenstraat 163",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT KAPRIJKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615689,
+                    51.23987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;195",
+                "ref:De_Lijn": "202099",
+                "bus": "yes",
+                "name": "Kaprijke Molenstraat 163",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT KAPRIJKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.615519,
+                    51.239788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202257",
+                "bus": "yes",
+                "name": "Bentille Kerselarenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERSELAARSTRAAT BENTILLE (SINT-LAUREINS)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607359,
+                    51.247547
+                ]
+            }
+        }
+    ]
+}

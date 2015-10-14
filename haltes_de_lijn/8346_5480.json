@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "504376",
+                "bus": "yes",
+                "name": "Kruiskerke De Wante",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.386412,
+                    51.063705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505060",
+                "bus": "yes",
+                "name": "Ruiselede De Kwakkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AXPOELMOLENSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.403316,
+                    51.056868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505652",
+                "bus": "yes",
+                "name": "Kruiskerke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISKERKESTRAAT KRUISKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387355,
+                    51.067695
+                ]
+            }
+        }
+    ]
+}

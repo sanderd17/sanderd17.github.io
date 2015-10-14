@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;410",
+                "ref:De_Lijn": "209678",
+                "bus": "yes",
+                "name": "Erwetegem Luiveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERLAND ERWETEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.838245,
+                    50.838019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;25",
+                "ref:De_Lijn": "209147",
+                "bus": "yes",
+                "name": "Erwetegem Gaverland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMISSENHOEK ERWETEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.824851,
+                    50.844673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;25;410",
+                "ref:De_Lijn": "208147",
+                "bus": "yes",
+                "name": "Erwetegem Gaverland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMISSENHOEK ERWETEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.82498,
+                    50.844593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209677",
+                "bus": "yes",
+                "name": "Erwetegem Pachtersveldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PACHTERSVELDWEG ERWETEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.835947,
+                    50.845335
+                ]
+            }
+        }
+    ]
+}

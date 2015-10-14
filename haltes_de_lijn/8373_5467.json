@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204768",
+                "bus": "yes",
+                "name": "Stekene Driehoefijzerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIET STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.996452,
+                    51.237212
+                ]
+            }
+        }
+    ]
+}

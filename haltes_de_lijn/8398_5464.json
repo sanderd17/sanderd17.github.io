@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;620;621;629",
+                "ref:De_Lijn": "105477",
+                "bus": "yes",
+                "name": "Schoten Kempensedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN ZWAAN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.536481,
+                    51.288261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "443;600;601;602;620;621;629",
+                "ref:De_Lijn": "105478",
+                "bus": "yes",
+                "name": "Schoten Kempensedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.536351,
+                    51.287911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "443;600;601;602;620;621;629",
+                "ref:De_Lijn": "105476",
+                "bus": "yes",
+                "name": "Schoten Botermelkbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.5266,
+                    51.278523
+                ]
+            }
+        }
+    ]
+}

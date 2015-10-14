@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69;160",
+                "ref:De_Lijn": "202983",
+                "bus": "yes",
+                "name": "Waarschoot Zevenbunder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK CONSCIENCELAAN WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.600307,
+                    51.14963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69;160",
+                "ref:De_Lijn": "202982",
+                "bus": "yes",
+                "name": "Waarschoot Renning",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK CONSCIENCELAAN WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602175,
+                    51.141183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "203983",
+                "bus": "yes",
+                "name": "Waarschoot Zevenbunder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK CONSCIENCELAAN WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.600659,
+                    51.149066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "203982",
+                "bus": "yes",
+                "name": "Waarschoot Renning",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK CONSCIENCELAAN WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602568,
+                    51.140709
+                ]
+            }
+        }
+    ]
+}

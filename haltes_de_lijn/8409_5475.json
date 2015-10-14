@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108192",
+                "bus": "yes",
+                "name": "Herenthout Uilenbergkapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIEKEVORSTSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.768655,
+                    51.130485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108191",
+                "bus": "yes",
+                "name": "Herenthout Uilenbergkapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIEKEVORSTSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.76911,
+                    51.130312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101928",
+                "bus": "yes",
+                "name": "Herenthout Heikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIKANT HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.769893,
+                    51.131658
+                ]
+            }
+        }
+    ]
+}

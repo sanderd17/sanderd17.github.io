@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "646",
+                "ref:De_Lijn": "306926",
+                "bus": "yes",
+                "name": "Hakendover Van Audenhovenstraat 71",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN AUDENHOVESTRAAT HAKENDOVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.968826,
+                    50.791442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "646;713",
+                "ref:De_Lijn": "306925",
+                "bus": "yes",
+                "name": "Hakendover Van Audenhovenstraat 71",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN AUDENHOVESTRAAT HAKENDOVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.968629,
+                    50.791506
+                ]
+            }
+        }
+    ]
+}

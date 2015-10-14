@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "505355",
+                "bus": "yes",
+                "name": "Middelkerke Abdisweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABDISWEG WILSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.812712,
+                    51.176052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;84",
+                "ref:De_Lijn": "501008",
+                "bus": "yes",
+                "name": "Wilskerke Lovie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPERMALIESTRAAT MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.829392,
+                    51.175956
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;721",
+                "ref:De_Lijn": "401830",
+                "bus": "yes",
+                "name": "Rotem E. Dorlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANTONSWEG DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.712651,
+                    51.053721
+                ]
+            }
+        }
+    ]
+}

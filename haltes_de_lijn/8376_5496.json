@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "625",
+                "ref:De_Lijn": "301092",
+                "bus": "yes",
+                "name": "Pamel Oud Pamel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N207 PAMEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.063846,
+                    50.847172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206725",
+                "bus": "yes",
+                "name": "Ninove Industriezone",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAMELSTRAAT-OOST NINOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.046413,
+                    50.844501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "625",
+                "ref:De_Lijn": "301093",
+                "bus": "yes",
+                "name": "Pamel Oud Pamel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N207 PAMEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.06369,
+                    50.847127
+                ]
+            }
+        }
+    ]
+}

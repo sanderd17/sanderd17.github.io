@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "508839",
+                "bus": "yes",
+                "name": "Wakken Trog",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKEGEMSTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.394791,
+                    50.937979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505159",
+                "bus": "yes",
+                "name": "Wakken Verstaenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKKENSTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.39962,
+                    50.935619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "503838",
+                "bus": "yes",
+                "name": "Wakken Rustoord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKEGEMSTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.396992,
+                    50.933376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "503839",
+                "bus": "yes",
+                "name": "Wakken Trog",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKEGEMSTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.394915,
+                    50.938178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "508838",
+                "bus": "yes",
+                "name": "Wakken Rustoord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKEGEMSTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.396972,
+                    50.932963
+                ]
+            }
+        }
+    ]
+}

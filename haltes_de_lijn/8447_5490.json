@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "409403",
+                "bus": "yes",
+                "name": "Zutendaal Bessemer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRICHTERWEG BESSEMER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.606266,
+                    50.922648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409400",
+                "bus": "yes",
+                "name": "Zutendaal Bessemer",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GIJZENVELDSTRAAT BESSEMER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.605197,
+                    50.920978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "405211",
+                "bus": "yes",
+                "name": "Lanaken Oud Kantoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESSEMERSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.610751,
+                    50.917979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "407341",
+                "bus": "yes",
+                "name": "Zutendaal Valkenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIJZENVELDSTRAAT BESSEMER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.607321,
+                    50.921117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "409402",
+                "bus": "yes",
+                "name": "Zutendaal Bessemer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESSEMERSTRAAT BESSEMER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.606744,
+                    50.921896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "405210",
+                "bus": "yes",
+                "name": "Lanaken Oud Kantoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESSEMERSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.6108,
+                    50.9177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409401",
+                "bus": "yes",
+                "name": "Zutendaal Bessemer",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GIJZENVELDSTRAAT BESSEMER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.606634,
+                    50.920962
+                ]
+            }
+        }
+    ]
+}

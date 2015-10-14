@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;35c",
+                "ref:De_Lijn": "405931",
+                "bus": "yes",
+                "name": "Lummen Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKE EIKSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172897,
+                    50.987241
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405969",
+                "bus": "yes",
+                "name": "Lummen MPI Sint-Ferdinand Domein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.185044,
+                    50.996902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;35c",
+                "ref:De_Lijn": "405930",
+                "bus": "yes",
+                "name": "Lummen Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKE EIKSTRAAT LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172559,
+                    50.987477
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;670;673;679",
+                "ref:De_Lijn": "105912",
+                "bus": "yes",
+                "name": "Essen Postbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POSTBAAN ESSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.495837,
+                    51.447775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "446;447;670;673;679",
+                "ref:De_Lijn": "105906",
+                "bus": "yes",
+                "name": "Nieuwmoer Grens Essen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSENSTEENWEG KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.501646,
+                    51.44198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;670;673;679",
+                "ref:De_Lijn": "105911",
+                "bus": "yes",
+                "name": "Essen Postbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POSTBAAN ESSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.495737,
+                    51.447838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "446;447;670;673;679",
+                "ref:De_Lijn": "105907",
+                "bus": "yes",
+                "name": "Nieuwmoer Grens Essen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSENSTEENWEG KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.502048,
+                    51.441818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "446;447;670;673;679",
+                "ref:De_Lijn": "105908",
+                "bus": "yes",
+                "name": "Essen Rijkmakerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWMOERSESTEENWEG ESSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.498877,
+                    51.444419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "446;447;670;673;679",
+                "ref:De_Lijn": "105909",
+                "bus": "yes",
+                "name": "Essen Rijkmakerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWMOERSESTEENWEG ESSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.498462,
+                    51.444959
+                ]
+            }
+        }
+    ]
+}

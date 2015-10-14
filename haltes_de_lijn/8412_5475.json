@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;543;946",
+                "ref:De_Lijn": "109290",
+                "bus": "yes",
+                "name": "Noorderwijk Venheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORKHOVENSEWEG NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.834715,
+                    51.135069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;543;946",
+                "ref:De_Lijn": "109291",
+                "bus": "yes",
+                "name": "Noorderwijk Venheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORKHOVENSEWEG NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.834554,
+                    51.134665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101973",
+                "bus": "yes",
+                "name": "Morkhoven Zandkapelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPPENBERG NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.839672,
+                    51.125072
+                ]
+            }
+        }
+    ]
+}

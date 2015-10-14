@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "103537",
+                "bus": "yes",
+                "name": "Baarle-Hertog Molenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENBAAN BAARLE-HERTOG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921513,
+                    51.439166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "103538",
+                "bus": "yes",
+                "name": "Baarle-Hertog Molenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENBAAN BAARLE-HERTOG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.92108,
+                    51.439043
+                ]
+            }
+        }
+    ]
+}

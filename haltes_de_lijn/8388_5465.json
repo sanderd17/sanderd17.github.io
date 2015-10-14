@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "764",
+                "ref:De_Lijn": "101278",
+                "bus": "yes",
+                "name": "Fina Poort 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N163 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.319094,
+                    51.272633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "764",
+                "ref:De_Lijn": "101279",
+                "bus": "yes",
+                "name": "Fina Poort 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELDELAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.319194,
+                    51.272336
+                ]
+            }
+        }
+    ]
+}

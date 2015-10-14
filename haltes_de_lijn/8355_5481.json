@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "203759",
+                "bus": "yes",
+                "name": "Drongen Metagra",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK-DRONGEN DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.599032,
+                    51.043934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201683",
+                "bus": "yes",
+                "name": "Landegem Vierklaver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAARKENSTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.581832,
+                    51.051696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "202004",
+                "bus": "yes",
+                "name": "Drongen Nevelland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK-DRONGEN DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.592915,
+                    51.043858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "202759",
+                "bus": "yes",
+                "name": "Drongen Metagra",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK-DRONGEN DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.59909,
+                    51.043827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15",
+                "ref:De_Lijn": "203004",
+                "bus": "yes",
+                "name": "Drongen Nevelland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEPARK-DRONGEN DRONGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.593361,
+                    51.043673
+                ]
+            }
+        }
+    ]
+}

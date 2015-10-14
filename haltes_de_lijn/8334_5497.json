@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "508612",
+                "bus": "yes",
+                "name": "Moorsele Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WITTEMOLENSTRAAT MOORSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.139451,
+                    50.820407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "503612",
+                "bus": "yes",
+                "name": "Moorsele Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WITTEMOLENSTRAAT MOORSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.139474,
+                    50.820632
+                ]
+            }
+        }
+    ]
+}

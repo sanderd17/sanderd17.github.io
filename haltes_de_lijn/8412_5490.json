@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;392",
+                "ref:De_Lijn": "304951",
+                "bus": "yes",
+                "name": "Houwaart Roeselberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIEBEKESTRAAT ROESELBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.855242,
+                    50.92232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;392",
+                "ref:De_Lijn": "304950",
+                "bus": "yes",
+                "name": "Houwaart Roeselberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIEBEKESTRAAT ROESELBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.855372,
+                    50.922508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "590",
+                "ref:De_Lijn": "300262",
+                "bus": "yes",
+                "name": "Houwaart Streekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N223 HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.850597,
+                    50.929854
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "590",
+                "ref:De_Lijn": "300261",
+                "bus": "yes",
+                "name": "Houwaart Streekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N223 HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.850103,
+                    50.930153
+                ]
+            }
+        }
+    ]
+}

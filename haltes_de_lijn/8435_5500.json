@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "401137",
+                "bus": "yes",
+                "name": "Broekom Sassenbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SASSENBROEKSTRAAT BROEKOM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.343559,
+                    50.780065
+                ]
+            }
+        }
+    ]
+}

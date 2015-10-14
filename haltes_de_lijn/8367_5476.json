@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200721",
+                "bus": "yes",
+                "name": "Zaffelare Slagmanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE VELDSTRAAT ZEVENEKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.863091,
+                    51.120736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201721",
+                "bus": "yes",
+                "name": "Zaffelare Slagmanstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SLAGMANSTRAAT LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.862794,
+                    51.120465
+                ]
+            }
+        }
+    ]
+}

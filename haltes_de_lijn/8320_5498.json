@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "504066",
+                "bus": "yes",
+                "name": "Dikkebus Hallebast",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.818844,
+                    50.813802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;79",
+                "ref:De_Lijn": "504063",
+                "bus": "yes",
+                "name": "Dikkebus T Zweerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.822672,
+                    50.817387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;79",
+                "ref:De_Lijn": "509063",
+                "bus": "yes",
+                "name": "Dikkebus T Zweerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.822593,
+                    50.817188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "509066",
+                "bus": "yes",
+                "name": "Dikkebus Hallebast",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.819003,
+                    50.813715
+                ]
+            }
+        }
+    ]
+}

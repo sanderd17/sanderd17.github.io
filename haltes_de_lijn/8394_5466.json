@@ -1,0 +1,692 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;650",
+                "ref:De_Lijn": "101274",
+                "bus": "yes",
+                "name": "De Biezen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.452694,
+                    51.254322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102448",
+                "bus": "yes",
+                "name": "De Brem",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZWAANTJESLEI MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.449682,
+                    51.259815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;650;778",
+                "ref:De_Lijn": "104260",
+                "bus": "yes",
+                "name": "Laaglandlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAANTJESSTEENWEG MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.446651,
+                    51.254856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;650",
+                "ref:De_Lijn": "101268",
+                "bus": "yes",
+                "name": "De Biezen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.455058,
+                    51.254473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102399",
+                "bus": "yes",
+                "name": "Zwaantjeslei",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZWAANTJESLEI MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.450946,
+                    51.261882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "108090",
+                "bus": "yes",
+                "name": "Kwadevelden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAAGLANDLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.445738,
+                    51.257238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "108085",
+                "bus": "yes",
+                "name": "Kwadevelden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAAGLANDLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.445538,
+                    51.257329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "103821",
+                "bus": "yes",
+                "name": "Laaglandlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTE BREMSTRAAT MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.447041,
+                    51.256788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;605;648;658;670",
+                "ref:De_Lijn": "104104",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Rerum Novarum",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.457029,
+                    51.251775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "108140",
+                "bus": "yes",
+                "name": "Lindeboomplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAAGLANDLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.445858,
+                    51.260312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103010",
+                "bus": "yes",
+                "name": "Jan Palfijnziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE BREMSTRAAT MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.451427,
+                    51.258412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;650;778",
+                "ref:De_Lijn": "102210",
+                "bus": "yes",
+                "name": "Frans Adriaenssensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAANTJESSTEENWEG MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.442325,
+                    51.255092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "778",
+                "ref:De_Lijn": "108755",
+                "bus": "yes",
+                "name": "Sint-Lutgardisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DU CHASTELLEI MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.451971,
+                    51.250466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;650",
+                "ref:De_Lijn": "103012",
+                "bus": "yes",
+                "name": "Jan Palfijnziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CATERSHOFLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.452557,
+                    51.257575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650",
+                "ref:De_Lijn": "104215",
+                "bus": "yes",
+                "name": "Melgeshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE LUNDEN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.449605,
+                    51.256751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "778",
+                "ref:De_Lijn": "108760",
+                "bus": "yes",
+                "name": "Sint-Lutgardisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DU CHASTELLEI MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.452157,
+                    51.250331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;605;648;658;670",
+                "ref:De_Lijn": "104101",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Ringlaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.458165,
+                    51.253661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;650;778",
+                "ref:De_Lijn": "104265",
+                "bus": "yes",
+                "name": "Laaglandlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAANTJESSTEENWEG MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.446636,
+                    51.254595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "103820",
+                "bus": "yes",
+                "name": "Laaglandlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTE BREMSTRAAT MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.447155,
+                    51.256536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102678",
+                "bus": "yes",
+                "name": "Jan Palfijnziekenhuis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CATERSHOFLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.452571,
+                    51.257593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;605;648;658;670",
+                "ref:De_Lijn": "104106",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Victor Roosens",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.453701,
+                    51.24882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;650;778",
+                "ref:De_Lijn": "102120",
+                "bus": "yes",
+                "name": "Frans Adriaenssensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAANTJESSTEENWEG MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.440592,
+                    51.255165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650",
+                "ref:De_Lijn": "104210",
+                "bus": "yes",
+                "name": "Melgeshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE LUNDEN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.449719,
+                    51.256849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;605;648;658;670",
+                "ref:De_Lijn": "104107",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Victor Roosens",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.454518,
+                    51.249098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;650",
+                "ref:De_Lijn": "103011",
+                "bus": "yes",
+                "name": "Jan Palfijnziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE BREMSTRAAT MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.452371,
+                    51.257845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;778",
+                "ref:De_Lijn": "103760",
+                "bus": "yes",
+                "name": "Kroonplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROONPLEIN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.449066,
+                    51.251502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102020",
+                "bus": "yes",
+                "name": "Oudebareel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER MAURICE TIMMERMANSLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.451381,
+                    51.248543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "105885",
+                "bus": "yes",
+                "name": "Volkstuinlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLKSTUINLEI MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.444968,
+                    51.259459
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;778",
+                "ref:De_Lijn": "103765",
+                "bus": "yes",
+                "name": "Kroonplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROONPLEIN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.449122,
+                    51.251214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;605;640;642;648;650;658;670",
+                "ref:De_Lijn": "104102",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Ringlaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.459714,
+                    51.254667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "108135",
+                "bus": "yes",
+                "name": "Lindeboomplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAAGLANDLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.445642,
+                    51.260142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;605;648;658;670",
+                "ref:De_Lijn": "104103",
+                "bus": "yes",
+                "name": "Rerum Novarum",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.45505,
+                    51.250311
+                ]
+            }
+        }
+    ]
+}

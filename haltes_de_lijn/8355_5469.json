@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200910",
+                "bus": "yes",
+                "name": "Kaprijke Galgestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDEKEN KAPRIJKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.593706,
+                    51.21589
+                ]
+            }
+        }
+    ]
+}

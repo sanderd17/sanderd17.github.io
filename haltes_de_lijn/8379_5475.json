@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "204465",
+                "bus": "yes",
+                "name": "Waasmunster Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJVERHEIDSLAAN WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.125235,
+                    51.12669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;270",
+                "ref:De_Lijn": "205465",
+                "bus": "yes",
+                "name": "Waasmunster Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIJVERHEIDSLAAN WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.124636,
+                    51.126626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204097",
+                "bus": "yes",
+                "name": "Waasmunster Van Eyckpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN EYCKPARK WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.118698,
+                    51.136348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82",
+                "ref:De_Lijn": "205461",
+                "bus": "yes",
+                "name": "Sint-Niklaas Weverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEVERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.129606,
+                    51.13522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82",
+                "ref:De_Lijn": "204461",
+                "bus": "yes",
+                "name": "Sint-Niklaas Weverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEVERSTRAAT WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.129506,
+                    51.135121
+                ]
+            }
+        }
+    ]
+}

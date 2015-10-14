@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401867",
+                "bus": "yes",
+                "name": "Lanklaar Klauwierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAUWIERSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.637685,
+                    51.005097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401864",
+                "bus": "yes",
+                "name": "Lanklaar Talingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERTORENSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.640901,
+                    51.008622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401865",
+                "bus": "yes",
+                "name": "Lanklaar Fuutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FUUTSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.637981,
+                    51.007602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11;725",
+                "ref:De_Lijn": "401804",
+                "bus": "yes",
+                "name": "Lanklaar Homo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.641432,
+                    51.009291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401868",
+                "bus": "yes",
+                "name": "Lanklaar Windelsteenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WINDELSTEENSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.636198,
+                    51.003872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11;725",
+                "ref:De_Lijn": "401801",
+                "bus": "yes",
+                "name": "Lanklaar Heideweelde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.646869,
+                    51.010086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401866",
+                "bus": "yes",
+                "name": "Lanklaar Tapuitstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TAPUITSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.637116,
+                    51.006191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11;725",
+                "ref:De_Lijn": "401805",
+                "bus": "yes",
+                "name": "Lanklaar Homo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.641341,
+                    51.009588
+                ]
+            }
+        }
+    ]
+}

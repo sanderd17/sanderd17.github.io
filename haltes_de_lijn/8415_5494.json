@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685",
+                "ref:De_Lijn": "301582",
+                "bus": "yes",
+                "name": "Attenrode Het Hoekske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUTSCHOVESTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.909127,
+                    50.86766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685;712",
+                "ref:De_Lijn": "301583",
+                "bus": "yes",
+                "name": "Attenrode Het Hoekske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUTSCHOVESTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.909439,
+                    50.867614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685;712",
+                "ref:De_Lijn": "301587",
+                "bus": "yes",
+                "name": "Attenrode Langstraat 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.920941,
+                    50.874492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685",
+                "ref:De_Lijn": "301586",
+                "bus": "yes",
+                "name": "Attenrode Langstraat 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.921241,
+                    50.87458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685",
+                "ref:De_Lijn": "301584",
+                "bus": "yes",
+                "name": "Attenrode Langstraat 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.916251,
+                    50.870657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685;712",
+                "ref:De_Lijn": "301585",
+                "bus": "yes",
+                "name": "Attenrode Langstraat 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGSTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.915937,
+                    50.870613
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505070",
+                "bus": "yes",
+                "name": "Ruiselede Klaphulle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAPHULLESTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.37729,
+                    51.057201
+                ]
+            }
+        }
+    ]
+}

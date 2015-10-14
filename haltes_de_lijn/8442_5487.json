@@ -1,0 +1,1138 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;40;G7;183",
+                "ref:De_Lijn": "402308",
+                "bus": "yes",
+                "name": "Genk Station Perron 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.49616,
+                    50.966568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;CaH",
+                "ref:De_Lijn": "402301",
+                "bus": "yes",
+                "name": "Genk Station Perron 13",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496718,
+                    50.966662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45",
+                "ref:De_Lijn": "402108",
+                "bus": "yes",
+                "name": "Genk Berglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.498695,
+                    50.963631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;9;10;11;31;33;40;44;G1;G4;G7",
+                "ref:De_Lijn": "402208",
+                "bus": "yes",
+                "name": "Genk Hospitaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.509274,
+                    50.968968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;33;35;46;G4;G8",
+                "ref:De_Lijn": "409642",
+                "bus": "yes",
+                "name": "Genk Bochtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOCHTLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501563,
+                    50.9704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401616",
+                "bus": "yes",
+                "name": "Genk Stadsplein afstaphalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495922,
+                    50.966157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G2",
+                "ref:De_Lijn": "402331",
+                "bus": "yes",
+                "name": "Genk Vlakveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.504829,
+                    50.959472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400017",
+                "bus": "yes",
+                "name": "Genk Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOCHTLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501301,
+                    50.970762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;9;10;11;31;33;40;44;G1;G7",
+                "ref:De_Lijn": "402158",
+                "bus": "yes",
+                "name": "Genk Bretheistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513709,
+                    50.970993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;9;11;31;33;40;44;45;46;183",
+                "ref:De_Lijn": "402067",
+                "bus": "yes",
+                "name": "Genk Shopping Center Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.504616,
+                    50.965929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455582",
+                "bus": "yes",
+                "name": "Genk Aplhacab",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496675,
+                    50.96668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402165",
+                "bus": "yes",
+                "name": "Genk Centrumlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DIEPLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496743,
+                    50.964774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G4",
+                "ref:De_Lijn": "402311",
+                "bus": "yes",
+                "name": "Genk Station Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495932,
+                    50.96657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409887",
+                "bus": "yes",
+                "name": "Genk Stadhuis markt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DIEPLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.494701,
+                    50.964524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G2",
+                "ref:De_Lijn": "402330",
+                "bus": "yes",
+                "name": "Genk Vlakveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.504112,
+                    50.960405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G4",
+                "ref:De_Lijn": "407955",
+                "bus": "yes",
+                "name": "Genk Zagerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRETHEISTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513782,
+                    50.970497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;46;47",
+                "ref:De_Lijn": "402304",
+                "bus": "yes",
+                "name": "Genk Station Perron 10",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496502,
+                    50.966565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402193",
+                "bus": "yes",
+                "name": "Genk Garage De Lijn",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WINTERSLAGSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500176,
+                    50.970144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;9;10;11;31;33;35;44;45;G1;G4;G7",
+                "ref:De_Lijn": "402209",
+                "bus": "yes",
+                "name": "Genk Hospitaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.508286,
+                    50.968753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;33;35;46;G4;G8",
+                "ref:De_Lijn": "409631",
+                "bus": "yes",
+                "name": "Genk Bochtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOCHTLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501539,
+                    50.97058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402232",
+                "bus": "yes",
+                "name": "Genk Kuilenbroekstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KUILENSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.494557,
+                    50.970971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;G5",
+                "ref:De_Lijn": "402310",
+                "bus": "yes",
+                "name": "Genk Station Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495989,
+                    50.96657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G4",
+                "ref:De_Lijn": "408054",
+                "bus": "yes",
+                "name": "Genk Zagerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRETHEISTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513597,
+                    50.970499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;9;11;31;35;45;G6",
+                "ref:De_Lijn": "402223",
+                "bus": "yes",
+                "name": "Genk J. Habexlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSELERLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.505415,
+                    50.969536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402233",
+                "bus": "yes",
+                "name": "Genk Kuilenbroekstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KUILENSTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.494251,
+                    50.971279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "402302",
+                "bus": "yes",
+                "name": "Genk Station Perron 12",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496717,
+                    50.966653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402184",
+                "bus": "yes",
+                "name": "Genk Garage De Lijn",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOCHTLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501563,
+                    50.9704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G2",
+                "ref:De_Lijn": "402312",
+                "bus": "yes",
+                "name": "Genk Station Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495847,
+                    50.966571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1;G2;G3;G4;G7",
+                "ref:De_Lijn": "402763",
+                "bus": "yes",
+                "name": "Genk Shopping Center Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.504633,
+                    50.966073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G3",
+                "ref:De_Lijn": "402109",
+                "bus": "yes",
+                "name": "Genk Berglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75A GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.499077,
+                    50.963529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1",
+                "ref:De_Lijn": "402334",
+                "bus": "yes",
+                "name": "Genk Vooruitzichtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.498512,
+                    50.960774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1",
+                "ref:De_Lijn": "402313",
+                "bus": "yes",
+                "name": "Genk Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495761,
+                    50.966572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;9;10;11;31;33;35;44;45;G1;G7",
+                "ref:De_Lijn": "402159",
+                "bus": "yes",
+                "name": "Genk Bretheistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513438,
+                    50.970986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G2",
+                "ref:De_Lijn": "402284",
+                "bus": "yes",
+                "name": "Genk Parking Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER GERARD BIJNENSLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.502148,
+                    50.963382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "402307",
+                "bus": "yes",
+                "name": "Genk Station Perron 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496259,
+                    50.966558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402319",
+                "bus": "yes",
+                "name": "Genk Bretheistraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRETHEISTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513782,
+                    50.970497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;33;44",
+                "ref:De_Lijn": "402305",
+                "bus": "yes",
+                "name": "Genk Station Perron 9",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.49643,
+                    50.966566
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406535",
+                "bus": "yes",
+                "name": "Genk Station Perron 14",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496694,
+                    50.966851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402185",
+                "bus": "yes",
+                "name": "Genk Garage De Lijn",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOCHTLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.501539,
+                    50.97058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11",
+                "ref:De_Lijn": "402306",
+                "bus": "yes",
+                "name": "Genk Station Perron 8",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496345,
+                    50.966558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G1;G3",
+                "ref:De_Lijn": "402485",
+                "bus": "yes",
+                "name": "Genk Stadhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CENTRUMLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496768,
+                    50.964036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;9;11;31;40;45;G6",
+                "ref:De_Lijn": "402222",
+                "bus": "yes",
+                "name": "Genk J. Habexlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOSSELERLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.505071,
+                    50.969422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402318",
+                "bus": "yes",
+                "name": "Genk Bretheistraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRETHEISTRAAT GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513597,
+                    50.970499
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;8;9;11;31;33;35;44;45;183",
+                "ref:De_Lijn": "402068",
+                "bus": "yes",
+                "name": "Genk Shopping Center Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.504193,
+                    50.966095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402164",
+                "bus": "yes",
+                "name": "Genk Centrumlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CENTRUMLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.497173,
+                    50.964886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;G3;G6",
+                "ref:De_Lijn": "402309",
+                "bus": "yes",
+                "name": "Genk Station Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496089,
+                    50.966569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "402303",
+                "bus": "yes",
+                "name": "Genk Station Perron 11",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496703,
+                    50.966635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402186",
+                "bus": "yes",
+                "name": "Genk Garage De Lijn",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.500868,
+                    50.970524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G1",
+                "ref:De_Lijn": "402486",
+                "bus": "yes",
+                "name": "Genk Stadhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CENTRUMLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.497046,
+                    50.963755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1",
+                "ref:De_Lijn": "402095",
+                "bus": "yes",
+                "name": "Genk Zonneweeldelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEWEELDELAAN KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496047,
+                    50.959512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;G1",
+                "ref:De_Lijn": "402335",
+                "bus": "yes",
+                "name": "Genk Vooruitzichtlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT KOLDERBOS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.498492,
+                    50.960522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402187",
+                "bus": "yes",
+                "name": "Genk Garage De Lijn",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE KUILENWEG GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.499875,
+                    50.970659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G1;G2;G4;G7",
+                "ref:De_Lijn": "402766",
+                "bus": "yes",
+                "name": "Genk Shopping Center Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.504246,
+                    50.965942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G2;G3",
+                "ref:De_Lijn": "402241",
+                "bus": "yes",
+                "name": "Genk Parking Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER GERARD BIJNENSLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.502117,
+                    50.963275
+                ]
+            }
+        }
+    ]
+}

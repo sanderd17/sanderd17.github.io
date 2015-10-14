@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140;141",
+                "ref:De_Lijn": "101730",
+                "bus": "yes",
+                "name": "Wommelgem Uilenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNEGEMSTEENWEG WOMMELGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.527443,
+                    51.214974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140;141",
+                "ref:De_Lijn": "101591",
+                "bus": "yes",
+                "name": "Wommelgem Swinkelsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT WOMMELGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.529278,
+                    51.207457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140;141",
+                "ref:De_Lijn": "101729",
+                "bus": "yes",
+                "name": "Wommelgem Uilenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNEGEMSTEENWEG WOMMELGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.527615,
+                    51.214992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140;141",
+                "ref:De_Lijn": "101592",
+                "bus": "yes",
+                "name": "Wommelgem Swinkelsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT WOMMELGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.529622,
+                    51.207574
+                ]
+            }
+        }
+    ]
+}

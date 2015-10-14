@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;935",
+                "ref:De_Lijn": "106382",
+                "bus": "yes",
+                "name": "Meerle Strijbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN EYSSEL MEERSEL-DREEF",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.794813,
+                    51.485643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;935",
+                "ref:De_Lijn": "106383",
+                "bus": "yes",
+                "name": "Meerle Strijbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN EYSSEL MEERSEL-DREEF",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.794841,
+                    51.485535
+                ]
+            }
+        }
+    ]
+}

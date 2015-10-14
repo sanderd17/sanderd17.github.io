@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "503085",
+                "bus": "yes",
+                "name": "Geluwe Vijfwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE IEPERSTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08599,
+                    50.840523
+                ]
+            }
+        }
+    ]
+}

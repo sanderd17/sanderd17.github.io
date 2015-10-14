@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;210;212;213",
+                "ref:De_Lijn": "109131",
+                "bus": "yes",
+                "name": "Turnhout Winkelpark XXL",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP GIERLE TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.920529,
+                    51.308143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;435",
+                "ref:De_Lijn": "102384",
+                "bus": "yes",
+                "name": "Vosselaar Nachtegaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISBEEKSTRAAT VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.906641,
+                    51.303893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;435",
+                "ref:De_Lijn": "102319",
+                "bus": "yes",
+                "name": "Vosselaar Nachtegaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISBEEKSTRAAT VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.90647,
+                    51.303983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;210;212;213",
+                "ref:De_Lijn": "109132",
+                "bus": "yes",
+                "name": "Turnhout Winkelpark XXL",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP GIERLE TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.920612,
+                    51.307909
+                ]
+            }
+        }
+    ]
+}

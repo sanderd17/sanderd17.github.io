@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "509529",
+                "bus": "yes",
+                "name": "Voormezele Vaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSEWEG VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.891151,
+                    50.819762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504529",
+                "bus": "yes",
+                "name": "Voormezele Vaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSEWEG VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.891014,
+                    50.819608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "509527",
+                "bus": "yes",
+                "name": "Voormezele Oude Mesensesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARMENTIERSEWEG VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.890652,
+                    50.807186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79",
+                "ref:De_Lijn": "509528",
+                "bus": "yes",
+                "name": "Voormezele Sint-Elooi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARMENTIERSEWEG VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.891429,
+                    50.810028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "504527",
+                "bus": "yes",
+                "name": "Voormezele Oude Mesensesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARMENTIERSEWEG VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.890403,
+                    50.806985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;79",
+                "ref:De_Lijn": "504528",
+                "bus": "yes",
+                "name": "Voormezele Sint-Elooi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARMENTIERSEWEG VOORMEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.89123,
+                    50.810044
+                ]
+            }
+        }
+    ]
+}

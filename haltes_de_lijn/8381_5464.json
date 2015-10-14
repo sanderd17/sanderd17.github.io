@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89",
+                "ref:De_Lijn": "204558",
+                "bus": "yes",
+                "name": "Kieldrecht Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.170074,
+                    51.288584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;83;84;89;240",
+                "ref:De_Lijn": "204032",
+                "bus": "yes",
+                "name": "Kieldrecht Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTERSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.163559,
+                    51.287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205247",
+                "bus": "yes",
+                "name": "Meerdonk Sint-Kornelisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENHOEKSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.154167,
+                    51.281546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;240",
+                "ref:De_Lijn": "205033",
+                "bus": "yes",
+                "name": "Kieldrecht Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.171261,
+                    51.289242
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107700",
+                "bus": "yes",
+                "name": "Geel Beekhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARDSEWEG TEN AARD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.988022,
+                    51.2064
+                ]
+            }
+        }
+    ]
+}

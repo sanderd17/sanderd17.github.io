@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141",
+                "ref:De_Lijn": "304531",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Weg naar Gaasbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190315,
+                    50.811375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141",
+                "ref:De_Lijn": "304529",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.178942,
+                    50.813218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141",
+                "ref:De_Lijn": "304530",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17863,
+                    50.813119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141",
+                "ref:De_Lijn": "304532",
+                "bus": "yes",
+                "name": "Sint-Martens-Lennik Weg naar Gaasbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.189989,
+                    50.811312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "573",
+                "ref:De_Lijn": "303060",
+                "bus": "yes",
+                "name": "Gaasbeek Statie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAASBEEKSESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190913,
+                    50.810702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "573",
+                "ref:De_Lijn": "303051",
+                "bus": "yes",
+                "name": "Gaasbeek Statie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAASBEEKSESTRAAT SINT-MARTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.190757,
+                    50.810746
+                ]
+            }
+        }
+    ]
+}

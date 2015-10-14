@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;390;391;430;436;437",
+                "ref:De_Lijn": "109433",
+                "bus": "yes",
+                "name": "Dessel Delstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRASEL DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085882,
+                    51.240624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;390;391;430;436",
+                "ref:De_Lijn": "109432",
+                "bus": "yes",
+                "name": "Dessel Delstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRASEL DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.085454,
+                    51.240734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;390;391;430;436;437",
+                "ref:De_Lijn": "103689",
+                "bus": "yes",
+                "name": "Dessel Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRASEL DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.092568,
+                    51.240574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;390;391;430;436",
+                "ref:De_Lijn": "103688",
+                "bus": "yes",
+                "name": "Dessel Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRASEL DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.092212,
+                    51.240693
+                ]
+            }
+        }
+    ]
+}

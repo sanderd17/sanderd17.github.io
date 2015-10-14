@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;50;57;59",
+                "ref:De_Lijn": "504267",
+                "bus": "yes",
+                "name": "Lo Rabbelaere",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RABBELARESTEENWEG LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.751313,
+                    51.009992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;50;57;59",
+                "ref:De_Lijn": "509267",
+                "bus": "yes",
+                "name": "Lo Rabbelaere",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RABBELARESTEENWEG LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.751434,
+                    51.009778
+                ]
+            }
+        }
+    ]
+}

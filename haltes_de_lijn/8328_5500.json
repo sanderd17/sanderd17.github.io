@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "509231",
+                "bus": "yes",
+                "name": "Komen Christ",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CAPELLESTRAAT KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.002216,
+                    50.790998
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "504230",
+                "bus": "yes",
+                "name": "Komen Blauw Hof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN-BRIELENSTEENWEG KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.001278,
+                    50.783228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "509230",
+                "bus": "yes",
+                "name": "Komen Blauw Hof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN-BRIELENSTEENWEG KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.001503,
+                    50.783293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "504231",
+                "bus": "yes",
+                "name": "Komen Christ",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CAPELLESTRAAT KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.002056,
+                    50.791122
+                ]
+            }
+        }
+    ]
+}

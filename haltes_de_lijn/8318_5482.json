@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;57",
+                "ref:De_Lijn": "503958",
+                "bus": "yes",
+                "name": "Lampernisse Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANNEKINSTRAAT LAMPERNISSE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.769307,
+                    51.032743
+                ]
+            }
+        }
+    ]
+}

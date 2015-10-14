@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104776",
+                "bus": "yes",
+                "name": "Itegem Bruulstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELKOUWENSTRAAT ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.683697,
+                    51.088135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104778",
+                "bus": "yes",
+                "name": "Itegem Isschotweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORFLINGSTRAAT ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.680289,
+                    51.084315
+                ]
+            }
+        }
+    ]
+}

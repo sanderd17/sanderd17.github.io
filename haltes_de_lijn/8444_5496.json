@@ -1,0 +1,593 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;703",
+                "ref:De_Lijn": "410047",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODE KRUISLAAN KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.554879,
+                    50.838487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409583",
+                "bus": "yes",
+                "name": "Grote-Spouwen Pastorijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUNIECKSTRAAT GROTE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.554679,
+                    50.835063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "706",
+                "ref:De_Lijn": "409585",
+                "bus": "yes",
+                "name": "Grote-Spouwen Akkerhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPESTRAAT GROTE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556864,
+                    50.833899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704",
+                "ref:De_Lijn": "409650",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Driesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEISTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.548583,
+                    50.847298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401732",
+                "bus": "yes",
+                "name": "Grote-Spouwen Weg naar Tongeren",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RODE KRUISLAAN KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.554893,
+                    50.838487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704",
+                "ref:De_Lijn": "409597",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Keistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEISTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.54625,
+                    50.84431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704",
+                "ref:De_Lijn": "409589",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Boelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERDERSTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.550101,
+                    50.838778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409594",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Baanhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAANHOFSTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.544839,
+                    50.842957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;28;703;706",
+                "ref:De_Lijn": "400786",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIEMSTERWEG KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.548158,
+                    50.843374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;28;703;706",
+                "ref:De_Lijn": "400787",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIEMSTERWEG KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.547589,
+                    50.843361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400760",
+                "bus": "yes",
+                "name": "Grote-Spouwen Weg naar Tongeren",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RODE KRUISLAAN KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.555047,
+                    50.838386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409588",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Boelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERDERSTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.550172,
+                    50.838777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;28;703;704",
+                "ref:De_Lijn": "400789",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Riemsterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIEMSTERWEG KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.541101,
+                    50.846825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;28;704;706",
+                "ref:De_Lijn": "400758",
+                "bus": "yes",
+                "name": "Grote-Spouwen Weg naar Tongeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIEMSTERWEG GROTE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.555148,
+                    50.837351
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409651",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Driesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEISTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.548564,
+                    50.847101
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;28;704;706",
+                "ref:De_Lijn": "400759",
+                "bus": "yes",
+                "name": "Grote-Spouwen Weg naar Tongeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N745 GROTE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.55489,
+                    50.837255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704",
+                "ref:De_Lijn": "409591",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAAK VANDERSANDENSTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.547565,
+                    50.837859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409593",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Troffelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TROFFELSTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.543484,
+                    50.837604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400005",
+                "bus": "yes",
+                "name": "Bilzen De Morgenstond",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIEMSTERWEG KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.553684,
+                    50.837834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409584",
+                "bus": "yes",
+                "name": "Grote-Spouwen Akkerhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPESTRAAT GROTE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556993,
+                    50.833943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "706",
+                "ref:De_Lijn": "409582",
+                "bus": "yes",
+                "name": "Grote-Spouwen Pastorijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUNIECKSTRAAT GROTE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.554224,
+                    50.835059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409598",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Overslagstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERSLAGSTRAAT GROTE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.547057,
+                    50.834592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409592",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Troffelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TROFFELSTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.543412,
+                    50.837586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409596",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Keistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEISTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.546406,
+                    50.844299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409590",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAAK VANDERSANDENSTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.54759,
+                    50.837742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "704;706",
+                "ref:De_Lijn": "409595",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Baanhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAANHOFSTRAAT KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.544951,
+                    50.842902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;28;703;704;706",
+                "ref:De_Lijn": "400788",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Riemsterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIEMSTERWEG KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.541301,
+                    50.846859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;703",
+                "ref:De_Lijn": "410048",
+                "bus": "yes",
+                "name": "Kleine-Spouwen Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RODE KRUISLAAN KLEINE-SPOUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.555061,
+                    50.838386
+                ]
+            }
+        }
+    ]
+}

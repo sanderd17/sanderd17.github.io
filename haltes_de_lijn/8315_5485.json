@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;59",
+                "ref:De_Lijn": "505817",
+                "bus": "yes",
+                "name": "Alveringem Klarewal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAREWAL ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.711482,
+                    50.995358
+                ]
+            }
+        }
+    ]
+}

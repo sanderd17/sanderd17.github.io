@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201725",
+                "bus": "yes",
+                "name": "Zomergem Kerhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIRLARE ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.584237,
+                    51.129523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "203981",
+                "bus": "yes",
+                "name": "Waarschoot Beke Fabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEKE WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.599245,
+                    51.136876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "203980",
+                "bus": "yes",
+                "name": "Waarschoot Beke Center",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEKE WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.60257,
+                    51.132754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69;160",
+                "ref:De_Lijn": "202981",
+                "bus": "yes",
+                "name": "Waarschoot Beke Fabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEKE WAARSCHOOT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.599228,
+                    51.13702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69;160",
+                "ref:De_Lijn": "202980",
+                "bus": "yes",
+                "name": "Waarschoot Beke Center",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEKE BEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602414,
+                    51.132708
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "159",
+                "ref:De_Lijn": "102616",
+                "bus": "yes",
+                "name": "Herentals Saffierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SAFFIERSTRAAT HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.789177,
+                    51.161532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "159",
+                "ref:De_Lijn": "102617",
+                "bus": "yes",
+                "name": "Herentals Saffierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SAFFIERSTRAAT HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.78902,
+                    51.161533
+                ]
+            }
+        }
+    ]
+}

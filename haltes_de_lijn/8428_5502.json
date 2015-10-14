@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;730;731",
+                "ref:De_Lijn": "402633",
+                "bus": "yes",
+                "name": "Mielen-Boven-Aalst Kiekeman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRUIERSTRAAT MIELEN-BOVEN-AALST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.207257,
+                    50.761702
+                ]
+            }
+        }
+    ]
+}

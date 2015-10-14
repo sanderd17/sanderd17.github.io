@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "203438",
+                "bus": "yes",
+                "name": "Zelzate Koophandelsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOPHANDELSPLEIN ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.795105,
+                    51.190529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;55S",
+                "ref:De_Lijn": "202431",
+                "bus": "yes",
+                "name": "Zelzate Klein Rusland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TWEEDE-GIDSENLAAN ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.798987,
+                    51.192436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55;56;55S",
+                "ref:De_Lijn": "203431",
+                "bus": "yes",
+                "name": "Zelzate Klein Rusland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TWEEDE-GIDSENLAAN ZELZATE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.799145,
+                    51.192419
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;130",
+                "ref:De_Lijn": "207247",
+                "bus": "yes",
+                "name": "Wichelen Hulst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAEPESTRAAT WICHELEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.973692,
+                    50.992812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;130",
+                "ref:De_Lijn": "206247",
+                "bus": "yes",
+                "name": "Wichelen Hulst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAEPESTRAAT WICHELEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.973565,
+                    50.992631
+                ]
+            }
+        }
+    ]
+}

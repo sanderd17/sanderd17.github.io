@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;355",
+                "ref:De_Lijn": "204771",
+                "bus": "yes",
+                "name": "Zele Kromme Heistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.996457,
+                    51.05527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204582",
+                "bus": "yes",
+                "name": "Zele Biesbochtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIESBOCHTSTRAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.985855,
+                    51.067983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "205171",
+                "bus": "yes",
+                "name": "Zele Kerk Heikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.992919,
+                    51.066019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;355",
+                "ref:De_Lijn": "204171",
+                "bus": "yes",
+                "name": "Zele Kerk Heikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.992877,
+                    51.065875
+                ]
+            }
+        }
+    ]
+}

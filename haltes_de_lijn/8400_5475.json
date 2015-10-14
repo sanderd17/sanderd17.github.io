@@ -1,0 +1,488 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "154;560;561;569;570;571",
+                "ref:De_Lijn": "108810",
+                "bus": "yes",
+                "name": "Lier Hoogveldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGVELDWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.578686,
+                    51.124685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;90;154;556",
+                "ref:De_Lijn": "101379",
+                "bus": "yes",
+                "name": "Lier De Mol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.574416,
+                    51.124845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;154;556",
+                "ref:De_Lijn": "103718",
+                "bus": "yes",
+                "name": "Lier Gasthuisvest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARTHUR VANDERPOORTENLAAN LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.575145,
+                    51.128214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;154",
+                "ref:De_Lijn": "106939",
+                "bus": "yes",
+                "name": "Lier Veemarkt Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582818,
+                    51.128668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561;569;570;571",
+                "ref:De_Lijn": "108809",
+                "bus": "yes",
+                "name": "Lier Veemarkt Perron 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAUL KRUGERSTRAAT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582441,
+                    51.127554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "422;423;426;428",
+                "ref:De_Lijn": "106530",
+                "bus": "yes",
+                "name": "Lier Lisperpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FREDERIK PELTZERSTRAAT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.572056,
+                    51.137262
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;90;130;131;132;135;150;151;152;153;297;422;423;426;428;560;561;569;570;571",
+                "ref:De_Lijn": "109733",
+                "bus": "yes",
+                "name": "Lier Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSEVEST LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.579394,
+                    51.126544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "90;150;151;152;153;297",
+                "ref:De_Lijn": "107312",
+                "bus": "yes",
+                "name": "Lier Veemarkt Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582774,
+                    51.128542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "297",
+                "ref:De_Lijn": "107314",
+                "bus": "yes",
+                "name": "Lier Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERLAARSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.588816,
+                    51.128378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100266",
+                "bus": "yes",
+                "name": "Lier Veemarkt NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582789,
+                    51.128659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "422;423;426;428",
+                "ref:De_Lijn": "106531",
+                "bus": "yes",
+                "name": "Lier Lisperpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FREDERIK PELTZERSTRAAT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.571884,
+                    51.137263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "297",
+                "ref:De_Lijn": "107313",
+                "bus": "yes",
+                "name": "Lier Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERLAARSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.589415,
+                    51.128242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;3;90;130;132;135;150;151;152;153;154;297;422;423;426;428;556;560;561;569;570;571",
+                "ref:De_Lijn": "107306",
+                "bus": "yes",
+                "name": "Lier Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE MARKT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.570654,
+                    51.130326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;90;150;151;152;153;154;297",
+                "ref:De_Lijn": "107311",
+                "bus": "yes",
+                "name": "Lier Veemarkt Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEEMARKT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582873,
+                    51.128264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;150;151;152;153;154",
+                "ref:De_Lijn": "106990",
+                "bus": "yes",
+                "name": "Lier Maasfortbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KESSELSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.588831,
+                    51.131417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;132;135",
+                "ref:De_Lijn": "104028",
+                "bus": "yes",
+                "name": "Lier Veemarkt Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582803,
+                    51.128659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561;569;570;571",
+                "ref:De_Lijn": "108808",
+                "bus": "yes",
+                "name": "Lier Veemarkt Perron 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAUL KRUGERSTRAAT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582269,
+                    51.127366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;3;90;130;131;132;135;150;151;152;153;154;297;422;423;426;428;556;560;561;569;570;571",
+                "ref:De_Lijn": "107307",
+                "bus": "yes",
+                "name": "Lier Leopold III-laan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NETELAAN LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.570746,
+                    51.128357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "154;560;561;569;570;571",
+                "ref:De_Lijn": "108811",
+                "bus": "yes",
+                "name": "Lier Hoogveldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGVELDWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.57933,
+                    51.124917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;150;151;152;153;154",
+                "ref:De_Lijn": "106991",
+                "bus": "yes",
+                "name": "Lier Maasfortbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KESSELSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.588588,
+                    51.13139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;154;556",
+                "ref:De_Lijn": "103716",
+                "bus": "yes",
+                "name": "Lier De Mol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573232,
+                    51.125359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;3;90;130;132;135;150;151;152;153;154;297;422;423;426;428;556;560;561;569;570;571",
+                "ref:De_Lijn": "107309",
+                "bus": "yes",
+                "name": "Lier Kluizenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERLAARSESTRAAT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.57648,
+                    51.129731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "422;423;426;428;943",
+                "ref:De_Lijn": "104029",
+                "bus": "yes",
+                "name": "Lier Veemarkt Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.582775,
+                    51.128587
+                ]
+            }
+        }
+    ]
+}

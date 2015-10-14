@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "406345",
+                "bus": "yes",
+                "name": "Maastricht Station Perron L",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARALLELWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.703993,
+                    50.851376
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406372",
+                "bus": "yes",
+                "name": "Maastricht Maartenslaan SP",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT MAARTENSLAAN MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.701513,
+                    50.851072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;63",
+                "ref:De_Lijn": "406350",
+                "bus": "yes",
+                "name": "Maastricht Station Perron M",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARALLELWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.704006,
+                    50.851349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406380",
+                "bus": "yes",
+                "name": "Maastricht Mosa",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEERSSENERWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.708283,
+                    50.857899
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;62;63;20a",
+                "ref:De_Lijn": "406373",
+                "bus": "yes",
+                "zone:De_Lijn": "6659",
+                "name": "Maastricht Maartenslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT MAARTENSLAAN MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.701458,
+                    50.851153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "406344",
+                "bus": "yes",
+                "name": "Maastricht Station Perron K",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARALLELWEG MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.703993,
+                    50.851394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;62;63;20a",
+                "ref:De_Lijn": "406318",
+                "bus": "yes",
+                "zone:De_Lijn": "6659",
+                "name": "Maastricht Van Hasseltkade",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASBOULEVARD MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.69416,
+                    50.853232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406408",
+                "bus": "yes",
+                "name": "Maastricht Wilhelminasingel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT MAASTRICHT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.702077,
+                    50.849447
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408917",
+                "bus": "yes",
+                "name": "SPV/FSP Zwaen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KROMMEJONG SINT-PIETERS-VOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.826994,
+                    50.728779
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408896",
+                "bus": "yes",
+                "name": "Sint-Pieters-Voeren Gemeenteschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-PIETERSTRAAT SINT-PIETERS-VOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.824639,
+                    50.734185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408916",
+                "bus": "yes",
+                "name": "Sint-Pieters-Voeren Zwaen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMMEJONG SINT-PIETERS-VOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.827137,
+                    50.728831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408897",
+                "bus": "yes",
+                "name": "SPV/FSP Gemeenteschool/École Communale",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-PIETERSTRAAT SINT-PIETERS-VOEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.824424,
+                    50.73408
+                ]
+            }
+        }
+    ]
+}

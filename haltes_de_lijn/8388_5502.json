@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306816",
+                "bus": "yes",
+                "name": "Beersel Watertoren",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GENSTBERG ALSEMBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.327797,
+                    50.751812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "154;574",
+                "ref:De_Lijn": "300362",
+                "bus": "yes",
+                "name": "Beersel Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARHEIDESTRAAT BEERSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.309049,
+                    50.763634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "154;574",
+                "ref:De_Lijn": "300349",
+                "bus": "yes",
+                "name": "Beersel Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARHEIDESTRAAT BEERSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.306926,
+                    50.760774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308991",
+                "bus": "yes",
+                "name": "Beersel Watertoren",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GENSTBERG ALSEMBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.327656,
+                    50.751758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "154;574",
+                "ref:De_Lijn": "300361",
+                "bus": "yes",
+                "name": "Beersel Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARHEIDESTRAAT BEERSEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.30878,
+                    50.763059
+                ]
+            }
+        }
+    ]
+}

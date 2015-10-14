@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;98;195",
+                "ref:De_Lijn": "202726",
+                "bus": "yes",
+                "name": "Oosteeklo Muikemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHOEK OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699612,
+                    51.196302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203726",
+                "bus": "yes",
+                "name": "Oosteeklo Muikemstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OOSTHOEK OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699625,
+                    51.196419
+                ]
+            }
+        }
+    ]
+}

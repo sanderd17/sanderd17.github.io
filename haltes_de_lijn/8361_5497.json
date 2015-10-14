@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24;410",
+                "ref:De_Lijn": "208134",
+                "bus": "yes",
+                "name": "Elst Molenkouterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT ELST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731957,
+                    50.833391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "207676",
+                "bus": "yes",
+                "name": "Zegelsem Leberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEBERG ZEGELSEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.722012,
+                    50.825686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24;410",
+                "ref:De_Lijn": "208135",
+                "bus": "yes",
+                "name": "Elst Pottenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT ELST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.732437,
+                    50.830391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "209134",
+                "bus": "yes",
+                "name": "Elst Molenkouterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT ELST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.731805,
+                    50.833022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "209135",
+                "bus": "yes",
+                "name": "Elst Pottenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT ELST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.732301,
+                    50.82995
+                ]
+            }
+        }
+    ]
+}

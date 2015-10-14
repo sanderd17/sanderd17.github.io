@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330057",
+                "bus": "yes",
+                "name": "Willebroek Londerzeel Noord (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BESSEMSTRAAT WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.324309,
+                    51.028693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "305855",
+                "bus": "yes",
+                "name": "Breendonk Veurt 76",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURTSTRAAT BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.323805,
+                    51.034382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "305857",
+                "bus": "yes",
+                "name": "Breendonk Vijfhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURTSTRAAT BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325968,
+                    51.038455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "289",
+                "ref:De_Lijn": "308616",
+                "bus": "yes",
+                "name": "Breendonk Autosnelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURTSTRAAT BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.328576,
+                    51.040479
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330042",
+                "bus": "yes",
+                "name": "Willebroek Londerzeel Noord (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BESSEMSTRAAT WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.324267,
+                    51.028576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "305856",
+                "bus": "yes",
+                "name": "Breendonk Veurt 76",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURTSTRAAT BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.323662,
+                    51.034445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "305858",
+                "bus": "yes",
+                "name": "Breendonk Vijfhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURTSTRAAT BREENDONK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325854,
+                    51.038581
+                ]
+            }
+        }
+    ]
+}

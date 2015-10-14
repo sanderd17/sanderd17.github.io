@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "684",
+                "ref:De_Lijn": "305080",
+                "bus": "yes",
+                "name": "Kumtich Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.884169,
+                    50.814877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;713",
+                "ref:De_Lijn": "305077",
+                "bus": "yes",
+                "name": "Kumtich Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GILLISPLEIN KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.887327,
+                    50.819358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "684",
+                "ref:De_Lijn": "305076",
+                "bus": "yes",
+                "name": "Kumtich Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GILLISPLEIN KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.887402,
+                    50.818513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;684",
+                "ref:De_Lijn": "305067",
+                "bus": "yes",
+                "name": "Kumtich Vogelzang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSELAAN KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.899732,
+                    50.819536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "307295",
+                "bus": "yes",
+                "name": "Kumtich Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GILLISPLEIN KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.887592,
+                    50.818997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "684;713",
+                "ref:De_Lijn": "305081",
+                "bus": "yes",
+                "name": "Kumtich Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-BARBARASTRAAT KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.883458,
+                    50.814728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "684",
+                "ref:De_Lijn": "307944",
+                "bus": "yes",
+                "name": "Kumtich Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GILLISPLEIN KUMTICH",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.887232,
+                    50.818541
+                ]
+            }
+        }
+    ]
+}

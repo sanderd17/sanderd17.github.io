@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "501259",
+                "bus": "yes",
+                "name": "Oostduinkerke Schipgat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.658679,
+                    51.124626
+                ]
+            }
+        }
+    ]
+}

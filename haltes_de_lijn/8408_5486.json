@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "532",
+                "ref:De_Lijn": "306628",
+                "bus": "yes",
+                "name": "Baal Station Geetsvondel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEETSVONDELSTRAAT TREMELO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.751987,
+                    50.983237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308457",
+                "bus": "yes",
+                "name": "Betekom Tolhuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOLHUISSTRAAT BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.765056,
+                    50.986097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "532",
+                "ref:De_Lijn": "306629",
+                "bus": "yes",
+                "name": "Baal Station Geetsvondel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEETSVONDELSTRAAT TREMELO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.752145,
+                    50.983353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "308456",
+                "bus": "yes",
+                "name": "Betekom Tolhuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOLHUISSTRAAT BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.765255,
+                    50.985979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "300634",
+                "bus": "yes",
+                "name": "Betekom Switch",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERCHTERSESTEENWEG BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.760102,
+                    50.984666
+                ]
+            }
+        }
+    ]
+}

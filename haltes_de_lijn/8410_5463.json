@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "106199",
+                "bus": "yes",
+                "name": "Vlimmeren Engstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG VLIMMEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.794849,
+                    51.301831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;419",
+                "ref:De_Lijn": "106198",
+                "bus": "yes",
+                "name": "Vlimmeren Engstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG VLIMMEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.793229,
+                    51.301936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "106201",
+                "bus": "yes",
+                "name": "Vlimmeren Einde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG VLIMMEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.804467,
+                    51.303028
+                ]
+            }
+        }
+    ]
+}

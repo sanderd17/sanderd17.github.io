@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;79;94;99",
+                "ref:De_Lijn": "502269",
+                "bus": "yes",
+                "name": "Loppem Heidelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDELBERGSTRAAT LOPPEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.16595,
+                    51.149107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;74;79;94;99",
+                "ref:De_Lijn": "507269",
+                "bus": "yes",
+                "name": "Loppem Heidelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDELBERGSTRAAT LOPPEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.166145,
+                    51.149334
+                ]
+            }
+        }
+    ]
+}

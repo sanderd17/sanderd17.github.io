@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;213",
+                "ref:De_Lijn": "109193",
+                "bus": "yes",
+                "name": "Lille Holle Beemdenbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIERLEBAAN LILLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.842941,
+                    51.252752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "210;213",
+                "ref:De_Lijn": "109194",
+                "bus": "yes",
+                "name": "Lille Holle Beemdenbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIERLEBAAN LILLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.842464,
+                    51.252322
+                ]
+            }
+        }
+    ]
+}

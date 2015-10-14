@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;130;355",
+                "ref:De_Lijn": "206240",
+                "bus": "yes",
+                "name": "Uitbergen Moleneindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERSTRAAT UITBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.954189,
+                    51.022148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;130",
+                "ref:De_Lijn": "207320",
+                "bus": "yes",
+                "name": "Uitbergen Moleneindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEERSTRAAT UITBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.954389,
+                    51.022176
+                ]
+            }
+        }
+    ]
+}

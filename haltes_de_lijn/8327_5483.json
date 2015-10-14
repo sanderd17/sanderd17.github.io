@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "504831",
+                "bus": "yes",
+                "name": "Zarren Barisdamstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARISDAMSTRAAT ZARREN-WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.968605,
+                    51.018261
+                ]
+            }
+        }
+    ]
+}

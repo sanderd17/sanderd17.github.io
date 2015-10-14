@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23",
+                "ref:De_Lijn": "501442",
+                "bus": "yes",
+                "name": "Westkerke Nieuw Kwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTKERKSESTRAAT OUDENBURG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.007363,
+                    51.17565
+                ]
+            }
+        }
+    ]
+}

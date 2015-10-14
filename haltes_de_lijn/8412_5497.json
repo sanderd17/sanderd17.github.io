@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;527;713",
+                "ref:De_Lijn": "300720",
+                "bus": "yes",
+                "name": "Boutersem Honsemsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTEMSTRAAT VERTRIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.838844,
+                    50.825946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;527",
+                "ref:De_Lijn": "300721",
+                "bus": "yes",
+                "name": "Boutersem Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTEMSTRAAT VERTRIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.835088,
+                    50.82935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;527",
+                "ref:De_Lijn": "300719",
+                "bus": "yes",
+                "name": "Boutersem Honsemsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTEMSTRAAT VERTRIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.838924,
+                    50.825424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "381;527;713",
+                "ref:De_Lijn": "300722",
+                "bus": "yes",
+                "name": "Boutersem Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTEMSTRAAT VERTRIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.834864,
+                    50.829683
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200682",
+                "bus": "yes",
+                "name": "Hansbeke Karmenhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIBROEKSTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.51855,
+                    51.070521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "209650",
+                "bus": "yes",
+                "name": "Hansbeke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERENDREESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.536691,
+                    51.073392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125;160",
+                "ref:De_Lijn": "208651",
+                "bus": "yes",
+                "name": "Hansbeke Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANSBEKEDORP HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.535228,
+                    51.077031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125;160",
+                "ref:De_Lijn": "208650",
+                "bus": "yes",
+                "name": "Hansbeke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERENDREESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.536775,
+                    51.073518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "209651",
+                "bus": "yes",
+                "name": "Hansbeke Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANSBEKEDORP HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.535073,
+                    51.076958
+                ]
+            }
+        }
+    ]
+}

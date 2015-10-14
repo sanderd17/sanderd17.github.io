@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;77",
+                "ref:De_Lijn": "503823",
+                "bus": "yes",
+                "name": "Tielt Ratte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.303861,
+                    51.03067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;77",
+                "ref:De_Lijn": "508823",
+                "bus": "yes",
+                "name": "Tielt Ratte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENSESTEENWEG SCHUIFERSKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.304216,
+                    51.031329
+                ]
+            }
+        }
+    ]
+}

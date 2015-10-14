@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201849",
+                "bus": "yes",
+                "name": "Meigem Meerskant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULEBROECKSTRAAT MEIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.53201,
+                    50.999995
+                ]
+            }
+        }
+    ]
+}

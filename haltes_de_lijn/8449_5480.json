@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11",
+                "ref:De_Lijn": "406083",
+                "bus": "yes",
+                "name": "Opoeteren Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORTSTRAAT OPOETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.654843,
+                    51.065335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11",
+                "ref:De_Lijn": "406082",
+                "bus": "yes",
+                "name": "Opoeteren Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEVENSTRAAT OPOETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.653181,
+                    51.06457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11",
+                "ref:De_Lijn": "406139",
+                "bus": "yes",
+                "name": "Opoeteren Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DILSERWEG OPOETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.656013,
+                    51.068963
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "152;409;420;421;427;428;513",
+                "ref:De_Lijn": "106464",
+                "bus": "yes",
+                "name": "Grobbendonk Beukenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRANSSTRAAT GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.744901,
+                    51.194688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "152;213;420;421;427;428;513",
+                "ref:De_Lijn": "106465",
+                "bus": "yes",
+                "name": "Grobbendonk Beukenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRANSSTRAAT GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.744053,
+                    51.19417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;420;421;427;428",
+                "ref:De_Lijn": "106461",
+                "bus": "yes",
+                "name": "Grobbendonk Nijverheidsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDSTRAAT GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.734815,
+                    51.19463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "213;420;421;427;428",
+                "ref:De_Lijn": "106459",
+                "bus": "yes",
+                "name": "Grobbendonk Kretbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDSTRAAT GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.729967,
+                    51.194771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106460",
+                "bus": "yes",
+                "name": "Grobbendonk Nijverheidsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDSTRAAT GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.734802,
+                    51.194738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "409;420;421;427;428",
+                "ref:De_Lijn": "106458",
+                "bus": "yes",
+                "name": "Grobbendonk Kretbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDSTRAAT GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.730125,
+                    51.194869
+                ]
+            }
+        }
+    ]
+}

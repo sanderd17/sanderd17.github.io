@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "407230",
+                "bus": "yes",
+                "name": "Oreye Dépôt Tec",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAND-ROUTE OERLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.351297,
+                    50.728233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "407231",
+                "bus": "yes",
+                "name": "Oreye Dépôt Tec",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAND-ROUTE LENS-SUR-GEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.35104,
+                    50.728163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "407233",
+                "bus": "yes",
+                "name": "Oreye Lens-Sur-Geer Ramkin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAND-ROUTE LENS-SUR-GEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.344972,
+                    50.730605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "407232",
+                "bus": "yes",
+                "name": "Oreye Lens-Sur-Geer Ramkin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAND-ROUTE LENS-SUR-GEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.345172,
+                    50.730694
+                ]
+            }
+        }
+    ]
+}

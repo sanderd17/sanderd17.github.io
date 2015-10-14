@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "209614",
+                "bus": "yes",
+                "name": "Akrenbos/Bloemendael",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AKRENBOS BEVER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.910788,
+                    50.720108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "208614",
+                "bus": "yes",
+                "name": "Akrenbos/Bloemendael",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AKRENBOS BEVER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.911087,
+                    50.720001
+                ]
+            }
+        }
+    ]
+}

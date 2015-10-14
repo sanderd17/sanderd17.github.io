@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "107285",
+                "bus": "yes",
+                "name": "Edegem Covee",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINS BOUDEWIJNLAAN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.434882,
+                    51.149078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "103999",
+                "bus": "yes",
+                "name": "Kontich Groeningenlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N173 KONTICH",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437685,
+                    51.140618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "107290",
+                "bus": "yes",
+                "name": "Edegem Covee",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N173 EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.435624,
+                    51.148215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100256",
+                "bus": "yes",
+                "name": "Edegem Biazaar NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PRINS BOUDEWIJNLAAN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.435153,
+                    51.148134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "103998",
+                "bus": "yes",
+                "name": "Kontich Groeningenlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PRINS BOUDEWIJNLAAN KONTICH",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.438171,
+                    51.140663
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209786",
+                "bus": "yes",
+                "name": "Mater Sleegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.671847,
+                    50.866303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "208792",
+                "bus": "yes",
+                "name": "Mater Duisbeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUISBEKE OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.678223,
+                    50.86163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201826",
+                "bus": "yes",
+                "name": "Oudenaarde 7 (Welden Gaverstraat)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GAVERSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.671792,
+                    50.866177
+                ]
+            }
+        }
+    ]
+}

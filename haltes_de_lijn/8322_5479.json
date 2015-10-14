@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "503042",
+                "bus": "yes",
+                "name": "Beerst Kasteelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.875637,
+                    51.069356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "509206",
+                "bus": "yes",
+                "name": "Keiem Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIEMDORPSTRAAT KEIEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.875771,
+                    51.073214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "504206",
+                "bus": "yes",
+                "name": "Keiem Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIEMDORPSTRAAT KEIEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.876039,
+                    51.07329
+                ]
+            }
+        }
+    ]
+}

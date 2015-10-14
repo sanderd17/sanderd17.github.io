@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "308570",
+                "bus": "yes",
+                "name": "Mazenzele Sultveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSESTRAAT OPWIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.183828,
+                    50.942521
+                ]
+            }
+        }
+    ]
+}

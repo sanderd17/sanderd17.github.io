@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "305293",
+                "bus": "yes",
+                "name": "Peutie Militair Complex",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N278 PEUTIE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.467727,
+                    50.929832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "305292",
+                "bus": "yes",
+                "name": "Peutie Militair Complex",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N278 PEUTIE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.467912,
+                    50.929822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "305282",
+                "bus": "yes",
+                "name": "Peutie Melsbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJFHOEKSTRAAT PEUTIE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.464919,
+                    50.926733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "305283",
+                "bus": "yes",
+                "name": "Peutie Melsbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJFHOEKSTRAAT PEUTIE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.464748,
+                    50.926832
+                ]
+            }
+        }
+    ]
+}

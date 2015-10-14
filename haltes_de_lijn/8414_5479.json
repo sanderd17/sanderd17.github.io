@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "306;490;944",
+                "ref:De_Lijn": "103013",
+                "bus": "yes",
+                "name": "Herselt Ollemanshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTERLOSESTEENWEG BERGOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894408,
+                    51.069135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "306;490;944",
+                "ref:De_Lijn": "103014",
+                "bus": "yes",
+                "name": "Herselt Ollemanshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTERLOSESTEENWEG BERGOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.894296,
+                    51.06936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;944",
+                "ref:De_Lijn": "109374",
+                "bus": "yes",
+                "name": "Herselt Snepkens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.878414,
+                    51.071731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;944",
+                "ref:De_Lijn": "109375",
+                "bus": "yes",
+                "name": "Herselt Snepkens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSESTEENWEG HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.878673,
+                    51.070598
+                ]
+            }
+        }
+    ]
+}

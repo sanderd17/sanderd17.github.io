@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153",
+                "ref:De_Lijn": "304158",
+                "bus": "yes",
+                "name": "Pepingen Kestergat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N28 PEPINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.145088,
+                    50.764965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144",
+                "ref:De_Lijn": "307757",
+                "bus": "yes",
+                "name": "Pepingen Kestergat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KESTERSESTEENWEG PEPINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.145175,
+                    50.764659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153",
+                "ref:De_Lijn": "301654",
+                "bus": "yes",
+                "name": "Leerbeek Kwabeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NINOOFSE STEENWEG KESTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.131122,
+                    50.7715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144;153",
+                "ref:De_Lijn": "304159",
+                "bus": "yes",
+                "name": "Pepingen Kestergat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NINOOFSESTEENWEG PEPINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.145743,
+                    50.764418
+                ]
+            }
+        }
+    ]
+}

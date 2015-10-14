@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300318",
+                "bus": "yes",
+                "name": "L'Écluse Chapelle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE GAËT MELDERT (HOEGAARDEN)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825224,
+                    50.776924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "300319",
+                "bus": "yes",
+                "name": "L'Écluse Chapelle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE GAËT SLUIZEN (BEVEKOM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825465,
+                    50.776887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "300321",
+                "bus": "yes",
+                "name": "Meldert Gaatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAATSTRAAT MELDERT (HOEGAARDEN)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828827,
+                    50.777036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300320",
+                "bus": "yes",
+                "name": "Meldert Gaatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAATSTRAAT MELDERT (HOEGAARDEN)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.829519,
+                    50.7768
+                ]
+            }
+        }
+    ]
+}

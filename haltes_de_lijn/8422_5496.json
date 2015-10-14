@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "561;712",
+                "ref:De_Lijn": "302620",
+                "bus": "yes",
+                "name": "Drieslinter Steenweg op Melkwezer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.059387,
+                    50.842689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "561",
+                "ref:De_Lijn": "302619",
+                "bus": "yes",
+                "name": "Drieslinter Steenweg op Melkwezer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.059287,
+                    50.842599
+                ]
+            }
+        }
+    ]
+}

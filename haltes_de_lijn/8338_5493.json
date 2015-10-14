@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504783",
+                "bus": "yes",
+                "name": "Lendelede Hoevestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINKELSESTRAAT LENDELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.227783,
+                    50.884504
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "507007",
+                "bus": "yes",
+                "name": "Aartrijke Moubeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARTRIJKSESTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.104519,
+                    51.099425
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "502007",
+                "bus": "yes",
+                "name": "Aartrijke Moubeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARTRIJKSESTRAAT AARTRIJKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.104687,
+                    51.099535
+                ]
+            }
+        }
+    ]
+}

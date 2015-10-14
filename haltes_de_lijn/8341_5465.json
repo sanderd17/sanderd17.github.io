@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;49",
+                "ref:De_Lijn": "501059",
+                "bus": "yes",
+                "name": "Damme Pereboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLKERKESTEENWEG OOSTKERKE (DAMME)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.274259,
+                    51.270672
+                ]
+            }
+        }
+    ]
+}

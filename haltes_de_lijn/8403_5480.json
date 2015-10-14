@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;511;512;534",
+                "ref:De_Lijn": "108096",
+                "bus": "yes",
+                "name": "Putte Helstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.640923,
+                    51.059118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;511;512;534",
+                "ref:De_Lijn": "108098",
+                "bus": "yes",
+                "name": "Beerzel Driesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653971,
+                    51.060822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;511;512;534;571",
+                "ref:De_Lijn": "108099",
+                "bus": "yes",
+                "name": "Beerzel Driesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653743,
+                    51.060921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;511;512;534;571",
+                "ref:De_Lijn": "108097",
+                "bus": "yes",
+                "name": "Putte Helstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.64101,
+                    51.059253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "571;931;943",
+                "ref:De_Lijn": "108141",
+                "bus": "yes",
+                "name": "Beerzel Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUWSTRAAT BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.655323,
+                    51.064972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;943",
+                "ref:De_Lijn": "102172",
+                "bus": "yes",
+                "name": "Beerzel Augustijnenlei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AUGUSTIJNENLEI BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653112,
+                    51.058019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;943",
+                "ref:De_Lijn": "104056",
+                "bus": "yes",
+                "name": "Putte Stompaarshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT STOMPAARSHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.640827,
+                    51.067002
+                ]
+            }
+        }
+    ]
+}

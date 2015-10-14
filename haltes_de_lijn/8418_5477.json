@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510",
+                "ref:De_Lijn": "108999",
+                "bus": "yes",
+                "name": "Geel Zammelseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAMMELSEWEG OOSTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.968203,
+                    51.105099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;921",
+                "ref:De_Lijn": "108997",
+                "bus": "yes",
+                "name": "Geel Eindhoutseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTERLOSEWEG OOSTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.977037,
+                    51.10917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510",
+                "ref:De_Lijn": "108998",
+                "bus": "yes",
+                "name": "Geel Zammelseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZAMMELSEWEG OOSTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.968118,
+                    51.105189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "103963",
+                "bus": "yes",
+                "name": "Geel Berthoutsdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDHOUTSEWEG OOSTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.978691,
+                    51.106807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "510;921",
+                "ref:De_Lijn": "108996",
+                "bus": "yes",
+                "name": "Geel Eindhoutseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTERLOSEWEG OOSTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.97665,
+                    51.109037
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "505722",
+                "bus": "yes",
+                "name": "Lapscheure Landsdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLIENDERHAAG LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.331074,
+                    51.279849
+                ]
+            }
+        }
+    ]
+}

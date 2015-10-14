@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505638",
+                "bus": "yes",
+                "name": "Handzame Korte Wandeling",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUDEN-HOOFDSTRAAT HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.001438,
+                    51.019016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508180",
+                "bus": "yes",
+                "name": "Handzame Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMEPLEIN HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.0033,
+                    51.02605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "503179",
+                "bus": "yes",
+                "name": "Handzame Elflijnenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMESTRAAT HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.008679,
+                    51.025411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "503180",
+                "bus": "yes",
+                "name": "Handzame Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMESTRAAT HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.004799,
+                    51.025501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508179",
+                "bus": "yes",
+                "name": "Handzame Elflijnenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMESTRAAT HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.007858,
+                    51.025212
+                ]
+            }
+        }
+    ]
+}

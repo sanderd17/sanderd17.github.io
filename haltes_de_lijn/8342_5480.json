@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "502748",
+                "bus": "yes",
+                "name": "Wingene De Beer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUISELEDESTEENWEG BEER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.306369,
+                    51.055235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505696",
+                "bus": "yes",
+                "name": "Wingene Sint-Jan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEUKELSTRAAT BEER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.317471,
+                    51.061987
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;28",
+                "ref:De_Lijn": "507545",
+                "bus": "yes",
+                "name": "Wingene Schewege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLESTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.258973,
+                    51.055077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;28",
+                "ref:De_Lijn": "502545",
+                "bus": "yes",
+                "name": "Wingene Schewege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HILLESTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.259914,
+                    51.055094
+                ]
+            }
+        }
+    ]
+}

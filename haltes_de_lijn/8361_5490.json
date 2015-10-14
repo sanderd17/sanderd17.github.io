@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46",
+                "ref:De_Lijn": "203848",
+                "bus": "yes",
+                "name": "Scheldewindeke Keerken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSE STEENWEG SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.730485,
+                    50.921995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "46;440",
+                "ref:De_Lijn": "202848",
+                "bus": "yes",
+                "name": "Scheldewindeke Keerken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSE STEENWEG SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7303,
+                    50.922048
+                ]
+            }
+        }
+    ]
+}

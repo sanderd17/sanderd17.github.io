@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "509257",
+                "bus": "yes",
+                "name": "Leisele Bonten Hond",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEISELESTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.61318,
+                    50.990165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;58;59",
+                "ref:De_Lijn": "509123",
+                "bus": "yes",
+                "name": "Houtem Doorntje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HONDSCHOOTEBAAN HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.604324,
+                    50.995688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504123",
+                "bus": "yes",
+                "name": "Houtem Doorntje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HONDSCHOOTEBAAN HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.60407,
+                    50.995622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504257",
+                "bus": "yes",
+                "name": "Leisele Bonten Hond",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.613668,
+                    50.989669
+                ]
+            }
+        }
+    ]
+}

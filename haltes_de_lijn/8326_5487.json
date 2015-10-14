@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "509145",
+                "bus": "yes",
+                "name": "Houthulst Poelkapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POELKAPELLESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.946253,
+                    50.961513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505710",
+                "bus": "yes",
+                "name": "Houthulst Industriepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELANEDREEF HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.947578,
+                    50.969936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;30",
+                "ref:De_Lijn": "504145",
+                "bus": "yes",
+                "name": "Houthulst Poelkapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POELKAPELLESTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.946439,
+                    50.961497
+                ]
+            }
+        }
+    ]
+}

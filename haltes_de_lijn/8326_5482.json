@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "503969",
+                "bus": "yes",
+                "name": "Werken Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.965456,
+                    51.029174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509813",
+                "bus": "yes",
+                "name": "Werken Stedewegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLADSLOSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.960121,
+                    51.032113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505641",
+                "bus": "yes",
+                "name": "Werken Stedewegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.959705,
+                    51.03218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508969",
+                "bus": "yes",
+                "name": "Werken Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.965317,
+                    51.029065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505994",
+                "bus": "yes",
+                "name": "Werken Vierschaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLADSLOSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.951676,
+                    51.037433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "509826",
+                "bus": "yes",
+                "name": "Werken Stedewegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLADSLOSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.960218,
+                    51.032196
+                ]
+            }
+        }
+    ]
+}

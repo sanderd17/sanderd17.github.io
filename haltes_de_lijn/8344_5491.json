@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;81",
+                "ref:De_Lijn": "503884",
+                "bus": "yes",
+                "name": "Wielsbeke Onbewaakte Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT WIELSBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.359829,
+                    50.907019
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;81;88",
+                "ref:De_Lijn": "508884",
+                "bus": "yes",
+                "name": "Wielsbeke Onbewaakte Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT WIELSBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.359981,
+                    50.907191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;81;88",
+                "ref:De_Lijn": "505117",
+                "bus": "yes",
+                "name": "Wielsbeke Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIDDER DE GHELLINCKSTRAAT WIELSBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345844,
+                    50.907375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;81",
+                "ref:De_Lijn": "505365",
+                "bus": "yes",
+                "name": "Wielsbeke Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIDDER DE GHELLINCKSTRAAT WIELSBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345743,
+                    50.907437
+                ]
+            }
+        }
+    ]
+}

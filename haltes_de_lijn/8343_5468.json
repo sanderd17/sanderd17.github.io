@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505608",
+                "bus": "yes",
+                "name": "Moerkerke Altena",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIEVERSWEG MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.325467,
+                    51.223671
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;98",
+                "ref:De_Lijn": "507288",
+                "bus": "yes",
+                "name": "Moerkerke De Kroon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.318808,
+                    51.23395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;98",
+                "ref:De_Lijn": "502288",
+                "bus": "yes",
+                "name": "Moerkerke De Kroon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.318068,
+                    51.233728
+                ]
+            }
+        }
+    ]
+}

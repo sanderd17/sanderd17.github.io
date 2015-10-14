@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306855",
+                "bus": "yes",
+                "name": "Langdorp Volkensvoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLKENSVOORTSTRAAT LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.915732,
+                    51.022366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306853",
+                "bus": "yes",
+                "name": "Langdorp Sparrenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSLEUKENSTRAAT LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.907427,
+                    51.019069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306856",
+                "bus": "yes",
+                "name": "Langdorp Volkensvoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLKENSVOORTSTRAAT LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.915587,
+                    51.022223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306854",
+                "bus": "yes",
+                "name": "Langdorp Sparrenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSLEUKENSTRAAT LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.906984,
+                    51.018928
+                ]
+            }
+        }
+    ]
+}

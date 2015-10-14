@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "101226",
+                "bus": "yes",
+                "name": "Oppuurs Kattestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTESTRAAT OPPUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.24065,
+                    51.070368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "102748",
+                "bus": "yes",
+                "name": "Branst 't Hoogste",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T HOOGSTE BORNEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.219624,
+                    51.073813
+                ]
+            }
+        }
+    ]
+}

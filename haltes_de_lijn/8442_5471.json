@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;746",
+                "ref:De_Lijn": "400936",
+                "bus": "yes",
+                "name": "Kaulille Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLERBAAN KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513982,
+                    51.192421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400171",
+                "bus": "yes",
+                "name": "Kaulille Rode Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COMMANDANT LEROYSTRAAT KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.505315,
+                    51.19139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;746",
+                "ref:De_Lijn": "400937",
+                "bus": "yes",
+                "name": "Kaulille Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLERBAAN KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.513978,
+                    51.192268
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400173",
+                "bus": "yes",
+                "name": "Kaulille Rode Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COMMANDANT LEROYSTRAAT KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.505375,
+                    51.191479
+                ]
+            }
+        }
+    ]
+}

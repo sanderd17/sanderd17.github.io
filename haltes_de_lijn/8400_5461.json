@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;608;620;629",
+                "ref:De_Lijn": "105508",
+                "bus": "yes",
+                "name": "Brecht Vriendschapslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSTEENWEG DE MEREL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.591649,
+                    51.320419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;608;620;629",
+                "ref:De_Lijn": "105509",
+                "bus": "yes",
+                "name": "Brecht Vriendschapslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSTEENWEG DE MEREL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.592282,
+                    51.32067
+                ]
+            }
+        }
+    ]
+}

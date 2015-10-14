@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;38",
+                "ref:De_Lijn": "507631",
+                "bus": "yes",
+                "name": "Hooglede Huize Edelweiss",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMARKSTRAAT HOOGLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.057154,
+                    50.988542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;38",
+                "ref:De_Lijn": "502647",
+                "bus": "yes",
+                "name": "Hooglede Huize Edelweiss",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMARKSTRAAT HOOGLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.057073,
+                    50.988415
+                ]
+            }
+        }
+    ]
+}

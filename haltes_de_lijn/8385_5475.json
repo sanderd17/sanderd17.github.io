@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99;280",
+                "ref:De_Lijn": "205650",
+                "bus": "yes",
+                "name": "Temse Schauselhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSBAAN TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.248105,
+                    51.12874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99;280",
+                "ref:De_Lijn": "205649",
+                "bus": "yes",
+                "name": "Steendorp Blauwhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT STEENDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.258688,
+                    51.129568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99;280",
+                "ref:De_Lijn": "204650",
+                "bus": "yes",
+                "name": "Temse Schauselhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSBAAN TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.249133,
+                    51.129037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99;280",
+                "ref:De_Lijn": "204649",
+                "bus": "yes",
+                "name": "Steendorp Blauwhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT STEENDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.258231,
+                    51.12972
+                ]
+            }
+        }
+    ]
+}

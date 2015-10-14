@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "205755",
+                "bus": "yes",
+                "name": "Meerdonk Margrietstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARGRIETSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.153857,
+                    51.252324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "204755",
+                "bus": "yes",
+                "name": "Meerdonk Margrietstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARGRIETSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.154028,
+                    51.252361
+                ]
+            }
+        }
+    ]
+}

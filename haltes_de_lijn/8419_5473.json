@@ -1,0 +1,572 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108644",
+                "bus": "yes",
+                "name": "Geel Laerhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAAR GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.006864,
+                    51.157023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100290",
+                "bus": "yes",
+                "name": "Geel Sint-Dimpna NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N118 GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00154,
+                    51.162831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "102904",
+                "bus": "yes",
+                "name": "Geel Werft",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERFT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.989333,
+                    51.161943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;84;299;302;306;380;381;382;490;491;492;493;510;921",
+                "ref:De_Lijn": "102924",
+                "bus": "yes",
+                "name": "Geel Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.99447,
+                    51.163363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108976",
+                "bus": "yes",
+                "name": "Geel Pastoor Van Neylenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KOLLEGESTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.998262,
+                    51.161483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108642",
+                "bus": "yes",
+                "name": "Geel Kerkhof Eikevelden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKEVELDEN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.998358,
+                    51.155909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109692",
+                "bus": "yes",
+                "name": "Geel Diestseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.993761,
+                    51.156293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;84;299;302;306;380;381;382;490;491;492;493;510",
+                "ref:De_Lijn": "108972",
+                "bus": "yes",
+                "name": "Geel Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990539,
+                    51.161218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;84;299;302;306;380;381;382;490;491;492;493;510;921",
+                "ref:De_Lijn": "101719",
+                "bus": "yes",
+                "name": "Geel Stadspark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990119,
+                    51.164034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;15c;299",
+                "ref:De_Lijn": "109461",
+                "bus": "yes",
+                "name": "Geel Sint-Dimpna",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00187,
+                    51.162973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;84;299;302;306;380;381;382;490;491;492;493;510;921",
+                "ref:De_Lijn": "108974",
+                "bus": "yes",
+                "name": "Geel Pastoor Van Neylenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR VAN NEYLENSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.996993,
+                    51.161723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;493;921",
+                "ref:De_Lijn": "103726",
+                "bus": "yes",
+                "name": "Geel Wedbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORNIK GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.999875,
+                    51.158157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "100286",
+                "bus": "yes",
+                "name": "Geel Nieuwstraat NB2000",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.991173,
+                    51.162653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109690",
+                "bus": "yes",
+                "name": "Geel Diestseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.993964,
+                    51.156544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401977",
+                "bus": "yes",
+                "name": "Geel Markt vervanghalte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.991,
+                    51.162582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;15c;302;306;382;490;491;492;493;510;921",
+                "ref:De_Lijn": "108978",
+                "bus": "yes",
+                "name": "Geel AZ Sint-Dimpna",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.998627,
+                    51.161013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;15c;302;306;382;490;491;492;493;510;921",
+                "ref:De_Lijn": "108977",
+                "bus": "yes",
+                "name": "Geel AZ Sint-Dimpna",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.998182,
+                    51.16089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;306;382;490;491;492;510;921",
+                "ref:De_Lijn": "108981",
+                "bus": "yes",
+                "name": "Geel Waterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.988105,
+                    51.156664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382",
+                "ref:De_Lijn": "103062",
+                "bus": "yes",
+                "name": "Geel Sint-Dimpna",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOGEN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.001472,
+                    51.163146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;15c;299;380;381;382;921",
+                "ref:De_Lijn": "109462",
+                "bus": "yes",
+                "name": "Geel Sint-Dimpna",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-DIMPNAPLEIN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00082,
+                    51.162494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;84;299;302;306;380;381;490;491;492;493;510;921",
+                "ref:De_Lijn": "101721",
+                "bus": "yes",
+                "name": "Geel Stadspark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990044,
+                    51.163818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109686",
+                "bus": "yes",
+                "name": "Geel Brukel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.994019,
+                    51.152103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "104964",
+                "bus": "yes",
+                "name": "Geel Lemersveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAARSVELD GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.00908,
+                    51.161182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401978",
+                "bus": "yes",
+                "name": "Geel P. van Neylenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR VAN NEYLENSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.996877,
+                    51.161616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;493",
+                "ref:De_Lijn": "102966",
+                "bus": "yes",
+                "name": "Geel AZ St Dimpna Hoofdingang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAN-BAPTIST STESSENSSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.000182,
+                    51.159684
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "104803",
+                "bus": "yes",
+                "name": "Geel Doelenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOELENSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.995425,
+                    51.162064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407340",
+                "bus": "yes",
+                "name": "Geel P. van Neylenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KOLLEGESTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.998333,
+                    51.161491
+                ]
+            }
+        }
+    ]
+}

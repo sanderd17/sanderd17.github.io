@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "205027",
+                "bus": "yes",
+                "name": "Doel Oude Sluisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEFSTRAAT DOEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.217,
+                    51.302891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "204027",
+                "bus": "yes",
+                "name": "Doel Oude Sluisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUW-ARENBERGSTRAAT KIELDRECHT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.216197,
+                    51.30306
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;89",
+                "ref:De_Lijn": "509237",
+                "bus": "yes",
+                "name": "Komen Sint-Annaplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.998219,
+                    50.768473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "504241",
+                "bus": "yes",
+                "name": "Komen Vijfwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN-BRIELENSTRAAT KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.996318,
+                    50.776777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;89",
+                "ref:De_Lijn": "504237",
+                "bus": "yes",
+                "name": "Komen Sint-Annaplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSTRAAT KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.999624,
+                    50.768912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "509236",
+                "bus": "yes",
+                "name": "Komen Overwinningsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERVIKSESTEENWEG KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.007033,
+                    50.771579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "504236",
+                "bus": "yes",
+                "name": "Komen Overwinningsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERVIKSESTEENWEG KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.006617,
+                    50.771269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "509241",
+                "bus": "yes",
+                "name": "Komen Vijfwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN-BRIELENSTRAAT KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.99654,
+                    50.776465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;89",
+                "ref:De_Lijn": "504239",
+                "bus": "yes",
+                "name": "Komen Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT KOMEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.999358,
+                    50.771705
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205772",
+                "bus": "yes",
+                "name": "Stekene Barlebuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VENNESTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.995107,
+                    51.213819
+                ]
+            }
+        }
+    ]
+}

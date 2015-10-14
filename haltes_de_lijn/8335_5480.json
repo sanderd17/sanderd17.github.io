@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "502512",
+                "bus": "yes",
+                "name": "Torhout Torhoutsesteenweg Huis nummer 21",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGELAANSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.14289,
+                    51.064319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;79",
+                "ref:De_Lijn": "507512",
+                "bus": "yes",
+                "name": "Torhout Torhoutsesteenweg Huis nummer 21",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGELAANSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.142576,
+                    51.064343
+                ]
+            }
+        }
+    ]
+}

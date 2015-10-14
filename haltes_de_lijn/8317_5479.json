@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "509508",
+                "bus": "yes",
+                "name": "Veurne Weg Op Booitshoeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S HEERWILLEMS VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.747637,
+                    51.077105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504508",
+                "bus": "yes",
+                "name": "Veurne Weg Op Booitshoeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S HEERWILLEMS VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.747689,
+                    51.077259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "509496",
+                "bus": "yes",
+                "name": "Veurne Kapelletje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S HEERWILLEMS VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.767327,
+                    51.074776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504496",
+                "bus": "yes",
+                "name": "Veurne Kapelletje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N35 VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.766112,
+                    51.075272
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "500942",
+                "bus": "yes",
+                "name": "Handzame Groenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMERSVELDESTRAAT HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.006868,
+                    51.011203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "505639",
+                "bus": "yes",
+                "name": "Handzame Groenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMERSVELDESTRAAT HANDZAME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.006922,
+                    51.011311
+                ]
+            }
+        }
+    ]
+}

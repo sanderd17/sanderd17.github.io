@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "406285",
+                "bus": "yes",
+                "name": "Maasmechelen Werkhuizen Kroon Group",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG NAAR AS MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.627549,
+                    50.989553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "406284",
+                "bus": "yes",
+                "name": "Maasmechelen Werkhuizen Kroon Group",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG NAAR AS MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.627442,
+                    50.989806
+                ]
+            }
+        }
+    ]
+}

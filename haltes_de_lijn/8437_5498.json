@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a;709",
+                "ref:De_Lijn": "401088",
+                "bus": "yes",
+                "name": "Jesseren Dorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JESSERENSTRAAT JESSEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.384535,
+                    50.808675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "709",
+                "ref:De_Lijn": "401100",
+                "bus": "yes",
+                "name": "Jesseren Topeinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG GORS-OPLEEUW JESSEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.393403,
+                    50.806071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23a;709",
+                "ref:De_Lijn": "401089",
+                "bus": "yes",
+                "name": "Jesseren Dorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JESSERENSTRAAT JESSEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.384169,
+                    50.808804
+                ]
+            }
+        }
+    ]
+}

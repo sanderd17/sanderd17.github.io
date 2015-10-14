@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504547",
+                "bus": "yes",
+                "name": "Watou Rattekot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENVOORDESTRAAT WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.6234,
+                    50.843085
+                ]
+            }
+        }
+    ]
+}

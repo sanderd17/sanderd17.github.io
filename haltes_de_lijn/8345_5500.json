@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;93",
+                "ref:De_Lijn": "508219",
+                "bus": "yes",
+                "name": "Heestert Bonte Os",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERG MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.37674,
+                    50.79028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;93;99",
+                "ref:De_Lijn": "503219",
+                "bus": "yes",
+                "name": "Heestert Bonte Os",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERG MOEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.376759,
+                    50.790028
+                ]
+            }
+        }
+    ]
+}

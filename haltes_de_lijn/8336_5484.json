@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "502910",
+                "bus": "yes",
+                "name": "Koolskamp Transvaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGAKKERSTRAAT KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.183771,
+                    51.005483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;78",
+                "ref:De_Lijn": "502264",
+                "bus": "yes",
+                "name": "Lichtervelde Nieuwe Voerman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.176197,
+                    51.007492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "507264",
+                "bus": "yes",
+                "name": "Lichtervelde Nieuwe Voerman",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.175855,
+                    51.007471
+                ]
+            }
+        }
+    ]
+}

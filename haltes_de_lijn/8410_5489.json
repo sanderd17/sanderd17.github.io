@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300522",
+                "bus": "yes",
+                "name": "Wezemaal Blauwmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN-VASSELAAR WEZEMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.801284,
+                    50.944177
+                ]
+            }
+        }
+    ]
+}

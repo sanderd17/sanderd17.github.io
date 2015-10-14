@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "500027",
+                "bus": "yes",
+                "name": "Sijsele Woonzorgcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31807,
+                    51.206931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505726",
+                "bus": "yes",
+                "name": "Sijsele De Zwaankapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSE HEIRWEG SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.331952,
+                    51.208204
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,236 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "209482",
+                "bus": "yes",
+                "name": "Hemelveerdegem Strichtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE STEENWEG DEFTINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.872403,
+                    50.800285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;410",
+                "ref:De_Lijn": "208483",
+                "bus": "yes",
+                "name": "Gemeldorp Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRICHTSTRAAT GEMELDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.867501,
+                    50.795715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206668",
+                "bus": "yes",
+                "name": "Schendelbeke Herenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENVELD GERAARDSBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.882922,
+                    50.796859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209483",
+                "bus": "yes",
+                "name": "Gemeldorp Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STRICHTSTRAAT GEMELDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.867655,
+                    50.795941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;370;410",
+                "ref:De_Lijn": "208481",
+                "bus": "yes",
+                "name": "Hemelveerdegem Triepstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE STEENWEG SCHENDELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.872473,
+                    50.804439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;370",
+                "ref:De_Lijn": "206776",
+                "bus": "yes",
+                "name": "Schendelbeke Diebeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAGMOEDSTRAAT GERAARDSBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.876611,
+                    50.793992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;370;410",
+                "ref:De_Lijn": "208482",
+                "bus": "yes",
+                "name": "Hemelveerdegem Strichtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE STEENWEG SCHENDELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.872612,
+                    50.800655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "209481",
+                "bus": "yes",
+                "name": "Hemelveerdegem Triepstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSE STEENWEG DEFTINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.872202,
+                    50.804608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;49",
+                "ref:De_Lijn": "209486",
+                "bus": "yes",
+                "name": "Schendelbeke Galgestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN SCHENDELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.872809,
+                    50.792708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "208532",
+                "bus": "yes",
+                "name": "Schendelbeke IJsbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTSESTEENWEG SCHENDELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.885367,
+                    50.79909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;49;370;410",
+                "ref:De_Lijn": "208486",
+                "bus": "yes",
+                "name": "Schendelbeke Galgestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN SCHENDELBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.873038,
+                    50.792521
+                ]
+            }
+        }
+    ]
+}

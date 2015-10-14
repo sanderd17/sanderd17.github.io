@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "504128",
+                "bus": "yes",
+                "name": "Houtem Het Sas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "W. COBERGHERSTRAAT HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.608164,
+                    51.025841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;59",
+                "ref:De_Lijn": "504130",
+                "bus": "yes",
+                "name": "Houtem Middenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDENWEG HOUTEM (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.593376,
+                    51.015386
+                ]
+            }
+        }
+    ]
+}

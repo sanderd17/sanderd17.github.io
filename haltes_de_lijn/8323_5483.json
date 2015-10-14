@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;47;64",
+                "ref:De_Lijn": "508144",
+                "bus": "yes",
+                "name": "Esen Eikhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESENWEG ESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.889902,
+                    51.027513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;47;64",
+                "ref:De_Lijn": "503144",
+                "bus": "yes",
+                "name": "Esen Eikhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESENWEG ESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.894234,
+                    51.027558
+                ]
+            }
+        }
+    ]
+}

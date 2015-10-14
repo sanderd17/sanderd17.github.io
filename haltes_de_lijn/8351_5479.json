@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "209653",
+                "bus": "yes",
+                "name": "Hansbeke Mariahovelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.513616,
+                    51.081326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200850",
+                "bus": "yes",
+                "name": "Bellem Markettestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKETTESTRAAT BELLEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.494779,
+                    51.070572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125;160;185",
+                "ref:De_Lijn": "208653",
+                "bus": "yes",
+                "name": "Hansbeke Mariahovelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.513842,
+                    51.081436
+                ]
+            }
+        }
+    ]
+}

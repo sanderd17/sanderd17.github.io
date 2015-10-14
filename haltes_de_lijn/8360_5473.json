@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "210025",
+                "bus": "yes",
+                "name": "Ertvelde Spiegelstraat 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPIEGELSTRAAT ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.697051,
+                    51.165501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "210037",
+                "bus": "yes",
+                "name": "Sleidinge Kegelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLPENSWEGE SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.69462,
+                    51.157612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "211037",
+                "bus": "yes",
+                "name": "Sleidinge Kegelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLPENSWEGE SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.694478,
+                    51.157522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;150",
+                "ref:De_Lijn": "201856",
+                "bus": "yes",
+                "name": "Sleidinge Volpenswege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLPENSWEGE SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.693645,
+                    51.151836
+                ]
+            }
+        }
+    ]
+}

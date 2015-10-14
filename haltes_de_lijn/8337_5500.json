@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82",
+                "ref:De_Lijn": "503496",
+                "bus": "yes",
+                "name": "Lauwe Dronkaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT LAUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.200298,
+                    50.79065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82",
+                "ref:De_Lijn": "508496",
+                "bus": "yes",
+                "name": "Lauwe Dronkaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT LAUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.199968,
+                    50.790808
+                ]
+            }
+        }
+    ]
+}

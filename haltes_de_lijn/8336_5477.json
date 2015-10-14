@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "507354",
+                "bus": "yes",
+                "name": "Ruddervoorde Bietenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEGEMSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.183313,
+                    51.100782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "507925",
+                "bus": "yes",
+                "name": "Ruddervoorde Veldegemsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE VELDEGEMSESTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.173975,
+                    51.09969
+                ]
+            }
+        }
+    ]
+}

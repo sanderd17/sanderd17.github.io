@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505291",
+                "bus": "yes",
+                "name": "Zonnebeke Oosthoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKIZAATSTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.036139,
+                    50.86542
+                ]
+            }
+        }
+    ]
+}

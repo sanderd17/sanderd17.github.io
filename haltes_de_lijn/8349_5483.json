@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203313",
+                "bus": "yes",
+                "name": "Lotenhulle Heirstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRSTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.469759,
+                    51.026371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;185",
+                "ref:De_Lijn": "202313",
+                "bus": "yes",
+                "name": "Lotenhulle Heirstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRSTRAAT LOTENHULLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.469939,
+                    51.026642
+                ]
+            }
+        }
+    ]
+}

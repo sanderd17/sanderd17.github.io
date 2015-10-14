@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "505606",
+                "bus": "yes",
+                "name": "Draaibrug Busstation",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DRAAIBRUG DRAAIBRUG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.428235,
+                    51.298332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "509780",
+                "bus": "yes",
+                "zone:De_Lijn": "7972",
+                "name": "Draaibrug Draaibrugseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAAIBRUG DRAAIBRUG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.428074,
+                    51.298502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "500114",
+                "bus": "yes",
+                "name": "Draaibrug Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DRAAIBRUG DRAAIBRUG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.428218,
+                    51.298485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "509781",
+                "bus": "yes",
+                "zone:De_Lijn": "7972",
+                "name": "Draaibrug Draaibrugseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAAIBRUG DRAAIBRUG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.428204,
+                    51.298476
+                ]
+            }
+        }
+    ]
+}

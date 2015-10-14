@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203842",
+                "bus": "yes",
+                "name": "Vurste Wannegatstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WANNEGATSTRAAT VURSTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.689417,
+                    50.944176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202842",
+                "bus": "yes",
+                "name": "Vurste Wannegatstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WANNEGATSTRAAT VURSTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.689558,
+                    50.944249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "202942",
+                "bus": "yes",
+                "name": "Gavere Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EECKHOUTSTRAAT GAVERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.671688,
+                    50.931658
+                ]
+            }
+        }
+    ]
+}

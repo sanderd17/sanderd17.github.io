@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;81",
+                "ref:De_Lijn": "503290",
+                "bus": "yes",
+                "name": "Ingelmunster Vliegend Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTROZEBEKESTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.281909,
+                    50.916825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505953",
+                "bus": "yes",
+                "name": "Ingelmunster Vlaswijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSTRAAT INGELMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.276039,
+                    50.910558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505129",
+                "bus": "yes",
+                "name": "Oostrozebeke Cafe De Wante",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUIZELSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.288044,
+                    50.911658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;81;88",
+                "ref:De_Lijn": "504749",
+                "bus": "yes",
+                "name": "Oostrozebeke Nijverheidsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGELMUNSTERSTEENWEG OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.295761,
+                    50.914983
+                ]
+            }
+        }
+    ]
+}

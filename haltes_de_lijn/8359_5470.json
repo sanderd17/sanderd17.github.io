@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;98;195",
+                "ref:De_Lijn": "202676",
+                "bus": "yes",
+                "name": "Oosteeklo Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STROOMSTRAAT OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.689059,
+                    51.196925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203676",
+                "bus": "yes",
+                "name": "Oosteeklo Bosstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STROOMSTRAAT OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.689363,
+                    51.196666
+                ]
+            }
+        }
+    ]
+}

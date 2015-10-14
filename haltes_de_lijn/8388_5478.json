@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "104853",
+                "bus": "yes",
+                "name": "Ruisbroek Beemdstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT SAUVEGARDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.324201,
+                    51.083399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "257;938",
+                "ref:De_Lijn": "107884",
+                "bus": "yes",
+                "name": "Puurs Eikse Amer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKSE AMER PUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.310664,
+                    51.090108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "257;938",
+                "ref:De_Lijn": "107886",
+                "bus": "yes",
+                "name": "Puurs Eikse Amer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKSE AMER PUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.310806,
+                    51.090162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "252;253;254;257",
+                "ref:De_Lijn": "104854",
+                "bus": "yes",
+                "name": "Ruisbroek Beemdstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT SAUVEGARDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.324087,
+                    51.08348
+                ]
+            }
+        }
+    ]
+}

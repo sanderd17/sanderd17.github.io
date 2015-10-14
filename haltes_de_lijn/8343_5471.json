@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "507601",
+                "bus": "yes",
+                "name": "Oedelem Egypte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SIJSELESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332091,
+                    51.18904
+                ]
+            }
+        }
+    ]
+}

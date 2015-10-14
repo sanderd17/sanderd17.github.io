@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "406282",
+                "bus": "yes",
+                "name": "Maasmechelen Werkhuizen Bleichert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG NAAR AS MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.621878,
+                    50.993237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "406283",
+                "bus": "yes",
+                "name": "Maasmechelen Werkhuizen Bleichert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG NAAR AS MAASMECHELEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.62103,
+                    50.993471
+                ]
+            }
+        }
+    ]
+}

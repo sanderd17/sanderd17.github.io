@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "502522",
+                "bus": "yes",
+                "name": "Varsenare Zeeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DORPSWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.150076,
+                    51.190001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "507522",
+                "bus": "yes",
+                "name": "Varsenare Zeeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DORPSWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.150294,
+                    51.189868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "502518",
+                "bus": "yes",
+                "name": "Varsenare De Manlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.155678,
+                    51.191308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;52;53;54;55;93",
+                "ref:De_Lijn": "502519",
+                "bus": "yes",
+                "name": "Varsenare Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DORPSWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.142462,
+                    51.188484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "507518",
+                "bus": "yes",
+                "name": "Varsenare De Manlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.156293,
+                    51.191314
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "507519",
+                "bus": "yes",
+                "name": "Varsenare Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DORPSWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.142455,
+                    51.188744
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200952",
+                "bus": "yes",
+                "name": "Eeklo Obc De Waai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAAISTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580328,
+                    51.213078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203249",
+                "bus": "yes",
+                "name": "Eeklo Waaistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPERSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.572316,
+                    51.210408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202250",
+                "bus": "yes",
+                "name": "Eeklo Kleemhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEEMHOEK EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.573512,
+                    51.216627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203250",
+                "bus": "yes",
+                "name": "Eeklo Kleemhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEEMHOEK EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.573925,
+                    51.216783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202249",
+                "bus": "yes",
+                "name": "Eeklo Waaistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPERSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.572115,
+                    51.210425
+                ]
+            }
+        }
+    ]
+}

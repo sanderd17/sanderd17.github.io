@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505013",
+                "bus": "yes",
+                "name": "Loppem Dopheidelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOPHEIDELAAN LOPPEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18847,
+                    51.14991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "502926",
+                "bus": "yes",
+                "name": "Loppem Toekomst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LOPPEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.191777,
+                    51.151435
+                ]
+            }
+        }
+    ]
+}

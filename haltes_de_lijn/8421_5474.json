@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401953",
+                "bus": "yes",
+                "name": "Geel Lissenvijver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERHOUTSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.045339,
+                    51.151739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401952",
+                "bus": "yes",
+                "name": "Geel Lissenvijver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERHOUTSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.045701,
+                    51.151062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "299;921",
+                "ref:De_Lijn": "104954",
+                "bus": "yes",
+                "name": "Geel Lissenvijver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERHOUTSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.045325,
+                    51.15173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "299;921",
+                "ref:De_Lijn": "104953",
+                "bus": "yes",
+                "name": "Geel Lissenvijver",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERHOUTSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.045672,
+                    51.151062
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "409753",
+                "bus": "yes",
+                "name": "Lommel Mosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESTELSEDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310961,
+                    51.250253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "405766",
+                "bus": "yes",
+                "name": "Lommel In de Putten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESTELSEDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.312981,
+                    51.256583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "409752",
+                "bus": "yes",
+                "name": "Lommel Mosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESTELSEDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.310876,
+                    51.250281
+                ]
+            }
+        }
+    ]
+}

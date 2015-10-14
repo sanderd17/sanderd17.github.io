@@ -1,0 +1,965 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605",
+                "ref:De_Lijn": "102414",
+                "bus": "yes",
+                "name": "Smallestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDASTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.422934,
+                    51.233657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "101995",
+                "bus": "yes",
+                "name": "Diepestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE BEELDEKENSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426541,
+                    51.221503
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "102420",
+                "zone:De_Lijn": "01",
+                "name": "Gasstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "VAN KERCKHOVENSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.424886,
+                    51.225971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;610;620;621;629",
+                "ref:De_Lijn": "102873",
+                "bus": "yes",
+                "name": "Damplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIADUCT-DAM ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42435,
+                    51.232155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "104825",
+                "zone:De_Lijn": "01",
+                "name": "Richard",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "HOLLANDSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419773,
+                    51.223726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "102721",
+                "bus": "yes",
+                "name": "Handel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE STUIVENBERGSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432127,
+                    51.224062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "102735",
+                "bus": "yes",
+                "name": "Handelsteeg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDELSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42935,
+                    51.223749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;5;6",
+                "ref:De_Lijn": "104722",
+                "name": "Elisabeth",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SINT-ELISABETHSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423995,
+                    51.222754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "413",
+                "ref:De_Lijn": "107100",
+                "bus": "yes",
+                "name": "Trapstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORANJESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423729,
+                    51.228102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204262",
+                "bus": "yes",
+                "name": "Sint-Jansplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416898,
+                    51.225462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;23",
+                "ref:De_Lijn": "105400",
+                "bus": "yes",
+                "name": "AZ Stuivenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTHOEKSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436934,
+                    51.22201
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "101895",
+                "zone:De_Lijn": "01",
+                "name": "De Coninck",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "VAN SCHOONHOVENSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.421474,
+                    51.220921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;23",
+                "ref:De_Lijn": "105700",
+                "bus": "yes",
+                "name": "Van Helmontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTHOEKSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436596,
+                    51.225938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "106000",
+                "bus": "yes",
+                "name": "Weilandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE LOBROEKSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.430662,
+                    51.230678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;23",
+                "ref:De_Lijn": "105395",
+                "bus": "yes",
+                "name": "AZ Stuivenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTHOEKSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43672,
+                    51.222918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "413;720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "105195",
+                "bus": "yes",
+                "name": "Sint-Jansplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416955,
+                    51.225471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610;620;621;629",
+                "ref:De_Lijn": "102190",
+                "bus": "yes",
+                "name": "Ellermanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLERMANSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420439,
+                    51.229856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "105315",
+                "bus": "yes",
+                "name": "Antwerpen Station Dam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426397,
+                    51.231669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;5;6",
+                "ref:De_Lijn": "104723",
+                "zone:De_Lijn": "01",
+                "name": "Handel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ONDERWIJSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432572,
+                    51.224673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "413",
+                "ref:De_Lijn": "107095",
+                "bus": "yes",
+                "name": "Trapstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORANJESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423615,
+                    51.228174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "103725",
+                "bus": "yes",
+                "name": "Korte Van Bloerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE BEELDEKENSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43125,
+                    51.221303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "101885",
+                "zone:De_Lijn": "01",
+                "name": "De Coninck",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ROTTERDAMSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420487,
+                    51.222099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;413;600;601;602;605;610;620;621;629;640;641;642;720;730;760;761;762;763;764;770;771;772;775;776",
+                "ref:De_Lijn": "105210",
+                "bus": "yes",
+                "name": "Sint-Jansplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416983,
+                    51.224941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "102425",
+                "zone:De_Lijn": "01",
+                "name": "Gasstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "VAN KERCKHOVENSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426161,
+                    51.226267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610;620;621;629",
+                "ref:De_Lijn": "102195",
+                "bus": "yes",
+                "name": "Ellermanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLERMANSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420324,
+                    51.229748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;5;6",
+                "ref:De_Lijn": "104719",
+                "name": "Elisabeth",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SINT-ELISABETHSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423995,
+                    51.222754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;413",
+                "ref:De_Lijn": "102715",
+                "bus": "yes",
+                "name": "Halenstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HALENSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436025,
+                    51.227035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "105175",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Gummarus",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DAMBRUGGESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.421836,
+                    51.225056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "105410",
+                "zone:De_Lijn": "01",
+                "name": "Stuivenberg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "STUIVENBERGPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429827,
+                    51.227434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "103710",
+                "bus": "yes",
+                "name": "Weilandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE LOBROEKSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.430933,
+                    51.230516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "104700",
+                "bus": "yes",
+                "name": "AZ Stuivenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE BEELDEKENSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.435989,
+                    51.222298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3;5;6",
+                "ref:De_Lijn": "104724",
+                "zone:De_Lijn": "01",
+                "name": "Handel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ONDERWIJSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432557,
+                    51.224673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12;413",
+                "ref:De_Lijn": "102720",
+                "bus": "yes",
+                "name": "Halenstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HALENSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43561,
+                    51.22717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;38",
+                "ref:De_Lijn": "102874",
+                "bus": "yes",
+                "name": "Slachthuislaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLACHTHUISLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43829,
+                    51.229218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "105390",
+                "bus": "yes",
+                "name": "AZ Stuivenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE BEELDEKENSSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43609,
+                    51.222415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;762;763;764",
+                "ref:De_Lijn": "102686",
+                "bus": "yes",
+                "name": "Sint-Jansplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41687,
+                    51.225678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "101990",
+                "zone:De_Lijn": "01",
+                "name": "Sint-Gummarus",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DAMBRUGGESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.421979,
+                    51.225118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "105405",
+                "zone:De_Lijn": "01",
+                "name": "Stuivenberg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "STUIVENBERGPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429898,
+                    51.227362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109688",
+                "bus": "yes",
+                "name": "Franklin Rooseveltplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ITALIËLEI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41695,
+                    51.22077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;610;620;621;629",
+                "ref:De_Lijn": "107295",
+                "bus": "yes",
+                "name": "Damplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIADUCT-DAM ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.424207,
+                    51.232092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "105316",
+                "bus": "yes",
+                "name": "Antwerpen Station Dam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426339,
+                    51.231759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "105155",
+                "bus": "yes",
+                "name": "Sint-Elisabethstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ELISABETHSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.424124,
+                    51.222879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34",
+                "ref:De_Lijn": "104860",
+                "bus": "yes",
+                "name": "Rotterdamstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTTERDAMSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418943,
+                    51.223709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;23",
+                "ref:De_Lijn": "104475",
+                "bus": "yes",
+                "name": "Van Helmontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POTHOEKSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436753,
+                    51.225821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30",
+                "ref:De_Lijn": "102659",
+                "bus": "yes",
+                "name": "De Coninck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE CONINCKPLEIN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420443,
+                    51.22129
+                ]
+            }
+        }
+    ]
+}

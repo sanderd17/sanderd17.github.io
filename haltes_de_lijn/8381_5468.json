@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "205521",
+                "bus": "yes",
+                "name": "Vrasene Klein Laarstraat (Kapel)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN LAARSTRAAT VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.169286,
+                    51.221332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "204522",
+                "bus": "yes",
+                "name": "Vrasene Voshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.158804,
+                    51.22544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "204521",
+                "bus": "yes",
+                "name": "Vrasene Klein Laarstraat (Kapel)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN LAARSTRAAT VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.169457,
+                    51.221387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85",
+                "ref:De_Lijn": "205522",
+                "bus": "yes",
+                "name": "Vrasene Voshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN LAARSTRAAT VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.159937,
+                    51.225091
+                ]
+            }
+        }
+    ]
+}

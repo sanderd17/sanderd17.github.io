@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24",
+                "ref:De_Lijn": "209133",
+                "bus": "yes",
+                "name": "Sint-Blasius-Boekel Heuvelgem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT ELST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735105,
+                    50.843081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "207677",
+                "bus": "yes",
+                "name": "Elst Arme Kleie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKELSTRAAT ELST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.724027,
+                    50.840216
+                ]
+            }
+        }
+    ]
+}

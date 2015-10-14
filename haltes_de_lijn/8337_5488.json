@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "502023",
+                "bus": "yes",
+                "name": "Ardooie Sterre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.195062,
+                    50.958038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;61;68",
+                "ref:De_Lijn": "507018",
+                "bus": "yes",
+                "name": "Ardooie Kruipendaarde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARDOOISESTRAAT KACHTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.204644,
+                    50.944791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;61",
+                "ref:De_Lijn": "502018",
+                "bus": "yes",
+                "name": "Ardooie Kruipendaarde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ARDOOISESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.204785,
+                    50.944829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "507797",
+                "bus": "yes",
+                "name": "Ardooie Huis nummer 62",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.201081,
+                    50.95015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "507796",
+                "bus": "yes",
+                "name": "Ardooie Huis nummer 62",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.200984,
+                    50.950023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;61",
+                "ref:De_Lijn": "507023",
+                "bus": "yes",
+                "name": "Ardooie Sterre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.195362,
+                    50.957429
+                ]
+            }
+        }
+    ]
+}

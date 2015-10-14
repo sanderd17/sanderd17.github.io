@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352;516;522;528;652",
+                "ref:De_Lijn": "302705",
+                "bus": "yes",
+                "name": "Erps-Kwerps Diestbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTBRUGSTRAAT ERPS-KWERPS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.596369,
+                    50.905408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "352;516;522;528;652",
+                "ref:De_Lijn": "302706",
+                "bus": "yes",
+                "name": "Erps-Kwerps Diestbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTBRUGSTRAAT ERPS-KWERPS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.596541,
+                    50.905704
+                ]
+            }
+        }
+    ]
+}

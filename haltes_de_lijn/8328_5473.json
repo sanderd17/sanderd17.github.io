@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "506438",
+                "bus": "yes",
+                "name": "Westkerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSESTEENWEG WESTKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.998843,
+                    51.159442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;52;82",
+                "ref:De_Lijn": "506440",
+                "bus": "yes",
+                "name": "Westkerke Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.009286,
+                    51.163644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "501438",
+                "bus": "yes",
+                "name": "Westkerke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSESTEENWEG WESTKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.998521,
+                    51.159195
+                ]
+            }
+        }
+    ]
+}

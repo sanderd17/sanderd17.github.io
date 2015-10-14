@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41/2",
+                "ref:De_Lijn": "409000",
+                "bus": "yes",
+                "name": "Waremme Zone Industrielle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE ROMAINE BORGWORM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.268106,
+                    50.693309
+                ]
+            }
+        }
+    ]
+}

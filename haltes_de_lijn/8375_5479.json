@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;290;355",
+                "ref:De_Lijn": "204589",
+                "bus": "yes",
+                "name": "Zele Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGIN ASTRIDPLEIN ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.041989,
+                    51.072961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;68;290;355",
+                "ref:De_Lijn": "204160",
+                "bus": "yes",
+                "name": "Zele Elststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSTSTRAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.034075,
+                    51.070242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "204159",
+                "bus": "yes",
+                "name": "Zele Rubbenslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MINISTER EDMOND RUBBENSLAAN ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.03677,
+                    51.070375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "204165",
+                "bus": "yes",
+                "name": "Zele Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOKERENBAAN ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.040045,
+                    51.07336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "204166",
+                "bus": "yes",
+                "name": "Zele Lokerenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIS TEN HALVE ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.041312,
+                    51.077849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205166",
+                "bus": "yes",
+                "name": "Zele Lokerenbaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HUIS TEN HALVE ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.041541,
+                    51.077813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "205592",
+                "bus": "yes",
+                "name": "Zele Eikenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLMENLAAN ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.028352,
+                    51.072491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204173",
+                "bus": "yes",
+                "name": "Zele Rubbenslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MINISTER EDMOND RUBBENSLAAN ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.036686,
+                    51.070258
+                ]
+            }
+        }
+    ]
+}

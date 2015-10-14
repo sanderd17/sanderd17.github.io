@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;97;98;195",
+                "ref:De_Lijn": "202689",
+                "bus": "yes",
+                "name": "Lembeke Windgatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSTRAAT LEMBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614711,
+                    51.185229
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "96;97;98",
+                "ref:De_Lijn": "203689",
+                "bus": "yes",
+                "name": "Lembeke Windgatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKLOSTRAAT LEMBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614337,
+                    51.185335
+                ]
+            }
+        }
+    ]
+}

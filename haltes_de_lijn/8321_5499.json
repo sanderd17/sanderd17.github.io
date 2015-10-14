@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504214",
+                "bus": "yes",
+                "name": "Kemmel Kriekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.846028,
+                    50.803549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70",
+                "ref:De_Lijn": "509223",
+                "bus": "yes",
+                "name": "Kemmel Vierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.851925,
+                    50.801081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70",
+                "ref:De_Lijn": "509211",
+                "bus": "yes",
+                "name": "Kemmel De Mol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.846693,
+                    50.794818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70",
+                "ref:De_Lijn": "504223",
+                "bus": "yes",
+                "name": "Kemmel Vierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.851836,
+                    50.801196
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70",
+                "ref:De_Lijn": "504211",
+                "bus": "yes",
+                "name": "Kemmel De Mol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.84655,
+                    50.794879
+                ]
+            }
+        }
+    ]
+}

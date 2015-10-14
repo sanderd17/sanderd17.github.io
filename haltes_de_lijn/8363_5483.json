@@ -1,0 +1,911 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;27;140",
+                "ref:De_Lijn": "200624",
+                "bus": "yes",
+                "name": "Melle Merelbekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769618,
+                    51.021858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "218003",
+                "bus": "yes",
+                "name": "Melle Avenskouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GONTRODE HEIRWEG FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764309,
+                    51.016896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;48;140",
+                "ref:De_Lijn": "202903",
+                "bus": "yes",
+                "name": "Merelbeke Koningin Elisabethlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRATERSTRAAT FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.761846,
+                    51.014483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;27;140",
+                "ref:De_Lijn": "200625",
+                "bus": "yes",
+                "name": "Melle Vogelhoekplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769684,
+                    51.020034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;41;42;43;48",
+                "ref:De_Lijn": "205984",
+                "bus": "yes",
+                "name": "Melle Vijverwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767015,
+                    51.018141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201622",
+                "bus": "yes",
+                "name": "Gentbrugge Steenbekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBEKESTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764195,
+                    51.024662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;N24",
+                "ref:De_Lijn": "200050",
+                "bus": "yes",
+                "name": "Melle Leeuw",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSESTEENWEG MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772628,
+                    51.025038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208861",
+                "bus": "yes",
+                "name": "Gentbrugge Gesubs. Vrije Lagere School (Bo)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "JULES DESTRÉELAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772299,
+                    51.0274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201621",
+                "bus": "yes",
+                "name": "Gentbrugge Jaureslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKHUIZENSTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.761541,
+                    51.027076
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201627",
+                "bus": "yes",
+                "name": "Melle Sint-Jozefstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GONTRODE HEIRWEG FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.763702,
+                    51.017522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201623",
+                "bus": "yes",
+                "name": "Gentbrugge Van Ryswycklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOGELHOEKSTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.765984,
+                    51.024078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;48;140",
+                "ref:De_Lijn": "200626",
+                "bus": "yes",
+                "name": "Gentbrugge Merelbeke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTATIONPLEIN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764473,
+                    51.019692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205353",
+                "bus": "yes",
+                "name": "Merelbeke Kerk Flora",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VAN GOETHEMSTRAAT FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759772,
+                    51.018392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209861",
+                "bus": "yes",
+                "name": "Gentbrugge Gesubs. Vrije Lagere School (Bo)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "JULES DESTRÉELAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772383,
+                    51.027473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "200621",
+                "bus": "yes",
+                "name": "Gentbrugge Jaureslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKHUIZENSTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.76166,
+                    51.026672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;27",
+                "ref:De_Lijn": "201624",
+                "bus": "yes",
+                "name": "Melle Merelbekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769832,
+                    51.021895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "200622",
+                "bus": "yes",
+                "name": "Gentbrugge Steenbekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBEKESTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764879,
+                    51.024675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201620",
+                "bus": "yes",
+                "name": "Gentbrugge Benoitlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PETER BENOITLAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759997,
+                    51.027409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204353",
+                "bus": "yes",
+                "name": "Merelbeke Kerk Flora (",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VAN GOETHEMSTRAAT FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758929,
+                    51.018567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "204984",
+                "bus": "yes",
+                "name": "Melle Vijverwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7669,
+                    51.01824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201629",
+                "bus": "yes",
+                "name": "Melle Vijverveldlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARK TEN HOVELAAN MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.771326,
+                    51.014226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201628",
+                "bus": "yes",
+                "name": "Melle Park Ten Hovelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GONTRODE HEIRWEG MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767467,
+                    51.013991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;94;96;28S",
+                "ref:De_Lijn": "203934",
+                "bus": "yes",
+                "name": "Melle Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.771752,
+                    51.025537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;27",
+                "ref:De_Lijn": "201625",
+                "bus": "yes",
+                "name": "Melle Vogelhoekplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769677,
+                    51.019521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "200954",
+                "bus": "yes",
+                "name": "Melle Platanendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJVERWEGEL MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772033,
+                    51.015767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200627",
+                "bus": "yes",
+                "name": "Melle Sint-Jozefstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GONTRODE HEIRWEG MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764191,
+                    51.017219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27",
+                "ref:De_Lijn": "201202",
+                "bus": "yes",
+                "name": "Melle Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772535,
+                    51.024489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;48",
+                "ref:De_Lijn": "203903",
+                "bus": "yes",
+                "name": "Merelbeke Koningin Elisabethlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRATERSTRAAT FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.761784,
+                    51.014896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "201892",
+                "bus": "yes",
+                "name": "Gentbrugge Mpi Gebroeders Van Liefde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JULES DESTRÉELAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772671,
+                    51.027258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;48",
+                "ref:De_Lijn": "203902",
+                "bus": "yes",
+                "name": "Merelbeke Kerk Flora",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN GOETHEMSTRAAT FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759772,
+                    51.018392
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;48",
+                "ref:De_Lijn": "211073",
+                "bus": "yes",
+                "name": "Melle Vijverwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELLESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766483,
+                    51.018507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200470",
+                "bus": "yes",
+                "name": "Melle Leeuw",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSESTEENWEG MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772628,
+                    51.025038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208928",
+                "bus": "yes",
+                "name": "Melle Ges. Vrije Basisschool (Tuinstraat)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TUINSTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769786,
+                    51.018803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "200628",
+                "bus": "yes",
+                "name": "Melle Park Ten Hovelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GONTRODE HEIRWEG FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767181,
+                    51.014106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;48;140",
+                "ref:De_Lijn": "202902",
+                "bus": "yes",
+                "name": "Merelbeke Kerk Flora",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAN GOETHEMSTRAAT FLORA",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7589,
+                    51.018576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;48",
+                "ref:De_Lijn": "201626",
+                "bus": "yes",
+                "name": "Gentbrugge Merelbeke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTATIONPLEIN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764503,
+                    51.019567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "200629",
+                "bus": "yes",
+                "name": "Melle Vijverveldlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARK TEN HOVELAAN MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.771313,
+                    51.014136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "200620",
+                "bus": "yes",
+                "name": "Gentbrugge Benoitlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PETER BENOITLAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759798,
+                    51.027381
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;94;96;28S",
+                "ref:De_Lijn": "202934",
+                "bus": "yes",
+                "name": "Melle Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772398,
+                    51.025225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "211050",
+                "bus": "yes",
+                "name": "Gentbrugge Benoitlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PETER BENOITLAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759475,
+                    51.026975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;140",
+                "ref:De_Lijn": "200623",
+                "bus": "yes",
+                "name": "Gentbrugge Van Ryswycklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOGELHOEKSTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.765799,
+                    51.024032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;140",
+                "ref:De_Lijn": "200202",
+                "bus": "yes",
+                "name": "Melle Leeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELBEKESTRAAT MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772378,
+                    51.02456
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "219003",
+                "bus": "yes",
+                "name": "Melle Avenskouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GONTRODE HEIRWEG MELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.764437,
+                    51.016942
+                ]
+            }
+        }
+    ]
+}

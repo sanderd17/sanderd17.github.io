@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432;434",
+                "ref:De_Lijn": "106278",
+                "bus": "yes",
+                "name": "Merksplas Gentse Wijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP RIJKEVORSEL MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.835372,
+                    51.354969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432;434",
+                "ref:De_Lijn": "106276",
+                "bus": "yes",
+                "name": "Merksplas Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENZIJDE MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.843252,
+                    51.357733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432;434",
+                "ref:De_Lijn": "106277",
+                "bus": "yes",
+                "name": "Merksplas Gentse Wijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP RIJKEVORSEL MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.835474,
+                    51.355149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432;434",
+                "ref:De_Lijn": "106275",
+                "bus": "yes",
+                "name": "Merksplas Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENZIJDE MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.843643,
+                    51.35801
+                ]
+            }
+        }
+    ]
+}

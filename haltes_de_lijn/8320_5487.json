@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29",
+                "ref:De_Lijn": "504343",
+                "bus": "yes",
+                "name": "Noordschote Drie Grachten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDSCHOTEPLEIN NOORDSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.821669,
+                    50.958834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "509343",
+                "bus": "yes",
+                "name": "Noordschote Drie Grachten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDSCHOTEPLEIN NOORDSCHOTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.821688,
+                    50.958673
+                ]
+            }
+        }
+    ]
+}

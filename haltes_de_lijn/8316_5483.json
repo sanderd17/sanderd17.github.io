@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "509013",
+                "bus": "yes",
+                "name": "Alveringem Fortem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORTEM ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.72683,
+                    51.015624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;50;57;59",
+                "ref:De_Lijn": "509015",
+                "bus": "yes",
+                "name": "Alveringem Zevecote",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEKAPELLESTEENWEG ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.74061,
+                    51.016966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504013",
+                "bus": "yes",
+                "name": "Alveringem Fortem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORTEM ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.726018,
+                    51.015208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;50;57;59",
+                "ref:De_Lijn": "504015",
+                "bus": "yes",
+                "name": "Alveringem Zevecote",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEKAPELLESTEENWEG ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.740936,
+                    51.016584
+                ]
+            }
+        }
+    ]
+}

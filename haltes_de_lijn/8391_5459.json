@@ -1,0 +1,66 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109975",
+                "bus": "yes",
+                "name": "Stabroek Plantinlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEHOEK DRIEHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393904,
+                    51.345497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "776",
+                "ref:De_Lijn": "103191",
+                "bus": "yes",
+                "name": "Stabroek Moretuslei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLANTINLAAN DRIEHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.391238,
+                    51.353245
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109966",
+                "bus": "yes",
+                "name": "Stabroek Plantinlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEHOEK DRIEHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393789,
+                    51.345605
+                ]
+            }
+        }
+    ]
+}

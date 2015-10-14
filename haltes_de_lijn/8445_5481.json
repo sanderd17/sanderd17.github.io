@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;G8",
+                "ref:De_Lijn": "405614",
+                "bus": "yes",
+                "name": "Opglabbeek Ophovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG OPGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.575094,
+                    51.041842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405616",
+                "bus": "yes",
+                "name": "Opglabbeek Hermesstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG OPGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.580669,
+                    51.041812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405617",
+                "bus": "yes",
+                "name": "Opglabbeek Hermesstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG OPGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.580586,
+                    51.04193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;G8",
+                "ref:De_Lijn": "405615",
+                "bus": "yes",
+                "name": "Opglabbeek Ophovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG OPGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.575126,
+                    51.041968
+                ]
+            }
+        }
+    ]
+}

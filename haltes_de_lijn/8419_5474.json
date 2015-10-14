@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109682",
+                "bus": "yes",
+                "name": "Geel Seppendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINKELOM GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.002776,
+                    51.145467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109689",
+                "bus": "yes",
+                "name": "Geel Brukel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.994022,
+                    51.151249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108638",
+                "bus": "yes",
+                "name": "Geel Hondstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINKELOM GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.000903,
+                    51.149639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109681",
+                "bus": "yes",
+                "name": "Geel Seppendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINKELOM GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.002305,
+                    51.145497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109680",
+                "bus": "yes",
+                "name": "Winkelomheide Punt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N126 GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.0087,
+                    51.141875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302;921",
+                "ref:De_Lijn": "109678",
+                "bus": "yes",
+                "name": "Winkelomheide Punt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N126 GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.008004,
+                    51.142176
+                ]
+            }
+        }
+    ]
+}

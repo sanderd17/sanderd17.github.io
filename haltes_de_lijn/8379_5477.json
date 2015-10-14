@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204783",
+                "bus": "yes",
+                "name": "Hamme Waterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAALDRIES HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.120959,
+                    51.097899
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33",
+                "ref:De_Lijn": "406679",
+                "bus": "yes",
+                "name": "Wijshagen Molenheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.525416,
+                    51.045514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33",
+                "ref:De_Lijn": "406678",
+                "bus": "yes",
+                "name": "Wijshagen Molenheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.525296,
+                    51.045264
+                ]
+            }
+        }
+    ]
+}

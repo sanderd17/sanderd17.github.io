@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;14b;720",
+                "ref:De_Lijn": "404773",
+                "bus": "yes",
+                "name": "Molenbeersel Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N762 MOLENBEERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.725846,
+                    51.183011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;15;14b;720",
+                "ref:De_Lijn": "404772",
+                "bus": "yes",
+                "name": "Molenbeersel Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG MOLENBEERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.725928,
+                    51.183369
+                ]
+            }
+        }
+    ]
+}

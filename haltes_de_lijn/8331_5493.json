@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "500953",
+                "bus": "yes",
+                "name": "Moorslede Van Eycklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZEELSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.062075,
+                    50.88506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "503633",
+                "bus": "yes",
+                "name": "Moorslede Waterdam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZEELSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.064102,
+                    50.875535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "500952",
+                "bus": "yes",
+                "name": "Moorslede Van Eycklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZEELSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.062231,
+                    50.885098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "508633",
+                "bus": "yes",
+                "name": "Moorslede Waterdam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZEELSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.064226,
+                    50.875689
+                ]
+            }
+        }
+    ]
+}

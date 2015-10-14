@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209675",
+                "bus": "yes",
+                "name": "Steenhuize Assestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSESTRAAT STEENHUIZE-WIJNHUIZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.864904,
+                    50.836976
+                ]
+            }
+        }
+    ]
+}

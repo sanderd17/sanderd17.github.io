@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "509204",
+                "bus": "yes",
+                "name": "Keiem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIEMDORPSTRAAT KEIEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.882015,
+                    51.080603
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "504205",
+                "bus": "yes",
+                "name": "Keiem Hoogkwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIEMDORPSTRAAT KEIEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.879266,
+                    51.075938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "500948",
+                "bus": "yes",
+                "name": "Keiem Ramboutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMBOUTSTRAAT KEIEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.895116,
+                    51.074303
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "509205",
+                "bus": "yes",
+                "name": "Keiem Hoogkwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIEMDORPSTRAAT KEIEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.879205,
+                    51.076045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59",
+                "ref:De_Lijn": "504204",
+                "bus": "yes",
+                "name": "Keiem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIEMDORPSTRAAT KEIEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.882259,
+                    51.08101
+                ]
+            }
+        }
+    ]
+}

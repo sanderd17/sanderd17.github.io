@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "208887",
+                "bus": "yes",
+                "name": "Vinkt WZC Sint-Franciscus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERDWEG VINKT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.481915,
+                    51.008483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203316",
+                "bus": "yes",
+                "name": "Vinkt Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOTENHULLESTRAAT VINKT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.478231,
+                    51.008851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203317",
+                "bus": "yes",
+                "name": "Zeveren Kauwestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINKTSTRAAT ZEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.483632,
+                    51.00206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;125",
+                "ref:De_Lijn": "202317",
+                "bus": "yes",
+                "name": "Zeveren Kauwestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINKTSTRAAT VINKT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.48473,
+                    51.001996
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "28887",
+                "bus": "yes",
+                "name": "Vinkt WZC Sint-Franciscus",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MARTELARENPLEIN VINKT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.481915,
+                    51.008483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;125",
+                "ref:De_Lijn": "202316",
+                "bus": "yes",
+                "name": "Vinkt Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINZESTRAAT VINKT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.479096,
+                    51.007608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;125",
+                "ref:De_Lijn": "202318",
+                "bus": "yes",
+                "name": "Zeveren Velderlos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINKTSTRAAT ZEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.48995,
+                    51.000219
+                ]
+            }
+        }
+    ]
+}

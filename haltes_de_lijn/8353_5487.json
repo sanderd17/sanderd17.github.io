@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;125;450",
+                "ref:De_Lijn": "202401",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Kakelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.538229,
+                    50.960952
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "203501",
+                "bus": "yes",
+                "name": "Deinze Poelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREKELSTRAAT PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.543513,
+                    50.972136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;145;450",
+                "ref:De_Lijn": "201682",
+                "bus": "yes",
+                "name": "Nazareth Prijkels",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARREWEG NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.549726,
+                    50.958776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;450",
+                "ref:De_Lijn": "201676",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Industriezone E3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "E3-LAAN PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.543995,
+                    50.95932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84;125;450",
+                "ref:De_Lijn": "202501",
+                "bus": "yes",
+                "name": "Deinze Poelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREKELSTRAAT PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.543469,
+                    50.972226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "203401",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Kakelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.538053,
+                    50.961274
+                ]
+            }
+        }
+    ]
+}

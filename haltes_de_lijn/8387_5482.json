@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "204566",
+                "bus": "yes",
+                "name": "Londerzeel Achterheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHTERHEIDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.300905,
+                    51.037293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;251",
+                "ref:De_Lijn": "308794",
+                "bus": "yes",
+                "name": "Londerzeel Koeisteert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT JOZEFSTRAAT SINT-JOZEF (LONDERZEEL)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298104,
+                    51.032617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98;251",
+                "ref:De_Lijn": "303379",
+                "bus": "yes",
+                "name": "Londerzeel Koeisteert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT JOZEFSTRAAT SINT-JOZEF (LONDERZEEL)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298246,
+                    51.032536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303380",
+                "bus": "yes",
+                "name": "Londerzeel Koeisteert",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ACHTERHEIDE SINT-JOZEF (LONDERZEEL)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298317,
+                    51.033139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "205566",
+                "bus": "yes",
+                "name": "Londerzeel Achterheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHTERHEIDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.300549,
+                    51.037482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308795",
+                "bus": "yes",
+                "name": "Londerzeel Bloemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALDERSESTEENWEG SINT-JOZEF (LONDERZEEL)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.29106,
+                    51.033593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308796",
+                "bus": "yes",
+                "name": "Londerzeel Bloemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALDERSESTEENWEG SINT-JOZEF (LONDERZEEL)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.290803,
+                    51.033466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204567",
+                "bus": "yes",
+                "name": "Londerzeel Koeisteert",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT JOZEFSTRAAT SINT-JOZEF (LONDERZEEL)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298261,
+                    51.032509
+                ]
+            }
+        }
+    ]
+}

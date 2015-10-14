@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "507135",
+                "bus": "yes",
+                "name": "Brugge Paul De Halleux",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEVENEKE BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213335,
+                    51.234532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "507110",
+                "bus": "yes",
+                "name": "Brugge Gouden Regen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUDENREGENSTRAAT SINT-PIETERS-OP-DE-DIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.210728,
+                    51.234551
+                ]
+            }
+        }
+    ]
+}

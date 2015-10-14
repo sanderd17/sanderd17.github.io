@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505197",
+                "bus": "yes",
+                "name": "Geluwe Magerheidstraat 40",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAGERHEIDSTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.066154,
+                    50.831754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505193",
+                "bus": "yes",
+                "name": "Geluwe Voske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T VOSKE GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.07317,
+                    50.820305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505200",
+                "bus": "yes",
+                "name": "Geluwe Molenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOEREMAAISTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.057096,
+                    50.831257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505288",
+                "bus": "yes",
+                "name": "Geluwe Pollepelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLLEPELSTRAAT GELUWE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.074739,
+                    50.832928
+                ]
+            }
+        }
+    ]
+}

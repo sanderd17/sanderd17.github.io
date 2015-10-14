@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409378",
+                "bus": "yes",
+                "name": "Zutendaal Schepersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPENSEWEG WIEMESMEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.559847,
+                    50.947645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409379",
+                "bus": "yes",
+                "name": "Zutendaal Schepersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPENSEWEG WIEMESMEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.559675,
+                    50.948177
+                ]
+            }
+        }
+    ]
+}

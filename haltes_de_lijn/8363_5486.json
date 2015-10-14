@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;49",
+                "ref:De_Lijn": "202853",
+                "bus": "yes",
+                "name": "Lemberge Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER VAN GANSBERGHELAAN LEMBERGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.770173,
+                    50.975071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;49",
+                "ref:De_Lijn": "203852",
+                "bus": "yes",
+                "name": "Lemberge Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER VAN GANSBERGHELAAN LEMBERGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772355,
+                    50.978184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;49;140",
+                "ref:De_Lijn": "202852",
+                "bus": "yes",
+                "name": "Lemberge Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER MAENHAUTSTRAAT LEMBERGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772295,
+                    50.978363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;49",
+                "ref:De_Lijn": "203853",
+                "bus": "yes",
+                "name": "Lemberge Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURGEMEESTER VAN GANSBERGHELAAN LEMBERGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769974,
+                    50.975079
+                ]
+            }
+        }
+    ]
+}

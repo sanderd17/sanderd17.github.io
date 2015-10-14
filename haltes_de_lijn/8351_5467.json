@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "204994",
+                "bus": "yes",
+                "name": "Sint-Laureins Schuurbolder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLOTWEG SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.49645,
+                    51.242018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200950",
+                "bus": "yes",
+                "name": "Sint-Laureins Roodwegelken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDELDORPE SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.496858,
+                    51.236268
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944;946",
+                "ref:De_Lijn": "101497",
+                "bus": "yes",
+                "name": "Zoerle-Parwijs Kolveniersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STIPPELBERG ZOERLE-PARWIJS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873189,
+                    51.082055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944;946",
+                "ref:De_Lijn": "101494",
+                "bus": "yes",
+                "name": "Heultje Stippelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STIPPELBERG WESTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.856325,
+                    51.075681
+                ]
+            }
+        }
+    ]
+}

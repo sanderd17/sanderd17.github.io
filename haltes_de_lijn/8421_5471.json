@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109484",
+                "bus": "yes",
+                "name": "Mol Driehoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKT MILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.053469,
+                    51.187629
+                ]
+            }
+        }
+    ]
+}

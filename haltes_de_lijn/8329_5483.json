@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505631",
+                "bus": "yes",
+                "name": "Kortemark Huilaert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMERSVELDESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.026972,
+                    51.015344
+                ]
+            }
+        }
+    ]
+}

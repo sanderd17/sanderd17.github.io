@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;470",
+                "ref:De_Lijn": "209454",
+                "bus": "yes",
+                "name": "Zulzeke Beiaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGBERGSTRAAT ZULZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.576554,
+                    50.772624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "209449",
+                "bus": "yes",
+                "name": "Zulzeke Beiaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGBERGSTRAAT ZULZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.576341,
+                    50.772641
+                ]
+            }
+        }
+    ]
+}

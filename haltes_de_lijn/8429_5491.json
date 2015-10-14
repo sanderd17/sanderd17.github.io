@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404018",
+                "bus": "yes",
+                "name": "Schakkebroek Kustraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211914,
+                    50.914033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "105",
+                "ref:De_Lijn": "403957",
+                "bus": "yes",
+                "name": "Herk-de-Stad Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJERSTRAAT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.221193,
+                    50.912051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "404019",
+                "bus": "yes",
+                "name": "Schakkebroek Kustraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.211983,
+                    50.913906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "105",
+                "ref:De_Lijn": "403956",
+                "bus": "yes",
+                "name": "Herk-de-Stad Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJERSTRAAT HERK-DE-STAD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.220834,
+                    50.911883
+                ]
+            }
+        }
+    ]
+}

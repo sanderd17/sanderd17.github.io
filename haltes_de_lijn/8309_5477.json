@@ -1,0 +1,175 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501508",
+                "zone:De_Lijn": "01",
+                "name": "De Panne Esplanade",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.582526,
+                    51.097297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "501736",
+                "bus": "yes",
+                "name": "De Panne Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUINKERKELAAN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.589118,
+                    51.102333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "501737",
+                "bus": "yes",
+                "name": "De Panne Esplanade",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUINKERKELAAN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.583235,
+                    51.098548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;58",
+                "ref:De_Lijn": "506070",
+                "bus": "yes",
+                "name": "De Panne Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEELAAN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.589306,
+                    51.096635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506508",
+                "zone:De_Lijn": "01",
+                "name": "De Panne Esplanade",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.582628,
+                    51.097244
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501067",
+                "zone:De_Lijn": "01",
+                "name": "De Panne Centrum",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DUINKERKELAAN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.589216,
+                    51.10237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506067",
+                "zone:De_Lijn": "01",
+                "name": "De Panne Centrum",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DUINKERKELAAN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.589334,
+                    51.102264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;58",
+                "ref:De_Lijn": "506073",
+                "bus": "yes",
+                "name": "De Panne Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEELAAN DE PANNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.592018,
+                    51.098906
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;34;283",
+                "ref:De_Lijn": "404505",
+                "bus": "yes",
+                "name": "Houthalen Lillo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLO STEENWEG LILLO (HOUTHALEN-HELCHTEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.345305,
+                    51.040386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;34;283",
+                "ref:De_Lijn": "409601",
+                "bus": "yes",
+                "name": "Zolder Boekweitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.339919,
+                    51.03643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;34",
+                "ref:De_Lijn": "404504",
+                "bus": "yes",
+                "name": "Houthalen Lillo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLO STEENWEG LILLO (HOUTHALEN-HELCHTEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.344962,
+                    51.040353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404548",
+                "bus": "yes",
+                "name": "Houthalen Speelplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOOLVENSTRAAT HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.354174,
+                    51.028859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404465",
+                "bus": "yes",
+                "name": "Houthalen Hoolven",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DE STANDAARD HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.355918,
+                    51.02978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404203",
+                "bus": "yes",
+                "name": "Zolder Afwijking",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KOOLMIJNLAAN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.339919,
+                    51.03643
+                ]
+            }
+        }
+    ]
+}

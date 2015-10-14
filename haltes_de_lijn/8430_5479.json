@@ -1,0 +1,108 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403823",
+                "bus": "yes",
+                "name": "Stal Orgelwinningstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORGELWINNINGSTRAAT STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.250515,
+                    51.076176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;719",
+                "ref:De_Lijn": "400559",
+                "bus": "yes",
+                "name": "Stal Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.247782,
+                    51.071243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;719",
+                "ref:De_Lijn": "400558",
+                "bus": "yes",
+                "name": "Stal Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.248283,
+                    51.071365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455655",
+                "bus": "yes",
+                "name": "Beringen V-Cab",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.251024,
+                    51.072945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403824",
+                "bus": "yes",
+                "name": "Stal Orgelwinningstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORGELWINNINGSTRAAT STAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.250699,
+                    51.076147
+                ]
+            }
+        }
+    ]
+}

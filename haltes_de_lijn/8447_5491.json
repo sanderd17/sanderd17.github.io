@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405241",
+                "bus": "yes",
+                "name": "Lanaken Instituut Sint-Barbara",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N77 LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.622238,
+                    50.909289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409374",
+                "bus": "yes",
+                "name": "Zutendaal Roelen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEWITSEWEG ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.603201,
+                    50.90727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409375",
+                "bus": "yes",
+                "name": "Zutendaal Roelen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEWITSEWEG ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.603695,
+                    50.907121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409352",
+                "bus": "yes",
+                "name": "Zutendaal Camping Kiewitseweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KIEWITSEWEG ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.603179,
+                    50.904258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405240",
+                "bus": "yes",
+                "name": "Lanaken Instituut Sint-Barbara",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N77 LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.622289,
+                    50.909073
+                ]
+            }
+        }
+    ]
+}

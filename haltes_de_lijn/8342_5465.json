@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "505359",
+                "bus": "yes",
+                "name": "Damme Siphon",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDSVAART-OOST OOSTKERKE (DAMME)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298481,
+                    51.266147
+                ]
+            }
+        }
+    ]
+}

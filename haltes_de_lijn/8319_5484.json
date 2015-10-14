@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49",
+                "ref:De_Lijn": "503676",
+                "bus": "yes",
+                "name": "Oudekapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEKAPELLESTRAAT OUDEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.808754,
+                    51.01369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49",
+                "ref:De_Lijn": "501629",
+                "bus": "yes",
+                "name": "Oudekapelle Nieuwkapellestraat 29",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKAPELLESTRAAT NIEUWKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.805152,
+                    51.007591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "505905",
+                "bus": "yes",
+                "name": "Oudekapelle Nieuwkapellestraat 29",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKAPELLESTRAAT NIEUWKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.805366,
+                    51.007594
+                ]
+            }
+        }
+    ]
+}

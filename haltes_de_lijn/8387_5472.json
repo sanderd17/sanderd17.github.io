@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204447",
+                "bus": "yes",
+                "name": "Kruibeke Doorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORN KRUIBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.291895,
+                    51.177665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205694",
+                "bus": "yes",
+                "name": "Kruibeke Kromstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTESTRAAT KRUIBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.30028,
+                    51.173841
+                ]
+            }
+        }
+    ]
+}

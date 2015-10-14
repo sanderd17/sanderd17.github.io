@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "501129",
+                "bus": "yes",
+                "name": "Klemskerke Clemens Heule",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE BAAN KLEMSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.006689,
+                    51.226238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "506129",
+                "bus": "yes",
+                "name": "Klemskerke Clemens Heule",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE BAAN KLEMSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.005515,
+                    51.226207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "506027",
+                "bus": "yes",
+                "name": "Bredene Blauwe Sluis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.990116,
+                    51.224077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "501027",
+                "bus": "yes",
+                "name": "Bredene Blauwe Sluis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSESTEENWEG BREDENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.990433,
+                    51.224
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;527;931;944",
+                "ref:De_Lijn": "108427",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Liersesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIST-GOORSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.728837,
+                    51.05232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;527;931;944",
+                "ref:De_Lijn": "108429",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Wipstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIST-GOORSTRAAT GOOR (HEIST-OP-DEN-BERG)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.724853,
+                    51.047972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;527;931",
+                "ref:De_Lijn": "108428",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Liersesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIST-GOORSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.728835,
+                    51.052113
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "104639",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Kwadenplasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELBAAN HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.740076,
+                    51.050622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;527;931;944",
+                "ref:De_Lijn": "108431",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Wipstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIST-GOORSTRAAT GOOR (HEIST-OP-DEN-BERG)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.725108,
+                    51.047702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;527;944",
+                "ref:De_Lijn": "107967",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Liersesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.729525,
+                    51.052794
+                ]
+            }
+        }
+    ]
+}

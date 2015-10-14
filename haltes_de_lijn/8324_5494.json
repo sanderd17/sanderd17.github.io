@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;39;95",
+                "ref:De_Lijn": "509475",
+                "bus": "yes",
+                "name": "Sint-Jan Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTRAAT SINT-JAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.904171,
+                    50.86526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "504477",
+                "bus": "yes",
+                "name": "Sint-Jan Oude Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG SINT-JAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.913042,
+                    50.867834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;39;95",
+                "ref:De_Lijn": "504479",
+                "bus": "yes",
+                "name": "Sint-Jan Wieltje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG SINT-JAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.9179,
+                    50.871535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;39;95",
+                "ref:De_Lijn": "504475",
+                "bus": "yes",
+                "name": "Sint-Jan Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTRAAT SINT-JAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90397,
+                    50.865311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;39;95",
+                "ref:De_Lijn": "509479",
+                "bus": "yes",
+                "name": "Sint-Jan Wieltje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG SINT-JAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.91777,
+                    50.871605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "95",
+                "ref:De_Lijn": "509477",
+                "bus": "yes",
+                "name": "Sint-Jan Oude Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEWEG SINT-JAN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.912926,
+                    50.867913
+                ]
+            }
+        }
+    ]
+}

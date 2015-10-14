@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;27;240",
+                "ref:De_Lijn": "205725",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Roskamstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-NIKLAASSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.145692,
+                    51.195341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204761",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Geinsteindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEINSTEINDESTRAAT SINT-PAUWELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.131102,
+                    51.195016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;27;240",
+                "ref:De_Lijn": "204725",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Roskamstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-NIKLAASSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.145336,
+                    51.195016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;27;240",
+                "ref:De_Lijn": "205726",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Dagsterrestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-NIKLAASSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.147281,
+                    51.204269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;27;240",
+                "ref:De_Lijn": "204726",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Dagsterrestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-NIKLAASSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.147169,
+                    51.203712
+                ]
+            }
+        }
+    ]
+}

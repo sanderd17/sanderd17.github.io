@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "509493",
+                "bus": "yes",
+                "name": "Veurne Bedrijvenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG STEENKERKE (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.69554,
+                    51.072763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "509744",
+                "bus": "yes",
+                "name": "Veurne Acacialaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.687549,
+                    51.073135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504493",
+                "bus": "yes",
+                "name": "Veurne Bedrijvenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.695348,
+                    51.072922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504744",
+                "bus": "yes",
+                "name": "Veurne Acacialaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.686622,
+                    51.07349
+                ]
+            }
+        }
+    ]
+}

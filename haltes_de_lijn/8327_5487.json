@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;40",
+                "ref:De_Lijn": "503808",
+                "bus": "yes",
+                "name": "Staden Reke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTHULSTSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.97524,
+                    50.969628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;40",
+                "ref:De_Lijn": "503810",
+                "bus": "yes",
+                "name": "Staden Soetestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTHULSTSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.983986,
+                    50.970496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;40",
+                "ref:De_Lijn": "508810",
+                "bus": "yes",
+                "name": "Staden Soetestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTHULSTSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.983414,
+                    50.970561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;40",
+                "ref:De_Lijn": "508808",
+                "bus": "yes",
+                "name": "Staden Reke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTHULSTSTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.975847,
+                    50.969806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505538",
+                "bus": "yes",
+                "name": "Staden Landweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SOETESTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.982114,
+                    50.964917
+                ]
+            }
+        }
+    ]
+}

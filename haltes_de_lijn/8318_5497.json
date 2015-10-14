@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505304",
+                "bus": "yes",
+                "name": "Reningelst Pastoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOORSTRAAT RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.770927,
+                    50.821818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504466",
+                "bus": "yes",
+                "name": "Reningelst Ouderdom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAMERTINGSEWEG RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.781371,
+                    50.824037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "505855",
+                "bus": "yes",
+                "name": "Reningelst Kwakkelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSWEG RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.78867,
+                    50.825233
+                ]
+            }
+        }
+    ]
+}

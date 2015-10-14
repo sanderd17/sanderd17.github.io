@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67;160",
+                "ref:De_Lijn": "202372",
+                "bus": "yes",
+                "name": "Lovendegem Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELLARE LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602752,
+                    51.096367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "203372",
+                "bus": "yes",
+                "name": "Lovendegem Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELLARE LOVENDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602936,
+                    51.096422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;160",
+                "ref:De_Lijn": "200688",
+                "bus": "yes",
+                "name": "Merendree Lostraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DURMENSTRAAT MERENDREE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.588677,
+                    51.088607
+                ]
+            }
+        }
+    ]
+}

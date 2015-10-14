@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78;370;410",
+                "ref:De_Lijn": "208033",
+                "bus": "yes",
+                "name": "Goeferdinge Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTANJESTRAAT GOEFERDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.840999,
+                    50.76711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;410",
+                "ref:De_Lijn": "206793",
+                "bus": "yes",
+                "name": "Goeferdinge Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZENSTRAAT GOEFERDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.836684,
+                    50.772602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "209032",
+                "bus": "yes",
+                "name": "Goeferdinge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTANJESTRAAT GOEFERDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.83904,
+                    50.764818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78;370;410",
+                "ref:De_Lijn": "208032",
+                "bus": "yes",
+                "name": "Goeferdinge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTANJESTRAAT GOEFERDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.838885,
+                    50.764772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "209033",
+                "bus": "yes",
+                "name": "Goeferdinge Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTANJESTRAAT GOEFERDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.841141,
+                    50.767039
+                ]
+            }
+        }
+    ]
+}

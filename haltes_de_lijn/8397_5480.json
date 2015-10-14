@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561",
+                "ref:De_Lijn": "108868",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Kempenarestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.526129,
+                    51.059418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561",
+                "ref:De_Lijn": "108867",
+                "bus": "yes",
+                "name": "Sint-Katelijne-Waver Kempenarestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MECHELSESTEENWEG SINT-KATELIJNE-WAVER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.526001,
+                    51.059508
+                ]
+            }
+        }
+    ]
+}

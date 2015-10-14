@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "103149",
+                "bus": "yes",
+                "name": "Mol Kruispunt Stokt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MILOSTRAAT MILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.071002,
+                    51.191203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "109480",
+                "bus": "yes",
+                "name": "Mol Kruispunt Stokt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MILOSTRAAT MILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.070901,
+                    51.191114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109482",
+                "bus": "yes",
+                "name": "Mol Spechtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOKT MILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.059976,
+                    51.189461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109533",
+                "bus": "yes",
+                "name": "Mol Overweg Hessie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAAG EZAART",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.063619,
+                    51.181494
+                ]
+            }
+        }
+    ]
+}

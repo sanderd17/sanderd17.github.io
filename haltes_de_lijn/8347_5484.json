@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "507813",
+                "bus": "yes",
+                "name": "Aarsele Waaiberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAAIBERGLAAN AARSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.417681,
+                    50.999936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "503003",
+                "bus": "yes",
+                "name": "Aarsele De Neringen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NERINGENSTRAAT AARSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.412071,
+                    51.004664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;77",
+                "ref:De_Lijn": "508003",
+                "bus": "yes",
+                "name": "Aarsele De Neringen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NERINGENSTRAAT AARSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.412409,
+                    51.004146
+                ]
+            }
+        }
+    ]
+}

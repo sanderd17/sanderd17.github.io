@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411;414;417;429",
+                "ref:De_Lijn": "106166",
+                "bus": "yes",
+                "name": "Zoersel P+R Den Haan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N14 ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703213,
+                    51.24612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "408;411;414;417;429",
+                "ref:De_Lijn": "106167",
+                "bus": "yes",
+                "name": "Zoersel P+R Den Haan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N14 ZOERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.703456,
+                    51.246128
+                ]
+            }
+        }
+    ]
+}

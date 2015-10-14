@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504119",
+                "bus": "yes",
+                "name": "Hoogstade Rustoord Clep",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLETERENSTRAAT HOOGSTADE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.703906,
+                    50.967593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;59",
+                "ref:De_Lijn": "504118",
+                "bus": "yes",
+                "name": "Hoogstade Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTEENWEG POLLINKHOVE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.71529,
+                    50.958502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "509119",
+                "bus": "yes",
+                "name": "Hoogstade Rustoord Clep",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLETERENSTRAAT HOOGSTADE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.703896,
+                    50.967872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57",
+                "ref:De_Lijn": "509718",
+                "bus": "yes",
+                "name": "Hoogstade Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEURNESTEENWEG LO-RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.713508,
+                    50.958585
+                ]
+            }
+        }
+    ]
+}

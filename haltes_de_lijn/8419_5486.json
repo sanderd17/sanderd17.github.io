@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;36;708",
+                "ref:De_Lijn": "301250",
+                "bus": "yes",
+                "name": "Kaggevinne Café Nova",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTRAAT SCHERPENHEUVEL-ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.991447,
+                    50.978678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;36;708",
+                "ref:De_Lijn": "301261",
+                "bus": "yes",
+                "name": "Kaggevinne Koebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTRAAT SCHERPENHEUVEL-ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.003086,
+                    50.979075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;36;708",
+                "ref:De_Lijn": "301262",
+                "bus": "yes",
+                "name": "Kaggevinne Koebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTRAAT SCHERPENHEUVEL-ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.003426,
+                    50.978938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;36;708",
+                "ref:De_Lijn": "301249",
+                "bus": "yes",
+                "name": "Kaggevinne Café Nova",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTRAAT SCHERPENHEUVEL-ZICHEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.991733,
+                    50.97883
+                ]
+            }
+        }
+    ]
+}

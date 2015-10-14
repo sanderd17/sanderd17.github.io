@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504683",
+                "bus": "yes",
+                "name": "Leisele Izenbergestraat 51",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZENBERGESTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.626265,
+                    50.987284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "509683",
+                "bus": "yes",
+                "name": "Leisele Izenbergestraat 51",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZENBERGESTRAAT LEISELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.626542,
+                    50.987495
+                ]
+            }
+        }
+    ]
+}

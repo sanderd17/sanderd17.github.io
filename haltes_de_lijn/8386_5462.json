@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "204020",
+                "bus": "yes",
+                "name": "Doel Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTORIJSTRAAT DOEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.265992,
+                    51.310673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "205022",
+                "bus": "yes",
+                "name": "Doel Hooghuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGHUISSTRAAT DOEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.262994,
+                    51.311308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "204021",
+                "bus": "yes",
+                "name": "Doel Scheldemolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELSESTEENWEG DOEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.265329,
+                    51.3122
+                ]
+            }
+        }
+    ]
+}

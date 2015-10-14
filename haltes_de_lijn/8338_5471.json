@@ -1,0 +1,677 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;27;74;88",
+                "ref:De_Lijn": "507455",
+                "bus": "yes",
+                "name": "Sint-Michiels Rijselsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213307,
+                    51.192299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;99",
+                "ref:De_Lijn": "507662",
+                "bus": "yes",
+                "name": "Sint-Michiels Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.219614,
+                    51.192378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "507661",
+                "bus": "yes",
+                "name": "Sint-Michiels Parklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKLAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.22364,
+                    51.183994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "502634",
+                "bus": "yes",
+                "name": "Sint-Michiels Ten Boomgaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEN BOOMGAARD SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213525,
+                    51.185217
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;74;88",
+                "ref:De_Lijn": "507450",
+                "bus": "yes",
+                "name": "Sint-Michiels Jagersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.208566,
+                    51.179883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;27;74",
+                "ref:De_Lijn": "502454",
+                "bus": "yes",
+                "name": "Sint-Michiels Park de Rode Poort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.209177,
+                    51.182334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72",
+                "ref:De_Lijn": "502661",
+                "bus": "yes",
+                "name": "Sint-Michiels Parklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKLAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.223685,
+                    51.183913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;88",
+                "ref:De_Lijn": "502452",
+                "bus": "yes",
+                "name": "Sint-Michiels Sint-Michielskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.212085,
+                    51.188511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;88",
+                "ref:De_Lijn": "507464",
+                "bus": "yes",
+                "name": "Sint-Michiels Walakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARON DE SERRETSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.218506,
+                    51.184537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "502067",
+                "bus": "yes",
+                "name": "Sint-Michiels Dolfinarium",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALFONS DE BAECKESTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.210938,
+                    51.18343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;74",
+                "ref:De_Lijn": "507451",
+                "bus": "yes",
+                "name": "Sint-Michiels Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.211235,
+                    51.188152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;88",
+                "ref:De_Lijn": "507660",
+                "bus": "yes",
+                "name": "Sint-Michiels Nachtegaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ARNOLDUSLAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221258,
+                    51.182541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;88",
+                "ref:De_Lijn": "507447",
+                "bus": "yes",
+                "name": "Sint-Michiels Casenbroot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARON DE SERRETSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.220952,
+                    51.185667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17",
+                "ref:De_Lijn": "507445",
+                "bus": "yes",
+                "name": "Sint-Michiels Boudewijnpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALFONS DE BAECKESTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21329,
+                    51.183165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17",
+                "ref:De_Lijn": "507444",
+                "bus": "yes",
+                "name": "Sint-Michiels Baron de Serret",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARON DE SERRETSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.215886,
+                    51.184035
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7",
+                "ref:De_Lijn": "507067",
+                "bus": "yes",
+                "name": "Sint-Michiels Dolfinarium",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALFONS DE BAECKESTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.211052,
+                    51.183422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;27;74;88",
+                "ref:De_Lijn": "502455",
+                "bus": "yes",
+                "name": "Sint-Michiels Rijselsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.21345,
+                    51.192875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "500016",
+                "bus": "yes",
+                "name": "Sint-Michiels Jagersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MICHIELSLAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.208559,
+                    51.179568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;88",
+                "ref:De_Lijn": "502464",
+                "bus": "yes",
+                "name": "Sint-Michiels Walakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARON DE SERRETSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.218219,
+                    51.184562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;74",
+                "ref:De_Lijn": "502451",
+                "bus": "yes",
+                "name": "Sint-Michiels Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.211175,
+                    51.18772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;88",
+                "ref:De_Lijn": "502447",
+                "bus": "yes",
+                "name": "Sint-Michiels Casenbroot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARON DE SERRETSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.220781,
+                    51.185647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;88",
+                "ref:De_Lijn": "502465",
+                "bus": "yes",
+                "name": "Sint-Michiels Weinebrugge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MICHIELSLAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213074,
+                    51.179765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "500018",
+                "bus": "yes",
+                "name": "Sint-Michiels Weinebrugge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MICHIELSLAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.214748,
+                    51.179736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;88",
+                "ref:De_Lijn": "502461",
+                "bus": "yes",
+                "name": "Sint-Michiels Vijverhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEISELESTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.216221,
+                    51.187275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;88",
+                "ref:De_Lijn": "507452",
+                "bus": "yes",
+                "name": "Sint-Michiels Sint-Michielskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.212183,
+                    51.188602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17",
+                "ref:De_Lijn": "502444",
+                "bus": "yes",
+                "name": "Sint-Michiels Baron de Serret",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARON DE SERRETSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.215884,
+                    51.184125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;88",
+                "ref:De_Lijn": "502453",
+                "bus": "yes",
+                "name": "Sint-Michiels Kloosterhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T KLOOSTERHOF SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.219446,
+                    51.179476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;88",
+                "ref:De_Lijn": "502660",
+                "bus": "yes",
+                "name": "Sint-Michiels Nachtegaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ARNOLDUSLAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221401,
+                    51.182543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;27;74",
+                "ref:De_Lijn": "507454",
+                "bus": "yes",
+                "name": "Sint-Michiels Park de Rode Poort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.209441,
+                    51.182633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;99",
+                "ref:De_Lijn": "502662",
+                "bus": "yes",
+                "name": "Sint-Michiels Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.219785,
+                    51.192416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17",
+                "ref:De_Lijn": "502445",
+                "bus": "yes",
+                "name": "Sint-Michiels Boudewijnpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALFONS DE BAECKESTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.213431,
+                    51.183265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "7;17;88",
+                "ref:De_Lijn": "507461",
+                "bus": "yes",
+                "name": "Sint-Michiels Vijverhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.215702,
+                    51.187441
+                ]
+            }
+        }
+    ]
+}

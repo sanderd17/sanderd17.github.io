@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "502184",
+                "bus": "yes",
+                "name": "Hertsberge Hertsbergeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAAIVELDSTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.266443,
+                    51.097669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;64;79;95",
+                "ref:De_Lijn": "502185",
+                "bus": "yes",
+                "name": "Hertsberge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.273377,
+                    51.105788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507184",
+                "bus": "yes",
+                "name": "Hertsberge Hertsbergeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAAIVELDSTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.266599,
+                    51.097715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;26;28;64;79;95",
+                "ref:De_Lijn": "507185",
+                "bus": "yes",
+                "name": "Hertsberge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.27348,
+                    51.105681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79;95",
+                "ref:De_Lijn": "507189",
+                "bus": "yes",
+                "name": "Hertsberge Smisje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROOSDIJSTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.264562,
+                    51.105994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;64;79",
+                "ref:De_Lijn": "502189",
+                "bus": "yes",
+                "name": "Hertsberge Smisje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROOSDIJSTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.263948,
+                    51.10597
+                ]
+            }
+        }
+    ]
+}

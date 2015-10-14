@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301556",
+                "bus": "yes",
+                "name": "Glabbeek-Zuurbemde Kapelleke",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ATTENRODESTRAAT GLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942083,
+                    50.874525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308088",
+                "bus": "yes",
+                "name": "Attenrode Steenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBERGESTRAAT WEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.933649,
+                    50.863158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685;712",
+                "ref:De_Lijn": "301588",
+                "bus": "yes",
+                "name": "Attenrode Hulsbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.92465,
+                    50.86855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "585;685",
+                "ref:De_Lijn": "301589",
+                "bus": "yes",
+                "name": "Attenrode Hulsbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT ATTENRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.924893,
+                    50.868683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308089",
+                "bus": "yes",
+                "name": "Attenrode Steenberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STEENBERGESTRAAT WEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.933522,
+                    50.86323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "301557",
+                "bus": "yes",
+                "name": "Glabbeek-Zuurbemde Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ATTENRODESTRAAT GLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942153,
+                    50.874408
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "300293",
+                "bus": "yes",
+                "name": "Zellik Kortemanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTEMANSSTRAAT ZELLIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.254117,
+                    50.889151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "300234",
+                "bus": "yes",
+                "name": "Bekkerzeel Schutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHUTSTRAAT BEKKERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.247957,
+                    50.886142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "216",
+                "ref:De_Lijn": "300235",
+                "bus": "yes",
+                "name": "Bekkerzeel Schutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHUTSTRAAT BEKKERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.248212,
+                    50.886295
+                ]
+            }
+        }
+    ]
+}

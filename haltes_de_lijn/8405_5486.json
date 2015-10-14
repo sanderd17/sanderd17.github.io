@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;333;433;500;532",
+                "ref:De_Lijn": "305220",
+                "bus": "yes",
+                "name": "Tremelo Watertoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERCHTERSEBAAN TREMELO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700754,
+                    50.981999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305044",
+                "bus": "yes",
+                "name": "Werchter Hanewijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANEWIJK WERCHTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.686035,
+                    50.97439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;333;433;500;532",
+                "ref:De_Lijn": "305219",
+                "bus": "yes",
+                "name": "Tremelo Watertoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERCHTERSEBAAN TREMELO",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.700496,
+                    50.981676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308954",
+                "bus": "yes",
+                "name": "Werchter Tremelobaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT WERCHTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.701818,
+                    50.973349
+                ]
+            }
+        }
+    ]
+}

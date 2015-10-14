@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "164;732",
+                "ref:De_Lijn": "307545",
+                "bus": "yes",
+                "name": "Bellingen Zwaantje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUTTESTRAAT PEPINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.144762,
+                    50.753071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144",
+                "ref:De_Lijn": "307755",
+                "bus": "yes",
+                "name": "Kester Steenkapper",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KESTERSESTEENWEG PEPINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.140011,
+                    50.762636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "164;732",
+                "ref:De_Lijn": "307544",
+                "bus": "yes",
+                "name": "Bellingen Zwaantje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUTTESTRAAT PEPINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.144634,
+                    50.753133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "144",
+                "ref:De_Lijn": "307756",
+                "bus": "yes",
+                "name": "Kester Steenkapper",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KESTERSESTEENWEG PEPINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.139982,
+                    50.762744
+                ]
+            }
+        }
+    ]
+}

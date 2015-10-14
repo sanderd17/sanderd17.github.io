@@ -1,0 +1,71 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;43",
+                "ref:De_Lijn": "205435",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Sint-Jansteen (Nl) Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFDSTRAAT SINT JANSTEEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.052313,
+                    51.261921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;43",
+                "ref:De_Lijn": "205436",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Sint-Jansteen (Nl) Geslechtendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESLECHTENDIJK SINT JANSTEEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.053302,
+                    51.264027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;43",
+                "ref:De_Lijn": "204436",
+                "bus": "yes",
+                "zone:De_Lijn": "7840",
+                "name": "Sint-Jansteen (Nl) Geslechtendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESLECHTENDIJK SINT JANSTEEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.053144,
+                    51.264063
+                ]
+            }
+        }
+    ]
+}

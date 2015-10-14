@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "209662",
+                "bus": "yes",
+                "name": "Astene Oude Heirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAZARETHSESTEENWEG ASTENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.579507,
+                    50.967915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84;125;145",
+                "ref:De_Lijn": "208662",
+                "bus": "yes",
+                "name": "Astene Oude Heirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAZARETHSESTEENWEG ASTENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.579865,
+                    50.967819
+                ]
+            }
+        }
+    ]
+}

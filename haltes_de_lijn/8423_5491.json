@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;26;560;568;712",
+                "ref:De_Lijn": "302621",
+                "bus": "yes",
+                "name": "Kortenaken Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHANSSTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.075807,
+                    50.905322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;26;560;568",
+                "ref:De_Lijn": "302622",
+                "bus": "yes",
+                "name": "Kortenaken Heidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHANSSTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.075748,
+                    50.905214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308117",
+                "bus": "yes",
+                "name": "Kortenaken Rigelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.079123,
+                    50.914948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "567;715",
+                "ref:De_Lijn": "301488",
+                "bus": "yes",
+                "name": "Geetbets Nieuwdorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWDORPSTRAAT GEETBETS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.095875,
+                    50.903932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308116",
+                "bus": "yes",
+                "name": "Kortenaken Rigelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.079009,
+                    50.914895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "567;715",
+                "ref:De_Lijn": "301489",
+                "bus": "yes",
+                "name": "Geetbets Nieuwdorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWDORPSTRAAT GEETBETS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.095892,
+                    50.904102
+                ]
+            }
+        }
+    ]
+}

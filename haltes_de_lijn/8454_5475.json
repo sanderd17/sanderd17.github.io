@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;15;16;40",
+                "ref:De_Lijn": "404811",
+                "bus": "yes",
+                "name": "Ophoven Jettenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG OPHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.758819,
+                    51.133658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;40",
+                "ref:De_Lijn": "404810",
+                "bus": "yes",
+                "name": "Ophoven Jettenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEERTERSTEENWEG OPHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.758741,
+                    51.133443
+                ]
+            }
+        }
+    ]
+}

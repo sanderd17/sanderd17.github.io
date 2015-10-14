@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;730;731",
+                "ref:De_Lijn": "402623",
+                "bus": "yes",
+                "name": "Vorsen Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT VORSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.169579,
+                    50.704095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731;41/2",
+                "ref:De_Lijn": "402621",
+                "bus": "yes",
+                "name": "Vorsen Brouwerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERIJSTRAAT VORSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172556,
+                    50.704372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "402620",
+                "bus": "yes",
+                "name": "Vorsen Brouwerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWERIJSTRAAT VORSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172725,
+                    50.704308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400669",
+                "bus": "yes",
+                "name": "Berloz Crenwick",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LAGESTRAAT ROOST-KRENWIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17029,
+                    50.697626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41/2",
+                "ref:De_Lijn": "400668",
+                "bus": "yes",
+                "name": "Berloz Crenwick",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE HAMEAU DE CRENWICK ROOST-KRENWIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17135,
+                    50.697529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;730;731",
+                "ref:De_Lijn": "402622",
+                "bus": "yes",
+                "name": "Vorsen Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRAAT VORSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.169395,
+                    50.704151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455710",
+                "bus": "yes",
+                "name": "Vorsen Taxi Polly",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LAGESTRAAT VORSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.16819,
+                    50.70237
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "409383",
+                "bus": "yes",
+                "name": "Zutendaal Smitsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALSTRAAT ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.55709,
+                    50.925898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "409392",
+                "bus": "yes",
+                "name": "Zutendaal Wit Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BILZERWEG ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.543904,
+                    50.917975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "409393",
+                "bus": "yes",
+                "name": "Zutendaal Wit Paard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N750 ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.5419,
+                    50.917501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "409382",
+                "bus": "yes",
+                "name": "Zutendaal Smitsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALSTRAAT ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556704,
+                    50.925839
+                ]
+            }
+        }
+    ]
+}

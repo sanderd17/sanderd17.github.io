@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "208694",
+                "bus": "yes",
+                "name": "Scheldewindeke Hauwsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.754521,
+                    50.933989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;45;48",
+                "ref:De_Lijn": "203926",
+                "bus": "yes",
+                "name": "Munte Torrekensweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG MUNTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736259,
+                    50.942136
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;45;48",
+                "ref:De_Lijn": "202926",
+                "bus": "yes",
+                "name": "Munte Torrekensweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG MUNTE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736443,
+                    50.942218
+                ]
+            }
+        }
+    ]
+}

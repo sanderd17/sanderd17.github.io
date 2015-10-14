@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;180;18a",
+                "ref:De_Lijn": "404400",
+                "bus": "yes",
+                "name": "Helchteren Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N715 HELCHTEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.382807,
+                    51.056808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "404410",
+                "bus": "yes",
+                "name": "Helchteren Heikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN HELCHTEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.38329,
+                    51.061973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;68;13b;180;18a;283",
+                "ref:De_Lijn": "404401",
+                "bus": "yes",
+                "name": "Helchteren Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN HELCHTEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.382179,
+                    51.055483
+                ]
+            }
+        }
+    ]
+}

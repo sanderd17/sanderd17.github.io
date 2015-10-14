@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "504590",
+                "bus": "yes",
+                "name": "Westvleteren Eikhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKHOEKSTRAAT WESTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.738608,
+                    50.912683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505367",
+                "bus": "yes",
+                "name": "Westvleteren De Sportvriend",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWIJNLANDSTRAAT WESTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.727249,
+                    50.904801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505303",
+                "bus": "yes",
+                "name": "Westvleteren Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT WESTVLETEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.726203,
+                    50.912753
+                ]
+            }
+        }
+    ]
+}

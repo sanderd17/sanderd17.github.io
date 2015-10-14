@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;412;413;414;419;618;619",
+                "ref:De_Lijn": "106091",
+                "bus": "yes",
+                "name": "Sint-Antonius Bibliotheek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDELSLEI SINT-ANTONIUS (ZOERSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.636114,
+                    51.265337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;412;413;414;419;618;619",
+                "ref:De_Lijn": "106088",
+                "bus": "yes",
+                "name": "Sint-Antonius Kwikaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLEI SINT-ANTONIUS (ZOERSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.632015,
+                    51.262551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "412;607",
+                "ref:De_Lijn": "108473",
+                "bus": "yes",
+                "name": "Sint-Antonius Voetbalplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BETHANIËNLEI SINT-ANTONIUS (ZOERSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.631199,
+                    51.275263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410;412;413;414;419;618;619",
+                "ref:De_Lijn": "106089",
+                "bus": "yes",
+                "name": "Sint-Antonius Kwikaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLEI SINT-ANTONIUS (ZOERSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.632186,
+                    51.262443
+                ]
+            }
+        }
+    ]
+}

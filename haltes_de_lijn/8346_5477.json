@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200827",
+                "bus": "yes",
+                "name": "Sint-Maria-Aalter Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOKHOUTLAAN MARIA-AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.386601,
+                    51.107702
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;605;608;620;935",
+                "ref:De_Lijn": "102944",
+                "bus": "yes",
+                "name": "Hoogstraten Houtelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LENAARTSEWEG HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.729322,
+                    51.384865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;605;608;620;935",
+                "ref:De_Lijn": "102943",
+                "bus": "yes",
+                "name": "Hoogstraten Houtelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LENAARTSEWEG HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.729179,
+                    51.384947
+                ]
+            }
+        }
+    ]
+}

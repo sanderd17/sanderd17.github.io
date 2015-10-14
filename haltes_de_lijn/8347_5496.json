@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "503851",
+                "bus": "yes",
+                "name": "Waregem Knockstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.407081,
+                    50.847145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "509982",
+                "bus": "yes",
+                "name": "Ingooigem Elstweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSTWEG INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.422586,
+                    50.841571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505281",
+                "bus": "yes",
+                "name": "Ingooigem Elstweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.422799,
+                    50.841591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;81",
+                "ref:De_Lijn": "509936",
+                "bus": "yes",
+                "name": "Ingooigem Elstweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRBAAN INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.422603,
+                    50.841427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "508851",
+                "bus": "yes",
+                "name": "Waregem Knockstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VICHTSEWEG WAREGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.406859,
+                    50.846882
+                ]
+            }
+        }
+    ]
+}

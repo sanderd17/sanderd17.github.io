@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;330;370",
+                "ref:De_Lijn": "206624",
+                "bus": "yes",
+                "name": "Waarbeke Wolvenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLVENHOEK WAARBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.971221,
+                    50.77994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;330",
+                "ref:De_Lijn": "207624",
+                "bus": "yes",
+                "name": "Waarbeke Wolvenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLVENHOEK WAARBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.970952,
+                    50.779984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206681",
+                "bus": "yes",
+                "name": "Zandbergen Spekgatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERINGSTRAAT ZANDBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.960935,
+                    50.785586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206757",
+                "bus": "yes",
+                "name": "Zandbergen Lindeveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEVELDSTRAAT ZANDBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.959124,
+                    50.791612
+                ]
+            }
+        }
+    ]
+}

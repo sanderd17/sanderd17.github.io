@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "208763",
+                "bus": "yes",
+                "name": "Zomerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENAAKSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.545294,
+                    50.750572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "208405",
+                "bus": "yes",
+                "name": "Bremtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREMSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.545831,
+                    50.756374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "209413",
+                "bus": "yes",
+                "name": "Provinciaal Domein Heynsdaele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSE BAAN KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.552455,
+                    50.764233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209763",
+                "bus": "yes",
+                "name": "Zomerij",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROZENAAKSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.54535,
+                    50.750662
+                ]
+            }
+        }
+    ]
+}

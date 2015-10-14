@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "502376",
+                "bus": "yes",
+                "name": "Snellegem Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ISENBAERTSTRAAT SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.119414,
+                    51.162909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "507376",
+                "bus": "yes",
+                "name": "Snellegem Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ISENBAERTSTRAAT SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.118887,
+                    51.16338
+                ]
+            }
+        }
+    ]
+}

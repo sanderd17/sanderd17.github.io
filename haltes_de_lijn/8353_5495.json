@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200771",
+                "bus": "yes",
+                "name": "Wortegem Pareelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VONDELSTRAAT MOREGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.548757,
+                    50.858667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201728",
+                "bus": "yes",
+                "name": "Wortegem Cauborrestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAREELSTRAAT MOREGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.542125,
+                    50.855339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200752",
+                "bus": "yes",
+                "name": "Moregem Peperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSEWEG MOREGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.554305,
+                    50.854867
+                ]
+            }
+        }
+    ]
+}

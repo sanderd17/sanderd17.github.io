@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204510",
+                "bus": "yes",
+                "name": "Kruibeke Molenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE HEIHOEKSTRAAT KRUIBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.275907,
+                    51.170472
+                ]
+            }
+        }
+    ]
+}

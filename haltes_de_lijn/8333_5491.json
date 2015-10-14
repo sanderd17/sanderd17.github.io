@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55",
+                "ref:De_Lijn": "504743",
+                "bus": "yes",
+                "name": "Rumbeke 't Vosken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ZILVERBERG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.115461,
+                    50.90953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55",
+                "ref:De_Lijn": "509743",
+                "bus": "yes",
+                "name": "Rumbeke 't Vosken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ZILVERBERG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.11577,
+                    50.91072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55",
+                "ref:De_Lijn": "503760",
+                "bus": "yes",
+                "name": "Rumbeke Euro Shop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ZILVERBERG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.115141,
+                    50.905544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55",
+                "ref:De_Lijn": "508760",
+                "bus": "yes",
+                "name": "Rumbeke Euro Shop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ZILVERBERG",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.115432,
+                    50.906347
+                ]
+            }
+        }
+    ]
+}

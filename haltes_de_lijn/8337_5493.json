@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504780",
+                "bus": "yes",
+                "name": "Lendelede Geitestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEITESTRAAT LENDELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.199059,
+                    50.889076
+                ]
+            }
+        }
+    ]
+}

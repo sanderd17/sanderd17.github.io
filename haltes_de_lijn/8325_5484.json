@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505644",
+                "bus": "yes",
+                "name": "Zarren Cafe Ruiterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUYTERHOEKSTRAAT ZARREN-WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.93984,
+                    51.006605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "509884",
+                "bus": "yes",
+                "name": "Esen Schaperhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHAPERSHOEK DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.93026,
+                    51.010445
+                ]
+            }
+        }
+    ]
+}

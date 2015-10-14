@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505916",
+                "bus": "yes",
+                "name": "Zillebeke Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.906269,
+                    50.822919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505101",
+                "bus": "yes",
+                "name": "Zillebeke Blauwepoortstraat 95",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAUWEPOORTSTRAAT ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.914587,
+                    50.832571
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,86 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308024",
+                "bus": "yes",
+                "name": "Houwaart Wijngaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNGAARDSTRAAT HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.864699,
+                    50.945122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308025",
+                "bus": "yes",
+                "name": "Houwaart Bergweide",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WIJNGAARDSTRAAT HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87031,
+                    50.946878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308023",
+                "bus": "yes",
+                "name": "Houwaart Wijngaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNGAARDSTRAAT HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.864798,
+                    50.945059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308026",
+                "bus": "yes",
+                "name": "Houwaart Bergweide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNGAARDSTRAAT HOUWAART",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.870197,
+                    50.946951
+                ]
+            }
+        }
+    ]
+}

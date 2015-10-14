@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440;446;608",
+                "ref:De_Lijn": "106834",
+                "bus": "yes",
+                "name": "Brecht Kanaallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT SINT-LENAARTS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.655579,
+                    51.341017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440;446;608",
+                "ref:De_Lijn": "106972",
+                "bus": "yes",
+                "name": "Brecht Kanaallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT SINT-LENAARTS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.655478,
+                    51.3409
+                ]
+            }
+        }
+    ]
+}

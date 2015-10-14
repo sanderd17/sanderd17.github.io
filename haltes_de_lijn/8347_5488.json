@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505945",
+                "bus": "yes",
+                "name": "Markegem Papegaaistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPEGAAISTRAAT WAKKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.418709,
+                    50.947084
+                ]
+            }
+        }
+    ]
+}

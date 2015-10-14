@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209683",
+                "bus": "yes",
+                "name": "Sint-Lievens-Esse Schoonderhage",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONDERHAGE SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.891323,
+                    50.866483
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209682",
+                "bus": "yes",
+                "name": "Sint-Lievens-Esse Half Doornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT SINT-LIEVENS-ESSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.901426,
+                    50.866173
+                ]
+            }
+        }
+    ]
+}

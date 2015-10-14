@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "300094",
+                "bus": "yes",
+                "name": "Langdorp Drie Wegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANENBERG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.929879,
+                    51.012393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304412",
+                "bus": "yes",
+                "name": "Testelt Haneberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANENBERG TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.937143,
+                    51.012044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "300095",
+                "bus": "yes",
+                "name": "Langdorp Drie Wegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANENBERG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.930063,
+                    51.012275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "304411",
+                "bus": "yes",
+                "name": "Testelt Haneberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANENBERG TESTELT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.93676,
+                    51.012189
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301503",
+                "bus": "yes",
+                "name": "Grazen Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.131372,
+                    50.874867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301502",
+                "bus": "yes",
+                "name": "Grazen Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.131459,
+                    50.874965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301522",
+                "bus": "yes",
+                "name": "Grazen Orsmaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.134532,
+                    50.873462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301523",
+                "bus": "yes",
+                "name": "Grazen Orsmaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.133881,
+                    50.87361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "301505",
+                "bus": "yes",
+                "name": "Grazen Kerk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VIJVERSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.125692,
+                    50.872404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "568;715",
+                "ref:De_Lijn": "301504",
+                "bus": "yes",
+                "name": "Grazen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJVERSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.12531,
+                    50.872506
+                ]
+            }
+        }
+    ]
+}

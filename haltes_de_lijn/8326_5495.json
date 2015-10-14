@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504981",
+                "bus": "yes",
+                "name": "Zonnebeke Westhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NONNEBOSSENSTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.959539,
+                    50.857153
+                ]
+            }
+        }
+    ]
+}

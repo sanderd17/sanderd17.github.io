@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;540;712",
+                "ref:De_Lijn": "301550",
+                "bus": "yes",
+                "name": "Bunsbeek Veldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942525,
+                    50.833925
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308993",
+                "bus": "yes",
+                "name": "Vissenaken Sint-Martens",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "METSELSTRAAT SINT-MARTINS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.924714,
+                    50.83918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;540",
+                "ref:De_Lijn": "301551",
+                "bus": "yes",
+                "name": "Bunsbeek Veldweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIENSESTEENWEG BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942737,
+                    50.83387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680;713",
+                "ref:De_Lijn": "306961",
+                "bus": "yes",
+                "name": "Vissenaken Sint-Martens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISSENAKENSTRAAT SINT-MARTINS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.925629,
+                    50.83851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680",
+                "ref:De_Lijn": "306960",
+                "bus": "yes",
+                "name": "Vissenaken Sint-Martens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISSENAKENSTRAAT SINT-MARTINS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.925491,
+                    50.838844
+                ]
+            }
+        }
+    ]
+}

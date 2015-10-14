@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;29",
+                "ref:De_Lijn": "509047",
+                "bus": "yes",
+                "name": "Boezinge Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.854239,
+                    50.897174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "505810",
+                "bus": "yes",
+                "name": "Boezinge Boezingsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEZINGESTRAAT BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.840639,
+                    50.890875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;29",
+                "ref:De_Lijn": "509044",
+                "bus": "yes",
+                "name": "Boezinge De Vos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.850874,
+                    50.900557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;29;40",
+                "ref:De_Lijn": "504047",
+                "bus": "yes",
+                "name": "Boezinge Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.8542,
+                    50.897057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;29;40",
+                "ref:De_Lijn": "504044",
+                "bus": "yes",
+                "name": "Boezinge De Vos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDSEWEG BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.85122,
+                    50.899968
+                ]
+            }
+        }
+    ]
+}

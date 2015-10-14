@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;460",
+                "ref:De_Lijn": "207765",
+                "bus": "yes",
+                "name": "Constantin Meunierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SAINT-SAUVEURSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.598473,
+                    50.736198
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "209838",
+                "bus": "yes",
+                "name": "Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE PONTSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.582247,
+                    50.735623
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;460",
+                "ref:De_Lijn": "207754",
+                "bus": "yes",
+                "name": "Eeckhoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEORGES EECKHOUTSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602798,
+                    50.735049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209762",
+                "bus": "yes",
+                "name": "Leuzesteenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEUZESESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.589323,
+                    50.736093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "208762",
+                "bus": "yes",
+                "name": "Leuzesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUZESESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.589535,
+                    50.73613
+                ]
+            }
+        }
+    ]
+}

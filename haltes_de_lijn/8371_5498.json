@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207850",
+                "bus": "yes",
+                "name": "Zandbergen Beekstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEEKSTRAAT BULLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.948957,
+                    50.80729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;330",
+                "ref:De_Lijn": "207658",
+                "bus": "yes",
+                "name": "Voorde Hollestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEVENHOEK VOORDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.954271,
+                    50.819356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;330",
+                "ref:De_Lijn": "206658",
+                "bus": "yes",
+                "name": "Voorde Hollestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEVENHOEK VOORDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.954112,
+                    50.819607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206850",
+                "bus": "yes",
+                "name": "Zandbergen Beekstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEEKSTRAAT BULLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.94907,
+                    50.807363
+                ]
+            }
+        }
+    ]
+}

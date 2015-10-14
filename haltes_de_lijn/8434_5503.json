@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "403701",
+                "bus": "yes",
+                "name": "Heers Autoveiligheid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG HEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.323716,
+                    50.739313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "403700",
+                "bus": "yes",
+                "name": "Heers Autoveiligheid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG HEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.32386,
+                    50.73942
+                ]
+            }
+        }
+    ]
+}

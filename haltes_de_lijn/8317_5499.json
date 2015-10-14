@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68;79",
+                "ref:De_Lijn": "504572",
+                "bus": "yes",
+                "name": "Westouter De Brieke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SULFERBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.753006,
+                    50.796809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "509575",
+                "bus": "yes",
+                "name": "Westouter Kwadestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SULFERBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.759923,
+                    50.794926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "505300",
+                "bus": "yes",
+                "name": "Westouter Woestenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOESTENHOFSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.750691,
+                    50.793154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68;79",
+                "ref:De_Lijn": "509572",
+                "bus": "yes",
+                "name": "Westouter De Brieke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SULFERBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.75286,
+                    50.796942
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;68",
+                "ref:De_Lijn": "504575",
+                "bus": "yes",
+                "name": "Westouter Kwadestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SULFERBERGSTRAAT WESTOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.759454,
+                    50.794956
+                ]
+            }
+        }
+    ]
+}

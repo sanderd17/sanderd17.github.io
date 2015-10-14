@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;175",
+                "ref:De_Lijn": "202642",
+                "bus": "yes",
+                "name": "Wachtebeke Domein Puyenbroek P1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.871647,
+                    51.152997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76",
+                "ref:De_Lijn": "210050",
+                "bus": "yes",
+                "name": "Wachtebeke DomeinPuyenbroeck P1 (tijdelijke halte)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VERBINDINGSSTRAAT WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.871085,
+                    51.154793
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201707",
+                "bus": "yes",
+                "name": "Zomergem Uitgem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UITGEM ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.55191,
+                    51.108898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201711",
+                "bus": "yes",
+                "name": "Zomergem Schipdonkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSTRAAT ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.548318,
+                    51.098788
+                ]
+            }
+        }
+    ]
+}

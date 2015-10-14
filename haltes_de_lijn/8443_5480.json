@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "406662",
+                "bus": "yes",
+                "name": "Wijshagen Dampstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMPSTRAAT WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.527937,
+                    51.068962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33",
+                "ref:De_Lijn": "406665",
+                "bus": "yes",
+                "name": "Wijshagen Donderslag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.522977,
+                    51.064004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33",
+                "ref:De_Lijn": "406664",
+                "bus": "yes",
+                "name": "Wijshagen Donderslag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG WIJSHAGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.523224,
+                    51.064154
+                ]
+            }
+        }
+    ]
+}

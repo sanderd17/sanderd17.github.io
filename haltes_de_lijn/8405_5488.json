@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "301876",
+                "bus": "yes",
+                "name": "Tildonk Wakkerzeel Wilgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJGMAALSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.681935,
+                    50.944746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "301875",
+                "bus": "yes",
+                "name": "Tildonk Wakkerzeel Wilgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJGMAALSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.681779,
+                    50.944728
+                ]
+            }
+        }
+    ]
+}

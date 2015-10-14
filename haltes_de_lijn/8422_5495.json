@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;712",
+                "ref:De_Lijn": "303252",
+                "bus": "yes",
+                "name": "Drieslinter Grote Steenweg 420",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.058691,
+                    50.85135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542",
+                "ref:De_Lijn": "303253",
+                "bus": "yes",
+                "name": "Drieslinter Grote Steenweg 420",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.058694,
+                    50.851557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;712",
+                "ref:De_Lijn": "303260",
+                "bus": "yes",
+                "name": "Drieslinter Rattenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTERSEWEG BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.064864,
+                    50.85393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;715",
+                "ref:De_Lijn": "305643",
+                "bus": "yes",
+                "name": "Budingen Café David",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTERSEWEG BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.071994,
+                    50.856773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542;715",
+                "ref:De_Lijn": "305642",
+                "bus": "yes",
+                "name": "Budingen Café David",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTERSEWEG BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.071606,
+                    50.856469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;542",
+                "ref:De_Lijn": "303261",
+                "bus": "yes",
+                "name": "Drieslinter Rattenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE-STEENWEG DRIESLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.064294,
+                    50.853816
+                ]
+            }
+        }
+    ]
+}

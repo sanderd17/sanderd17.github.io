@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201803",
+                "bus": "yes",
+                "name": "Kruishoutem Kwadestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOKSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.507572,
+                    50.916501
+                ]
+            }
+        }
+    ]
+}

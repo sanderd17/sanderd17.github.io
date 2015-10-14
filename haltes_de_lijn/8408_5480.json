@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "161;931;944",
+                "ref:De_Lijn": "104637",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Klein Laarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONDERSCHOTSESTEENWEG HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.748383,
+                    51.067252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "161;931;944",
+                "ref:De_Lijn": "108037",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Zonderschot Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONDERSCHOTSESTEENWEG ZONDERSCHOT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.749003,
+                    51.05756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "161",
+                "ref:De_Lijn": "104649",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Klein Laarstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONDERSCHOTSESTEENWEG HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.748269,
+                    51.067306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;944",
+                "ref:De_Lijn": "104133",
+                "bus": "yes",
+                "name": "Booischot Hogeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGE WEG BOOISCHOT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.761041,
+                    51.064289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "161;931;944",
+                "ref:De_Lijn": "108038",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Zonderschot Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONDERSCHOTSESTEENWEG ZONDERSCHOT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.748736,
+                    51.058118
+                ]
+            }
+        }
+    ]
+}

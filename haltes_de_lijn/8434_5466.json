@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "409983",
+                "bus": "yes",
+                "name": "Lommel Elzen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZEN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.333493,
+                    51.253038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "409754",
+                "bus": "yes",
+                "name": "Lommel Vossemeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZEN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.327411,
+                    51.255406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "409999",
+                "bus": "yes",
+                "name": "Lommel Elzen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZEN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.33358,
+                    51.253109
+                ]
+            }
+        }
+    ]
+}

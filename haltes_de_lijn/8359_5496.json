@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "209112",
+                "bus": "yes",
+                "name": "Mater Klokkeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIRESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.670123,
+                    50.83695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209798",
+                "bus": "yes",
+                "name": "Mater Jagerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAGERIJ OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.67961,
+                    50.842553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;445",
+                "ref:De_Lijn": "208112",
+                "bus": "yes",
+                "name": "Mater Klokkeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIRESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.670552,
+                    50.836746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "209203",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.691017,
+                    50.840228
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "209204",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.686771,
+                    50.837344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209781",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Rokegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROKEGEM SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.689634,
+                    50.846486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;445",
+                "ref:De_Lijn": "208204",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.686872,
+                    50.837237
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;445",
+                "ref:De_Lijn": "208203",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.691146,
+                    50.84013
+                ]
+            }
+        }
+    ]
+}

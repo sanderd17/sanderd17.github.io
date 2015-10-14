@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "209261",
+                "bus": "yes",
+                "name": "Kruishoutem Duifhuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.538168,
+                    50.933856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;450",
+                "ref:De_Lijn": "208261",
+                "bus": "yes",
+                "name": "Kruishoutem Duifhuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINSESTEENWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.538678,
+                    50.934768
+                ]
+            }
+        }
+    ]
+}

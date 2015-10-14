@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "503538",
+                "bus": "yes",
+                "name": "Markegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENTERGEMSTRAAT MARKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.402123,
+                    50.94881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "508538",
+                "bus": "yes",
+                "name": "Markegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENTERGEMSTRAAT MARKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.401267,
+                    50.948218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "508536",
+                "bus": "yes",
+                "name": "Markegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAKKENSTRAAT MARKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.400793,
+                    50.94496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;88",
+                "ref:De_Lijn": "503536",
+                "bus": "yes",
+                "name": "Markegem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAKKENSTRAAT MARKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.401232,
+                    50.945071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505378",
+                "bus": "yes",
+                "name": "Dentergem Oostrozebekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTROZEBEKESTRAAT DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.394131,
+                    50.957401
+                ]
+            }
+        }
+    ]
+}

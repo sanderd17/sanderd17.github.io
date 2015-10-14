@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101492",
+                "bus": "yes",
+                "name": "Westerlo De Hand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE HAND WESTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.851267,
+                    51.10124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101957",
+                "bus": "yes",
+                "name": "Voortkapel Rooiveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRATENEINDE WESTERLO",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.843434,
+                    51.110198
+                ]
+            }
+        }
+    ]
+}

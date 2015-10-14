@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;565",
+                "ref:De_Lijn": "300432",
+                "bus": "yes",
+                "name": "Waanrode Rijnrode Huis 79",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJNRODE ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.024453,
+                    50.927753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;565",
+                "ref:De_Lijn": "300431",
+                "bus": "yes",
+                "name": "Waanrode Rijnrode Huis 79",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJNRODE ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.024566,
+                    50.927662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;565;712",
+                "ref:De_Lijn": "302701",
+                "bus": "yes",
+                "name": "Waanrode Waanveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DIESTSESTRAAT WAANRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.009797,
+                    50.924256
+                ]
+            }
+        }
+    ]
+}

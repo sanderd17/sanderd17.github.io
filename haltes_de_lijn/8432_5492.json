@@ -1,0 +1,467 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;H2;105",
+                "ref:De_Lijn": "400133",
+                "bus": "yes",
+                "name": "Terkoest Ter Bijsen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.281116,
+                    50.894492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;H2;105;700",
+                "ref:De_Lijn": "400122",
+                "bus": "yes",
+                "name": "Alken Terkoest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.274597,
+                    50.897698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;H2;105;700",
+                "ref:De_Lijn": "400123",
+                "bus": "yes",
+                "name": "Alken Terkoest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.276326,
+                    50.896705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2;21a;700",
+                "ref:De_Lijn": "400082",
+                "bus": "yes",
+                "name": "Alken Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.291027,
+                    50.889605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400125",
+                "bus": "yes",
+                "name": "Terkoest Hoveniers",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOVENIERSSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.277477,
+                    50.90111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;105",
+                "ref:De_Lijn": "400085",
+                "bus": "yes",
+                "name": "Alken Steenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.289201,
+                    50.889269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409172",
+                "bus": "yes",
+                "name": "Terkoest Beukenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280303,
+                    50.898715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409176",
+                "bus": "yes",
+                "name": "Terkoest Molenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.291461,
+                    50.897225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2;700",
+                "ref:De_Lijn": "400130",
+                "bus": "yes",
+                "name": "Terkoest Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.276452,
+                    50.898098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "409174",
+                "bus": "yes",
+                "name": "Terkoest Parkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.28091,
+                    50.901416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2;700",
+                "ref:De_Lijn": "400128",
+                "bus": "yes",
+                "name": "Terkoest Ruiters",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGSVELDSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.274134,
+                    50.901711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2",
+                "ref:De_Lijn": "400124",
+                "bus": "yes",
+                "name": "Terkoest Hoveniers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOVENIERSSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.277624,
+                    50.901316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "400131",
+                "bus": "yes",
+                "name": "Terkoest Rusthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.276512,
+                    50.89825
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;105",
+                "ref:De_Lijn": "400084",
+                "bus": "yes",
+                "name": "Alken Steenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.288869,
+                    50.889685
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409175",
+                "bus": "yes",
+                "name": "Terkoest De Molen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.284877,
+                    50.899273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;H2;105",
+                "ref:De_Lijn": "400132",
+                "bus": "yes",
+                "name": "Terkoest Ter Bijsen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ONZE-LIEVE-VROUWSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.277277,
+                    50.89588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "409169",
+                "bus": "yes",
+                "name": "Terkoest Eikendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENDREEF TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280301,
+                    50.897178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "409173",
+                "bus": "yes",
+                "name": "Terkoest Parkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280979,
+                    50.901335
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409171",
+                "bus": "yes",
+                "name": "Terkoest Beukenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280343,
+                    50.898607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "H2;21a;700",
+                "ref:De_Lijn": "400083",
+                "bus": "yes",
+                "name": "Alken Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.290895,
+                    50.88939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "409170",
+                "bus": "yes",
+                "name": "Terkoest Eikendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENDREEF TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.280163,
+                    50.897368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700",
+                "ref:De_Lijn": "400129",
+                "bus": "yes",
+                "name": "Terkoest Ruiters",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGSVELDSTRAAT TERKOEST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.27439,
+                    50.90171
+                ]
+            }
+        }
+    ]
+}

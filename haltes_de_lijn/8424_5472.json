@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;430;436",
+                "ref:De_Lijn": "107692",
+                "bus": "yes",
+                "name": "Mol Meerhoutsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SLACHTHUISSTRAAT HEIDEHUIZEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.109478,
+                    51.171992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "104941",
+                "bus": "yes",
+                "name": "Mol Volmolenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGERHOUTSENDIJK MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.105855,
+                    51.167152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109994",
+                "bus": "yes",
+                "name": "Mol Jachtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGERHOUTSENDIJK HEIDEHUIZEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.108424,
+                    51.174111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;430;436",
+                "ref:De_Lijn": "109719",
+                "bus": "yes",
+                "name": "Mol Heipad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDEHUIZEN HEIDEHUIZEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.114259,
+                    51.172348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;430;436",
+                "ref:De_Lijn": "109995",
+                "bus": "yes",
+                "name": "Mol Jachtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGERHOUTSENDIJK HEIDEHUIZEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.108251,
+                    51.174013
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "104949",
+                "bus": "yes",
+                "name": "Mol Volmolenbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGERHOUTSENDIJK MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.105778,
+                    51.166784
+                ]
+            }
+        }
+    ]
+}

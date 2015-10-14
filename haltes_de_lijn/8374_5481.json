@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204588",
+                "bus": "yes",
+                "name": "Zele Meerskant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSKANT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.013327,
+                    51.049956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "205165",
+                "bus": "yes",
+                "name": "Zele Haststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMERSHOEK ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.010336,
+                    51.043825
+                ]
+            }
+        }
+    ]
+}

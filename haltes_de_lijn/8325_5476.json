@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "502547",
+                "bus": "yes",
+                "name": "Zande Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORKENTAPSTRAAT ZANDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.931886,
+                    51.111231
+                ]
+            }
+        }
+    ]
+}

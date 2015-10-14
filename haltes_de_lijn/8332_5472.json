@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;54",
+                "ref:De_Lijn": "507224",
+                "bus": "yes",
+                "name": "Jabbeke Zevecote",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG JABBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.080766,
+                    51.178523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;54;93",
+                "ref:De_Lijn": "502224",
+                "bus": "yes",
+                "name": "Jabbeke Zevecote",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG JABBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.080705,
+                    51.178648
+                ]
+            }
+        }
+    ]
+}

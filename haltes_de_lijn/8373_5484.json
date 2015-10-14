@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;130",
+                "ref:De_Lijn": "206401",
+                "bus": "yes",
+                "name": "Wichelen Bohemen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOHEMEN WICHELEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.982551,
+                    51.003277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;130",
+                "ref:De_Lijn": "206400",
+                "bus": "yes",
+                "name": "Wichelen Bohemenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOHEMEN WICHELEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.991239,
+                    51.001813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;130",
+                "ref:De_Lijn": "207400",
+                "bus": "yes",
+                "name": "Wichelen Bohemenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOHEMEN WICHELEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.991482,
+                    51.001706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204162",
+                "bus": "yes",
+                "name": "Berlare Bunderdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.998556,
+                    51.013334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;130",
+                "ref:De_Lijn": "207401",
+                "bus": "yes",
+                "name": "Wichelen Bohemen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOHEMEN WICHELEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.981482,
+                    51.003346
+                ]
+            }
+        }
+    ]
+}

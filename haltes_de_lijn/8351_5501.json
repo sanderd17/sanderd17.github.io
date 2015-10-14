@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "470",
+                "ref:De_Lijn": "208745",
+                "bus": "yes",
+                "name": "Kluisbergen Pensemont",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGWEG RUIEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.510538,
+                    50.773598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "470",
+                "ref:De_Lijn": "208744",
+                "bus": "yes",
+                "name": "Ruien Vuntestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VUNTESTRAAT RUIEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.494748,
+                    50.771054
+                ]
+            }
+        }
+    ]
+}

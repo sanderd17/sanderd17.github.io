@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;98",
+                "ref:De_Lijn": "502201",
+                "bus": "yes",
+                "name": "Moerkerke Weststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.33418,
+                    51.236153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;98",
+                "ref:De_Lijn": "507099",
+                "bus": "yes",
+                "name": "Moerkerke Weststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.334735,
+                    51.236293
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;98",
+                "ref:De_Lijn": "507299",
+                "bus": "yes",
+                "name": "Moerkerke Wonderjaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.323572,
+                    51.234747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;45;49;62;98",
+                "ref:De_Lijn": "502294",
+                "bus": "yes",
+                "name": "Moerkerke Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.33963,
+                    51.245513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;98",
+                "ref:De_Lijn": "502299",
+                "bus": "yes",
+                "name": "Moerkerke Wonderjaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTSTRAAT MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.323047,
+                    51.234554
+                ]
+            }
+        }
+    ]
+}

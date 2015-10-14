@@ -1,0 +1,126 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308307",
+                "bus": "yes",
+                "name": "Zemst Spilt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPILTSTRAAT ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419646,
+                    50.978836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308306",
+                "bus": "yes",
+                "name": "Zemst Spilt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPILTSTRAAT ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419418,
+                    50.978818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308310",
+                "name": "Zemst Bosstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "LINTERPOORTENLAAN ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432642,
+                    50.975548
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308309",
+                "name": "Zemst Schaliënhofstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "SPILTSTRAAT ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426264,
+                    50.97655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308308",
+                "bus": "yes",
+                "name": "Zemst Schaliënhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPILTSTRAAT ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.426876,
+                    50.976414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308311",
+                "name": "Zemst Bosstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LINTERPOORTENLAAN ZEMST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432641,
+                    50.975333
+                ]
+            }
+        }
+    ]
+}

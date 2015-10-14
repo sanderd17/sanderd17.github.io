@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;731;S12",
+                "ref:De_Lijn": "407804",
+                "bus": "yes",
+                "name": "Aalst Veert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGWORMSESTEENWEG AALST (SINT-TRUIDEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203396,
+                    50.76778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;731;S12",
+                "ref:De_Lijn": "407807",
+                "bus": "yes",
+                "name": "Aalst Voetbalveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGWORMSESTEENWEG AALST (SINT-TRUIDEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.206005,
+                    50.776572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;731;S12",
+                "ref:De_Lijn": "407806",
+                "bus": "yes",
+                "name": "Aalst Voetbalveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGWORMSESTEENWEG AALST (SINT-TRUIDEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.206128,
+                    50.776301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;731;S12",
+                "ref:De_Lijn": "407805",
+                "bus": "yes",
+                "name": "Aalst Veert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGWORMSESTEENWEG MIELEN-BOVEN-AALST",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.203582,
+                    50.767878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;S12",
+                "ref:De_Lijn": "407951",
+                "bus": "yes",
+                "name": "Kerkom Kasteelzicht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORLOWEG KERKOM (SINT-TRUIDEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.186603,
+                    50.773032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407950",
+                "bus": "yes",
+                "name": "Kerkom Kasteelzicht",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BORLOWEG KERKOM (SINT-TRUIDEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.186505,
+                    50.773096
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;S12",
+                "ref:De_Lijn": "407948",
+                "bus": "yes",
+                "name": "Kerkom Borloweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKOM-DORP KERKOM (SINT-TRUIDEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.186445,
+                    50.776171
+                ]
+            }
+        }
+    ]
+}

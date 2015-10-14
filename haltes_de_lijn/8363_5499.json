@@ -1,0 +1,614 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17;21;22;23;24;78;410",
+                "ref:De_Lijn": "208097",
+                "bus": "yes",
+                "name": "Nederbrakel Spoorwegstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.762508,
+                    50.796892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209809",
+                "bus": "yes",
+                "name": "Brakel De Vos Garage",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RONSESESTRAAT OPBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.757973,
+                    50.79766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;78",
+                "ref:De_Lijn": "209005",
+                "bus": "yes",
+                "name": "Nederbrakel Termergelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772193,
+                    50.792662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25;39;78",
+                "ref:De_Lijn": "209001",
+                "bus": "yes",
+                "name": "Nederbrakel Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766778,
+                    50.804573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "209634",
+                "bus": "yes",
+                "name": "Nederbrakel Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.776539,
+                    50.798968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "208099",
+                "bus": "yes",
+                "name": "Nederbrakel Scholen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.762124,
+                    50.801304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25;39;78;410",
+                "ref:De_Lijn": "208001",
+                "bus": "yes",
+                "name": "Nederbrakel Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.765301,
+                    50.803631
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;410",
+                "ref:De_Lijn": "208510",
+                "bus": "yes",
+                "name": "Nederbrakel Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.77028,
+                    50.805922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209097",
+                "bus": "yes",
+                "name": "Nederbrakel Spoorwegstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.762873,
+                    50.797173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17;21;22;23;24;25;39;78;410",
+                "ref:De_Lijn": "208002",
+                "bus": "yes",
+                "name": "Nederbrakel Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.763937,
+                    50.802698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17;21;22;23;24;25;39;78",
+                "ref:De_Lijn": "209098",
+                "bus": "yes",
+                "name": "Nederbrakel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766466,
+                    50.800131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17;21;22;23;24;25;78",
+                "ref:De_Lijn": "209099",
+                "bus": "yes",
+                "name": "Nederbrakel Scholen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.761744,
+                    50.801131
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "209100",
+                "bus": "yes",
+                "name": "Nederbrakel Herreweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERREWEG OPBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758866,
+                    50.798806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209003",
+                "bus": "yes",
+                "name": "Nederbrakel Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TENBOSSESTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767023,
+                    50.799882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25",
+                "ref:De_Lijn": "209159",
+                "bus": "yes",
+                "name": "Nederbrakel Brusselsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERMOLENSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.768607,
+                    50.805769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209002",
+                "bus": "yes",
+                "name": "Nederbrakel Kasteelstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.763893,
+                    50.802743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;410",
+                "ref:De_Lijn": "208160",
+                "bus": "yes",
+                "name": "Nederbrakel Herreweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSESESTRAAT OPBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.75872,
+                    50.798032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25",
+                "ref:De_Lijn": "209160",
+                "bus": "yes",
+                "name": "Nederbrakel Herreweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSESESTRAAT OPBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758548,
+                    50.79813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208003",
+                "bus": "yes",
+                "name": "Nederbrakel Station",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TENBOSSESTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.767135,
+                    50.799972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "209510",
+                "bus": "yes",
+                "name": "Nederbrakel Beekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.770465,
+                    50.805842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;410",
+                "ref:De_Lijn": "208635",
+                "bus": "yes",
+                "name": "Nederbrakel Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.773063,
+                    50.797872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25;39;410",
+                "ref:De_Lijn": "208098",
+                "bus": "yes",
+                "name": "Nederbrakel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.766424,
+                    50.800095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;78;410",
+                "ref:De_Lijn": "208005",
+                "bus": "yes",
+                "name": "Nederbrakel Termergelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772348,
+                    50.792744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "209004",
+                "bus": "yes",
+                "name": "Nederbrakel Wijnstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLIFANTSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.771988,
+                    50.795403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;410",
+                "ref:De_Lijn": "208634",
+                "bus": "yes",
+                "name": "Nederbrakel Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.776594,
+                    50.799104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;410",
+                "ref:De_Lijn": "208004",
+                "bus": "yes",
+                "name": "Nederbrakel Wijnstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLIFANTSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.77213,
+                    50.795341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;17",
+                "ref:De_Lijn": "208100",
+                "bus": "yes",
+                "name": "Nederbrakel Herreweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERREWEG NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759107,
+                    50.79878
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "209635",
+                "bus": "yes",
+                "name": "Nederbrakel Warande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.773744,
+                    50.797857
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25;410",
+                "ref:De_Lijn": "208159",
+                "bus": "yes",
+                "name": "Nederbrakel Brusselsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERMOLENSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.768708,
+                    50.805671
+                ]
+            }
+        }
+    ]
+}

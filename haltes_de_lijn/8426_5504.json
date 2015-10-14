@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "402576",
+                "bus": "yes",
+                "name": "Montenaken Haagstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEMEENTESTRAAT MONTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.142788,
+                    50.724486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "402577",
+                "bus": "yes",
+                "name": "Montenaken Haagstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEMEENTESTRAAT MONTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.142789,
+                    50.724549
+                ]
+            }
+        }
+    ]
+}

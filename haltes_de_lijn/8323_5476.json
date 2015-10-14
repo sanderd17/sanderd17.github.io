@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;66",
+                "ref:De_Lijn": "501393",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Diksmuidestraat 112",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTRAAT MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885916,
+                    51.119635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "506393",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Diksmuidestraat 112",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDESTRAAT MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885998,
+                    51.119744
+                ]
+            }
+        }
+    ]
+}

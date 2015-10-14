@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;410",
+                "ref:De_Lijn": "207668",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG KOUDENBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.827174,
+                    50.81553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "207666",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Drijhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CAUDENBERG SINT-MARIA-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.831993,
+                    50.818509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "217004",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG KOUDENBERG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.82719,
+                    50.815386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;410",
+                "ref:De_Lijn": "208058",
+                "bus": "yes",
+                "name": "Sint-Martens-Lierde Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT SINT-MARTENS-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.823441,
+                    50.807098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13",
+                "ref:De_Lijn": "209058",
+                "bus": "yes",
+                "name": "Sint-Martens-Lierde Hoogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT SINT-MARTENS-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.82327,
+                    50.807088
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203288",
+                "bus": "yes",
+                "name": "Knesselare Schapersbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOKSEWEG KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.428693,
+                    51.147058
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87;185",
+                "ref:De_Lijn": "202288",
+                "bus": "yes",
+                "name": "Knesselare Schapersbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNOKSEWEG KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.429299,
+                    51.147468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200895",
+                "bus": "yes",
+                "name": "Knesselare Drongengoedhoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BRUGSEWEG MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.449002,
+                    51.149933
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;240",
+                "ref:De_Lijn": "205396",
+                "bus": "yes",
+                "name": "Stekene Prinsenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.020541,
+                    51.21733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;240",
+                "ref:De_Lijn": "204396",
+                "bus": "yes",
+                "name": "Stekene Prinsenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.020384,
+                    51.217267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204416",
+                "bus": "yes",
+                "name": "Stekene Vennestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGSTRAAT STEKENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.00223,
+                    51.207037
+                ]
+            }
+        }
+    ]
+}

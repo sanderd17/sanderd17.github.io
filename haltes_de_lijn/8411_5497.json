@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680;713",
+                "ref:De_Lijn": "301426",
+                "bus": "yes",
+                "name": "Boutersem Kerkweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMIDSTRAAT VERTRIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.830272,
+                    50.83185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680",
+                "ref:De_Lijn": "308936",
+                "bus": "yes",
+                "name": "Boutersem Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N234 VERTRIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.824917,
+                    50.829992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680",
+                "ref:De_Lijn": "301425",
+                "bus": "yes",
+                "name": "Boutersem Kerkweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMIDSTRAAT VERTRIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.830017,
+                    50.831905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;541;680;713",
+                "ref:De_Lijn": "302530",
+                "bus": "yes",
+                "name": "Neervelp Carpoolparking",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN NEERVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.814535,
+                    50.824953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "680;713",
+                "ref:De_Lijn": "308935",
+                "bus": "yes",
+                "name": "Boutersem Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N234 VERTRIJK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825043,
+                    50.829875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300711",
+                "bus": "yes",
+                "name": "Neervelp Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERTRIJKSESTRAAT NEERVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.812033,
+                    50.82303
+                ]
+            }
+        }
+    ]
+}

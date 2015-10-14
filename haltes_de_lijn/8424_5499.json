@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "562;715",
+                "ref:De_Lijn": "305705",
+                "bus": "yes",
+                "name": "Halle-Booienhoven Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT HALLE-BOOIENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.111708,
+                    50.804898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "562;715",
+                "ref:De_Lijn": "305688",
+                "bus": "yes",
+                "name": "Halle-Booienhoven Dormaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORMAALSTRAAT HALLE-BOOIENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.106339,
+                    50.803575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "562;715",
+                "ref:De_Lijn": "305689",
+                "bus": "yes",
+                "name": "Halle-Booienhoven Dormaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORMAALSTRAAT HALLE-BOOIENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.106721,
+                    50.803509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "562;715",
+                "ref:De_Lijn": "305704",
+                "bus": "yes",
+                "name": "Halle-Booienhoven Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT HALLE-BOOIENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.111503,
+                    50.805376
+                ]
+            }
+        }
+    ]
+}

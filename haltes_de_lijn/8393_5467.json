@@ -1,0 +1,872 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "102911",
+                "bus": "yes",
+                "name": "Noorderlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419853,
+                    51.244112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103840",
+                "bus": "yes",
+                "name": "Kerkhofblommenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LAARSEBAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432803,
+                    51.247332
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "103896",
+                "name": "Lambrechtshoeken",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROENENDAALLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429648,
+                    51.243379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;640;642;650",
+                "ref:De_Lijn": "102625",
+                "bus": "yes",
+                "name": "Antwerpen Station Luchtbal",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "GROENENDAALLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423348,
+                    51.244551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "107665",
+                "bus": "yes",
+                "name": "Groenendaallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419885,
+                    51.246584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102177",
+                "bus": "yes",
+                "name": "Metropolis Noorderlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.419712,
+                    51.246062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "101110",
+                "bus": "yes",
+                "name": "Straatsburgdok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420108,
+                    51.241146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610;620;621;629",
+                "ref:De_Lijn": "107170",
+                "bus": "yes",
+                "name": "Bredastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKSEMSESTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.425299,
+                    51.235939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;640;641;642;720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "102916",
+                "bus": "yes",
+                "name": "IJzerlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42046,
+                    51.23577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;640;641;642;720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "102908",
+                "bus": "yes",
+                "name": "Noorderbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420363,
+                    51.239051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "648;658;670;778;779",
+                "ref:De_Lijn": "109673",
+                "bus": "yes",
+                "name": "Stella Maris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STELLA MARISSTRAAT MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437565,
+                    51.242575
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605;640;641;642;720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "102817",
+                "bus": "yes",
+                "name": "IJzerlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASIADOK-OOSTKAAI ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420072,
+                    51.235105
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "102176",
+                "name": "Metropolis",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418223,
+                    51.246072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650",
+                "ref:De_Lijn": "101555",
+                "bus": "yes",
+                "name": "Bredabaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENENDAALLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.435687,
+                    51.240814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642",
+                "ref:De_Lijn": "102807",
+                "bus": "yes",
+                "name": "Laarbekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAMBRECHTSHOEKENLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.431585,
+                    51.246794
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650",
+                "ref:De_Lijn": "103900",
+                "bus": "yes",
+                "name": "Lambrechtshoeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENENDAALLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.431279,
+                    51.242929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;650;720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "107660",
+                "bus": "yes",
+                "name": "Groenendaallaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420428,
+                    51.245559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605",
+                "ref:De_Lijn": "101560",
+                "bus": "yes",
+                "name": "Bredastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IJZERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.424683,
+                    51.235247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102793",
+                "name": "Straatsburgdok-Noordkaai",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "KOTTERSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41842,
+                    51.243043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650",
+                "ref:De_Lijn": "102405",
+                "bus": "yes",
+                "name": "Bredabaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENENDAALLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436446,
+                    51.240751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;640;641;642;720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "101620",
+                "bus": "yes",
+                "name": "Straatsburgdok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420394,
+                    51.241181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;650",
+                "ref:De_Lijn": "102627",
+                "bus": "yes",
+                "name": "Groenendaallaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420012,
+                    51.245172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102626",
+                "bus": "yes",
+                "name": "Metropolis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.416847,
+                    51.244715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;640;641;642;650",
+                "ref:De_Lijn": "102178",
+                "bus": "yes",
+                "name": "Antwerpen Station Luchtbal",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "GROENENDAALLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423649,
+                    51.24491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103635",
+                "bus": "yes",
+                "name": "Kerkhofblommenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFBLOMMENSTRAAT MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.433162,
+                    51.247638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "101556",
+                "zone:De_Lijn": "01",
+                "name": "Bredabaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MINISTER DELBEKELAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.436874,
+                    51.240157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "1111111",
+                "bus": "yes",
+                "name": "Meethalte Tjalkstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.424359,
+                    51.239714
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "101557",
+                "zone:De_Lijn": "01",
+                "name": "Bredabaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "MINISTER DELBEKELAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437533,
+                    51.240283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104415",
+                "bus": "yes",
+                "name": "Metropolis",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR PITETLAAN BETEKOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.417462,
+                    51.244598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642",
+                "ref:De_Lijn": "102799",
+                "bus": "yes",
+                "name": "Laarbekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAMBRECHTSHOEKENLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43107,
+                    51.246596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605;610;620;621;629",
+                "ref:De_Lijn": "101105",
+                "bus": "yes",
+                "name": "Albertkanaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGENIEUR MENNESLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.433781,
+                    51.239844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102971",
+                "name": "Noorderlaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420469,
+                    51.244174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650",
+                "ref:De_Lijn": "103895",
+                "bus": "yes",
+                "name": "Lambrechtshoeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENENDAALLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429576,
+                    51.243406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "102909",
+                "bus": "yes",
+                "name": "Noorderbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420148,
+                    51.238871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605;610;620;621;629",
+                "ref:De_Lijn": "101100",
+                "bus": "yes",
+                "name": "Albertkanaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGENIEUR MENNESLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.431517,
+                    51.238488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "103901",
+                "name": "Lambrechtshoeken",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "GROENENDAALLAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.431222,
+                    51.242956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102628",
+                "bus": "yes",
+                "name": "Groenendaallaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420428,
+                    51.245316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;640;641;642;720;730;760;761;770;771;772;775;776",
+                "ref:De_Lijn": "102808",
+                "bus": "yes",
+                "name": "Noorderlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420484,
+                    51.244219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;605;610;620;621;629",
+                "ref:De_Lijn": "101561",
+                "bus": "yes",
+                "name": "Bredastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IJZERLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.424267,
+                    51.235103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23",
+                "ref:De_Lijn": "102915",
+                "bus": "yes",
+                "name": "IJzerlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N180 ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.420231,
+                    51.235699
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "641",
+                "ref:De_Lijn": "102866",
+                "bus": "yes",
+                "name": "Antwerpen Station Luchtbal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENENDAALLAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.423262,
+                    51.244551
+                ]
+            }
+        }
+    ]
+}

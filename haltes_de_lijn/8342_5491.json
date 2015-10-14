@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;68;81;88",
+                "ref:De_Lijn": "509749",
+                "bus": "yes",
+                "name": "Oostrozebeke Nijverheidsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INGELMUNSTERSTEENWEG OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.295921,
+                    50.914832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505130",
+                "bus": "yes",
+                "name": "Oostrozebeke Otteca",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.296552,
+                    50.908994
+                ]
+            }
+        }
+    ]
+}

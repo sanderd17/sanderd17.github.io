@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66;160;185",
+                "ref:De_Lijn": "202388",
+                "bus": "yes",
+                "name": "Adegem Kruipuit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENS ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.51722,
+                    51.157798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201696",
+                "bus": "yes",
+                "name": "Oostwinkel Vijverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT OOSTWINKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.536297,
+                    51.154158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66",
+                "ref:De_Lijn": "203388",
+                "bus": "yes",
+                "name": "Adegem Kruipuit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENS ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.517245,
+                    51.157969
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "209947",
+                "bus": "yes",
+                "name": "Oostwinkel Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELDREEF OOSTWINKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529769,
+                    51.153923
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "509604",
+                "bus": "yes",
+                "name": "Wijtschate Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJTSCHATESTRAAT WIJTSCHATE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.873824,
+                    50.783901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "504604",
+                "bus": "yes",
+                "name": "Wijtschate Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJTSCHATESTRAAT WIJTSCHATE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.873884,
+                    50.783802
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "306336",
+                "bus": "yes",
+                "name": "Wommersom Eliksemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELIKSEMSTRAAT WOMMERSOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.016127,
+                    50.801717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313;712",
+                "ref:De_Lijn": "303324",
+                "bus": "yes",
+                "name": "Overhespen Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKSTRAAT OVERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030369,
+                    50.795578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308932",
+                "bus": "yes",
+                "name": "Overhespen Villa Torré",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG OVERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.031327,
+                    50.800157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306337",
+                "bus": "yes",
+                "name": "Wommersom Eliksemstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ELIKSEMSTRAAT WOMMERSOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.016282,
+                    50.801617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313",
+                "ref:De_Lijn": "303325",
+                "bus": "yes",
+                "name": "Overhespen Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKSTRAAT OVERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030342,
+                    50.795695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313;712",
+                "ref:De_Lijn": "303327",
+                "bus": "yes",
+                "name": "Overhespen Hekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG OVERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.015686,
+                    50.79851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313",
+                "ref:De_Lijn": "303326",
+                "bus": "yes",
+                "name": "Overhespen Hekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG OVERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.015797,
+                    50.798374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "301103",
+                "bus": "yes",
+                "name": "Overhespen Villa Torré",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG OVERHESPEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.031353,
+                    50.800013
+                ]
+            }
+        }
+    ]
+}

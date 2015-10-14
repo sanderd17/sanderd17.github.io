@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "212;215;305",
+                "ref:De_Lijn": "109181",
+                "bus": "yes",
+                "name": "Herentals Schoutenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.854988,
+                    51.195257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "212;215;305",
+                "ref:De_Lijn": "109182",
+                "bus": "yes",
+                "name": "Herentals Schoutenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.854757,
+                    51.195078
+                ]
+            }
+        }
+    ]
+}

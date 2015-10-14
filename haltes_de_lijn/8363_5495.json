@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208816",
+                "bus": "yes",
+                "name": "Roborst Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MACHELGEMSTRAAT ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.763231,
+                    50.858674
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24;41;420",
+                "ref:De_Lijn": "208129",
+                "bus": "yes",
+                "name": "Roborst Machelgemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N454 ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759065,
+                    50.861188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "209851",
+                "bus": "yes",
+                "name": "Rozebeke Boembeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEMBEEKSTRAAT ROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.759325,
+                    50.848855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24;41",
+                "ref:De_Lijn": "209129",
+                "bus": "yes",
+                "name": "Roborst Machelgemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N454 ROBORST",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.758937,
+                    50.861268
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "162",
+                "ref:De_Lijn": "301428",
+                "bus": "yes",
+                "name": "Vollezele Achter den Bos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REPINGESTRAAT VOLLEZELE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.008677,
+                    50.767718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "162;732",
+                "ref:De_Lijn": "301427",
+                "bus": "yes",
+                "name": "Vollezele Achter den Bos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REPINGESTRAAT VOLLEZELE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.008747,
+                    50.767844
+                ]
+            }
+        }
+    ]
+}

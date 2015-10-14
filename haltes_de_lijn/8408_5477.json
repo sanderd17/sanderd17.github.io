@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511;513;943",
+                "ref:De_Lijn": "108348",
+                "bus": "yes",
+                "name": "Itegem Pannenhuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMBEEKWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.747916,
+                    51.099452
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511;513;943",
+                "ref:De_Lijn": "108349",
+                "bus": "yes",
+                "name": "Itegem Pannenhuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMBEEKWEG ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.747903,
+                    51.099587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108352",
+                "bus": "yes",
+                "name": "Wiekevorst Bernum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITEGEMSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.760592,
+                    51.100911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "108351",
+                "bus": "yes",
+                "name": "Wiekevorst Bernum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ITEGEMSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.761747,
+                    51.100737
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204078",
+                "bus": "yes",
+                "name": "Sinaai Leestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEBRUGSTRAAT SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.003906,
+                    51.150019
+                ]
+            }
+        }
+    ]
+}

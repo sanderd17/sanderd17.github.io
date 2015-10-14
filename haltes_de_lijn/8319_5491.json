@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;69",
+                "ref:De_Lijn": "504372",
+                "bus": "yes",
+                "name": "Woesten Beukmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKMOLENSTRAAT WOESTEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.793181,
+                    50.912664
+                ]
+            }
+        }
+    ]
+}

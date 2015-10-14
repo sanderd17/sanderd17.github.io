@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360;361;362;581;662",
+                "ref:De_Lijn": "302181",
+                "bus": "yes",
+                "name": "Oorbeek Sint-Lambertuskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT OVERLAAR TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.913856,
+                    50.791729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360;361;362;581;662;713",
+                "ref:De_Lijn": "302180",
+                "bus": "yes",
+                "name": "Oorbeek Sint-Lambertuskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT OVERLAAR TIENEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.913228,
+                    50.791372
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360;361;362;581;662;713",
+                "ref:De_Lijn": "302172",
+                "bus": "yes",
+                "name": "Hoegaarden Klein Overlaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEIN OVERLAAR HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.901611,
+                    50.782517
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360;361;362;581;662",
+                "ref:De_Lijn": "302173",
+                "bus": "yes",
+                "name": "Hoegaarden Klein Overlaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N221 HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.903205,
+                    50.783049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308096",
+                "bus": "yes",
+                "name": "Hoegaarden Rommersom Sint-Servaes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROMMERSOMSESTEENWEG HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.914148,
+                    50.781434
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308097",
+                "bus": "yes",
+                "name": "Hoegaarden Rommersom Sint-Servaes",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROMMERSOMSESTEENWEG HOEGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.914276,
+                    50.781469
+                ]
+            }
+        }
+    ]
+}

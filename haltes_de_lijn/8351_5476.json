@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;185",
+                "ref:De_Lijn": "202447",
+                "bus": "yes",
+                "name": "Ursel Essenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEWEG URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.511254,
+                    51.122993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "203447",
+                "bus": "yes",
+                "name": "Ursel Essenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEWEG URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.511281,
+                    51.123119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200865",
+                "bus": "yes",
+                "name": "Ursel Berken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENSTRAAT URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.504435,
+                    51.117909
+                ]
+            }
+        }
+    ]
+}

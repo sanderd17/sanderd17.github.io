@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;185",
+                "ref:De_Lijn": "202063",
+                "bus": "yes",
+                "name": "Maldegem Barbarastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG DONK (MALDEGEM)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.393251,
+                    51.205858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203063",
+                "bus": "yes",
+                "name": "Maldegem Barbarastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE STEENWEG DONK (MALDEGEM)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.393076,
+                    51.205991
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203064",
+                "bus": "yes",
+                "name": "Maldegem De Swaeflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRONEKALSEINDE DONK (MALDEGEM)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.384045,
+                    51.205404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;185",
+                "ref:De_Lijn": "202064",
+                "bus": "yes",
+                "name": "Maldegem De Swaeflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRONEKALSEINDE DONK (MALDEGEM)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.384362,
+                    51.205281
+                ]
+            }
+        }
+    ]
+}

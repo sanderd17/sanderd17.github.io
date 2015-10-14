@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "508964",
+                "bus": "yes",
+                "name": "Werken Klaproos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.971502,
+                    51.029138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508865",
+                "bus": "yes",
+                "name": "Werken De Voorstad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.977411,
+                    51.028938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505640",
+                "bus": "yes",
+                "name": "Werken Hemeltje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGESTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.978453,
+                    51.036089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "503865",
+                "bus": "yes",
+                "name": "Werken De Voorstad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.977362,
+                    51.029127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508963",
+                "bus": "yes",
+                "name": "Werken Klaproos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKENSTRAAT WERKEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.971533,
+                    51.029049
+                ]
+            }
+        }
+    ]
+}

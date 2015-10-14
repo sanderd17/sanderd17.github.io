@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "509334",
+                "bus": "yes",
+                "name": "Nieuwkerke Korte Pijp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SEULESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.81654,
+                    50.736066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "509329",
+                "bus": "yes",
+                "name": "Nieuwkerke Cafe Bureau Belge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SEULESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.813718,
+                    50.73272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "505925",
+                "bus": "yes",
+                "name": "Nieuwkerke Spiervelden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEPKERKESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.832971,
+                    50.730133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504334",
+                "bus": "yes",
+                "name": "Nieuwkerke Korte Pijp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SEULESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.816356,
+                    50.736073
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504330",
+                "bus": "yes",
+                "name": "Nieuwkerke Groenestraat 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTRAAT NIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.815862,
+                    50.724386
+                ]
+            }
+        }
+    ]
+}

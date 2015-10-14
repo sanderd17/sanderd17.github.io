@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504978",
+                "bus": "yes",
+                "name": "Geluveld Nonnebossen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE KORTRIJKSTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.976398,
+                    50.847626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504980",
+                "bus": "yes",
+                "name": "Zonnebeke Grote Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE MOLENSTRAAT ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.97636,
+                    50.860447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504979",
+                "bus": "yes",
+                "name": "Zonnebeke Polygone",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE DREVE ZONNEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.986535,
+                    50.855982
+                ]
+            }
+        }
+    ]
+}

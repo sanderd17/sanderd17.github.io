@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;77",
+                "ref:De_Lijn": "503822",
+                "bus": "yes",
+                "name": "Tielt Het Hoge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHUIFERSKAPELSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332314,
+                    51.01983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;77",
+                "ref:De_Lijn": "508822",
+                "bus": "yes",
+                "name": "Tielt Het Hoge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHUIFERSKAPELSESTEENWEG TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332322,
+                    51.019479
+                ]
+            }
+        }
+    ]
+}

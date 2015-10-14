@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "403633",
+                "bus": "yes",
+                "name": "Hechtel KMW",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSEBAAN HECHTEL-EKSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.375712,
+                    51.09298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403626",
+                "bus": "yes",
+                "name": "Hechtel Heidedreef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N74 HELCHTEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.376964,
+                    51.088817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403627",
+                "bus": "yes",
+                "name": "Hechtel Heidedreef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N715 HELCHTEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.376746,
+                    51.08863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "403632",
+                "bus": "yes",
+                "name": "Hechtel KMW",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSEBAAN HECHTEL-EKSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.375764,
+                    51.093412
+                ]
+            }
+        }
+    ]
+}

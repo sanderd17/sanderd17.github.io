@@ -1,0 +1,572 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;46;47;48;18a;283;753",
+                "ref:De_Lijn": "409291",
+                "bus": "yes",
+                "name": "Zonhoven Dorpsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSPLEIN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.367052,
+                    50.994337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;48;18a",
+                "ref:De_Lijn": "409313",
+                "bus": "yes",
+                "name": "Zonhoven Sint-Jan Berchmansinstituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE HEMMENWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.372183,
+                    50.995822
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "403447",
+                "bus": "yes",
+                "name": "Zonhoven Rode Kruisweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENKRANSWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.365236,
+                    50.989993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409268",
+                "bus": "yes",
+                "name": "Zonhoven Dorpsplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DORPSPLEIN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.365856,
+                    50.994384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "407579",
+                "bus": "yes",
+                "name": "Zonhoven Daalhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENENPAD ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.366343,
+                    50.997166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;35;48;283;753",
+                "ref:De_Lijn": "409282",
+                "bus": "yes",
+                "name": "Zonhoven Heuven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVENSTRAAT ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.367286,
+                    50.987305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;35;48;283;753",
+                "ref:De_Lijn": "409266",
+                "bus": "yes",
+                "name": "Zonhoven Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVENSTRAAT ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.367971,
+                    50.990689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;48",
+                "ref:De_Lijn": "409278",
+                "bus": "yes",
+                "name": "Zonhoven Hemmen Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE HEMMENWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.377102,
+                    50.997973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;46;47;753",
+                "ref:De_Lijn": "409302",
+                "bus": "yes",
+                "name": "Zonhoven Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERBAAN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.376555,
+                    50.991766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "404070",
+                "bus": "yes",
+                "name": "Zonhoven Batenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BATENSTRAAT ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369787,
+                    50.986331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "406052",
+                "bus": "yes",
+                "name": "Zonhoven Senator A. Jeurissenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SENATOR ALFONS JEURISSENLAAN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.381272,
+                    50.997111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;48;18a;283",
+                "ref:De_Lijn": "409312",
+                "bus": "yes",
+                "name": "Zonhoven Sint-Jan Berchmansinstituut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE HEMMENWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.372396,
+                    50.995766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "404071",
+                "bus": "yes",
+                "name": "Zonhoven Batenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BATENSTRAAT ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369885,
+                    50.986249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "403449",
+                "bus": "yes",
+                "name": "Zonhoven Dijkbeemdenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJKBEEMDENWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.364458,
+                    50.987608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "406053",
+                "bus": "yes",
+                "name": "Zonhoven Senator A. Jeurissenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SENATOR ALFONS JEURISSENLAAN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.381057,
+                    50.997067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;48;283",
+                "ref:De_Lijn": "409279",
+                "bus": "yes",
+                "name": "Zonhoven Hemmen Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE HEMMENWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.378636,
+                    50.998428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;46;47;753",
+                "ref:De_Lijn": "405478",
+                "bus": "yes",
+                "name": "Zonhoven Genkerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERBAAN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36885,
+                    50.991149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;46;47;48;18a;283;753",
+                "ref:De_Lijn": "409290",
+                "bus": "yes",
+                "name": "Zonhoven Dorpsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSPLEIN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.367211,
+                    50.994444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "403450",
+                "bus": "yes",
+                "name": "Zonhoven Dijkbeemdenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJKBEEMDENWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.364206,
+                    50.988482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;35;48;283;753",
+                "ref:De_Lijn": "409267",
+                "bus": "yes",
+                "name": "Zonhoven Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVENSTRAAT ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.367641,
+                    50.990593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;22;23;35;48;283;753",
+                "ref:De_Lijn": "409283",
+                "bus": "yes",
+                "name": "Zonhoven Heuven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVENSTRAAT ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.367074,
+                    50.987352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "407580",
+                "bus": "yes",
+                "name": "Zonhoven Daalhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENENPAD ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.366347,
+                    50.997355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409907",
+                "bus": "yes",
+                "name": "Zonhoven Vrije Middenschool",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ENGSTEGENSEWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.364235,
+                    50.993831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "753",
+                "ref:De_Lijn": "403446",
+                "bus": "yes",
+                "name": "Zonhoven Rode Kruisweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJKBEEMDENWEG ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.365064,
+                    50.989967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409269",
+                "bus": "yes",
+                "name": "Zonhoven Dorpsplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DORPSPLEIN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.366434,
+                    50.994091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;46;47;753",
+                "ref:De_Lijn": "405479",
+                "bus": "yes",
+                "name": "Zonhoven Genkerbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERBAAN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36852,
+                    50.991062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;46;47;753",
+                "ref:De_Lijn": "409303",
+                "bus": "yes",
+                "name": "Zonhoven Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENKERBAAN ZONHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.376101,
+                    50.991833
+                ]
+            }
+        }
+    ]
+}

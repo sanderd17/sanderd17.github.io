@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "407212",
+                "bus": "yes",
+                "name": "Houtain-Saint-Siméon Route d'Heure",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE L'ÉTAT HOUTAIN-SAINT-SIMÉON",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.625395,
+                    50.740982
+                ]
+            }
+        }
+    ]
+}

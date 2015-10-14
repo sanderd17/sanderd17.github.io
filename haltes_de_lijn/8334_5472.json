@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "507520",
+                "bus": "yes",
+                "name": "Varsenare Lijsterdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG VARSENARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.135682,
+                    51.17927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;55;93",
+                "ref:De_Lijn": "507372",
+                "bus": "yes",
+                "name": "Snellegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EERNEGEMWEG SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.122291,
+                    51.168702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "501770",
+                "bus": "yes",
+                "name": "Snellegem Halfweghuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKEWEG SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.123476,
+                    51.177875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;55;93",
+                "ref:De_Lijn": "507373",
+                "bus": "yes",
+                "name": "Snellegem Halfweghuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.123871,
+                    51.178077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "502372",
+                "bus": "yes",
+                "name": "Snellegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EERNEGEMWEG SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.122188,
+                    51.168791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;93",
+                "ref:De_Lijn": "502373",
+                "bus": "yes",
+                "name": "Snellegem Halfweghuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSTEENWEG SNELLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.124141,
+                    51.178134
+                ]
+            }
+        }
+    ]
+}

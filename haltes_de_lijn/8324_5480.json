@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;64",
+                "ref:De_Lijn": "508067",
+                "bus": "yes",
+                "name": "Vladslo Kotjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNENDALESTRAAT VLADSLO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.901787,
+                    51.060891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;64",
+                "ref:De_Lijn": "503067",
+                "bus": "yes",
+                "name": "Vladslo Kotjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNENDALESTRAAT VLADSLO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.90199,
+                    51.060795
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724",
+                "ref:De_Lijn": "405296",
+                "bus": "yes",
+                "name": "Lanaken Kinderboerderij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERHARENWEG LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.657335,
+                    50.90364
+                ]
+            }
+        }
+    ]
+}

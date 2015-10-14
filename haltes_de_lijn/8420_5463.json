@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;436;437",
+                "ref:De_Lijn": "107552",
+                "bus": "yes",
+                "name": "Oud-Turnhout Rhoode",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONK OUD-TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.020551,
+                    51.301801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;430;436",
+                "ref:De_Lijn": "107553",
+                "bus": "yes",
+                "name": "Oud-Turnhout Rhoode",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP MOL ZWANEVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.020112,
+                    51.302199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;436;437",
+                "ref:De_Lijn": "107554",
+                "bus": "yes",
+                "name": "Oud-Turnhout Binnenheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONK OUD-TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.028492,
+                    51.297559
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;430;436",
+                "ref:De_Lijn": "107556",
+                "bus": "yes",
+                "name": "Oud-Turnhout Binnenheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONK OUD-TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.027028,
+                    51.298484
+                ]
+            }
+        }
+    ]
+}

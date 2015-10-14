@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;63;97",
+                "ref:De_Lijn": "502707",
+                "bus": "yes",
+                "name": "Beernem Industriepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JORISSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345496,
+                    51.12632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "507707",
+                "bus": "yes",
+                "name": "Beernem Industriepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JORISSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.346582,
+                    51.126312
+                ]
+            }
+        }
+    ]
+}

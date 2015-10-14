@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204164",
+                "bus": "yes",
+                "name": "Overmere Pachthofdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE DREEF BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.988826,
+                    51.041178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54",
+                "ref:De_Lijn": "207271",
+                "bus": "yes",
+                "name": "Overmere Vogelpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKLAAN BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.982168,
+                    51.037633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;355",
+                "ref:De_Lijn": "206273",
+                "bus": "yes",
+                "name": "Berlare Blauwe Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAUWHOFDREEF BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.986108,
+                    51.031848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54",
+                "ref:De_Lijn": "207273",
+                "bus": "yes",
+                "name": "Berlare Blauwe Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAUWHOFDREEF BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.986321,
+                    51.031848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54",
+                "ref:De_Lijn": "207272",
+                "bus": "yes",
+                "name": "Berlare Groenendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAUWHOFDREEF BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.983911,
+                    51.033755
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;355",
+                "ref:De_Lijn": "206272",
+                "bus": "yes",
+                "name": "Berlare Groenendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAUWHOFDREEF BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.983654,
+                    51.03379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;355",
+                "ref:De_Lijn": "206271",
+                "bus": "yes",
+                "name": "Overmere Vogelpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKLAAN BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.981982,
+                    51.037695
+                ]
+            }
+        }
+    ]
+}

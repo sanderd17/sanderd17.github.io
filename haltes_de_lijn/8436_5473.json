@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403605",
+                "bus": "yes",
+                "name": "Eksel Kiefhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDHOVENSEBAAN EKSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36445,
+                    51.162044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403604",
+                "bus": "yes",
+                "name": "Eksel Kiefhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EINDHOVENSEBAAN EKSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.364601,
+                    51.162411
+                ]
+            }
+        }
+    ]
+}

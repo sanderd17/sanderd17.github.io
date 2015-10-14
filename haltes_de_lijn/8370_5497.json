@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;330",
+                "ref:De_Lijn": "206662",
+                "bus": "yes",
+                "name": "Voorde Steenweg Dreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPHEMSTRAAT VOORDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.93236,
+                    50.828455
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "209500",
+                "bus": "yes",
+                "name": "Steenhuize-Wijnhuize Kriekelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELBAAN STEENHUIZE-WIJNHUIZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.920783,
+                    50.827944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;370;390",
+                "ref:De_Lijn": "208500",
+                "bus": "yes",
+                "name": "Steenhuize-Wijnhuize Kriekelaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRAKELSESTEENWEG VOORDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.921533,
+                    50.828207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;330",
+                "ref:De_Lijn": "207662",
+                "bus": "yes",
+                "name": "Voorde Steenweg Dreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPHEMSTRAAT VOORDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.932276,
+                    50.828337
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "455;456;460",
+                "ref:De_Lijn": "109635",
+                "bus": "yes",
+                "name": "Baarle-Hertog Zondereigen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONDEREIGEN BAARLE-HERTOG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893541,
+                    51.407297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "455;456",
+                "ref:De_Lijn": "103529",
+                "bus": "yes",
+                "name": "Baarle-Hertog Zondereigen Oude Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONDEREIGEN BAARLE-HERTOG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891951,
+                    51.402666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "455",
+                "ref:De_Lijn": "103528",
+                "bus": "yes",
+                "name": "Baarle-Hertog Zondereigen Oude Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONDEREIGEN BAARLE-HERTOG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891792,
+                    51.402586
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "455;460",
+                "ref:De_Lijn": "109636",
+                "bus": "yes",
+                "name": "Baarle-Hertog Zondereigen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONDEREIGEN BAARLE-HERTOG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893059,
+                    51.406589
+                ]
+            }
+        }
+    ]
+}

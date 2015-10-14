@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;27;240",
+                "ref:De_Lijn": "204736",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Kluizenmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLUIZENDIJKSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.101773,
+                    51.23319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;240",
+                "ref:De_Lijn": "205484",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Holstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REEPSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.090874,
+                    51.22664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;27;85;240",
+                "ref:De_Lijn": "204735",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Reepstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REEPSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.10646,
+                    51.227062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;27;240",
+                "ref:De_Lijn": "205736",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Kluizenmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLUIZENDIJKSTRAAT HET KALF",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.101941,
+                    51.233865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;240",
+                "ref:De_Lijn": "204484",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Holstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REEPSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.091647,
+                    51.226632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;27;85;240",
+                "ref:De_Lijn": "205735",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Reepstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REEPSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.106417,
+                    51.227187
+                ]
+            }
+        }
+    ]
+}

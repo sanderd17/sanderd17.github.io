@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432;480",
+                "ref:De_Lijn": "106329",
+                "bus": "yes",
+                "name": "Turnhout AZ Sint-Jozef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N124 TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.918982,
+                    51.33374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432",
+                "ref:De_Lijn": "106334",
+                "bus": "yes",
+                "name": "Turnhout Crematorium",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP MERKSPLAS TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.908724,
+                    51.337562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432",
+                "ref:De_Lijn": "106333",
+                "bus": "yes",
+                "name": "Turnhout Crematorium",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP MERKSPLAS TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.908783,
+                    51.337688
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432;480",
+                "ref:De_Lijn": "109390",
+                "bus": "yes",
+                "name": "Turnhout Parking Sint-Jozef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.920767,
+                    51.335475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;432;480",
+                "ref:De_Lijn": "106330",
+                "bus": "yes",
+                "name": "Turnhout AZ Sint-Jozef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP MERKSPLAS TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.919293,
+                    51.333361
+                ]
+            }
+        }
+    ]
+}

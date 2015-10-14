@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504018",
+                "bus": "yes",
+                "name": "Avekapelle Goudenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYGAERDIJKSTRAAT AVEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.728618,
+                    51.063904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "504017",
+                "bus": "yes",
+                "name": "Avekapelle Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYGAERDIJKSTRAAT AVEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.732103,
+                    51.065841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "509017",
+                "bus": "yes",
+                "name": "Avekapelle Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYGAERDIJKSTRAAT AVEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.732359,
+                    51.065853
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;57",
+                "ref:De_Lijn": "509018",
+                "bus": "yes",
+                "name": "Avekapelle Goudenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYGAERDIJKSTRAAT AVEKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.730056,
+                    51.064401
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "205749",
+                "bus": "yes",
+                "name": "De Klinge Spaanskwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPAANSKWARTIER DE KLINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.113865,
+                    51.263166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "205750",
+                "bus": "yes",
+                "name": "De Klinge Fortstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT DE KLINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.121497,
+                    51.266625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "204750",
+                "bus": "yes",
+                "name": "De Klinge Fortstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT DE KLINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.121911,
+                    51.266949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "204749",
+                "bus": "yes",
+                "name": "De Klinge Spaanskwartier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPAANSKWARTIER DE KLINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.113693,
+                    51.263228
+                ]
+            }
+        }
+    ]
+}

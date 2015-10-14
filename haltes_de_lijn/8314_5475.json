@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501253",
+                "zone:De_Lijn": "03",
+                "name": "Oostduinkerke Duinpark",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.682973,
+                    51.133975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "506762",
+                "bus": "yes",
+                "name": "Oostduinkerke Polderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.699041,
+                    51.125806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "501738",
+                "bus": "yes",
+                "name": "Oostduinkerke Duinpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE-BAD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.682458,
+                    51.133995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "506738",
+                "bus": "yes",
+                "name": "Oostduinkerke Duinpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.683927,
+                    51.134079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "501762",
+                "bus": "yes",
+                "name": "Oostduinkerke Polderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.698856,
+                    51.125812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506253",
+                "zone:De_Lijn": "03",
+                "name": "Oostduinkerke Duinpark",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN OOSTDUINKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.683511,
+                    51.134118
+                ]
+            }
+        }
+    ]
+}

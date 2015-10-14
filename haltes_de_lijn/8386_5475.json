@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99;280;99S",
+                "ref:De_Lijn": "205647",
+                "bus": "yes",
+                "name": "Steendorp Hemelrijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT STEENDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.277081,
+                    51.132864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205272",
+                "bus": "yes",
+                "name": "Steendorp Het Gelaag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPARRENLAAN STEENDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.275509,
+                    51.125915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99;280;99S",
+                "ref:De_Lijn": "204648",
+                "bus": "yes",
+                "name": "Steendorp Sterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT STEENDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.269828,
+                    51.130737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205613",
+                "bus": "yes",
+                "name": "Steendorp Wzc 't Blauwhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOSPITAALSTRAAT STEENDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.268066,
+                    51.133181
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99;280;99S",
+                "ref:De_Lijn": "204647",
+                "bus": "yes",
+                "name": "Steendorp Hemelrijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT BAZEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.276924,
+                    51.132954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;95;97;99;280;99S",
+                "ref:De_Lijn": "205648",
+                "bus": "yes",
+                "name": "Steendorp Sterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT STEENDORP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.26863,
+                    51.130134
+                ]
+            }
+        }
+    ]
+}

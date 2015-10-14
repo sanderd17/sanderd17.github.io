@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "502543",
+                "bus": "yes",
+                "name": "Wingene Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERSTALSTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.278102,
+                    51.083187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507543",
+                "bus": "yes",
+                "name": "Wingene Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERSTALSTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.278378,
+                    51.083
+                ]
+            }
+        }
+    ]
+}

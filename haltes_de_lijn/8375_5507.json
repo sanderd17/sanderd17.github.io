@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "307534",
+                "bus": "yes",
+                "name": "Enghien Saint-Augustin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP AAT MARK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.030851,
+                    50.690067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "307533",
+                "bus": "yes",
+                "name": "Enghien Saint-Augustin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP AAT MARK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.030723,
+                    50.690174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;160;732",
+                "ref:De_Lijn": "307025",
+                "bus": "yes",
+                "name": "Enghien Dodane",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOVESSTRAAT EDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.034306,
+                    50.69182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "307024",
+                "bus": "yes",
+                "name": "Enghien Dodane",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARDINAAL MERCIERLAAN EDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.03286,
+                    50.692212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;160;732",
+                "ref:De_Lijn": "301411",
+                "bus": "yes",
+                "name": "Edingen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAND PLACE EDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.03891,
+                    50.693272
+                ]
+            }
+        }
+    ]
+}

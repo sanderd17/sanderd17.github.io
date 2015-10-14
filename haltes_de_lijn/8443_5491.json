@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "400831",
+                "bus": "yes",
+                "name": "Munsterbilzen Taunusweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUTENDAALWEG MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.530204,
+                    50.903502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10",
+                "ref:De_Lijn": "400830",
+                "bus": "yes",
+                "name": "Munsterbilzen Taunusweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N730 MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.530431,
+                    50.903473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407413",
+                "bus": "yes",
+                "name": "Munsterbilzen Calvarieberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TAUNUSWEG BILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.516722,
+                    50.908588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "407529",
+                "bus": "yes",
+                "name": "Munsterbilzen VDAB",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CALVARIEBERG MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.523744,
+                    50.911387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;706",
+                "ref:De_Lijn": "407532",
+                "bus": "yes",
+                "name": "Munsterbilzen VDAB",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CALVARIEBERG MUNSTERBILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.523572,
+                    50.911326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407432",
+                "bus": "yes",
+                "name": "Munsterbilzen Calvarieberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TAUNUSWEG BILZEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.518247,
+                    50.908169
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;16;40;402;746;748",
+                "ref:De_Lijn": "406569",
+                "bus": "yes",
+                "name": "Gruitrode Boshoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEKIEZEL GRUITRODE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.591363,
+                    51.108327
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;16;402;746;748",
+                "ref:De_Lijn": "406568",
+                "bus": "yes",
+                "name": "Gruitrode Boshoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEKIEZEL GRUITRODE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.591563,
+                    51.108325
+                ]
+            }
+        }
+    ]
+}

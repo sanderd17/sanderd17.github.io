@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;47",
+                "ref:De_Lijn": "508147",
+                "bus": "yes",
+                "name": "Esen Roggeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N35 DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.940599,
+                    51.019112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;31;32;47",
+                "ref:De_Lijn": "503147",
+                "bus": "yes",
+                "name": "Esen Roggeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N35 DIKSMUIDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.938702,
+                    51.019601
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "304961",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Bouchoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINKOMSTRAAT TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.907995,
+                    50.88418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "304960",
+                "bus": "yes",
+                "name": "Meensel-Kiezegem Bouchoutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINKOMSTRAAT TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.908166,
+                    50.884152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "303434",
+                "bus": "yes",
+                "name": "Binkom Waterput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSELSTRAAT BINKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900213,
+                    50.880907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;392",
+                "ref:De_Lijn": "303435",
+                "bus": "yes",
+                "name": "Binkom Waterput",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSELSTRAAT BINKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.89993,
+                    50.880962
+                ]
+            }
+        }
+    ]
+}

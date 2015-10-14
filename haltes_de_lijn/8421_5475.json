@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302",
+                "ref:De_Lijn": "406509",
+                "bus": "yes",
+                "name": "Zittaart Kluterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZEL MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.040727,
+                    51.125283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19;20;302",
+                "ref:De_Lijn": "406508",
+                "bus": "yes",
+                "name": "Zittaart Kluterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KIEZEL MEERHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.040404,
+                    51.125654
+                ]
+            }
+        }
+    ]
+}

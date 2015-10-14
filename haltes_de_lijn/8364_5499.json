@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "206672",
+                "bus": "yes",
+                "name": "Parike Matrouwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MATROUWSTRAAT PARIKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.795756,
+                    50.79224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;410",
+                "ref:De_Lijn": "208633",
+                "bus": "yes",
+                "name": "Sint-Martens-Lierde Lierenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERENHOEK SINT-MARTENS-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.786922,
+                    50.801286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "209633",
+                "bus": "yes",
+                "name": "Sint-Martens-Lierde Lierenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERENHOEK SINT-MARTENS-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.786824,
+                    50.801204
+                ]
+            }
+        }
+    ]
+}

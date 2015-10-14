@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;153;422;423;426;428",
+                "ref:De_Lijn": "106512",
+                "bus": "yes",
+                "name": "Emblem Fransehoeveweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROECHEMSESTEENWEG EMBLEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.592469,
+                    51.169261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;153;422;423;426;428",
+                "ref:De_Lijn": "106511",
+                "bus": "yes",
+                "name": "Emblem Fransehoeveweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROECHEMSESTEENWEG EMBLEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.592654,
+                    51.169054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;153;422;423;426;428",
+                "ref:De_Lijn": "106510",
+                "bus": "yes",
+                "name": "Broechem Nierlenderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROECHEMSESTEENWEG BROECHEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.593126,
+                    51.177826
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;153;422;423;426;428",
+                "ref:De_Lijn": "106509",
+                "bus": "yes",
+                "name": "Broechem Nierlenderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROECHEMSESTEENWEG BROECHEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.593297,
+                    51.177817
+                ]
+            }
+        }
+    ]
+}

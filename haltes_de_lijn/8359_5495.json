@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209782",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Rustoord Vlaamse Ardennen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMSTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.68687,
+                    50.854992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "208791",
+                "bus": "yes",
+                "name": "Mater Tissenhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TISSENHOVE OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.678376,
+                    50.850187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "208793",
+                "bus": "yes",
+                "name": "Mater Bruul",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUUL OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.671859,
+                    50.853978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209787",
+                "bus": "yes",
+                "name": "Mater Gaverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.66991,
+                    50.857985
+                ]
+            }
+        }
+    ]
+}

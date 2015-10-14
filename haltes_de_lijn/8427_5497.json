@@ -1,0 +1,572 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "407855",
+                "bus": "yes",
+                "name": "Sint-Truiden De Rakkertjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIADUCTSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179128,
+                    50.82137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "408431",
+                "bus": "yes",
+                "name": "Sint-Truiden Rummenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.182098,
+                    50.824919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407898",
+                "bus": "yes",
+                "name": "Sint-Truiden Grevensmolenweg I",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GREVENSMOLENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.173755,
+                    50.822567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "407941",
+                "bus": "yes",
+                "name": "Sint-Truiden Houtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.180518,
+                    50.827087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407810",
+                "bus": "yes",
+                "name": "Sint-Truiden Augustijnenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AUGUSTIJNENSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.175628,
+                    50.823354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408061",
+                "bus": "yes",
+                "name": "Sint-Truiden Tulpstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BLOESEMLAAN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1784,
+                    50.824432
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "408433",
+                "bus": "yes",
+                "name": "Sint-Truiden Zonnebloemlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179563,
+                    50.828523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "407895",
+                "bus": "yes",
+                "name": "Gorsem Planterijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GORSEM-DORP GORSEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.167136,
+                    50.831477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;S2;105;S11",
+                "ref:De_Lijn": "408140",
+                "bus": "yes",
+                "name": "Sint-Truiden Sint-Trudo Ziekenhuis Rummenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.184863,
+                    50.822292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "407897",
+                "bus": "yes",
+                "name": "Sint-Truiden Gorsemweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GORSEMWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.175988,
+                    50.823666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "408045",
+                "bus": "yes",
+                "name": "Sint-Truiden Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GORSEMWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.173449,
+                    50.826282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "408125",
+                "bus": "yes",
+                "name": "Sint-Truiden Zonnebloemlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179353,
+                    50.82866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408435",
+                "bus": "yes",
+                "name": "Sint-Truiden Grevensmolenweg II",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GREVENSMOLENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.169868,
+                    50.825183
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408436",
+                "bus": "yes",
+                "name": "Sint-Truiden Sporthal",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.172147,
+                    50.826498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407894",
+                "bus": "yes",
+                "name": "Gorsem Planterijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GORSEM-DORP GORSEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.167419,
+                    50.831403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407900",
+                "bus": "yes",
+                "name": "Sint-Truiden Grevensmolenweg II",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GREVENSMOLENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.170095,
+                    50.825163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408434",
+                "bus": "yes",
+                "name": "Sint-Truiden Grevensmolenweg I",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GREVENSMOLENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.173206,
+                    50.822831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407976",
+                "bus": "yes",
+                "name": "Sint-Truiden Margrietstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBLOEMLAAN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176514,
+                    50.827843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407896",
+                "bus": "yes",
+                "name": "Sint-Truiden Gorsemweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GORSEMWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.176061,
+                    50.823783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;S2;105;S10;S11",
+                "ref:De_Lijn": "408194",
+                "bus": "yes",
+                "name": "Sint-Truiden Sint-Trudo Ziekenhuis Rummenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.184456,
+                    50.822529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408060",
+                "bus": "yes",
+                "name": "Sint-Truiden Tulpstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BLOESEMLAAN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.178497,
+                    50.824296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407811",
+                "bus": "yes",
+                "name": "Sint-Truiden Sporthal",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SPORTLAAN SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17276,
+                    50.826628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "408023",
+                "bus": "yes",
+                "name": "Sint-Truiden Rummenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.181947,
+                    50.824353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407854",
+                "bus": "yes",
+                "name": "Sint-Truiden De Rakkertjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIADUCTSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.179186,
+                    50.82146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "408044",
+                "bus": "yes",
+                "name": "Sint-Truiden Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GORSEMWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.173453,
+                    50.826498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "408432",
+                "bus": "yes",
+                "name": "Sint-Truiden Houtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMMENWEG SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.18045,
+                    50.827277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408437",
+                "bus": "yes",
+                "name": "Sint-Truiden Augustijnenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AUGUSTIJNENSTRAAT SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.17547,
+                    50.823256
+                ]
+            }
+        }
+    ]
+}

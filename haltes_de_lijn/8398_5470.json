@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "243;420;421;422;423",
+                "ref:De_Lijn": "106412",
+                "bus": "yes",
+                "name": "Ranst Zevenbergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMSTRAAT RANST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.548115,
+                    51.194172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "243;420;421;422;423",
+                "ref:De_Lijn": "103036",
+                "bus": "yes",
+                "name": "Wommelgem Vremdesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPENLAAN WOMMELGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.529458,
+                    51.197525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "243;420;421;422;423",
+                "ref:De_Lijn": "103037",
+                "bus": "yes",
+                "name": "Wommelgem Vremdesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPENLAAN WOMMELGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.529186,
+                    51.197435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "243;420;421;422;423",
+                "ref:De_Lijn": "103039",
+                "bus": "yes",
+                "name": "Wommelgem Schawijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPENLAAN WOMMELGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.539289,
+                    51.194284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "243;420;421;422;423",
+                "ref:De_Lijn": "103038",
+                "bus": "yes",
+                "name": "Wommelgem Schawijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMPENLAAN WOMMELGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.539418,
+                    51.194383
+                ]
+            }
+        }
+    ]
+}

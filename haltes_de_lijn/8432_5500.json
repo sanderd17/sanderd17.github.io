@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "400195",
+                "bus": "yes",
+                "name": "Groot-Gelmen Helshovenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HELSHOVENSTRAAT GROOT-GELMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.274034,
+                    50.786782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "401525",
+                "bus": "yes",
+                "name": "Mettekoven Buurthuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINNINGSTRAAT METTEKOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.293085,
+                    50.78194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708;734;S12",
+                "ref:De_Lijn": "403768",
+                "bus": "yes",
+                "name": "Mettekoven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "METTEKOVENSTRAAT METTEKOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.289464,
+                    50.780961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "708",
+                "ref:De_Lijn": "403769",
+                "bus": "yes",
+                "name": "Mettekoven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "METTEKOVENSTRAAT METTEKOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.289619,
+                    50.780915
+                ]
+            }
+        }
+    ]
+}

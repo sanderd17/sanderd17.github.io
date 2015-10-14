@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "257;938",
+                "ref:De_Lijn": "107882",
+                "bus": "yes",
+                "name": "Eikevliet Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DESIRÉ VAN HOOMISSENSTRAAT EIKEVLIET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.305895,
+                    51.091508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "257;938",
+                "ref:De_Lijn": "107883",
+                "bus": "yes",
+                "name": "Eikevliet Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DESIRÉ VAN HOOMISSENSTRAAT EIKEVLIET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.305238,
+                    51.09184
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "407338",
+                "bus": "yes",
+                "name": "Overpelt Hoeveneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDELSEBAAN OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.402677,
+                    51.178085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "403598",
+                "bus": "yes",
+                "name": "Eksel Goudvinkenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERPELTERBAAN OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.399023,
+                    51.16804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "403599",
+                "bus": "yes",
+                "name": "Eksel Goudvinkenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERPELTERBAAN EKSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.399075,
+                    51.167832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18a",
+                "ref:De_Lijn": "407339",
+                "bus": "yes",
+                "name": "Overpelt Hoeveneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDELSEBAAN OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.403011,
+                    51.178298
+                ]
+            }
+        }
+    ]
+}

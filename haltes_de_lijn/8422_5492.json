@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308937",
+                "bus": "yes",
+                "name": "Kortenaken Sanestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZANDRODESTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.067635,
+                    50.895033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308115",
+                "bus": "yes",
+                "name": "Kortenaken Heersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERSTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.053833,
+                    50.895042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308820",
+                "bus": "yes",
+                "name": "Kortenaken Sanestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDRODESTRAAT KORTENAKEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.067492,
+                    50.895024
+                ]
+            }
+        }
+    ]
+}

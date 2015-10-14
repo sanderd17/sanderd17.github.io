@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "405668",
+                "bus": "yes",
+                "name": "Hoelbeek Heiken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIKEN HOELBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.550647,
+                    50.894352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;706",
+                "ref:De_Lijn": "405667",
+                "bus": "yes",
+                "name": "Hoelbeek Heiken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIKEN HOELBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.550555,
+                    50.894065
+                ]
+            }
+        }
+    ]
+}

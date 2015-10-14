@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "671;770;771;772;778;779;780",
+                "ref:De_Lijn": "105349",
+                "bus": "yes",
+                "name": "Zandvliet Stelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUTSEBAAN ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.332282,
+                    51.358123
+                ]
+            }
+        }
+    ]
+}

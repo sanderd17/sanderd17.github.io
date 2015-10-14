@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23",
+                "ref:De_Lijn": "501443",
+                "bus": "yes",
+                "name": "Westkerke Oudenburgstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTKERKSESTRAAT WESTKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.012148,
+                    51.169475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;82",
+                "ref:De_Lijn": "502349",
+                "bus": "yes",
+                "name": "Roksem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEWEG ROKSEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02816,
+                    51.167123
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "507349",
+                "bus": "yes",
+                "name": "Roksem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEEWEG ROKSEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.027827,
+                    51.167254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;82",
+                "ref:De_Lijn": "506443",
+                "bus": "yes",
+                "name": "Westkerke Oudenburgstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTKERKSESTRAAT WESTKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.012081,
+                    51.169807
+                ]
+            }
+        }
+    ]
+}

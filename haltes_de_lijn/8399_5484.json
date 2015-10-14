@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "101799",
+                "bus": "yes",
+                "name": "Rijmenam Rijmenamsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJLEWEG RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.551987,
+                    51.00443
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "101798",
+                "bus": "yes",
+                "name": "Rijmenam Coupurelei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJLEWEG RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.564341,
+                    51.004662
+                ]
+            }
+        }
+    ]
+}

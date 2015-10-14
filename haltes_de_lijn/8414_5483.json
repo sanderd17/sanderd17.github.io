@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;707;708",
+                "ref:De_Lijn": "300112",
+                "bus": "yes",
+                "name": "Langdorp Klein Opperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLEMINKSTRAAT LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.891199,
+                    51.020806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;707;708",
+                "ref:De_Lijn": "300111",
+                "bus": "yes",
+                "name": "Langdorp Klein Opperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLEMINKSTRAAT LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.890726,
+                    51.020547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "102668",
+                "bus": "yes",
+                "name": "Herselt Gijmelsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIJMELSESTEENWEG HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.895358,
+                    51.026918
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;707;708",
+                "ref:De_Lijn": "300103",
+                "bus": "yes",
+                "name": "Langdorp Kleine Vleminckxstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLEMINKSTRAAT LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.87876,
+                    51.015916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;707;708",
+                "ref:De_Lijn": "300104",
+                "bus": "yes",
+                "name": "Langdorp Kleine Vleminckxstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLEMINKSTRAAT LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.879102,
+                    51.015834
+                ]
+            }
+        }
+    ]
+}

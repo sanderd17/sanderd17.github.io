@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345;544",
+                "ref:De_Lijn": "307991",
+                "bus": "yes",
+                "name": "Overijse Autobaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILLERIEKSEDREEF OUDERGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480513,
+                    50.792524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;343;344;345;348;349;504;544;547;548",
+                "ref:De_Lijn": "304030",
+                "bus": "yes",
+                "name": "Overijse Jezus-Eik Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG JEZUS-EIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.481226,
+                    50.794069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345;544",
+                "ref:De_Lijn": "307996",
+                "bus": "yes",
+                "name": "Overijse Autobaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILLERIEKSEDREEF OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.48057,
+                    50.792443
+                ]
+            }
+        }
+    ]
+}

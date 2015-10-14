@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "550;565;735",
+                "ref:De_Lijn": "402943",
+                "bus": "yes",
+                "name": "Loksbergen Rozenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEBROEKSTRAAT LIEBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074411,
+                    50.947681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "550;565;735",
+                "ref:De_Lijn": "402942",
+                "bus": "yes",
+                "name": "Loksbergen Rozenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEBROEKSTRAAT LIEBROEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074281,
+                    50.947547
+                ]
+            }
+        }
+    ]
+}

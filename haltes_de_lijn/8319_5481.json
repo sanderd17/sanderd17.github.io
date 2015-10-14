@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "508953",
+                "bus": "yes",
+                "name": "Oostkerke Dorp (Diksmuide)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTKERKESTRAAT OOSTKERKE (DIKSMUIDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.797299,
+                    51.046705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "503655",
+                "bus": "yes",
+                "name": "Oostkerke Scheewege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTKERKESTRAAT OOSTKERKE (DIKSMUIDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.79547,
+                    51.054449
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "503953",
+                "bus": "yes",
+                "name": "Oostkerke Dorp (Diksmuide)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTKERKESTRAAT OOSTKERKE (DIKSMUIDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.797425,
+                    51.046788
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;41;49",
+                "ref:De_Lijn": "508655",
+                "bus": "yes",
+                "name": "Oostkerke Scheewege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTKERKESTRAAT OOSTKERKE (DIKSMUIDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.795364,
+                    51.054627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "504724",
+                "bus": "yes",
+                "name": "Oostkerke Lampernissestraat 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAMPERNISSESTRAAT OOSTKERKE (DIKSMUIDE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.791387,
+                    51.045655
+                ]
+            }
+        }
+    ]
+}

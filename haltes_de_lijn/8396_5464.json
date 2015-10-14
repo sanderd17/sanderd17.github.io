@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102008",
+                "bus": "yes",
+                "name": "Brasschaat Zwembad",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ELSHOUTBAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.501426,
+                    51.285412
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "780",
+                "ref:De_Lijn": "103982",
+                "bus": "yes",
+                "name": "Brasschaat Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSHOUTBAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.503978,
+                    51.285589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;648;649",
+                "ref:De_Lijn": "105734",
+                "bus": "yes",
+                "name": "Brasschaat Dokter Roosensplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.48641,
+                    51.287531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;648;649;Buur",
+                "ref:De_Lijn": "105736",
+                "bus": "yes",
+                "name": "Brasschaat Dokter Roosensplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.486352,
+                    51.287261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "Buur",
+                "ref:De_Lijn": "109836",
+                "bus": "yes",
+                "name": "Brasschaat Dokter Roosensplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER ROOSENSPLEIN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.485967,
+                    51.287783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;648",
+                "ref:De_Lijn": "105732",
+                "bus": "yes",
+                "name": "Brasschaat Zegersdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.482633,
+                    51.284398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "640;642;648;Buur",
+                "ref:De_Lijn": "105733",
+                "bus": "yes",
+                "name": "Brasschaat Zegersdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.483436,
+                    51.284721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "443;780",
+                "ref:De_Lijn": "103981",
+                "bus": "yes",
+                "name": "Brasschaat Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSHOUTBAAN BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.503448,
+                    51.285868
+                ]
+            }
+        }
+    ]
+}

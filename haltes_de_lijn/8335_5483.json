@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;73;78",
+                "ref:De_Lijn": "507351",
+                "bus": "yes",
+                "name": "Lichtervelde Astridlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.142552,
+                    51.026593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "507260",
+                "bus": "yes",
+                "name": "Lichtervelde Koornbloem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160246,
+                    51.016518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "502266",
+                "bus": "yes",
+                "name": "Lichtervelde Sidem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.148626,
+                    51.024363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;73",
+                "ref:De_Lijn": "507350",
+                "bus": "yes",
+                "name": "Lichtervelde Astridlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASTRIDLAAN LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.142625,
+                    51.026495
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;78",
+                "ref:De_Lijn": "507266",
+                "bus": "yes",
+                "name": "Lichtervelde Sidem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.148413,
+                    51.024325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;78",
+                "ref:De_Lijn": "502260",
+                "bus": "yes",
+                "name": "Lichtervelde Koornbloem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOOLSKAMPSTRAAT LICHTERVELDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.160589,
+                    51.016476
+                ]
+            }
+        }
+    ]
+}

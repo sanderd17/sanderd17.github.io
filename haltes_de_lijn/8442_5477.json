@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "406524",
+                "bus": "yes",
+                "name": "Meeuwen Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZENSTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.509485,
+                    51.097524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "406522",
+                "bus": "yes",
+                "name": "Meeuwen Eikenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERDERBAAN MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.50423,
+                    51.110403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "406525",
+                "bus": "yes",
+                "name": "Meeuwen Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZENSTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.509613,
+                    51.097478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455631",
+                "bus": "yes",
+                "name": "Meeuwen Taxi",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT MEEUWEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.50511,
+                    51.096658
+                ]
+            }
+        }
+    ]
+}

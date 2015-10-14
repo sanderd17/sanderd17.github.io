@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;98",
+                "ref:De_Lijn": "501185",
+                "bus": "yes",
+                "name": "Lapscheure Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NATIËNLAAN LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.368758,
+                    51.269683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "506185",
+                "bus": "yes",
+                "name": "Lapscheure Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "A11 LAPSCHEURE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.368347,
+                    51.2695
+                ]
+            }
+        }
+    ]
+}

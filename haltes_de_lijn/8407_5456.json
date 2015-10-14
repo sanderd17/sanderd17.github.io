@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;605;608;620;935",
+                "ref:De_Lijn": "102308",
+                "bus": "yes",
+                "name": "Hoogstraten Kela",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LENAARTSEWEG HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.736,
+                    51.386561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;602;605;608;620;935",
+                "ref:De_Lijn": "102309",
+                "bus": "yes",
+                "name": "Hoogstraten Kela",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-LENAARTSEWEG HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.736128,
+                    51.386453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "649;659;679",
+                "ref:De_Lijn": "105657",
+                "bus": "yes",
+                "name": "Hoogstraten Hinnenboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOENHOUTSEWEG HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.730438,
+                    51.395405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "649;659;679",
+                "ref:De_Lijn": "105658",
+                "bus": "yes",
+                "name": "Hoogstraten Hinnenboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOENHOUTSEWEG HOOGSTRATEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.730192,
+                    51.395244
+                ]
+            }
+        }
+    ]
+}

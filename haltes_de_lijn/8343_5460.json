@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "506690",
+                "bus": "yes",
+                "name": "Knokke Graafjanshove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF JANSDIJK KNOKKE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.320728,
+                    51.338375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "501690",
+                "bus": "yes",
+                "name": "Knokke Graafjanshove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF JANSDIJK KNOKKE (KNOKKE-HEIST)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.320687,
+                    51.338285
+                ]
+            }
+        }
+    ]
+}

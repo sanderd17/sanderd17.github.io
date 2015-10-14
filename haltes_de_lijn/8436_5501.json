@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;708",
+                "ref:De_Lijn": "403746",
+                "bus": "yes",
+                "name": "Heks Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKSLAAN HEKS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.363994,
+                    50.767342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;708",
+                "ref:De_Lijn": "403747",
+                "bus": "yes",
+                "name": "Heks Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKSLAAN HEKS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.363921,
+                    50.767244
+                ]
+            }
+        }
+    ]
+}

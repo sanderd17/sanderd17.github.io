@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "503272",
+                "bus": "yes",
+                "name": "Hulste Kwademeerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWADEMEERSLAAN HULSTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2956,
+                    50.887166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "503271",
+                "bus": "yes",
+                "name": "Hulste Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTEDORP HULSTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.295662,
+                    50.881979
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "503273",
+                "bus": "yes",
+                "name": "Hulste Meidoornlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN HULSTE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.293997,
+                    50.885146
+                ]
+            }
+        }
+    ]
+}

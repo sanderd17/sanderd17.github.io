@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "210005",
+                "bus": "yes",
+                "name": "Maldegem Torredreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "THIJSKENSSTRAAT KLEIT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.445333,
+                    51.185133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "201885",
+                "bus": "yes",
+                "name": "Maldegem Nieuwhofdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWHOFDREEF KLEIT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.439735,
+                    51.188317
+                ]
+            }
+        }
+    ]
+}

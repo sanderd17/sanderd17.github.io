@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507605",
+                "bus": "yes",
+                "name": "Beernem Nijverheidstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENE STEENWEG BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326347,
+                    51.124031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28",
+                "ref:De_Lijn": "502605",
+                "bus": "yes",
+                "name": "Beernem Nijverheidstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENE STEENWEG BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326147,
+                    51.124048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28",
+                "ref:De_Lijn": "502607",
+                "bus": "yes",
+                "name": "Beernem Sint-Amandus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIGERLOSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.320181,
+                    51.116156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507607",
+                "bus": "yes",
+                "name": "Beernem Sint-Amandus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIGERLOSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31991,
+                    51.115515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507606",
+                "bus": "yes",
+                "name": "Beernem Carpool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIGERLOSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.322227,
+                    51.118583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28",
+                "ref:De_Lijn": "502606",
+                "bus": "yes",
+                "name": "Beernem Carpool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIGERLOSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.322096,
+                    51.118699
+                ]
+            }
+        }
+    ]
+}

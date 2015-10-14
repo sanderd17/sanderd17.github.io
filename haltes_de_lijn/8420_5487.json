@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "301263",
+                "bus": "yes",
+                "name": "Kaggevinne Leuvensestraat 216",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.029554,
+                    50.965678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;420;552",
+                "ref:De_Lijn": "300446",
+                "bus": "yes",
+                "name": "Assent Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.017962,
+                    50.959207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "301264",
+                "bus": "yes",
+                "name": "Kaggevinne Leuvensestraat 216",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG DIEST",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.029183,
+                    50.965617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;420;552;701",
+                "ref:De_Lijn": "300445",
+                "bus": "yes",
+                "name": "Assent Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N2 ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.01939,
+                    50.959541
+                ]
+            }
+        }
+    ]
+}

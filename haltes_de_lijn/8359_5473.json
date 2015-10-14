@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "203084",
+                "bus": "yes",
+                "name": "Sleidinge Singeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINGEL SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.669453,
+                    51.160064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "201867",
+                "bus": "yes",
+                "name": "Sleidinge Veldhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WELLINGSTRAAT SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.68634,
+                    51.154859
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;150",
+                "ref:De_Lijn": "202083",
+                "bus": "yes",
+                "name": "Sleidinge Wellingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWAANTJE SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.674968,
+                    51.152591
+                ]
+            }
+        }
+    ]
+}

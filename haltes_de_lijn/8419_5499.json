@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313",
+                "ref:De_Lijn": "305059",
+                "bus": "yes",
+                "name": "Hakendover Wangestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG HAKENDOVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.004946,
+                    50.797373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313;713",
+                "ref:De_Lijn": "305058",
+                "bus": "yes",
+                "name": "Hakendover Wangestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG HAKENDOVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.005214,
+                    50.797255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313;713",
+                "ref:De_Lijn": "305062",
+                "bus": "yes",
+                "name": "Hakendover Kruisbeemdstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG HAKENDOVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.997646,
+                    50.796711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313",
+                "ref:De_Lijn": "305063",
+                "bus": "yes",
+                "name": "Hakendover Kruisbeemdstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-TRUIDENSESTEENWEG HAKENDOVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.99599,
+                    50.796981
+                ]
+            }
+        }
+    ]
+}

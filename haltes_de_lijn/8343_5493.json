@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "504997",
+                "bus": "yes",
+                "name": "Beveren Tomberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOMBERG BEVEREN-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.337347,
+                    50.877273
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "104696",
+                "bus": "yes",
+                "name": "Itegem Beukenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENNENLAAN ITEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.711194,
+                    51.095043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;943",
+                "ref:De_Lijn": "108131",
+                "bus": "yes",
+                "name": "Hallaar Ten Kerselaere",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOONMARKT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.718407,
+                    51.087921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "297;943",
+                "ref:De_Lijn": "104691",
+                "bus": "yes",
+                "name": "Hallaar Natuurcentrum Averegten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGENDIJK HALLAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.723884,
+                    51.095005
+                ]
+            }
+        }
+    ]
+}

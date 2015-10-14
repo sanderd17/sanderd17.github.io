@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407236",
+                "bus": "yes",
+                "name": "Wauberg Waubergerdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAUBERGERDIJK WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.460695,
+                    51.082029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "752",
+                "ref:De_Lijn": "407237",
+                "bus": "yes",
+                "name": "Wauberg Waubergerdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAUBERGERDIJK WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.460524,
+                    51.082031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;33;13b",
+                "ref:De_Lijn": "407505",
+                "bus": "yes",
+                "name": "Peer Wauberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERBAAN WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.458978,
+                    51.082441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;16;33;13b",
+                "ref:De_Lijn": "407504",
+                "bus": "yes",
+                "name": "Peer Wauberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERBAAN WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45955,
+                    51.08248
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400190",
+                "bus": "yes",
+                "name": "Wauberg Standplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERBAAN WOUBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.460368,
+                    51.082688
+                ]
+            }
+        }
+    ]
+}

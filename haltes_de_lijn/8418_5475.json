@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;492;510;921",
+                "ref:De_Lijn": "108992",
+                "bus": "yes",
+                "name": "Geel Brandemolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING-ALBERTSTRAAT STELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.980733,
+                    51.131911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "492;510;921",
+                "ref:De_Lijn": "108993",
+                "bus": "yes",
+                "name": "Geel Brandemolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING-ALBERTSTRAAT STELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.981059,
+                    51.131649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "108566",
+                "bus": "yes",
+                "name": "Geel Gieshoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GIESHOEK GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.976357,
+                    51.133723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;492;510;921",
+                "ref:De_Lijn": "108989",
+                "bus": "yes",
+                "name": "Geel Doornboomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING-ALBERTSTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.979552,
+                    51.13767
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360",
+                "ref:De_Lijn": "302441",
+                "bus": "yes",
+                "name": "Zétrud Lumay Église",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE TIRLEMONT ZITTERT-LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.902292,
+                    50.762556
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "360",
+                "ref:De_Lijn": "302440",
+                "bus": "yes",
+                "name": "Zétrud Lumay Église",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE TIRLEMONT ZITTERT-LUMMEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.901865,
+                    50.762396
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96",
+                "ref:De_Lijn": "203712",
+                "bus": "yes",
+                "name": "Assenede Houtlandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRIESTSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.760884,
+                    51.214044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96",
+                "ref:De_Lijn": "203713",
+                "bus": "yes",
+                "name": "Assenede Molenbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRIESTSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.762763,
+                    51.210359
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96;195",
+                "ref:De_Lijn": "202713",
+                "bus": "yes",
+                "name": "Assenede Molenbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRIESTSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.763097,
+                    51.209992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;96;195",
+                "ref:De_Lijn": "202712",
+                "bus": "yes",
+                "name": "Assenede Houtlandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRIESTSTRAAT ASSENEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.760582,
+                    51.214141
+                ]
+            }
+        }
+    ]
+}

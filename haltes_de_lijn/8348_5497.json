@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505283",
+                "bus": "yes",
+                "name": "Ingooigem Rusthuis Wielant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHELLEBELLESTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.431623,
+                    50.82271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505277",
+                "bus": "yes",
+                "name": "Anzegem De Sterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STERHOEK ANZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.447285,
+                    50.832535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505996",
+                "bus": "yes",
+                "name": "Ingooigem Hulstweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANTONIUSSTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.430964,
+                    50.830158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505284",
+                "bus": "yes",
+                "name": "Ingooigem Sint-Antonius-Eik",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT ANTONIUSSTRAAT INGOOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.437025,
+                    50.821557
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;52",
+                "ref:De_Lijn": "506108",
+                "bus": "yes",
+                "name": "Gistel Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANS-GASTHUISSTRAAT GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.969164,
+                    51.156532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "501103",
+                "bus": "yes",
+                "name": "Gistel Dageraad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEBAAN GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.985954,
+                    51.157781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;52",
+                "ref:De_Lijn": "506111",
+                "bus": "yes",
+                "name": "Gistel Sporthall",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.968869,
+                    51.159702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;83",
+                "ref:De_Lijn": "506109",
+                "bus": "yes",
+                "name": "Gistel Oude Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEBAAN GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.975833,
+                    51.157249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "501109",
+                "bus": "yes",
+                "name": "Gistel Oude Post",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEBAAN GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.976223,
+                    51.157109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;52;83",
+                "ref:De_Lijn": "501111",
+                "bus": "yes",
+                "name": "Gistel Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTSTRAAT GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.968696,
+                    51.159736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;83",
+                "ref:De_Lijn": "506103",
+                "bus": "yes",
+                "name": "Gistel Dageraad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSEBAAN GISTEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.985336,
+                    51.157864
+                ]
+            }
+        }
+    ]
+}

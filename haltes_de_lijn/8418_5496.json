@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;712",
+                "ref:De_Lijn": "305139",
+                "bus": "yes",
+                "name": "Sint-Margriete-Houtem Schaffelenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEEWEIDESTRAAT SINT-MARGRIETE-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.973447,
+                    50.843011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308090",
+                "bus": "yes",
+                "name": "Bunsbeek Schaffelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OPLINTERSESTEENWEG BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.970331,
+                    50.846964
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391",
+                "ref:De_Lijn": "305138",
+                "bus": "yes",
+                "name": "Sint-Margriete-Houtem Schaffelenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VEEWEIDESTRAAT OPLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.973687,
+                    50.842938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308091",
+                "bus": "yes",
+                "name": "Bunsbeek Schaffelberg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OPLINTERSESTEENWEG BUNSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.970418,
+                    50.847054
+                ]
+            }
+        }
+    ]
+}

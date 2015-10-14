@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;251",
+                "ref:De_Lijn": "301792",
+                "bus": "yes",
+                "name": "Strombeek-Bever Bever",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOECHOUTLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.343303,
+                    50.907829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "233;260",
+                "ref:De_Lijn": "301796",
+                "bus": "yes",
+                "name": "Strombeek-Bever De Villegas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSELAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345265,
+                    50.908162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330046",
+                "bus": "yes",
+                "name": "Strombeek-Bever Bouchoutlaan (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOECHOUTLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344883,
+                    50.904063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;251",
+                "ref:De_Lijn": "301791",
+                "bus": "yes",
+                "name": "Strombeek-Bever Bever",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOECHOUTLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.343474,
+                    50.907928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "330053",
+                "bus": "yes",
+                "name": "Strombeek-Bever Bouchoutlaan (tram)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOECHOUTLAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.344898,
+                    50.904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "233;260",
+                "ref:De_Lijn": "301795",
+                "bus": "yes",
+                "name": "Strombeek-Bever De Villegas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSELAAN STROMBEEK-BEVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.345222,
+                    50.908846
+                ]
+            }
+        }
+    ]
+}

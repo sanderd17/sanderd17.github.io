@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "502761",
+                "bus": "yes",
+                "name": "Ruiselede Ommegangstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POEKESTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.40822,
+                    51.041015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "507761",
+                "bus": "yes",
+                "name": "Ruiselede Ommegangstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POEKESTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.408517,
+                    51.041125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505648",
+                "bus": "yes",
+                "name": "Ruiselede Pannemeers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PANNEMEERSSTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.413685,
+                    51.033103
+                ]
+            }
+        }
+    ]
+}

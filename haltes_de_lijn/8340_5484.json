@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;73",
+                "ref:De_Lijn": "507341",
+                "bus": "yes",
+                "name": "Pittem De Lijster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EGEMSTRAAT PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.257775,
+                    51.003346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;73",
+                "ref:De_Lijn": "502341",
+                "bus": "yes",
+                "name": "Pittem De Lijster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EGEMSTRAAT PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.257932,
+                    51.003365
+                ]
+            }
+        }
+    ]
+}

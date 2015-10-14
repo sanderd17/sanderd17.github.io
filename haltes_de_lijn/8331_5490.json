@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505526",
+                "bus": "yes",
+                "name": "Oostnieuwkerke Colliemolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COLLIEMOLENSTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.059914,
+                    50.928965
+                ]
+            }
+        }
+    ]
+}

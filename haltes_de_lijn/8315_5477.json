@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "501741",
+                "bus": "yes",
+                "name": "Wulpen Booitshoekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOITSHOEKESTRAAT WULPEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.711414,
+                    51.097218
+                ]
+            }
+        }
+    ]
+}

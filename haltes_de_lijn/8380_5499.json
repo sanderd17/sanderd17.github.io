@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "163",
+                "ref:De_Lijn": "304494",
+                "bus": "yes",
+                "name": "Sint-Kwintens-Lennik Hallebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS VAN DER STEENSTRAAT SINT-KWINTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.150849,
+                    50.794444
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "163",
+                "ref:De_Lijn": "304495",
+                "bus": "yes",
+                "name": "Sint-Kwintens-Lennik Hallebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS VAN DER STEENSTRAAT SINT-KWINTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.151062,
+                    50.794462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;142;144;160;162;164;165;502",
+                "ref:De_Lijn": "304517",
+                "bus": "yes",
+                "name": "Sint-Kwintens-Lennik Zwartenbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSEPH VAN DEN BOSSCHESTRAAT SINT-KWINTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.13688,
+                    50.805537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141;142;144;160;162;164;165;502",
+                "ref:De_Lijn": "304518",
+                "bus": "yes",
+                "name": "Sint-Kwintens-Lennik Zwartenbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JOSEPH VAN DEN BOSSCHESTRAAT SINT-KWINTENS-LENNIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.136712,
+                    50.80524
+                ]
+            }
+        }
+    ]
+}

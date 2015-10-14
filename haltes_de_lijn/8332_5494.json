@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "503631",
+                "bus": "yes",
+                "name": "Moorslede Strooiboomhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZEELSESTRAAT SLIJPS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.078227,
+                    50.862618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "55",
+                "ref:De_Lijn": "508631",
+                "bus": "yes",
+                "name": "Moorslede Strooiboomhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DADIZEELSESTRAAT SLIJPS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.078263,
+                    50.862834
+                ]
+            }
+        }
+    ]
+}

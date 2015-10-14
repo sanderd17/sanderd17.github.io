@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "672;674;934",
+                "ref:De_Lijn": "104304",
+                "bus": "yes",
+                "name": "Wildert Huybergsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG WILDERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463353,
+                    51.423458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "672;674;934",
+                "ref:De_Lijn": "104277",
+                "bus": "yes",
+                "name": "Wildert Eikenblok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG WILDERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462181,
+                    51.426488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;679;934",
+                "ref:De_Lijn": "109744",
+                "bus": "yes",
+                "name": "Wildert Gageltjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT WILDERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479599,
+                    51.424163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "672;674;679;934",
+                "ref:De_Lijn": "109748",
+                "bus": "yes",
+                "name": "Wildert Huybergsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG WILDERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463338,
+                    51.423044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;679;934",
+                "ref:De_Lijn": "109745",
+                "bus": "yes",
+                "name": "Wildert Gageltjes",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSSTRAAT WILDERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4796,
+                    51.424279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "672;674;679;934",
+                "ref:De_Lijn": "104276",
+                "bus": "yes",
+                "name": "Wildert Eikenblok",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSESTEENWEG WILDERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462022,
+                    51.426443
+                ]
+            }
+        }
+    ]
+}

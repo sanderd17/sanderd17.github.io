@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206413",
+                "bus": "yes",
+                "name": "Vlekkem Kattenbos",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KATTENBOS ZONNEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.928351,
+                    50.940018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "216004",
+                "bus": "yes",
+                "name": "Vlekkem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAARDESTRAAT VLEKKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.930893,
+                    50.935947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "206389",
+                "bus": "yes",
+                "name": "Vlekkem Windmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINDMOLENSTRAAT VLEKKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.930464,
+                    50.93305
+                ]
+            }
+        }
+    ]
+}

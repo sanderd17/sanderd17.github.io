@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "421;428",
+                "ref:De_Lijn": "106506",
+                "bus": "yes",
+                "name": "Viersel Dijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSEBAAN VIERSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.664352,
+                    51.193102
+                ]
+            }
+        }
+    ]
+}

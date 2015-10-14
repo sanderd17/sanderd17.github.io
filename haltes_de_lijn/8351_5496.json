@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505974",
+                "bus": "yes",
+                "name": "Anzegem Greepstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GREEPSTRAAT GIJZELBRECHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.50027,
+                    50.835312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200761",
+                "bus": "yes",
+                "name": "Elsegem Kruisken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT PETEGEM-AAN-DE-SCHELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.502666,
+                    50.837056
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;724",
+                "ref:De_Lijn": "405178",
+                "bus": "yes",
+                "name": "Gellik Zilverdennenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERDENNENLAAN GELLIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60194,
+                    50.891199
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a;724",
+                "ref:De_Lijn": "405179",
+                "bus": "yes",
+                "name": "Gellik Zilverdennenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERDENNENLAAN GELLIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.601899,
+                    50.89128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405163",
+                "bus": "yes",
+                "name": "Gellik Gellikerheide",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOUTERSTRAAT GELLIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.600419,
+                    50.891772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405162",
+                "bus": "yes",
+                "name": "Gellik Gellikerheide",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOUTERSTRAAT GELLIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.600578,
+                    50.891852
+                ]
+            }
+        }
+    ]
+}

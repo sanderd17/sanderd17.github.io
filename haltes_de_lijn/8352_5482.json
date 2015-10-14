@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;125",
+                "ref:De_Lijn": "202788",
+                "bus": "yes",
+                "name": "Nevele Bijlkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF VAN HOORNESTRAAT NEVELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529368,
+                    51.036177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210027",
+                "bus": "yes",
+                "name": "Poesele Hof Ter Motte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OUDE KERKSTRAAT POESELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.51805,
+                    51.030532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200699",
+                "bus": "yes",
+                "name": "Poesele Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEENTJESSTRAAT POESELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.516286,
+                    51.034232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15",
+                "ref:De_Lijn": "203788",
+                "bus": "yes",
+                "name": "Nevele Bijlkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAAF VAN HOORNESTRAAT NEVELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529252,
+                    51.036302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;125",
+                "ref:De_Lijn": "202789",
+                "bus": "yes",
+                "name": "Poesele Beentjesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDEWEG POESELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.516234,
+                    51.03789
+                ]
+            }
+        }
+    ]
+}

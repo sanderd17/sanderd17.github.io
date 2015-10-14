@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;62;39b;726",
+                "ref:De_Lijn": "407638",
+                "bus": "yes",
+                "name": "Kanne Muizenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUIZENBERG KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.654735,
+                    50.819658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;62;39b;726",
+                "ref:De_Lijn": "407639",
+                "bus": "yes",
+                "name": "Kanne Muizenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MUIZENBERG KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.654808,
+                    50.819739
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "407763",
+                "bus": "yes",
+                "name": "Kanne Neercanne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIESTRAAT KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.668673,
+                    50.817104
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;62;39b;726",
+                "ref:De_Lijn": "407641",
+                "bus": "yes",
+                "name": "Kanne Statieplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIESTRAAT KANNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.668929,
+                    50.814044
+                ]
+            }
+        }
+    ]
+}

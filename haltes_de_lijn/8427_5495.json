@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;105",
+                "ref:De_Lijn": "407001",
+                "bus": "yes",
+                "name": "Binderveld Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALSTRAAT BINDERVELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.166477,
+                    50.861184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;30;105",
+                "ref:De_Lijn": "407000",
+                "bus": "yes",
+                "name": "Binderveld Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALSTRAAT BINDERVELD",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.165893,
+                    50.861107
+                ]
+            }
+        }
+    ]
+}

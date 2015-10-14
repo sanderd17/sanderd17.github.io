@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201832",
+                "bus": "yes",
+                "name": "Kruishoutem Boekweitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKWEITSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.540007,
+                    50.917525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;485",
+                "ref:De_Lijn": "201805",
+                "bus": "yes",
+                "name": "Lozer Zandvlooi",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASSIONISTENSTRAAT KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.556461,
+                    50.922495
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205193",
+                "bus": "yes",
+                "name": "Sinaai Kernemelkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTBAAN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.038816,
+                    51.15066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205194",
+                "bus": "yes",
+                "name": "Sinaai Luitentuitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTBAAN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.034538,
+                    51.145426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "204193",
+                "bus": "yes",
+                "name": "Sinaai Kernemelkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTBAAN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.039016,
+                    51.150652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "204194",
+                "bus": "yes",
+                "name": "Sinaai Luitentuitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTBAAN SINAAI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.034539,
+                    51.145201
+                ]
+            }
+        }
+    ]
+}

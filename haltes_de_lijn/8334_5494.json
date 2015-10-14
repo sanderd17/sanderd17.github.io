@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505585",
+                "bus": "yes",
+                "name": "Ledegem Soldatenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEGIJNESTRAAT LEDEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.131103,
+                    50.869607
+                ]
+            }
+        }
+    ]
+}

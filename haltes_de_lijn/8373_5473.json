@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "204205",
+                "bus": "yes",
+                "name": "Eksaarde Nieuwe Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE BAAN EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.989466,
+                    51.154207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "205205",
+                "bus": "yes",
+                "name": "Eksaarde Nieuwe Baan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWE BAAN EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.989437,
+                    51.154315
+                ]
+            }
+        }
+    ]
+}

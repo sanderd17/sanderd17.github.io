@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505751",
+                "bus": "yes",
+                "name": "Pittem Nachtegaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NACHTEGAALSTRAAT PITTEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286143,
+                    51.012034
+                ]
+            }
+        }
+    ]
+}

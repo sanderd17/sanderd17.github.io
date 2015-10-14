@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505985",
+                "bus": "yes",
+                "name": "Houthulst Mooiweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENEBOSDREEF HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.926278,
+                    50.957377
+                ]
+            }
+        }
+    ]
+}

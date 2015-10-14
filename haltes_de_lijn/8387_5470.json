@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205444",
+                "bus": "yes",
+                "name": "Melsele Winningenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DWEERSE KROMSTRAAT MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.288121,
+                    51.201905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205445",
+                "bus": "yes",
+                "name": "Melsele Priemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARMASTRAAT MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298416,
+                    51.205785
+                ]
+            }
+        }
+    ]
+}

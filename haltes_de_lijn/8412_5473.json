@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;220;221;305;540;541;542;946",
+                "ref:De_Lijn": "109280",
+                "bus": "yes",
+                "name": "Herentals De Duinen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.845407,
+                    51.160707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;540;541;542;946",
+                "ref:De_Lijn": "109282",
+                "bus": "yes",
+                "name": "Olen Industrielaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING BOUDEWIJNLAAN OLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.848755,
+                    51.156829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;305;540;541;542;946",
+                "ref:De_Lijn": "109283",
+                "bus": "yes",
+                "name": "Herentals Industrielaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.847768,
+                    51.15819
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221",
+                "ref:De_Lijn": "109736",
+                "bus": "yes",
+                "name": "Olen Industrielaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEZEWIJK OLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.848038,
+                    51.156652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;305;540;541;542;946",
+                "ref:De_Lijn": "109281",
+                "bus": "yes",
+                "name": "Herentals De Duinen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSEWEG HERENTALS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.84581,
+                    51.16102
+                ]
+            }
+        }
+    ]
+}

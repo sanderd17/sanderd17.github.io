@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506217",
+                "zone:De_Lijn": "06",
+                "name": "Middelkerke Krokodiel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LEOPOLDLAAN MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.792728,
+                    51.177828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501218",
+                "bus": "yes",
+                "name": "Middelkerke Krokodiel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTENDELAAN MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.796414,
+                    51.173274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506219",
+                "bus": "yes",
+                "name": "Middelkerke Moby Dick",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTENDELAAN MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.804652,
+                    51.177124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501217",
+                "zone:De_Lijn": "06",
+                "name": "Middelkerke Krokodiel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "N34 WESTENDE-BAD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.791643,
+                    51.177346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501219",
+                "bus": "yes",
+                "name": "Middelkerke Moby Dick",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTENDELAAN MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.804352,
+                    51.177111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506218",
+                "bus": "yes",
+                "name": "Middelkerke Krokodiel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTENDELAAN MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.796447,
+                    51.173158
+                ]
+            }
+        }
+    ]
+}

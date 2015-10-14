@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "209211",
+                "bus": "yes",
+                "name": "Sint-Denijs-Boekel Biestmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT NEDERZWALM-HERMELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.69222,
+                    50.876994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;420",
+                "ref:De_Lijn": "208801",
+                "bus": "yes",
+                "name": "Nederzwalm Biestmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT NEDERZWALM-HERMELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692319,
+                    50.885904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208803",
+                "bus": "yes",
+                "name": "Sint-Maria-Latem Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SYLVAIN VAN DE VELDESTRAAT SINT-MARIA-LATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70827,
+                    50.885581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "209808",
+                "bus": "yes",
+                "name": "Nederzwalm Biestmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEERSTRAAT NEDERZWALM-HERMELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.692503,
+                    50.885959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;420;445",
+                "ref:De_Lijn": "208211",
+                "bus": "yes",
+                "name": "Sint-Denijs-Boekel Biestmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT NEDERZWALM-HERMELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.69291,
+                    50.876432
+                ]
+            }
+        }
+    ]
+}

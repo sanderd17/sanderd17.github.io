@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "404245",
+                "bus": "yes",
+                "name": "Zolder Vogelzang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N72 ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.320584,
+                    51.003461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "404244",
+                "bus": "yes",
+                "name": "Zolder Vogelzang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N72 ZOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.319357,
+                    51.004064
+                ]
+            }
+        }
+    ]
+}

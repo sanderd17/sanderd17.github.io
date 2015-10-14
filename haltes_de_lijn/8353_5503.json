@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "205982",
+                "bus": "yes",
+                "name": "Paillartcamp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAILLARTCAMP RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.55083,
+                    50.743544
+                ]
+            }
+        }
+    ]
+}

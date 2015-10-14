@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "403658",
+                "bus": "yes",
+                "name": "Hechtel Vliegplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMPERBAAN HECHTEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.297505,
+                    51.120636
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "403659",
+                "bus": "yes",
+                "name": "Hechtel Vliegplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMPERBAAN HECHTEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.296491,
+                    51.120662
+                ]
+            }
+        }
+    ]
+}

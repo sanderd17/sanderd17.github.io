@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "504999",
+                "bus": "yes",
+                "name": "Beveren Wagenaarsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAGENAARSTRAAT BEVEREN-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.345899,
+                    50.863044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "508063",
+                "bus": "yes",
+                "name": "Beveren Nieuwe Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSEWEG BEVEREN-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.347048,
+                    50.874247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "503063",
+                "bus": "yes",
+                "name": "Beveren Nieuwe Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSEWEG BEVEREN-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.347023,
+                    50.874085
+                ]
+            }
+        }
+    ]
+}

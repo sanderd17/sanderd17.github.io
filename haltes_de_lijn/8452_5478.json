@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "721",
+                "ref:De_Lijn": "406144",
+                "bus": "yes",
+                "name": "Neeroeteren Merelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERELSTRAAT NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.731,
+                    51.085713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "721",
+                "ref:De_Lijn": "406146",
+                "bus": "yes",
+                "name": "Neeroeteren Vredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AKKERSTRAAT NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.719693,
+                    51.08516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "721",
+                "ref:De_Lijn": "406143",
+                "bus": "yes",
+                "name": "Neeroeteren Vredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AKKERSTRAAT NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.719624,
+                    51.085242
+                ]
+            }
+        }
+    ]
+}

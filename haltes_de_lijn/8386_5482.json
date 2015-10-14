@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308850",
+                "bus": "yes",
+                "name": "Londerzeel Weidekens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALDERSESTEENWEG LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.284091,
+                    51.032203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308849",
+                "bus": "yes",
+                "name": "Londerzeel Weidekens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALDERSESTEENWEG LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.28402,
+                    51.032302
+                ]
+            }
+        }
+    ]
+}

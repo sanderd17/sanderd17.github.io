@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "183",
+                "ref:De_Lijn": "102076",
+                "bus": "yes",
+                "name": "Niel Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIDDER BERTHOUTLAAN NIEL (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.326347,
+                    51.109593
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "183",
+                "ref:De_Lijn": "102077",
+                "bus": "yes",
+                "name": "Niel Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT HUBERTUSPLEIN NIEL (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.327546,
+                    51.109809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "183",
+                "ref:De_Lijn": "102013",
+                "bus": "yes",
+                "name": "Niel Maria Boodschap",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIRIXDREEF NIEL (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.321892,
+                    51.109079
+                ]
+            }
+        }
+    ]
+}

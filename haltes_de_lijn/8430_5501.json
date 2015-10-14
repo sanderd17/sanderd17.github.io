@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "408177",
+                "bus": "yes",
+                "name": "Engelmanshoven Zonnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VRIJHEERSSTRAAT ENGELMANSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.247475,
+                    50.768042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "734;S12",
+                "ref:De_Lijn": "408176",
+                "bus": "yes",
+                "name": "Engelmanshoven Driewilgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEWILGENSTRAAT ENGELMANSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.248608,
+                    50.770209
+                ]
+            }
+        }
+    ]
+}

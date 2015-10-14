@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "101519",
+                "bus": "yes",
+                "name": "Herselt Berglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARENDONKSESTEENWEG BERGOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.927936,
+                    51.076352
+                ]
+            }
+        }
+    ]
+}

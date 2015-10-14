@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201047",
+                "bus": "yes",
+                "name": "Laarne De Valk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MELLESTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.833404,
+                    51.021464
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504105",
+                "bus": "yes",
+                "name": "Roesbrugge-Haringe Hoeve Cambier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLEKERIJWEG ROESBRUGGE-HARINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.633608,
+                    50.877424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "509105",
+                "bus": "yes",
+                "name": "Roesbrugge-Haringe Hoeve Cambier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLEKERIJWEG ROESBRUGGE-HARINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.633359,
+                    50.87724
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59;69",
+                "ref:De_Lijn": "504031",
+                "bus": "yes",
+                "name": "Beveren Rustplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESBRUGGESTRAAT BEVEREN-AAN-DE-IJZER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.626659,
+                    50.931461
+                ]
+            }
+        }
+    ]
+}

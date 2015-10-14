@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343;345",
+                "ref:De_Lijn": "303629",
+                "bus": "yes",
+                "name": "Overijse Boslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZIERENSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.528449,
+                    50.741703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304201",
+                "bus": "yes",
+                "name": "Rosières Cabine Electrique",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROZIERENSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.531065,
+                    50.740306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343;345",
+                "ref:De_Lijn": "303628",
+                "bus": "yes",
+                "name": "Overijse Boslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZIERENSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.528293,
+                    50.741649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304200",
+                "bus": "yes",
+                "name": "Rosières Cabine Electrique",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROZIERENSESTEENWEG ROSIÈRES (RIXENSART)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.530725,
+                    50.740342
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505942",
+                "bus": "yes",
+                "name": "Zwevegem Laatste Oortje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAATSTE OORTJE ZWEVEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.31802,
+                    50.788366
+                ]
+            }
+        }
+    ]
+}

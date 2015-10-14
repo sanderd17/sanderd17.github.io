@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;97;195",
+                "ref:De_Lijn": "202672",
+                "bus": "yes",
+                "name": "Oosteeklo Bijsterveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERTVELDESTEENWEG OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.71288,
+                    51.185716
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;97;195",
+                "ref:De_Lijn": "202673",
+                "bus": "yes",
+                "name": "Oosteeklo Vlasgaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERTVELDESTEENWEG OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.701342,
+                    51.18939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;97",
+                "ref:De_Lijn": "203673",
+                "bus": "yes",
+                "name": "Oosteeklo Vlasgaardstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ERTVELDESTEENWEG OOSTEEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.702601,
+                    51.189388
+                ]
+            }
+        }
+    ]
+}

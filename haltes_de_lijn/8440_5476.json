@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;48;283;752",
+                "ref:De_Lijn": "407570",
+                "bus": "yes",
+                "name": "Peer 't Bergske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURKEL PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.454779,
+                    51.113054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;48;283;752",
+                "ref:De_Lijn": "407407",
+                "bus": "yes",
+                "name": "Peer Burkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURKEL PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.456473,
+                    51.120149
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407350",
+                "bus": "yes",
+                "name": "Peer Bergskensstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BERGSKENSTRAAT PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.458883,
+                    51.112647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;48;283;752",
+                "ref:De_Lijn": "407406",
+                "bus": "yes",
+                "name": "Peer Burkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURKEL PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.456676,
+                    51.120291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;48;283;752",
+                "ref:De_Lijn": "407571",
+                "bus": "yes",
+                "name": "Peer 't Bergske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BURKEL PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.45503,
+                    51.113393
+                ]
+            }
+        }
+    ]
+}

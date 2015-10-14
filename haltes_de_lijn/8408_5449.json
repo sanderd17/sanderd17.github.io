@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "430;935",
+                "ref:De_Lijn": "106390",
+                "bus": "yes",
+                "name": "Meersel-Dreef Meersel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE TRAMWEG MEERSEL-DREEF",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.767785,
+                    51.494643
+                ]
+            }
+        }
+    ]
+}

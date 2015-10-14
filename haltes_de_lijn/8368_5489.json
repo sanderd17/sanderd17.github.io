@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209747",
+                "bus": "yes",
+                "name": "Letterhoutem Groenestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENESTRAAT LETTERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.878115,
+                    50.932916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209746",
+                "bus": "yes",
+                "name": "Letterhoutem Keiberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEIBERG LETTERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.870552,
+                    50.932389
+                ]
+            }
+        }
+    ]
+}

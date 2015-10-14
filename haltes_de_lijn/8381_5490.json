@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;214",
+                "ref:De_Lijn": "300188",
+                "bus": "yes",
+                "name": "Asse Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.169635,
+                    50.920726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;214;340",
+                "ref:De_Lijn": "300195",
+                "bus": "yes",
+                "name": "Asse Heuvelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.160577,
+                    50.920333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;212;214;215;340",
+                "ref:De_Lijn": "300216",
+                "bus": "yes",
+                "name": "Asse Terheide, Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.157458,
+                    50.918215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;214;340",
+                "ref:De_Lijn": "300187",
+                "bus": "yes",
+                "name": "Asse Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.170118,
+                    50.920871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;214",
+                "ref:De_Lijn": "300196",
+                "bus": "yes",
+                "name": "Asse Heuvelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.161572,
+                    50.920415
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;212;214;215",
+                "ref:De_Lijn": "300217",
+                "bus": "yes",
+                "name": "Asse Terheide, Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ASSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.157191,
+                    50.917576
+                ]
+            }
+        }
+    ]
+}

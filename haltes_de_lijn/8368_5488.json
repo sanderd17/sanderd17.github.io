@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "206998",
+                "bus": "yes",
+                "name": "Oordegem Ouden Heirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STICHELENDRIES OORDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.886276,
+                    50.956933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "207868",
+                "bus": "yes",
+                "name": "Vlierzele Bussegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUSSEGEM VLIERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.888057,
+                    50.948401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;390",
+                "ref:De_Lijn": "202886",
+                "bus": "yes",
+                "name": "Bavegem Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDESTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.872454,
+                    50.946322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47",
+                "ref:De_Lijn": "203885",
+                "bus": "yes",
+                "name": "Bavegem Parochiecentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKKOUTERSTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.86766,
+                    50.944881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;390",
+                "ref:De_Lijn": "202885",
+                "bus": "yes",
+                "name": "Bavegem Parochiecentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKKOUTERSTRAAT BAVEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.867573,
+                    50.944971
+                ]
+            }
+        }
+    ]
+}

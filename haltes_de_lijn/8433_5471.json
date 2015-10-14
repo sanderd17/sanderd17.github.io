@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "405807",
+                "bus": "yes",
+                "name": "Kerkhoven Gelderhorsten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOVENSESTEENWEG GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.299172,
+                    51.187117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "405855",
+                "bus": "yes",
+                "name": "Kerkhoven Maaikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOVENSESTEENWEG GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.296563,
+                    51.181771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;711;712",
+                "ref:De_Lijn": "405854",
+                "bus": "yes",
+                "name": "Kerkhoven Maaikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOVENSESTEENWEG GELDERSHORSTEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.297052,
+                    51.181956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;711;712",
+                "ref:De_Lijn": "405806",
+                "bus": "yes",
+                "name": "Kerkhoven Gelderhorsten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOVENSESTEENWEG LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.299611,
+                    51.188327
+                ]
+            }
+        }
+    ]
+}

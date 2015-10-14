@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;455;456",
+                "ref:De_Lijn": "103639",
+                "bus": "yes",
+                "name": "Arendonk Oudegodstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGEN ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.071675,
+                    51.321148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;455;456",
+                "ref:De_Lijn": "103638",
+                "bus": "yes",
+                "name": "Arendonk Oudegodstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGEN ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.071413,
+                    51.320943
+                ]
+            }
+        }
+    ]
+}

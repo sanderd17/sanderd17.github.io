@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;104",
+                "ref:De_Lijn": "404910",
+                "bus": "yes",
+                "name": "Vliermaal Weg naar Zammelen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG VLIERMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.413171,
+                    50.822844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;104",
+                "ref:De_Lijn": "404908",
+                "bus": "yes",
+                "name": "Vliermaal Weg naar Gors-Opleeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG VLIERMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.409642,
+                    50.826912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;104",
+                "ref:De_Lijn": "404911",
+                "bus": "yes",
+                "name": "Vliermaal Weg naar Zammelen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TONGERSESTEENWEG VLIERMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.413191,
+                    50.823095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;104",
+                "ref:De_Lijn": "404909",
+                "bus": "yes",
+                "name": "Vliermaal Weg naar Gors-Opleeuw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N20 VLIERMAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.41051,
+                    50.825717
+                ]
+            }
+        }
+    ]
+}

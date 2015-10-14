@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203248",
+                "bus": "yes",
+                "name": "Eeklo Busstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPERSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.572387,
+                    51.201231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202248",
+                "bus": "yes",
+                "name": "Eeklo Busstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPERSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.572186,
+                    51.20123
+                ]
+            }
+        }
+    ]
+}

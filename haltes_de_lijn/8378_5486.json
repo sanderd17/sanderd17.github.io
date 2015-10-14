@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320;340",
+                "ref:De_Lijn": "206045",
+                "bus": "yes",
+                "name": "Wieze Callebaut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STREEKBAAN WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.09436,
+                    50.98154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;320;340",
+                "ref:De_Lijn": "206382",
+                "bus": "yes",
+                "name": "Wieze Streekbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.087096,
+                    50.981784
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320;340",
+                "ref:De_Lijn": "206687",
+                "bus": "yes",
+                "name": "Wieze Kruisveldbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLVENSTRAAT WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.100287,
+                    50.980862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92",
+                "ref:De_Lijn": "206920",
+                "bus": "yes",
+                "name": "Wieze Callebaut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTERSESTRAAT WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.09476,
+                    50.981316
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "207382",
+                "bus": "yes",
+                "name": "Wieze Streekbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.088518,
+                    50.981967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92",
+                "ref:De_Lijn": "207920",
+                "bus": "yes",
+                "name": "Wieze Callebaut",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AALSTERSESTRAAT WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.094959,
+                    50.981317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320;340",
+                "ref:De_Lijn": "207722",
+                "bus": "yes",
+                "name": "Wieze Bontegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POPULIERENSTRAAT WIEZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.102133,
+                    50.97425
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "303790",
+                "bus": "yes",
+                "name": "Wolvertem Patatestraat 44",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PATATESTRAAT WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325604,
+                    50.984206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "303791",
+                "bus": "yes",
+                "name": "Wolvertem Patatestraat 44",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PATATESTRAAT WOLVERTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.325134,
+                    50.984413
+                ]
+            }
+        }
+    ]
+}

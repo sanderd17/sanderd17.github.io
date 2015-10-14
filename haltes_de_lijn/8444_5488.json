@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409359",
+                "bus": "yes",
+                "name": "Zutendaal Gelierseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDLAAN ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.554574,
+                    50.956913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G7",
+                "ref:De_Lijn": "409391",
+                "bus": "yes",
+                "name": "Wiemesmeer Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N744 WIEMESMEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.558586,
+                    50.953465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;45;G7",
+                "ref:De_Lijn": "409390",
+                "bus": "yes",
+                "name": "Wiemesmeer Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDLAAN WIEMESMEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.558616,
+                    50.952988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409358",
+                "bus": "yes",
+                "name": "Zutendaal Gelierseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDLAAN ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.554651,
+                    50.956607
+                ]
+            }
+        }
+    ]
+}

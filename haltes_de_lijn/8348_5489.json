@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "508641",
+                "bus": "yes",
+                "name": "Oeselgem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINZESTRAAT OESELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.432238,
+                    50.9352
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505161",
+                "bus": "yes",
+                "name": "Oeselgem Vlassenhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOLDERSTRAAT OESELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.428569,
+                    50.935827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;88",
+                "ref:De_Lijn": "503641",
+                "bus": "yes",
+                "name": "Oeselgem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINZESTRAAT OESELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.432459,
+                    50.935525
+                ]
+            }
+        }
+    ]
+}

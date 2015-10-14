@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "724;725",
+                "ref:De_Lijn": "405502",
+                "bus": "yes",
+                "name": "Rekem Openbaar Psychiatrisch Ziekenhuis Kompas",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.662968,
+                    50.929489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;64;20a;724;725",
+                "ref:De_Lijn": "405232",
+                "bus": "yes",
+                "name": "Rekem Openbaar Psychiatrisch Ziekenhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAALBROEKSTRAAT REKEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.667909,
+                    50.928104
+                ]
+            }
+        }
+    ]
+}

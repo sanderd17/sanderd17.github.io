@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104137",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Koningsbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGSBAAN HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.682663,
+                    51.044802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "101341",
+                "bus": "yes",
+                "name": "Beerzel Beerzelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGSBAAN BEERZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.680992,
+                    51.050838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "109575",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Hollandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHALIEHOEVESTRAAT ACHTERHEIDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.699169,
+                    51.043912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104139",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Pelgrimhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MINKSBOSSENSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.689496,
+                    51.051427
+                ]
+            }
+        }
+    ]
+}

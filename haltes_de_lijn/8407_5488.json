@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "333;335;433;513",
+                "ref:De_Lijn": "304319",
+                "bus": "yes",
+                "name": "Rotselaar Drielinden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT ROTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.726588,
+                    50.944977
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "335;512",
+                "ref:De_Lijn": "304324",
+                "bus": "yes",
+                "name": "Rotselaar Steenweg op Wezemaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP WEZEMAAL HEIKANT (ROTSELAAR)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.73167,
+                    50.956324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "335;512",
+                "ref:De_Lijn": "304325",
+                "bus": "yes",
+                "name": "Rotselaar Steenweg op Wezemaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP WEZEMAAL HEIKANT (ROTSELAAR)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.732584,
+                    50.956654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "335;512",
+                "ref:De_Lijn": "302908",
+                "bus": "yes",
+                "name": "Rotselaar De Toren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT ROTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.726145,
+                    50.95591
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "335;512",
+                "ref:De_Lijn": "302906",
+                "bus": "yes",
+                "name": "Rotselaar De Toren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENSTRAAT ROTSELAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.725832,
+                    50.955929
+                ]
+            }
+        }
+    ]
+}

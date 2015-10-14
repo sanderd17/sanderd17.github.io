@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82;280",
+                "ref:De_Lijn": "204311",
+                "bus": "yes",
+                "name": "Sint-Niklaas Krekel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREKEL SINT-NIKLAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.212238,
+                    51.170576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82;280",
+                "ref:De_Lijn": "205311",
+                "bus": "yes",
+                "name": "Sint-Niklaas Krekel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREKEL TEMSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.21251,
+                    51.170567
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "204449",
+                "bus": "yes",
+                "name": "Haasdonk Dennenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STUURSTRAAT HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.213471,
+                    51.178308
+                ]
+            }
+        }
+    ]
+}

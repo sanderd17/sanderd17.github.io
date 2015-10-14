@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;721",
+                "ref:De_Lijn": "406041",
+                "bus": "yes",
+                "name": "Neeroeteren Akkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTEMERLAAN NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.704808,
+                    51.082777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;721",
+                "ref:De_Lijn": "406040",
+                "bus": "yes",
+                "name": "Neeroeteren Akkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTEMERLAAN NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.704675,
+                    51.082608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406049",
+                "bus": "yes",
+                "name": "Neeroeteren Elerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTEMERLAAN NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.711033,
+                    51.07786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406048",
+                "bus": "yes",
+                "name": "Neeroeteren Elerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTEMERLAAN NEEROETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.711239,
+                    51.077597
+                ]
+            }
+        }
+    ]
+}

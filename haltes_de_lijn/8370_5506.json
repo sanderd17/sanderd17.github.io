@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "208609",
+                "bus": "yes",
+                "name": "Commijn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COMMIJN BEVER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.931052,
+                    50.703473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "209609",
+                "bus": "yes",
+                "name": "Commijn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COMMIJN BEVER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.931209,
+                    50.703311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "208610",
+                "bus": "yes",
+                "name": "Muydt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N263 BEVER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929083,
+                    50.697532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "209610",
+                "bus": "yes",
+                "name": "Muydt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COMMIJN BEVER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.9291,
+                    50.697262
+                ]
+            }
+        }
+    ]
+}

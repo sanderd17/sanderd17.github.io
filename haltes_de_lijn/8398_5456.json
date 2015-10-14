@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;447;659;679;934",
+                "ref:De_Lijn": "102864",
+                "bus": "yes",
+                "name": "Wuustwezel Zuymoeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSE STEENWEG WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.531421,
+                    51.394569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;447;659;679;934",
+                "ref:De_Lijn": "102863",
+                "bus": "yes",
+                "name": "Wuustwezel Zuymoeren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSE STEENWEG WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.530316,
+                    51.394795
+                ]
+            }
+        }
+    ]
+}

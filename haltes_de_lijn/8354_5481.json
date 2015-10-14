@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200697",
+                "bus": "yes",
+                "name": "Landegem Houtstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTSTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.580785,
+                    51.047796
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125",
+                "ref:De_Lijn": "200745",
+                "bus": "yes",
+                "name": "Vosselare Tempeliersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDEGEMSTRAAT VOSSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.566165,
+                    51.042978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200690",
+                "bus": "yes",
+                "name": "Landegem Ter Varent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORSTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58047,
+                    51.054644
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "201745",
+                "bus": "yes",
+                "name": "Vosselare Tempeliersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDEGEMSTRAAT VOSSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.566007,
+                    51.043004
+                ]
+            }
+        }
+    ]
+}

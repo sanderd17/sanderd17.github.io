@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81;420",
+                "ref:De_Lijn": "208426",
+                "bus": "yes",
+                "name": "Beerlegem Beerlegembaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERLEGEMSEBAAN BEERLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.72488,
+                    50.89931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420",
+                "ref:De_Lijn": "208678",
+                "bus": "yes",
+                "name": "Paulatem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAULATEMSTRAAT PAULATEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.715851,
+                    50.896393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;81",
+                "ref:De_Lijn": "209426",
+                "bus": "yes",
+                "name": "Beerlegem Beerlegembaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERLEGEMSEBAAN BEERLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.724739,
+                    50.899211
+                ]
+            }
+        }
+    ]
+}

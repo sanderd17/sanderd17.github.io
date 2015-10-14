@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;36",
+                "ref:De_Lijn": "506466",
+                "bus": "yes",
+                "name": "Zuienkerke Assestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANKENBERGSE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.170811,
+                    51.278957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505397",
+                "bus": "yes",
+                "name": "Zuienkerke Polderbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CANADEZENSTRAAT LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.174818,
+                    51.287043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;36",
+                "ref:De_Lijn": "506471",
+                "bus": "yes",
+                "name": "Zuienkerke Vierwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANKENBERGSE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.165604,
+                    51.284127
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;36",
+                "ref:De_Lijn": "501471",
+                "bus": "yes",
+                "name": "Zuienkerke Vierwegen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANKENBERGSE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.166404,
+                    51.283668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;36",
+                "ref:De_Lijn": "501466",
+                "bus": "yes",
+                "name": "Zuienkerke Assestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLANKENBERGSE STEENWEG ZUIENKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.171054,
+                    51.278977
+                ]
+            }
+        }
+    ]
+}

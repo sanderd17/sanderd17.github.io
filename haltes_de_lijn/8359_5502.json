@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24",
+                "ref:De_Lijn": "208178",
+                "bus": "yes",
+                "name": "Ellezelles / Elzele Chemin Vers Flobecq",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N48 ELZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.683844,
+                    50.762378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25",
+                "ref:De_Lijn": "209179",
+                "bus": "yes",
+                "name": "Ellezelles / Elzele Quatre Vents",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N48 ELZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679323,
+                    50.761344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24",
+                "ref:De_Lijn": "208179",
+                "bus": "yes",
+                "name": "Ellezelles / Elzele Quatre Vents",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE NINOVE ELZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.67999,
+                    50.761321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25",
+                "ref:De_Lijn": "209178",
+                "bus": "yes",
+                "name": "Ellezelles / Elzele Chemin Vers Flobecq",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE NINOVE ELZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.683048,
+                    50.76249
+                ]
+            }
+        }
+    ]
+}

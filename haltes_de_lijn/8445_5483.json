@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11;40",
+                "ref:De_Lijn": "400213",
+                "bus": "yes",
+                "name": "As Molendel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREEËRWEG AS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.58083,
+                    51.019416
+                ]
+            }
+        }
+    ]
+}

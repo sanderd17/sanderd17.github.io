@@ -1,0 +1,1376 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;27;28;42;44;48;94;96",
+                "ref:De_Lijn": "200482",
+                "bus": "yes",
+                "name": "Ledeberg Eggermontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.738834,
+                    51.036584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200033",
+                "bus": "yes",
+                "name": "Sint-Lievenspoort",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "SINT-LIEVENSLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.73554,
+                    51.038742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;48",
+                "ref:De_Lijn": "202895",
+                "bus": "yes",
+                "name": "Ledeberg Botermarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.740841,
+                    51.033655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205357",
+                "name": "Ledeberg Ledebergplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "LEDEBERGPLEIN LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.741351,
+                    51.03702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200061",
+                "name": "Ledeberg Van Lokerenstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.743875,
+                    51.040234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;N4;140",
+                "ref:De_Lijn": "200090",
+                "bus": "yes",
+                "name": "Gentbrugge Moscou",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "JOZEF VERVAENESTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751247,
+                    51.029377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209976",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats (Lijn 2100)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751701,
+                    51.036059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "200079",
+                "bus": "yes",
+                "name": "Sportterrein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARMOEZENIERSWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.740035,
+                    51.030972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;43;44;48",
+                "ref:De_Lijn": "203895",
+                "bus": "yes",
+                "name": "Ledeberg Botermarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.741043,
+                    51.033405
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;22;24;140",
+                "ref:De_Lijn": "200060",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.749429,
+                    51.037485
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;27;28;94;96;N24",
+                "ref:De_Lijn": "201478",
+                "bus": "yes",
+                "name": "Gentbrugge Arsenaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.756838,
+                    51.033497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;N24",
+                "ref:De_Lijn": "201061",
+                "bus": "yes",
+                "name": "Ledeberg Van Lokerenstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.743375,
+                    51.040339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;20;27;28;94;96;N24",
+                "ref:De_Lijn": "201479",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.750567,
+                    51.036592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208959",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.752072,
+                    51.036052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;9;20;22;24;27;28;94;96",
+                "ref:De_Lijn": "201481",
+                "bus": "yes",
+                "name": "Ledeberg Ledebergplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HOVENIERSSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.742644,
+                    51.037413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209960",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751828,
+                    51.036158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200469",
+                "bus": "yes",
+                "name": "Ledeberg Ledebergplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEDEBERGPLEIN LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.742087,
+                    51.037482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208976",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats (Lijn 2100)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751553,
+                    51.036427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201345",
+                "bus": "yes",
+                "name": "Zuiderpoort",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GASTON CROMMENLAAN LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736107,
+                    51.034772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;27;28;41;43;94;96",
+                "ref:De_Lijn": "201346",
+                "bus": "yes",
+                "name": "Ledeberg Gaston Crommenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHILLES HEYNDRICKXLAAN LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736757,
+                    51.033085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209959",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.750596,
+                    51.03661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211059",
+                "bus": "yes",
+                "name": "Ledeberg Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.744494,
+                    51.037639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;N4",
+                "ref:De_Lijn": "201092",
+                "bus": "yes",
+                "name": "Ledeberg Moriaanstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "JOZEF VERVAENESTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.745392,
+                    51.032277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;27;28;41;43;94;96",
+                "ref:De_Lijn": "200346",
+                "bus": "yes",
+                "name": "Ledeberg Gaston Crommenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHILLES HEYNDRICKXLAAN LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736627,
+                    51.033156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;22;24",
+                "ref:De_Lijn": "201060",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.749577,
+                    51.03709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "201534",
+                "bus": "yes",
+                "name": "Toemaattragel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOUTSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.737349,
+                    51.030391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "200797",
+                "bus": "yes",
+                "name": "Gentbrugge Park&Ride",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAND VAN RODELAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.756726,
+                    51.035573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;N4",
+                "ref:De_Lijn": "201094",
+                "bus": "yes",
+                "name": "Ledeberg Ledebergplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "LEDEBERGSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.741199,
+                    51.036722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;20;22;24;42;44;48;N4",
+                "ref:De_Lijn": "201096",
+                "bus": "yes",
+                "name": "Sint-Lievenspoort",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HUBERT FRÈRE-ORBANLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736787,
+                    51.03927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201469",
+                "bus": "yes",
+                "name": "Ledeberg Ledebergplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOVENIERSSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.742516,
+                    51.037395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "201079",
+                "bus": "yes",
+                "name": "Sportterrein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARMOEZENIERSWEG GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.740463,
+                    51.030974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "211072",
+                "name": "Gentbrugge P&R",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.755289,
+                    51.034253
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200484",
+                "bus": "yes",
+                "name": "Sint-Lievenspoort",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WILLEM VAN GULIKLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736462,
+                    51.039088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;N4",
+                "ref:De_Lijn": "201091",
+                "bus": "yes",
+                "name": "Ledeberg Van Ooteghemstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "JOZEF VERVAENESTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.747726,
+                    51.031525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200094",
+                "name": "Ledeberg Ledebergplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LEDEBERGPLEIN LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.741337,
+                    51.03702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;20;22;24;42;44",
+                "ref:De_Lijn": "200095",
+                "bus": "yes",
+                "name": "Ledeberg Hundelgemsesteenweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HUNDELGEMSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.738367,
+                    51.037391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200480",
+                "bus": "yes",
+                "name": "Gentbrugge Ankerslaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.749415,
+                    51.037494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;67",
+                "ref:De_Lijn": "200534",
+                "bus": "yes",
+                "name": "Toemaattragel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOUTSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.737179,
+                    51.030337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209815",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751441,
+                    51.036336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202131",
+                "bus": "yes",
+                "name": "Sint-Lievenspoort",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736835,
+                    51.038902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211058",
+                "bus": "yes",
+                "name": "Gentbrugge Frederik Burvenichstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FREDERIK BURVENICHSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.746903,
+                    51.038802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "210072",
+                "name": "Gentbrugge P&R",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.753993,
+                    51.035235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201797",
+                "bus": "yes",
+                "name": "Gentbrugge Park & Ride",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAND VAN RODELAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.756954,
+                    51.035538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;20;22;24;42;44;48;N4",
+                "ref:De_Lijn": "201097",
+                "bus": "yes",
+                "name": "Sint-Lievensdoorgang",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HUBERT FRÈRE-ORBANLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.735605,
+                    51.041295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140",
+                "ref:De_Lijn": "201887",
+                "bus": "yes",
+                "name": "Gentbrugge Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROBERT RINSKOPFLAAN GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.756645,
+                    51.038512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210069",
+                "bus": "yes",
+                "name": "Gentbrugge Moscou",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "JOZEF VERVAENESTRAAT GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751276,
+                    51.02936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201054",
+                "bus": "yes",
+                "name": "Gentbrugge Arsenaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.756895,
+                    51.033542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "34;35;36",
+                "ref:De_Lijn": "203131",
+                "bus": "yes",
+                "name": "Sint-Lievenspoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.737252,
+                    51.038616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210058",
+                "bus": "yes",
+                "name": "Gentbrugge Frederik Burvenichstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FREDERIK BURVENICHSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.746716,
+                    51.038855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201480",
+                "bus": "yes",
+                "name": "Gentbrugge Ankerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOVENIERSSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.748127,
+                    51.037838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;20;22;24;42;44;48",
+                "ref:De_Lijn": "200096",
+                "bus": "yes",
+                "name": "Sint-Lievenspoort",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HUBERT FRÈRE-ORBANLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.73693,
+                    51.03928
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200092",
+                "name": "Ledeberg Moriaanstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "JOZEF VERVAENESTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.745377,
+                    51.032367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;20;22;24;N4",
+                "ref:De_Lijn": "201095",
+                "bus": "yes",
+                "name": "Ledeberg Hundelgemsesteenweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HUNDELGEMSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.738755,
+                    51.03715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;4;9;20;22;24;27;28;94;96",
+                "ref:De_Lijn": "200481",
+                "bus": "yes",
+                "name": "Ledeberg Ledebergplein",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "LEDEBERGPLEIN LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.742087,
+                    51.037482
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;27;28;94;96;140",
+                "ref:De_Lijn": "200478",
+                "bus": "yes",
+                "name": "Gentbrugge Arsenaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.757064,
+                    51.033723
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;27;28;42;44;48;94;96",
+                "ref:De_Lijn": "201482",
+                "bus": "yes",
+                "name": "Ledeberg Eggermontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUNDELGEMSESTEENWEG LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.739004,
+                    51.036639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;N4",
+                "ref:De_Lijn": "201093",
+                "bus": "yes",
+                "name": "Ledeberg Botermarkt",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "LEDEBERGSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.741555,
+                    51.033542
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210059",
+                "bus": "yes",
+                "name": "Ledeberg Langestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGESTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.744651,
+                    51.037667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "204357",
+                "bus": "yes",
+                "name": "Ledeberg Ledebergplein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LEDEBERGSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.74117,
+                    51.036722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201484",
+                "bus": "yes",
+                "name": "Sint-Lievenspoort",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DIERENTUINLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.736153,
+                    51.038754
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208960",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.751553,
+                    51.036427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;20;27;28;94;96",
+                "ref:De_Lijn": "200479",
+                "bus": "yes",
+                "name": "Gentbrugge Stelplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG GENTBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.75184,
+                    51.036302
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200091",
+                "name": "Ledeberg Van Ooteghemstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "JOZEF VERVAENESTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.747724,
+                    51.031651
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "200093",
+                "name": "Ledeberg Botermarkt",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "LEDEBERGSTRAAT LEDEBERG (GENT)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.741648,
+                    51.034019
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101531",
+                "bus": "yes",
+                "name": "Tongerlo Melkerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOLHUIS TONGERLO (WESTERLO)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.928226,
+                    51.114824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401944",
+                "bus": "yes",
+                "name": "Geel Kruispunt W/N Tongerlo",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942719,
+                    51.122799
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401945",
+                "bus": "yes",
+                "name": "Geel Kruispunt W/N Tongerlo",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.942936,
+                    51.12296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101529",
+                "bus": "yes",
+                "name": "Tongerlo Melkerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOLHUIS TONGERLO (WESTERLO)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.928325,
+                    51.114742
+                ]
+            }
+        }
+    ]
+}

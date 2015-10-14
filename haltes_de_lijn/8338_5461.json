@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;92",
+                "ref:De_Lijn": "500602",
+                "bus": "yes",
+                "name": "Zeebrugge Albatros",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLOEGSTRAAT ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20954,
+                    51.330167
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;47;92",
+                "ref:De_Lijn": "501462",
+                "bus": "yes",
+                "name": "Zeebrugge Albatros",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLOEGSTRAAT ZEEBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.209776,
+                    51.3299
+                ]
+            }
+        }
+    ]
+}

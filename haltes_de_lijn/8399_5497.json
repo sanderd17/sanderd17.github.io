@@ -1,0 +1,151 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;556",
+                "ref:De_Lijn": "304823",
+                "bus": "yes",
+                "name": "Duisburg Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOTSTRAAT VOSSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.56093,
+                    50.819873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "556",
+                "ref:De_Lijn": "304900",
+                "bus": "yes",
+                "name": "Vossem Lindenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDENBERG VOSSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.559108,
+                    50.832561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;556",
+                "ref:De_Lijn": "304895",
+                "bus": "yes",
+                "name": "Vossem Duisburgstraat 51",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSEMBERG VOSSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.565299,
+                    50.826285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;556",
+                "ref:De_Lijn": "304894",
+                "bus": "yes",
+                "name": "Vossem Duisburgstraat 51",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSEMBERG VOSSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.565187,
+                    50.826563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304901",
+                "bus": "yes",
+                "name": "Vossem Lindenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDENBERG VOSSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.559292,
+                    50.832497
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;556",
+                "ref:De_Lijn": "304910",
+                "bus": "yes",
+                "name": "Vossem Steenweg naar Duisburg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSEMBERG VOSSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.564662,
+                    50.833325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "315;556",
+                "ref:De_Lijn": "304911",
+                "bus": "yes",
+                "name": "Vossem Steenweg naar Duisburg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSEMBERG VOSSEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.564676,
+                    50.833495
+                ]
+            }
+        }
+    ]
+}

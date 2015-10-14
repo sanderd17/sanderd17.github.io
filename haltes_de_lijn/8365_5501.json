@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;410",
+                "ref:De_Lijn": "217001",
+                "bus": "yes",
+                "name": "Zarlardinge Korreelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORREELSTRAAT ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.819195,
+                    50.772116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "208026",
+                "bus": "yes",
+                "name": "Everbeek Klaie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLAAIE EVERBEEK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.804012,
+                    50.770893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "208025",
+                "bus": "yes",
+                "name": "Everbeek Koreelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REEPSTRAAT EVERBEEK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.806289,
+                    50.76774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;410",
+                "ref:De_Lijn": "208037",
+                "bus": "yes",
+                "name": "Zarlardinge Brouwierstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROUWIERSTRAAT ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.815555,
+                    50.769411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;410",
+                "ref:De_Lijn": "206773",
+                "bus": "yes",
+                "name": "Zarlardinge Moutstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERMOLENSTRAAT ZARLARDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.82315,
+                    50.774598
+                ]
+            }
+        }
+    ]
+}

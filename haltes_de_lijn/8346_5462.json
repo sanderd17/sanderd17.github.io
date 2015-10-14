@@ -1,0 +1,49 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505620",
+                "bus": "yes",
+                "zone:De_Lijn": "7984",
+                "name": "Sluis Ridderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIDDERSTRAAT SLUIS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.38937,
+                    51.307618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "505520",
+                "bus": "yes",
+                "zone:De_Lijn": "7984",
+                "name": "Sluis Ridderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIDDERSTRAAT SLUIS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.389243,
+                    51.307518
+                ]
+            }
+        }
+    ]
+}

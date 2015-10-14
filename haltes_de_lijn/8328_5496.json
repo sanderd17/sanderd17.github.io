@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505206",
+                "bus": "yes",
+                "name": "Geluveld Poppies",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT GELUVELD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.007311,
+                    50.838971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505210",
+                "bus": "yes",
+                "name": "Geluveld Voetbalplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT GELUVELD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.000614,
+                    50.836366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "504838",
+                "bus": "yes",
+                "name": "Beselare Vijverbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REUTELHOEKSTRAAT BESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.002234,
+                    50.846087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;84",
+                "ref:De_Lijn": "509089",
+                "bus": "yes",
+                "name": "Geluveld Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MENENSTRAAT GELUVELD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.993483,
+                    50.834053
+                ]
+            }
+        }
+    ]
+}

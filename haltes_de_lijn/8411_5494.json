@@ -1,0 +1,65 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "307788",
+                "bus": "yes",
+                "name": "Lubbeek Butselbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DROGENHOF LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.822709,
+                    50.861465
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308918",
+                "bus": "yes",
+                "name": "Lubbeek Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDE LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828153,
+                    50.866208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308917",
+                "bus": "yes",
+                "name": "Lubbeek Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARDEBRUG LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.827983,
+                    50.86629
+                ]
+            }
+        }
+    ]
+}

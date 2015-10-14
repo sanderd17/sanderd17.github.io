@@ -1,0 +1,445 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;49;71;72",
+                "ref:De_Lijn": "201543",
+                "bus": "yes",
+                "name": "Zwijnaarde Campusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N469 ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.71199,
+                    51.006871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201541",
+                "bus": "yes",
+                "name": "Zwijnaarde Don Bosco",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG-NOORD ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.704831,
+                    51.012342
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "200322",
+                "bus": "yes",
+                "name": "Zwijnaarde Zonnedauwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAURIERSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.707123,
+                    51.00137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71",
+                "ref:De_Lijn": "200290",
+                "bus": "yes",
+                "name": "Zwijnaarde Remi Vlerickstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERWEG-ZUID ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.711246,
+                    50.999936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205928",
+                "bus": "yes",
+                "name": "Zwijnaarde TP Civiele Techniek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TECHNOLOGIEPARK-ZWIJNAARDE ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708563,
+                    51.010394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205929",
+                "bus": "yes",
+                "name": "Zwijnaarde TP Bayer",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TECHNOLOGIEPARK-ZWIJNAARDE ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.7115,
+                    51.009323
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;49;71;72;N5",
+                "ref:De_Lijn": "200659",
+                "bus": "yes",
+                "name": "Zwijnaarde Technologiepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708125,
+                    51.008135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;47;49;71;72",
+                "ref:De_Lijn": "201657",
+                "bus": "yes",
+                "name": "Zwijnaarde Bollebergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG-NOORD ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.704832,
+                    51.012234
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "200382",
+                "bus": "yes",
+                "name": "Zwijnaarde Ter Linden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TER LINDEN ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.712351,
+                    51.001435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "200321",
+                "bus": "yes",
+                "name": "Zwijnaarde Sporthal Hekers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TER LINDEN ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709237,
+                    51.003018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;47;49;71;72;78;N5;145",
+                "ref:De_Lijn": "200657",
+                "bus": "yes",
+                "name": "Zwijnaarde Bollebergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTESTEENWEG-NOORD ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.703879,
+                    51.012121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205931",
+                "bus": "yes",
+                "name": "Zwijnaarde TP EESA",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TECHNOLOGIEPARK-ZWIJNAARDE ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710251,
+                    51.012984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200542",
+                "bus": "yes",
+                "name": "Zwijnaarde Hutsepotstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HUTSEPOTSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.701489,
+                    51.008862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;49;71;72",
+                "ref:De_Lijn": "201658",
+                "bus": "yes",
+                "name": "Zwijnaarde Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.703322,
+                    51.010194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "208945",
+                "bus": "yes",
+                "name": "Zwijnaarde Vrije Ges. Gemengde Basisschool",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HUTSEPOTSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.713288,
+                    51.003705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200541",
+                "bus": "yes",
+                "name": "Zwijnaarde Don Bosco",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOLLEBERGEN ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.704442,
+                    51.012627
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;49;71;72;N5",
+                "ref:De_Lijn": "200543",
+                "bus": "yes",
+                "name": "Zwijnaarde Campusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.71205,
+                    51.006665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201542",
+                "bus": "yes",
+                "name": "Zwijnaarde Hutsepotstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HUTSEPOTSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.701573,
+                    51.008934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210048",
+                "bus": "yes",
+                "name": "Zwijnaarde Sporthal Hekers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEMBERSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.708244,
+                    51.002715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;49;71;72;N5",
+                "ref:De_Lijn": "200658",
+                "bus": "yes",
+                "name": "Zwijnaarde Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.703109,
+                    51.010139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;44;45;49;71;72",
+                "ref:De_Lijn": "201659",
+                "bus": "yes",
+                "name": "Zwijnaarde Technologiepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRAMSTRAAT ZWIJNAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.707794,
+                    51.008394
+                ]
+            }
+        }
+    ]
+}

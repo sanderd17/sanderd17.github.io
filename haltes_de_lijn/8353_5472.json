@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66",
+                "ref:De_Lijn": "203391",
+                "bus": "yes",
+                "name": "Adegem Veldekensvaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENS ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.539135,
+                    51.170601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66",
+                "ref:De_Lijn": "203392",
+                "bus": "yes",
+                "name": "Eeklo Tieltsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5485,
+                    51.177166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66;185;195",
+                "ref:De_Lijn": "202391",
+                "bus": "yes",
+                "name": "Adegem Veldekensvaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENS ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.538666,
+                    51.170427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;195",
+                "ref:De_Lijn": "200956",
+                "bus": "yes",
+                "name": "Eeklo Ambachtenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWENDORPE EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.546092,
+                    51.179082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66;195",
+                "ref:De_Lijn": "202392",
+                "bus": "yes",
+                "name": "Eeklo Tieltsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSESTEENWEG EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.548476,
+                    51.176905
+                ]
+            }
+        }
+    ]
+}

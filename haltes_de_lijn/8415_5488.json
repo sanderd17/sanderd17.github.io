@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;376;591",
+                "ref:De_Lijn": "305040",
+                "bus": "yes",
+                "name": "Tielt-Winge Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT TIELT (TIELT-WINGE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.919515,
+                    50.945435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;390;591",
+                "ref:De_Lijn": "305009",
+                "bus": "yes",
+                "name": "Tielt-Winge Haksbergenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RILLAARSEWEG TIELT (TIELT-WINGE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.903914,
+                    50.946208
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "374;390;591",
+                "ref:De_Lijn": "305008",
+                "bus": "yes",
+                "name": "Tielt-Winge Haksbergenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RILLAARSEWEG TIELT (TIELT-WINGE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.903645,
+                    50.946345
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;376;591",
+                "ref:De_Lijn": "305041",
+                "bus": "yes",
+                "name": "Tielt-Winge Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT TIELT (TIELT-WINGE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.919402,
+                    50.945526
+                ]
+            }
+        }
+    ]
+}

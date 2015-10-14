@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505584",
+                "bus": "yes",
+                "name": "Koekelare Wulfaert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WULFAERTDIJK KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.93935,
+                    51.102097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505025",
+                "bus": "yes",
+                "name": "Koekelare Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKERSTRAAT KOEKELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.933444,
+                    51.100488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505583",
+                "bus": "yes",
+                "name": "Zande Korkentap",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORKENTAPSTRAAT ZANDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.925702,
+                    51.108467
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "509483",
+                "bus": "yes",
+                "name": "Dranouter De Bonte Kattenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAUWAKKERSTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.78798,
+                    50.743956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504693",
+                "bus": "yes",
+                "name": "Dranouter Zwartemolenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTEMOLENSTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.786638,
+                    50.749324
+                ]
+            }
+        }
+    ]
+}

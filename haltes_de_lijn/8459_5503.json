@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408927",
+                "bus": "yes",
+                "name": "Teuven Sinnich",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINNICH TEUVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.882192,
+                    50.747436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408843",
+                "bus": "yes",
+                "name": "Remersdaal Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OBSINNICH REMERSDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.886658,
+                    50.740473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408926",
+                "bus": "yes",
+                "name": "Teuven Sinnich",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINNICH TEUVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.882489,
+                    50.747441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408842",
+                "bus": "yes",
+                "name": "Remersdaal Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OBSINNICH REMERSDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.886945,
+                    50.740577
+                ]
+            }
+        }
+    ]
+}

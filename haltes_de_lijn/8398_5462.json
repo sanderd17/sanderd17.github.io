@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "Buur",
+                "ref:De_Lijn": "102093",
+                "bus": "yes",
+                "name": "Brasschaat Buitenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAPESTRAAT BRASSCHAAT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.546881,
+                    51.309009
+                ]
+            }
+        }
+    ]
+}

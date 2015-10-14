@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "102289",
+                "bus": "yes",
+                "name": "Baarle-Nassau Zigraeck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.851741,
+                    51.418844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "457",
+                "ref:De_Lijn": "102291",
+                "bus": "yes",
+                "name": "Baarle-Nassau Zigraeck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTRATENSEBAAN BAARLE-NASSAU",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.851612,
+                    51.418916
+                ]
+            }
+        }
+    ]
+}

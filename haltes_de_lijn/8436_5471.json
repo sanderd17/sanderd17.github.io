@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "406728",
+                "bus": "yes",
+                "name": "Overpelt Gortenstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GORTENSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.369984,
+                    51.192749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "403611",
+                "bus": "yes",
+                "name": "Overpelt Napoleonstrand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NAPOLEONWEG OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.363218,
+                    51.192789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "406729",
+                "bus": "yes",
+                "name": "Overpelt Gortenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GORTENSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.370127,
+                    51.192748
+                ]
+            }
+        }
+    ]
+}

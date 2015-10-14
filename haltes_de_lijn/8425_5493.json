@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301507",
+                "bus": "yes",
+                "name": "Grazen Dorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.127926,
+                    50.880562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301506",
+                "bus": "yes",
+                "name": "Grazen Dorpstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.127797,
+                    50.880491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301508",
+                "bus": "yes",
+                "name": "Grazen Verdaelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.129459,
+                    50.876911
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;568;715",
+                "ref:De_Lijn": "301509",
+                "bus": "yes",
+                "name": "Grazen Verdaelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERDAELSTRAAT GRAZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.129617,
+                    50.877045
+                ]
+            }
+        }
+    ]
+}

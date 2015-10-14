@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200706",
+                "bus": "yes",
+                "name": "Sint-Kruis-Winkel Bokstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNIPPEGROEN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.800667,
+                    51.15665
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "218909",
+                "bus": "yes",
+                "name": "Kluizendok (Havendag 2015)",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHRISTOFFEL COLUMBUSLAAN GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.78085,
+                    51.165012
+                ]
+            }
+        }
+    ]
+}

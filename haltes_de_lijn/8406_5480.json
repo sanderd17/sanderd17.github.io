@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "109581",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Kleine Langveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHALIEHOEVESTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.706936,
+                    51.057095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;943",
+                "ref:De_Lijn": "109586",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Moretuslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORETUSLAAN HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.707015,
+                    51.066048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;943",
+                "ref:De_Lijn": "109584",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Plantijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORETUSLAAN HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.709167,
+                    51.067695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "103959",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Schaliehoevestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHALIEHOEVESTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702596,
+                    51.056424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;943",
+                "ref:De_Lijn": "109539",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Schaatsbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOGE BRUGSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.715487,
+                    51.067659
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931;943",
+                "ref:De_Lijn": "109583",
+                "bus": "yes",
+                "name": "Heist-op-den-Berg Schoorstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOORSTRAAT HEIST-OP-DEN-BERG",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.714049,
+                    51.06414
+                ]
+            }
+        }
+    ]
+}

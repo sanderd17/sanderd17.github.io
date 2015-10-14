@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "204754",
+                "bus": "yes",
+                "name": "Meerdonk Teerlingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARGRIETSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.150727,
+                    51.256993
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "204753",
+                "bus": "yes",
+                "name": "Meerdonk Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERDONKDORP MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.147145,
+                    51.260222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "205753",
+                "bus": "yes",
+                "name": "Meerdonk Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERDONKDORP MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.147174,
+                    51.260132
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;23;27;240",
+                "ref:De_Lijn": "205754",
+                "bus": "yes",
+                "name": "Meerdonk Teerlingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARGRIETSTRAAT MEERDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.150584,
+                    51.25692
+                ]
+            }
+        }
+    ]
+}

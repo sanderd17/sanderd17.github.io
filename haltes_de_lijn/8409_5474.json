@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511",
+                "ref:De_Lijn": "108207",
+                "bus": "yes",
+                "name": "Herenthout Oosterhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.782772,
+                    51.143712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511",
+                "ref:De_Lijn": "108204",
+                "bus": "yes",
+                "name": "Herenthout Boudewijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.77012,
+                    51.141419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511",
+                "ref:De_Lijn": "108206",
+                "bus": "yes",
+                "name": "Herenthout Oosterhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.782957,
+                    51.14364
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "511",
+                "ref:De_Lijn": "108203",
+                "bus": "yes",
+                "name": "Herenthout Boudewijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.770976,
+                    51.141299
+                ]
+            }
+        }
+    ]
+}

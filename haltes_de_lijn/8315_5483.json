@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;59",
+                "ref:De_Lijn": "505813",
+                "bus": "yes",
+                "name": "Alveringem Stock Mini Prix",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTOVER OEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.714074,
+                    51.024068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "509011",
+                "bus": "yes",
+                "name": "Alveringem Doorneboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDAALSTRAAT ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.720541,
+                    51.014097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504011",
+                "bus": "yes",
+                "name": "Alveringem Doorneboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZENDAALSTRAAT ALVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.720901,
+                    51.013976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "504725",
+                "bus": "yes",
+                "name": "Oeren Oud Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OERENSTRAAT OEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.705048,
+                    51.023293
+                ]
+            }
+        }
+    ]
+}

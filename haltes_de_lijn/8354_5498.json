@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209380",
+                "bus": "yes",
+                "name": "Melden Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG MELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.565704,
+                    50.814472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209379",
+                "bus": "yes",
+                "name": "Melden Meldenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.575232,
+                    50.819122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "209290",
+                "bus": "yes",
+                "name": "Melden Steengat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTELENBERG MELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.57205,
+                    50.812618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;460",
+                "ref:De_Lijn": "208379",
+                "bus": "yes",
+                "name": "Melden Meldenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.575432,
+                    50.819069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;460",
+                "ref:De_Lijn": "208380",
+                "bus": "yes",
+                "name": "Melden Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG MELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.567044,
+                    50.814939
+                ]
+            }
+        }
+    ]
+}

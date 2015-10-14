@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;23;31;34;18a",
+                "ref:De_Lijn": "404457",
+                "bus": "yes",
+                "name": "Houthalen Guldensporenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GULDENSPORENLAAN HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.361318,
+                    51.041718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;34",
+                "ref:De_Lijn": "404570",
+                "bus": "yes",
+                "name": "Houthalen Weg naar Helchteren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLO STEENWEG HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.354386,
+                    51.044338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;34;283",
+                "ref:De_Lijn": "404571",
+                "bus": "yes",
+                "name": "Houthalen Weg naar Helchteren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLO STEENWEG HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.354311,
+                    51.044159
+                ]
+            }
+        }
+    ]
+}

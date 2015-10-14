@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54;270",
+                "ref:De_Lijn": "202968",
+                "bus": "yes",
+                "name": "Lokeren Vogelzangstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIENDESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.947131,
+                    51.076426
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;53;54;270",
+                "ref:De_Lijn": "203968",
+                "bus": "yes",
+                "name": "Lokeren Vogelzangstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIENDESTRAAT LOKEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.947344,
+                    51.07658
+                ]
+            }
+        }
+    ]
+}

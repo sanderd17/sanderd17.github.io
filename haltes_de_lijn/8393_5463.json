@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650;658;659;670;730",
+                "ref:De_Lijn": "105407",
+                "bus": "yes",
+                "name": "Kapellen Hoogboomsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437381,
+                    51.301367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "107320",
+                "bus": "yes",
+                "name": "Karel De Wintstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEK EKEREN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.438325,
+                    51.290625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "650;658;659;670;730",
+                "ref:De_Lijn": "105833",
+                "bus": "yes",
+                "name": "Kapellen Hoogboomsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG KAPELLEN (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437181,
+                    51.301942
+                ]
+            }
+        }
+    ]
+}

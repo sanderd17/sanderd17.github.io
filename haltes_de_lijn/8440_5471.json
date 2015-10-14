@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407475",
+                "bus": "yes",
+                "name": "Kleine-Brogel Martensstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N748 KLEINE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.455096,
+                    51.181291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;743;744",
+                "ref:De_Lijn": "407422",
+                "bus": "yes",
+                "name": "Kleine-Brogel Sint-Jozefswijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLERBAAN KLEINE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.458093,
+                    51.186549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407474",
+                "bus": "yes",
+                "name": "Kleine-Brogel Martensstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LILLERBAAN KLEINE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.454673,
+                    51.180944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;744",
+                "ref:De_Lijn": "407423",
+                "bus": "yes",
+                "name": "Kleine-Brogel Sint-Jozefswijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LILLERBAAN KLEINE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.458278,
+                    51.186511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407552",
+                "bus": "yes",
+                "name": "Kleine-Brogel Sint-Jozefswijk telefooncel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT KLEINE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.456977,
+                    51.187125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407553",
+                "bus": "yes",
+                "name": "Kleine-Brogel Sint-Jozefswijk telefooncel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT KLEINE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.457288,
+                    51.186997
+                ]
+            }
+        }
+    ]
+}

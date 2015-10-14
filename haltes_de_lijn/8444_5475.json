@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;746;748",
+                "ref:De_Lijn": "406553",
+                "bus": "yes",
+                "name": "Ellikom Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT ELLIKOM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.538113,
+                    51.131252
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "406551",
+                "bus": "yes",
+                "name": "Ellikom Boogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIKANTSTRAAT ELLIKOM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.53765,
+                    51.132731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;746",
+                "ref:De_Lijn": "406552",
+                "bus": "yes",
+                "name": "Ellikom Schoolstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLSTRAAT ELLIKOM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.538154,
+                    51.131171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "400967",
+                "bus": "yes",
+                "name": "Reppel Fabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN REPPEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.548613,
+                    51.137997
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;746",
+                "ref:De_Lijn": "406550",
+                "bus": "yes",
+                "name": "Ellikom Boogstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIKANTSTRAAT ELLIKOM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.537625,
+                    51.132875
+                ]
+            }
+        }
+    ]
+}

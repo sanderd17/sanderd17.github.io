@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;150",
+                "ref:De_Lijn": "201860",
+                "bus": "yes",
+                "name": "Ertvelde Tervenenwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIFORTSTRAAT ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.722453,
+                    51.174011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "210036",
+                "bus": "yes",
+                "name": "Ertvelde Kluisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIFORTSTRAAT ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.718044,
+                    51.170238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "211036",
+                "bus": "yes",
+                "name": "Ertvelde Kluisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIFORTSTRAAT ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.717943,
+                    51.17031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "210035",
+                "bus": "yes",
+                "name": "Ertvelde Tervenenwegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIFORTSTRAAT ERTVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.722653,
+                    51.174039
+                ]
+            }
+        }
+    ]
+}

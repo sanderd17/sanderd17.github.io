@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "502757",
+                "bus": "yes",
+                "name": "Kanegem Viggezelestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUISELEEDSESTEENWEG KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.376124,
+                    51.022032
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "507758",
+                "bus": "yes",
+                "name": "Tielt Ondank",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUISELEEDSESTEENWEG KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.367196,
+                    51.016284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "502758",
+                "bus": "yes",
+                "name": "Tielt Ondank",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUISELEEDSESTEENWEG KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.367243,
+                    51.016095
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;77",
+                "ref:De_Lijn": "507757",
+                "bus": "yes",
+                "name": "Kanegem Viggezelestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUISELEEDSESTEENWEG KANEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.375514,
+                    51.02191
+                ]
+            }
+        }
+    ]
+}

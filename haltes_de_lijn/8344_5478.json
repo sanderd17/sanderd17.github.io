@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;26;77",
+                "ref:De_Lijn": "505066",
+                "bus": "yes",
+                "name": "Doomkerke De Zande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.342666,
+                    51.087326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200876",
+                "bus": "yes",
+                "name": "Sint-Maria-Aalter Savooien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WINGENESTRAAT AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.360448,
+                    51.087506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505320",
+                "bus": "yes",
+                "name": "Doomkerke Bosdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSDREEF AALTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.360879,
+                    51.086683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21",
+                "ref:De_Lijn": "502743",
+                "bus": "yes",
+                "name": "Doomkerke De Zande",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.342206,
+                    51.087475
+                ]
+            }
+        }
+    ]
+}

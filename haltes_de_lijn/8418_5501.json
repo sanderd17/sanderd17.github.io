@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308734",
+                "bus": "yes",
+                "name": "Goetsenhoven Meer Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT GOETSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.967951,
+                    50.771695
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346",
+                "ref:De_Lijn": "308731",
+                "bus": "yes",
+                "name": "Goetsenhoven Meer Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WULMERSUMSESTEENWEG GOETSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.979448,
+                    50.772733
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308729",
+                "bus": "yes",
+                "name": "Goetsenhoven Meer Kruispunt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT GOETSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.976053,
+                    50.773308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346;713",
+                "ref:De_Lijn": "308732",
+                "bus": "yes",
+                "name": "Goetsenhoven Meer Hoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WULMERSUMSESTEENWEG GOETSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.979687,
+                    50.772588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346",
+                "ref:De_Lijn": "308728",
+                "bus": "yes",
+                "name": "Goetsenhoven Meer Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WULMERSUMSESTEENWEG GOETSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.976781,
+                    50.773753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "346",
+                "ref:De_Lijn": "308727",
+                "bus": "yes",
+                "name": "Goetsenhoven Meer Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WULMERSUMSESTEENWEG GOETSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.976667,
+                    50.773664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308733",
+                "bus": "yes",
+                "name": "Goetsenhoven Meer Grens",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT GOETSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.967867,
+                    50.771786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308730",
+                "bus": "yes",
+                "name": "Goetsenhoven Meer Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT GOETSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.975739,
+                    50.773147
+                ]
+            }
+        }
+    ]
+}

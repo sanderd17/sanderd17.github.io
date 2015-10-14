@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;442;446;447;659;679;934",
+                "ref:De_Lijn": "105941",
+                "bus": "yes",
+                "name": "Wuustwezel Sint-Willibrordusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSE STEENWEG WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.57719,
+                    51.390489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;442;446;447;659;679;934",
+                "ref:De_Lijn": "105942",
+                "bus": "yes",
+                "name": "Wuustwezel Sint-Willibrordusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALMTHOUTSE STEENWEG WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.578785,
+                    51.390468
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;442;444;446;447;640;641;648;649;659;679;934",
+                "ref:De_Lijn": "105793",
+                "bus": "yes",
+                "name": "Wuustwezel Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.592029,
+                    51.39039
+                ]
+            }
+        }
+    ]
+}

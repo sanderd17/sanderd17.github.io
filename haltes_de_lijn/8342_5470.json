@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;98",
+                "ref:De_Lijn": "502426",
+                "bus": "yes",
+                "name": "Sint-Kruis Malesteenweg 556",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAALSE STEENWEG SINT-KRUIS (BRUGGE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298869,
+                    51.206165
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49;58;98;58S",
+                "ref:De_Lijn": "502768",
+                "bus": "yes",
+                "name": "Sijsele Kazerne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315736,
+                    51.20255
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;98",
+                "ref:De_Lijn": "502367",
+                "bus": "yes",
+                "name": "Sijsele Hekhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.305052,
+                    51.204855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;98",
+                "ref:De_Lijn": "507367",
+                "bus": "yes",
+                "name": "Sijsele Hekhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.305092,
+                    51.204999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;98",
+                "ref:De_Lijn": "507426",
+                "bus": "yes",
+                "name": "Sint-Kruis Malesteenweg 556",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAALSE STEENWEG SINT-KRUIS (BRUGGE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.298937,
+                    51.206301
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;58;98;58S",
+                "ref:De_Lijn": "507768",
+                "bus": "yes",
+                "name": "Sijsele Kazerne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.315257,
+                    51.202879
+                ]
+            }
+        }
+    ]
+}

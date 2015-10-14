@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;86",
+                "ref:De_Lijn": "209642",
+                "bus": "yes",
+                "name": "Meigem Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERG MEIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529091,
+                    51.022197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "16;86;125",
+                "ref:De_Lijn": "208642",
+                "bus": "yes",
+                "name": "Meigem Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERG MEIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529276,
+                    51.022216
+                ]
+            }
+        }
+    ]
+}

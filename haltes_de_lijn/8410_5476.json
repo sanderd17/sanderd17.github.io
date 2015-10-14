@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;946",
+                "ref:De_Lijn": "109301",
+                "bus": "yes",
+                "name": "Wiekevorst Berteneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORKHOVENSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.805987,
+                    51.111071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101969",
+                "bus": "yes",
+                "name": "Morkhoven Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELSTRAAT MORKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.809483,
+                    51.118348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943;946",
+                "ref:De_Lijn": "108187",
+                "bus": "yes",
+                "name": "Wiekevorst Belstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTHOUTSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.790146,
+                    51.110562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;946",
+                "ref:De_Lijn": "109300",
+                "bus": "yes",
+                "name": "Wiekevorst Berteneinde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORKHOVENSEWEG WIEKEVORST",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.806462,
+                    51.11142
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;565",
+                "ref:De_Lijn": "300421",
+                "bus": "yes",
+                "name": "Assent Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJNRODE RIJNRODE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.033912,
+                    50.930711
+                ]
+            }
+        }
+    ]
+}

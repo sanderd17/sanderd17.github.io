@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "408001",
+                "bus": "yes",
+                "name": "Kortenbos Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDE SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.221976,
+                    50.865963
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "S2;S11",
+                "ref:De_Lijn": "408000",
+                "bus": "yes",
+                "name": "Kortenbos Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDE SINT-TRUIDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.222693,
+                    50.866362
+                ]
+            }
+        }
+    ]
+}

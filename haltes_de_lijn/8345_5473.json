@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "507301",
+                "bus": "yes",
+                "name": "Oedelem De Hoorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OOSTVELD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.378019,
+                    51.153557
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "502313",
+                "bus": "yes",
+                "name": "Oedelem Steenoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.369587,
+                    51.158817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;63",
+                "ref:De_Lijn": "502301",
+                "bus": "yes",
+                "name": "Oedelem De Hoorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OOSTVELD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.377879,
+                    51.153403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "507313",
+                "bus": "yes",
+                "name": "Oedelem Steenoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.36993,
+                    51.15882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505682",
+                "bus": "yes",
+                "name": "Oedelem Oostveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TINHOUTSTRAAT OOSTVELD",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.382408,
+                    51.15692
+                ]
+            }
+        }
+    ]
+}

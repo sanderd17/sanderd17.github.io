@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;79",
+                "ref:De_Lijn": "504065",
+                "bus": "yes",
+                "name": "Dikkebus Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.83053,
+                    50.820134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;79",
+                "ref:De_Lijn": "509065",
+                "bus": "yes",
+                "name": "Dikkebus Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKKEBUSSEWEG DIKKEBUS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.831391,
+                    50.820307
+                ]
+            }
+        }
+    ]
+}

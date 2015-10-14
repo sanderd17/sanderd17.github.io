@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;162",
+                "ref:De_Lijn": "301616",
+                "bus": "yes",
+                "name": "Gooik Weg naar Lieferinge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRIJLANDSTRAAT GOOIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.073159,
+                    50.793204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;162",
+                "ref:De_Lijn": "301617",
+                "bus": "yes",
+                "name": "Gooik Weg naar Lieferinge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRIJLANDSTRAAT GOOIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.073526,
+                    50.793385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206726",
+                "bus": "yes",
+                "name": "Neigem Prinsdaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSEHEERWEG NEIGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.065146,
+                    50.804133
+                ]
+            }
+        }
+    ]
+}

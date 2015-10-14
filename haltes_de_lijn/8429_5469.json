@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "109794",
+                "bus": "yes",
+                "name": "Mol Kiezelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "F. S. EMSENSLAAN RAUW",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.212882,
+                    51.220594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "109852",
+                "bus": "yes",
+                "name": "Mol Blekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "F. S. EMSENSLAAN MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.213873,
+                    51.214474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108671",
+                "bus": "yes",
+                "name": "Mol Wateringstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOOLDREEF RAUW",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.207806,
+                    51.216944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84",
+                "ref:De_Lijn": "109858",
+                "bus": "yes",
+                "name": "Mol Blekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "F. S. EMSENSLAAN RAUW",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.213796,
+                    51.214969
+                ]
+            }
+        }
+    ]
+}

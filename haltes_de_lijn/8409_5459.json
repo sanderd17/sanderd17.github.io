@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "432",
+                "ref:De_Lijn": "106289",
+                "bus": "yes",
+                "name": "Rijkevorsel Krekelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKSPLASSESTEENWEG RIJKEVORSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780384,
+                    51.345898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "432",
+                "ref:De_Lijn": "106290",
+                "bus": "yes",
+                "name": "Rijkevorsel Krekelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MERKSPLASSESTEENWEG RIJKEVORSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780484,
+                    51.34578
+                ]
+            }
+        }
+    ]
+}

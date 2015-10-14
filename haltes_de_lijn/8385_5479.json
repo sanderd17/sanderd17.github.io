@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "253;938",
+                "ref:De_Lijn": "107810",
+                "bus": "yes",
+                "name": "Oppuurs Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIR OPPUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.252749,
+                    51.07029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "253;938",
+                "ref:De_Lijn": "107809",
+                "bus": "yes",
+                "name": "Oppuurs Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIR OPPUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.252992,
+                    51.070227
+                ]
+            }
+        }
+    ]
+}

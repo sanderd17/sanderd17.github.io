@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "201817",
+                "bus": "yes",
+                "name": "Kruishoutem Molenmeersweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENMEERSWEG KRUISHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.548632,
+                    50.907382
+                ]
+            }
+        }
+    ]
+}

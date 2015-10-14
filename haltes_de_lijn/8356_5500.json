@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "208777",
+                "bus": "yes",
+                "name": "Nukerke Dieriksstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIERIKSSTRAAT NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.607509,
+                    50.781083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "204990",
+                "bus": "yes",
+                "name": "Etikhove Donderijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONDERIJ ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.625034,
+                    50.789277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;460",
+                "ref:De_Lijn": "208779",
+                "bus": "yes",
+                "name": "Etikhove Donderijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONDERIJ ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.624951,
+                    50.789178
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208798",
+                "bus": "yes",
+                "name": "Nukerke Fonteineweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERBEKE NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.624149,
+                    50.77887
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504550",
+                "bus": "yes",
+                "name": "Watou Sint-Jan Ter Biezen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATOUSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.667439,
+                    50.859621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "504435",
+                "bus": "yes",
+                "name": "Poperinge Zandputten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATOUSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.679558,
+                    50.85842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "509550",
+                "bus": "yes",
+                "name": "Watou Sint-Jan Ter Biezen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATOUSEWEG WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.666879,
+                    50.859775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505207",
+                "bus": "yes",
+                "name": "Watou Grimminckweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAREL GRIMMINCKWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.669046,
+                    50.850922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;69",
+                "ref:De_Lijn": "509435",
+                "bus": "yes",
+                "name": "Poperinge Zandputten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATOUSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.679709,
+                    50.858557
+                ]
+            }
+        }
+    ]
+}

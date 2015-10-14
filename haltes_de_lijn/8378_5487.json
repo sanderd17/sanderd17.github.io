@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;340",
+                "ref:De_Lijn": "206208",
+                "bus": "yes",
+                "name": "Moorsel Tinnenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERBERGSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.102094,
+                    50.96615
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "207208",
+                "bus": "yes",
+                "name": "Moorsel Tinnenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERBERGSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.102037,
+                    50.966069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "207209",
+                "bus": "yes",
+                "name": "Moorsel Houten Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTENKRUISSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.09794,
+                    50.963112
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "206608",
+                "bus": "yes",
+                "name": "Moorsel Ravenakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOKSTRAAT SPRUITHOEK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.108264,
+                    50.959881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43;340",
+                "ref:De_Lijn": "206209",
+                "bus": "yes",
+                "name": "Moorsel Houten Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTENKRUISSTRAAT MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.097941,
+                    50.962923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "206322",
+                "bus": "yes",
+                "name": "Moorsel Korte Trieststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVEN MOORSEL (AALST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.108306,
+                    50.97029
+                ]
+            }
+        }
+    ]
+}

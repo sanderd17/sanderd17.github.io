@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;45;61;720;721",
+                "ref:De_Lijn": "406118",
+                "bus": "yes",
+                "name": "Maaseik Zaveldijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.77269,
+                    51.091715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "720;721",
+                "ref:De_Lijn": "406126",
+                "bus": "yes",
+                "name": "Siemkensheuvel Engerhoven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WURFELDERMOLENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.766548,
+                    51.090646
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;45;61",
+                "ref:De_Lijn": "406093",
+                "bus": "yes",
+                "name": "Maaseik Oude Barrier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.764566,
+                    51.085959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;45;61",
+                "ref:De_Lijn": "406119",
+                "bus": "yes",
+                "name": "Maaseik Zaveldijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.770684,
+                    51.090984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11;45;61",
+                "ref:De_Lijn": "406092",
+                "bus": "yes",
+                "name": "Maaseik Oude Barrier",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAASTRICHTERSTEENWEG MAASEIK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.764918,
+                    51.085802
+                ]
+            }
+        }
+    ]
+}

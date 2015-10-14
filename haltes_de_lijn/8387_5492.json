@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308578",
+                "bus": "yes",
+                "name": "Wemmel Dijck",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJCK WEMMEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.303419,
+                    50.899904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308585",
+                "bus": "yes",
+                "name": "Wemmel David Teniers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OBBERG WEMMEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.299001,
+                    50.897645
+                ]
+            }
+        }
+    ]
+}

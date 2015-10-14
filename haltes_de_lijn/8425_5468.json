@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108990",
+                "bus": "yes",
+                "name": "Dessel Miramar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDE DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.136435,
+                    51.225187
+                ]
+            }
+        }
+    ]
+}

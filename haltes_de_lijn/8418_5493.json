@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;561;712",
+                "ref:De_Lijn": "302604",
+                "bus": "yes",
+                "name": "Kersbeek-Miskom Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN KERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.983534,
+                    50.880338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "391;561",
+                "ref:De_Lijn": "302603",
+                "bus": "yes",
+                "name": "Kersbeek-Miskom Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEERBAAN KERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.983661,
+                    50.880256
+                ]
+            }
+        }
+    ]
+}

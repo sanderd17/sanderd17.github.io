@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;485;590",
+                "ref:De_Lijn": "303462",
+                "bus": "yes",
+                "name": "Lubbeek Brakum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINKOMSTRAAT LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.861009,
+                    50.881015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308919",
+                "bus": "yes",
+                "name": "Lubbeek Sint-Gertrudenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GERTRUDENDRIES LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.872453,
+                    50.888069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;485;590",
+                "ref:De_Lijn": "303461",
+                "bus": "yes",
+                "name": "Lubbeek Brakum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINKOMSTRAAT LUBBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.860567,
+                    50.880855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;485;590",
+                "ref:De_Lijn": "303421",
+                "bus": "yes",
+                "name": "Binkom Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINKOMSTRAAT BINKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873883,
+                    50.879648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;485;590",
+                "ref:De_Lijn": "303420",
+                "bus": "yes",
+                "name": "Binkom Kasteeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINKOMSTRAAT BINKOM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.873896,
+                    50.87954
+                ]
+            }
+        }
+    ]
+}

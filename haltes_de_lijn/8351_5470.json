@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;185",
+                "ref:De_Lijn": "202052",
+                "bus": "yes",
+                "name": "Adegem Root",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE STAATSBAAN ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.50101,
+                    51.205502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203051",
+                "bus": "yes",
+                "name": "Adegem Dokter Herreboutlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE STAATSBAAN ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.510772,
+                    51.206139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200899",
+                "bus": "yes",
+                "name": "Adegem Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.503626,
+                    51.196388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "203052",
+                "bus": "yes",
+                "name": "Adegem Root",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE STAATSBAAN ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.501108,
+                    51.205629
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200811",
+                "bus": "yes",
+                "name": "Adegem Malecote",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MALECOTE ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.509042,
+                    51.20139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;185",
+                "ref:De_Lijn": "202051",
+                "bus": "yes",
+                "name": "Adegem Dokter Herreboutlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE STAATSBAAN ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.510501,
+                    51.206048
+                ]
+            }
+        }
+    ]
+}

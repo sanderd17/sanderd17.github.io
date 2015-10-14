@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "201744",
+                "bus": "yes",
+                "name": "Vosselare Landegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDEGEMSTRAAT VOSSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.561683,
+                    51.037419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125",
+                "ref:De_Lijn": "200744",
+                "bus": "yes",
+                "name": "Vosselare Landegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDEGEMSTRAAT VOSSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.561841,
+                    51.037375
+                ]
+            }
+        }
+    ]
+}

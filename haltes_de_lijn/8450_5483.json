@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401814",
+                "bus": "yes",
+                "name": "Lanklaar Sparrendal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.67993,
+                    51.015098
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "406824",
+                "bus": "yes",
+                "name": "Dilsen Huize Lieve Moenssens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIEVE MOENSSENSLAAN DILSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.68663,
+                    51.02378
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401818",
+                "bus": "yes",
+                "name": "Lanklaar Teutelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEUTELBERGSTRAAT LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.690325,
+                    51.015782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401815",
+                "bus": "yes",
+                "name": "Lanklaar Sparrendal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N75 LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.680179,
+                    51.014853
+                ]
+            }
+        }
+    ]
+}

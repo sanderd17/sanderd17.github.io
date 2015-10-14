@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;470",
+                "ref:De_Lijn": "208383",
+                "bus": "yes",
+                "name": "Heylbroektraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDEBAAN BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.541493,
+                    50.804091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209383",
+                "bus": "yes",
+                "name": "Heylbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDEBAAN BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.541561,
+                    50.804262
+                ]
+            }
+        }
+    ]
+}

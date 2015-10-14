@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;27;563;715",
+                "ref:De_Lijn": "305724",
+                "bus": "yes",
+                "name": "Helen-Bos Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAN VAN HEELUSTRAAT HELEN-BOS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.076686,
+                    50.823221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;27;563;715",
+                "ref:De_Lijn": "305725",
+                "bus": "yes",
+                "name": "Helen-Bos Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALERIJSTRAAT MELKWEZER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.076266,
+                    50.82361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;27;563;715",
+                "ref:De_Lijn": "305722",
+                "bus": "yes",
+                "name": "Helen-Bos Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT HELEN-BOS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.08467,
+                    50.820916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25;27;563;715",
+                "ref:De_Lijn": "305723",
+                "bus": "yes",
+                "name": "Helen-Bos Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPOORWEGSTRAAT HELEN-BOS",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.084255,
+                    50.820712
+                ]
+            }
+        }
+    ]
+}

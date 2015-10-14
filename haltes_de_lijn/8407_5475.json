@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107091",
+                "bus": "yes",
+                "name": "Herenthout Otterloop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVELSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.733098,
+                    51.13611
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107093",
+                "bus": "yes",
+                "name": "Herenthout Verbistlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUNT HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.745778,
+                    51.136879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107089",
+                "bus": "yes",
+                "name": "Herenthout Otterloop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVELSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.733169,
+                    51.136011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107087",
+                "bus": "yes",
+                "name": "Herenthout Prinsenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVELSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.727031,
+                    51.134906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "151;943",
+                "ref:De_Lijn": "107088",
+                "bus": "yes",
+                "name": "Herenthout Prinsenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVELSE STEENWEG HERENTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.725644,
+                    51.134776
+                ]
+            }
+        }
+    ]
+}

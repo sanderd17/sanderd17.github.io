@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "504870",
+                "bus": "yes",
+                "name": "Ieper Viaduct",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N308 VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.842734,
+                    50.852186
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "504869",
+                "bus": "yes",
+                "name": "Ieper Viaduct",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N308 VLAMERTINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.842659,
+                    50.852311
+                ]
+            }
+        }
+    ]
+}

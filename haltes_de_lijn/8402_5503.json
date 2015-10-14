@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;341;537",
+                "ref:De_Lijn": "302373",
+                "bus": "yes",
+                "name": "Ottenburg Hasselheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSEBAAN OTTENBURG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.615982,
+                    50.747933
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;341;537",
+                "ref:De_Lijn": "302372",
+                "bus": "yes",
+                "name": "Ottenburg Hasselheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSEBAAN OTTENBURG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.615797,
+                    50.747817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;341",
+                "ref:De_Lijn": "302386",
+                "bus": "yes",
+                "name": "Ottenburg Steenbakkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSEBAAN OTTENBURG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616291,
+                    50.744759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;341",
+                "ref:De_Lijn": "302387",
+                "bus": "yes",
+                "name": "Ottenburg Steenbakkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSEBAAN OTTENBURG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616447,
+                    50.744804
+                ]
+            }
+        }
+    ]
+}

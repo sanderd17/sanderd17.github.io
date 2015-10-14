@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G5",
+                "ref:De_Lijn": "402082",
+                "bus": "yes",
+                "name": "Genk Winterbeeklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE HUTTEN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.453305,
+                    50.941287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G5",
+                "ref:De_Lijn": "402085",
+                "bus": "yes",
+                "name": "Genk Haagbemden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE HUTTEN OUD-TERMIEËN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.457284,
+                    50.943515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G5",
+                "ref:De_Lijn": "402084",
+                "bus": "yes",
+                "name": "Genk Haagbemden",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE HUTTEN OUD-TERMIEËN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.457041,
+                    50.9435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G5",
+                "ref:De_Lijn": "402083",
+                "bus": "yes",
+                "name": "Genk Winterbeeklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE HUTTEN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.453186,
+                    50.94109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;45",
+                "ref:De_Lijn": "402216",
+                "bus": "yes",
+                "name": "Genk Caetsbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.469451,
+                    50.933827
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;45",
+                "ref:De_Lijn": "402215",
+                "bus": "yes",
+                "name": "Genk Caetsbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTERRING GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.469818,
+                    50.933707
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305262",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKSTRAAT SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.990156,
+                    50.706879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305261",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKSTRAAT SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.990269,
+                    50.706969
+                ]
+            }
+        }
+    ]
+}

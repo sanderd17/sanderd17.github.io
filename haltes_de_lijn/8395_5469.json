@@ -1,0 +1,739 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;410;411;412;414",
+                "ref:De_Lijn": "108645",
+                "bus": "yes",
+                "name": "Schotensesteenweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "AUGUST VAN DE WIELELEI DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47573,
+                    51.21879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;10;410;411;412;414",
+                "ref:De_Lijn": "108555",
+                "bus": "yes",
+                "name": "Ruggeveld",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "AUGUST VAN DE WIELELEI DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.481616,
+                    51.219881
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "101050",
+                "bus": "yes",
+                "name": "A. Van De Wielelei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.481341,
+                    51.218749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "105570",
+                "bus": "yes",
+                "name": "Turnhoutsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFTVUNDERLEI DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.460731,
+                    51.218839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "105351",
+                "bus": "yes",
+                "name": "Sterckshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFTVUNDERLEI DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462571,
+                    51.215871
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "105350",
+                "bus": "yes",
+                "name": "Sterckshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFTVUNDERLEI DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463185,
+                    51.215259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103047",
+                "bus": "yes",
+                "name": "Parkweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.481937,
+                    51.216663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "103048",
+                "name": "Van Riel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.475625,
+                    51.210422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "103049",
+                "name": "Van Riel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.476512,
+                    51.210394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;410;411;412;414",
+                "ref:De_Lijn": "105780",
+                "bus": "yes",
+                "name": "Venneborg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "TURNHOUTSEBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47078,
+                    51.219522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;410;411;412;414",
+                "ref:De_Lijn": "102973",
+                "bus": "yes",
+                "name": "Lunden",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "TURNHOUTSEBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463281,
+                    51.219924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "101525",
+                "bus": "yes",
+                "name": "Burgemeester De Boeylaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.474293,
+                    51.209866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;422;423",
+                "ref:De_Lijn": "102837",
+                "bus": "yes",
+                "name": "Esdoorndreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERLAARBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.470571,
+                    51.209033
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "101640",
+                "bus": "yes",
+                "name": "Burgemeester De Boeylaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.473907,
+                    51.209983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "104900",
+                "bus": "yes",
+                "name": "Seraphin de Grootestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480487,
+                    51.22061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;422;423",
+                "ref:De_Lijn": "102833",
+                "bus": "yes",
+                "name": "Sterckshoflei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERLAARBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.464905,
+                    51.209496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;422;423",
+                "ref:De_Lijn": "102842",
+                "bus": "yes",
+                "name": "Peter Benoitlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERLAARBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479396,
+                    51.20765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;422;423",
+                "ref:De_Lijn": "102841",
+                "bus": "yes",
+                "name": "Peter Benoitlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERLAARBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479239,
+                    51.207578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103046",
+                "bus": "yes",
+                "name": "Parkweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.482281,
+                    51.21677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "105565",
+                "bus": "yes",
+                "name": "Turnhoutsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFTVUNDERLEI DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.460816,
+                    51.218461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;410;411;412;414",
+                "ref:De_Lijn": "108640",
+                "bus": "yes",
+                "name": "Schotensesteenweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "AUGUST VAN DE WIELELEI DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.475688,
+                    51.219051
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;410;411;412;414",
+                "ref:De_Lijn": "102972",
+                "bus": "yes",
+                "name": "Lunden",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "TURNHOUTSEBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463625,
+                    51.220122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;422;423",
+                "ref:De_Lijn": "102834",
+                "bus": "yes",
+                "name": "Sterckshoflei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERLAARBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.464948,
+                    51.209622
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "104895",
+                "bus": "yes",
+                "name": "Seraphin de Grootestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480086,
+                    51.22053
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108110",
+                "bus": "yes",
+                "name": "Leeuwlantstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.466716,
+                    51.220164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;24;31",
+                "ref:De_Lijn": "102840",
+                "bus": "yes",
+                "name": "Waterbaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HERENTALSEBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.464358,
+                    51.207951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;422;423",
+                "ref:De_Lijn": "102838",
+                "bus": "yes",
+                "name": "Ruggeveldlaan Zuid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERLAARBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.473904,
+                    51.20876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;410;411;412;414",
+                "ref:De_Lijn": "105785",
+                "bus": "yes",
+                "name": "Venneborg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "TURNHOUTSEBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.470079,
+                    51.219927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;10;410;411;412;414",
+                "ref:De_Lijn": "108550",
+                "bus": "yes",
+                "name": "Ruggeveld",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "AUGUST VAN DE WIELELEI DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.481414,
+                    51.219504
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;422;423",
+                "ref:De_Lijn": "102836",
+                "bus": "yes",
+                "name": "Esdoorndreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERLAARBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.471472,
+                    51.208906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;421;422;423",
+                "ref:De_Lijn": "102839",
+                "bus": "yes",
+                "name": "Ruggeveldlaan Zuid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOTERLAARBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.473947,
+                    51.208877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "101055",
+                "bus": "yes",
+                "name": "A. Van De Wielelei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUGGEVELDLAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.481197,
+                    51.218344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105030",
+                "bus": "yes",
+                "name": "Schotensesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOTENSESTEENWEG DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47546,
+                    51.219374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;24;31",
+                "ref:De_Lijn": "105975",
+                "bus": "yes",
+                "zone:De_Lijn": "01",
+                "name": "Waterbaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "HERENTALSEBAAN DEURNE (ANTWERPEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462799,
+                    51.2085
+                ]
+            }
+        }
+    ]
+}

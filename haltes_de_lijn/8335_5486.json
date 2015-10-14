@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "507941",
+                "bus": "yes",
+                "name": "Beveren Paradijs",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.151047,
+                    50.98057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "503941",
+                "bus": "yes",
+                "name": "Beveren Paradijs",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.151302,
+                    50.980626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "504940",
+                "bus": "yes",
+                "name": "Beveren Hagedoornweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG HOOG BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.157695,
+                    50.98507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "509940",
+                "bus": "yes",
+                "name": "Beveren Hagedoornweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG HOOG BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.158106,
+                    50.985156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "504949",
+                "bus": "yes",
+                "name": "Beveren Vloedstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG BEVEREN (ROESELARE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.144442,
+                    50.973354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "509949",
+                "bus": "yes",
+                "name": "Beveren Vloedstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG BEVEREN (ROESELARE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.144669,
+                    50.973365
+                ]
+            }
+        }
+    ]
+}

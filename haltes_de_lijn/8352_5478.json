@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "209652",
+                "bus": "yes",
+                "name": "Hansbeke Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529252,
+                    51.084837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125;160",
+                "ref:De_Lijn": "208652",
+                "bus": "yes",
+                "name": "Hansbeke Warandestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WARANDESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.529037,
+                    51.084889
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;160",
+                "ref:De_Lijn": "200685",
+                "bus": "yes",
+                "name": "Hansbeke Vaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N461 HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.527493,
+                    51.087386
+                ]
+            }
+        }
+    ]
+}

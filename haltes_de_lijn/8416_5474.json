@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108556",
+                "bus": "yes",
+                "name": "Geel Kruispunt Haag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELVEKEN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.931061,
+                    51.149786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104972",
+                "bus": "yes",
+                "name": "Geel Heesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENTALSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.934112,
+                    51.145672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102431",
+                "bus": "yes",
+                "name": "Geel Puntstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUNTSTRAAT HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.939003,
+                    51.13897
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104804",
+                "bus": "yes",
+                "name": "Geel Examencentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LAMMERDRIES HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.926328,
+                    51.144856
+                ]
+            }
+        }
+    ]
+}

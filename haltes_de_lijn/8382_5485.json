@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207715",
+                "bus": "yes",
+                "name": "Opstal Ravestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAVENSTRAAT OPSTAL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.181854,
+                    50.991797
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207714",
+                "bus": "yes",
+                "name": "Opstal Hoge Jan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAVENSTRAAT BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.189164,
+                    50.987215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207716",
+                "bus": "yes",
+                "name": "Opstal Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT OPSTAL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17641,
+                    50.996031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207713",
+                "bus": "yes",
+                "name": "Opstal Meir",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEIR OPSTAL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.18229,
+                    50.996751
+                ]
+            }
+        }
+    ]
+}

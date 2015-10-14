@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "203616",
+                "bus": "yes",
+                "name": "Lochristi Doornzelestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HIJFTE-CENTER LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.809227,
+                    51.110218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;175",
+                "ref:De_Lijn": "202616",
+                "bus": "yes",
+                "name": "Lochristi Doornzelestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HIJFTE-CENTER LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.809112,
+                    51.110317
+                ]
+            }
+        }
+    ]
+}

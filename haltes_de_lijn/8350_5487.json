@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200679",
+                "bus": "yes",
+                "name": "Machelen Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.487403,
+                    50.95909
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200680",
+                "bus": "yes",
+                "name": "Machelen Guldepark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GULDEPARK MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.493213,
+                    50.964293
+                ]
+            }
+        }
+    ]
+}

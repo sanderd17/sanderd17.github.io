@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343;345;544",
+                "ref:De_Lijn": "304015",
+                "bus": "yes",
+                "name": "Overijse Fél. Bergiersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEILAARTSESTEENWEG MALEIZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.507739,
+                    50.752481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "343;345;504;544",
+                "ref:De_Lijn": "304014",
+                "bus": "yes",
+                "name": "Overijse Fél. Bergiersstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEILAARTSESTEENWEG MALEIZEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.507428,
+                    50.752464
+                ]
+            }
+        }
+    ]
+}

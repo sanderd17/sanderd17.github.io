@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306990",
+                "bus": "yes",
+                "name": "Kampenhout Bulsom",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PERKSESTEENWEG KAMPENHOUT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.529021,
+                    50.942205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;503;505;514;515;660;686",
+                "ref:De_Lijn": "302457",
+                "bus": "yes",
+                "name": "Berg Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG BERG (KAMPENHOUT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.535644,
+                    50.932271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306991",
+                "bus": "yes",
+                "name": "Kampenhout Bulsom",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "PERKSESTEENWEG KAMPENHOUT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.529035,
+                    50.942313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270;503;505;514;515;660;686",
+                "ref:De_Lijn": "302456",
+                "bus": "yes",
+                "name": "Berg Oud Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG BERG (KAMPENHOUT)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.535928,
+                    50.932235
+                ]
+            }
+        }
+    ]
+}

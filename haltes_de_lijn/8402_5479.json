@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "571;943",
+                "ref:De_Lijn": "108687",
+                "bus": "yes",
+                "name": "Putte Hoegaerts",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERBAAN PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.623569,
+                    51.07042
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "571;943",
+                "ref:De_Lijn": "108686",
+                "bus": "yes",
+                "name": "Putte De Boefkens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERBAAN PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.621037,
+                    51.074408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "571;943",
+                "ref:De_Lijn": "108684",
+                "bus": "yes",
+                "name": "Putte Draplei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERBAAN PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.616279,
+                    51.081357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "571;943",
+                "ref:De_Lijn": "108685",
+                "bus": "yes",
+                "name": "Putte Van Roosbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERBAAN PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.617432,
+                    51.078083
+                ]
+            }
+        }
+    ]
+}

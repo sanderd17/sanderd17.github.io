@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "210074",
+                "bus": "yes",
+                "name": "Schelderode Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT SCHELDERODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.717692,
+                    50.971763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45",
+                "ref:De_Lijn": "211074",
+                "bus": "yes",
+                "name": "Schelderode Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT SCHELDERODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.717665,
+                    50.971655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "203823",
+                "bus": "yes",
+                "name": "Schelderode Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG SCHELDERODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.714445,
+                    50.970828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "202823",
+                "bus": "yes",
+                "name": "Schelderode Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSESTEENWEG SCHELDERODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.714305,
+                    50.970621
+                ]
+            }
+        }
+    ]
+}

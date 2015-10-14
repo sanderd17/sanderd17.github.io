@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "404581",
+                "bus": "yes",
+                "name": "Hechtel Oefenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 HECHTEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.328321,
+                    51.123743
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "404580",
+                "bus": "yes",
+                "name": "Hechtel Oefenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 HECHTEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.326907,
+                    51.123727
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44",
+                "ref:De_Lijn": "409856",
+                "bus": "yes",
+                "name": "Opglabbeek Weg naar Meeuwen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR MEEUWEN NIEUWE KEMPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.531276,
+                    51.028232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;44;G8",
+                "ref:De_Lijn": "407177",
+                "bus": "yes",
+                "name": "Opglabbeek Nieuwe Kempen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG NIEUWE KEMPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.532096,
+                    51.027945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;44;G8",
+                "ref:De_Lijn": "407176",
+                "bus": "yes",
+                "name": "Opglabbeek Nieuwe Kempen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG NIEUWE KEMPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.53248,
+                    51.027914
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "407159",
+                "bus": "yes",
+                "name": "Opglabbeek Bedrijfsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIEWEG-NOORD NIEUWE KEMPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.534923,
+                    51.034992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407174",
+                "bus": "yes",
+                "name": "Opglabbeek Nieuwe Kempen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR MEEUWEN NIEUWE KEMPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.531276,
+                    51.028232
+                ]
+            }
+        }
+    ]
+}

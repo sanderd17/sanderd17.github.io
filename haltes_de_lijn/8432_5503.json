@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;708;734;S12",
+                "ref:De_Lijn": "403705",
+                "bus": "yes",
+                "name": "Batsheers Overbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BATSHEERSSTRAAT HEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.276479,
+                    50.750334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;708;734;S12",
+                "ref:De_Lijn": "403703",
+                "bus": "yes",
+                "name": "Batsheers Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BATSHEERSSTRAAT BATSHEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.281255,
+                    50.739355
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;708;734;S12",
+                "ref:De_Lijn": "403704",
+                "bus": "yes",
+                "name": "Batsheers Overbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BATSHEERSSTRAAT HEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.276407,
+                    50.750235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37;708;734;S12",
+                "ref:De_Lijn": "403702",
+                "bus": "yes",
+                "name": "Batsheers Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BATSHEERSSTRAAT BATSHEERS",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.281026,
+                    50.739258
+                ]
+            }
+        }
+    ]
+}

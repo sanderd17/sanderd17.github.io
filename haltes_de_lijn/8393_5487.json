@@ -1,0 +1,85 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308315",
+                "bus": "yes",
+                "name": "Zemst Hogebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STIJN STREUVELSLAAN EPPEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437988,
+                    50.970637
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308646",
+                "bus": "yes",
+                "name": "Eppegem Mechelbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKENHOEK EPPEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.429536,
+                    50.963307
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308647",
+                "name": "Eppegem Mechelbaan",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "RIJKENHOEK EPPEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.42965,
+                    50.96319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308314",
+                "bus": "yes",
+                "name": "Zemst Hogebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STIJN STREUVELSLAAN EPPEGEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.437717,
+                    50.970637
+                ]
+            }
+        }
+    ]
+}

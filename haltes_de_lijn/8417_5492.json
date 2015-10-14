@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308080",
+                "bus": "yes",
+                "name": "Kapellen Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT KAPELLEN (GLABBEEK)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.963798,
+                    50.897313
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "540",
+                "ref:De_Lijn": "301566",
+                "bus": "yes",
+                "name": "Kapellen Dorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT KAPELLEN (GLABBEEK)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.962733,
+                    50.890666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "540;712",
+                "ref:De_Lijn": "301567",
+                "bus": "yes",
+                "name": "Kapellen Dorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT KAPELLEN (GLABBEEK)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.963403,
+                    50.890816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308081",
+                "bus": "yes",
+                "name": "Kapellen Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENSTRAAT KAPELLEN (GLABBEEK)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.963828,
+                    50.897403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390;712",
+                "ref:De_Lijn": "300474",
+                "bus": "yes",
+                "name": "Kapellen Steenbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KAPELLEN (GLABBEEK)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945365,
+                    50.894151
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "300475",
+                "bus": "yes",
+                "name": "Kapellen Steenbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KAPELLEN (GLABBEEK)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945495,
+                    50.894312
+                ]
+            }
+        }
+    ]
+}

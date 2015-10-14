@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "300452",
+                "bus": "yes",
+                "name": "Bekkevoort Schillekensberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.965622,
+                    50.942279
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701",
+                "ref:De_Lijn": "308758",
+                "bus": "yes",
+                "name": "Bekkevoort Hof Ter Heyde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE LEUVENSEBAAN BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.956123,
+                    50.943891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552;701",
+                "ref:De_Lijn": "300449",
+                "bus": "yes",
+                "name": "Bekkevoort Oude Tiensebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.956111,
+                    50.939558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;552",
+                "ref:De_Lijn": "300450",
+                "bus": "yes",
+                "name": "Bekkevoort Oude Tiensebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STAATSBAAN BEKKEVOORT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954757,
+                    50.939331
+                ]
+            }
+        }
+    ]
+}

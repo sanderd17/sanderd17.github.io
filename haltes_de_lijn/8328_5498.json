@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "505918",
+                "bus": "yes",
+                "name": "Zandvoorde Kruisekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISEKESTRAAT ZANDVOORDE (ZONNEBEKE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.996697,
+                    50.815848
+                ]
+            }
+        }
+    ]
+}

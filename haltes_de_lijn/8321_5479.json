@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "504667",
+                "bus": "yes",
+                "name": "Stuivekenskerke Tervate Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IJZERDIJK STUIVEKENSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.839762,
+                    51.080287
+                ]
+            }
+        }
+    ]
+}

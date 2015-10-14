@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25",
+                "ref:De_Lijn": "209158",
+                "bus": "yes",
+                "name": "Nederbrakel Driehoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERMOLENSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769367,
+                    50.809639
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25;410",
+                "ref:De_Lijn": "208157",
+                "bus": "yes",
+                "name": "Nederbrakel Neerhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORIAANSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.77001,
+                    50.813769
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "207672",
+                "bus": "yes",
+                "name": "Nederbrakel Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.760856,
+                    50.808382
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25",
+                "ref:De_Lijn": "209157",
+                "bus": "yes",
+                "name": "Nederbrakel Neerhofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORIAANSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769869,
+                    50.813669
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;22;23;24;25;410",
+                "ref:De_Lijn": "208158",
+                "bus": "yes",
+                "name": "Nederbrakel Driehoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERMOLENSTRAAT NEDERBRAKEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769522,
+                    50.809676
+                ]
+            }
+        }
+    ]
+}

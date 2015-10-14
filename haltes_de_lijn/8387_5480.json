@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "104519",
+                "bus": "yes",
+                "name": "Puurs Haagstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LETTERHEIDE PUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.305066,
+                    51.059912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260;938",
+                "ref:De_Lijn": "104583",
+                "bus": "yes",
+                "name": "Puurs Hoek Ten Eike",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHIPSTRAAT KALFORT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301275,
+                    51.068089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "260;938",
+                "ref:De_Lijn": "104584",
+                "bus": "yes",
+                "name": "Puurs Hoek Ten Eike",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHIPSTRAAT KALFORT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301147,
+                    51.068017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "104517",
+                "bus": "yes",
+                "name": "Puurs Essendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASPOT KALFORT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.30265,
+                    51.063757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;254;938",
+                "ref:De_Lijn": "107930",
+                "bus": "yes",
+                "name": "Liezele Schemelberthof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLFSTRAAT LIEZELE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.288984,
+                    51.055713
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;254;938",
+                "ref:De_Lijn": "107931",
+                "bus": "yes",
+                "name": "Liezele Schemelberthof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOLFSTRAAT LIEZELE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.289098,
+                    51.055794
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408887",
+                "bus": "yes",
+                "name": "Sint-Martens-Voeren Restaurant Rode Bos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARNSTRAAT TEUVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.856064,
+                    50.748526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408886",
+                "bus": "yes",
+                "name": "Sint-Martens-Voeren Restaurant Rode Bos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARNSTRAAT TEUVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.855925,
+                    50.748609
+                ]
+            }
+        }
+    ]
+}

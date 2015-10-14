@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "404449",
+                "bus": "yes",
+                "name": "Houthalen Thermic",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPARK HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.404858,
+                    51.044489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "404448",
+                "bus": "yes",
+                "name": "Houthalen Thermic",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPARK HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.404689,
+                    51.044607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "404416",
+                "bus": "yes",
+                "name": "Helchteren Kruisvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPARKLAAN HELCHTEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.404513,
+                    51.052771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "404417",
+                "bus": "yes",
+                "name": "Helchteren Kruisvenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPARKLAAN HELCHTEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.404198,
+                    51.053332
+                ]
+            }
+        }
+    ]
+}

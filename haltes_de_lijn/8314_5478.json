@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "501601",
+                "bus": "yes",
+                "name": "Wulpen De Torreele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORRELESTRAAT VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.692603,
+                    51.088618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "501492",
+                "bus": "yes",
+                "name": "Wulpen De Groenehaeghe",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WULPENDAMMESTRAAT WULPEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.70102,
+                    51.095984
+                ]
+            }
+        }
+    ]
+}

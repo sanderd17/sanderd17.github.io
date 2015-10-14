@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "509459",
+                "bus": "yes",
+                "name": "Reninge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPPLAATS RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.789129,
+                    50.947693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "505116",
+                "bus": "yes",
+                "name": "Reninge Hof Ten IJzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPPLAATS RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.790241,
+                    50.948077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "504542",
+                "bus": "yes",
+                "name": "Reninge Hof Ten IJzer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPPLAATS RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.790316,
+                    50.947961
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "509461",
+                "bus": "yes",
+                "name": "Reninge Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTESTRAAT RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.783487,
+                    50.94617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "504459",
+                "bus": "yes",
+                "name": "Reninge Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPPLAATS RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.789054,
+                    50.947809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;29;57",
+                "ref:De_Lijn": "504461",
+                "bus": "yes",
+                "name": "Reninge Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTESTRAAT RENINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.78316,
+                    50.946183
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;81",
+                "ref:De_Lijn": "501522",
+                "bus": "yes",
+                "name": "Oostende Van Iseghemlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPUCIJNENSTRAAT OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917419,
+                    51.234526
+                ]
+            }
+        }
+    ]
+}

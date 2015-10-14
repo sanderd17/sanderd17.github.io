@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;81;88",
+                "ref:De_Lijn": "508886",
+                "bus": "yes",
+                "name": "Wielsbeke Vierlindenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERLINDENSTRAAT WIELSBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.349414,
+                    50.900088
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;81;88",
+                "ref:De_Lijn": "508653",
+                "bus": "yes",
+                "name": "Ooigem Vaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIELSBEEKSESTRAAT OOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.342538,
+                    50.895955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;81;88",
+                "ref:De_Lijn": "503653",
+                "bus": "yes",
+                "name": "Ooigem Vaart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIELSBEEKSESTRAAT OOIGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.343076,
+                    50.896077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;81;88",
+                "ref:De_Lijn": "503886",
+                "bus": "yes",
+                "name": "Wielsbeke Vierlindenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIERLINDENSTRAAT WIELSBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.349541,
+                    50.900125
+                ]
+            }
+        }
+    ]
+}

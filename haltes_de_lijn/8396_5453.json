@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;446;447;670;673;679",
+                "ref:De_Lijn": "105892",
+                "bus": "yes",
+                "name": "Nieuwmoer Zilverhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERENHOEKSTEENWEG KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.500812,
+                    51.427089
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "441;446;447;670;673;679",
+                "ref:De_Lijn": "105891",
+                "bus": "yes",
+                "name": "Nieuwmoer Zilverhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILVERENHOEKSTEENWEG KALMTHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.500266,
+                    51.42699
+                ]
+            }
+        }
+    ]
+}

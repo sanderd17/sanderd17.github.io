@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;485",
+                "ref:De_Lijn": "201757",
+                "bus": "yes",
+                "name": "Huise Rooigemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOIGEMSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58017,
+                    50.886984
+                ]
+            }
+        }
+    ]
+}

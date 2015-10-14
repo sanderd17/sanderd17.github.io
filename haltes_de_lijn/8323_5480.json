@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59;64",
+                "ref:De_Lijn": "503043",
+                "bus": "yes",
+                "name": "Beerst Spaarbank",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNENDALESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.88033,
+                    51.058626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59;64",
+                "ref:De_Lijn": "508043",
+                "bus": "yes",
+                "name": "Beerst Spaarbank",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJNENDALESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.880085,
+                    51.058722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;55;59;64",
+                "ref:De_Lijn": "508041",
+                "bus": "yes",
+                "name": "Beerst Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENDRIK CONSCIENCESTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885068,
+                    51.058128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505409",
+                "bus": "yes",
+                "name": "Beerst Hoograadstraat 11",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGRAADSTRAAT BEERST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.89387,
+                    51.059974
+                ]
+            }
+        }
+    ]
+}

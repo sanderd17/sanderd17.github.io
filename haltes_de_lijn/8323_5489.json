@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "506002",
+                "bus": "yes",
+                "name": "Langemark Pompoen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEKSTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.893805,
+                    50.932986
+                ]
+            }
+        }
+    ]
+}

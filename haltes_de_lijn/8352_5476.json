@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201713",
+                "bus": "yes",
+                "name": "Zomergem Haagstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPINHOUTSTRAAT ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.535091,
+                    51.111154
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "203446",
+                "bus": "yes",
+                "name": "Zomergem Weegbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTWEG ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.52027,
+                    51.121296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "203445",
+                "bus": "yes",
+                "name": "Zomergem Gentweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTWEG ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.530001,
+                    51.118696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201706",
+                "bus": "yes",
+                "name": "Zomergem Bauwerwaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAUWERWAAN ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.535354,
+                    51.120442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "201723",
+                "bus": "yes",
+                "name": "Zomergem Berkenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENSTRAAT ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.521771,
+                    51.112551
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;160",
+                "ref:De_Lijn": "202446",
+                "bus": "yes",
+                "name": "Zomergem Weegbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTWEG ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.520387,
+                    51.121144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;160",
+                "ref:De_Lijn": "202445",
+                "bus": "yes",
+                "name": "Zomergem Gentweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTWEG ZOMERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.530061,
+                    51.118517
+                ]
+            }
+        }
+    ]
+}

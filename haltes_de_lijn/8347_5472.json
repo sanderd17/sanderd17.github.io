@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "201955",
+                "bus": "yes",
+                "name": "Maldegem Groot Burkeldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROOT BURKELKALSEINDE MALDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.410204,
+                    51.171226
+                ]
+            }
+        }
+    ]
+}

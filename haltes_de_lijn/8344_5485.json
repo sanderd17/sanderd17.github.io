@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;73;77",
+                "ref:De_Lijn": "502474",
+                "bus": "yes",
+                "name": "Tielt Familiezorg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FELIX D'HOOPSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.344911,
+                    50.997771
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505802",
+                "bus": "yes",
+                "name": "Tielt Monteval",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MONTEVALSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.343031,
+                    50.995813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;73;77",
+                "ref:De_Lijn": "507474",
+                "bus": "yes",
+                "name": "Tielt Familiezorg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FELIX D'HOOPSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.344899,
+                    50.997663
+                ]
+            }
+        }
+    ]
+}

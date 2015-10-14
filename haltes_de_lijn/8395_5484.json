@@ -1,0 +1,910 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109491",
+                "bus": "yes",
+                "name": "Mechelen Brusselsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.474993,
+                    51.00955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "107424",
+                "bus": "yes",
+                "name": "Mechelen Mechelsveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.473563,
+                    51.013516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107706",
+                "bus": "yes",
+                "name": "Mechelen Meidoornstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEIDOORNSTRAAT MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480756,
+                    51.006219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "105825",
+                "bus": "yes",
+                "name": "Mechelen Heisegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTKLOOSTERSTRAAT MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.472151,
+                    51.00656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "104611",
+                "bus": "yes",
+                "name": "Mechelen Zwartkloosterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEERDEGEMDRIES MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.469314,
+                    51.005951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;501;683",
+                "ref:De_Lijn": "305832",
+                "bus": "yes",
+                "name": "Mechelen Stenenmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.477657,
+                    51.00917
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;5",
+                "ref:De_Lijn": "102126",
+                "bus": "yes",
+                "name": "Mechelen Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.475027,
+                    51.012148
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "105823",
+                "bus": "yes",
+                "name": "Mechelen E. Walschaertsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.466245,
+                    51.009711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "105058",
+                "bus": "yes",
+                "name": "Mechelen Brusselsesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.474651,
+                    51.009641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;280;282;283;550;551;552;682;683",
+                "ref:De_Lijn": "109489",
+                "bus": "yes",
+                "name": "Mechelen Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N1 MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47557,
+                    51.012525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;501;683",
+                "ref:De_Lijn": "305834",
+                "bus": "yes",
+                "name": "Mechelen Wilgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.477511,
+                    51.007705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "101877",
+                "bus": "yes",
+                "name": "Mechelen De Regenboog",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE REGENBOOG MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462933,
+                    51.006666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;501;683",
+                "ref:De_Lijn": "304043",
+                "bus": "yes",
+                "name": "Mechelen Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480043,
+                    50.999981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "106299",
+                "bus": "yes",
+                "name": "Mechelen Geerdegemdries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENWEIDE MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.468581,
+                    51.009394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;501;683",
+                "ref:De_Lijn": "305836",
+                "bus": "yes",
+                "name": "Mechelen Jubellaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.477228,
+                    51.002726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "102734",
+                "bus": "yes",
+                "name": "Mechelen Watertoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462072,
+                    51.011081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109492",
+                "bus": "yes",
+                "name": "Mechelen Technopolis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TECHNOLOGIELAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.470104,
+                    51.002435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109495",
+                "bus": "yes",
+                "name": "Mechelen Vijfhuizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEMSTBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.471895,
+                    51.000366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "103003",
+                "bus": "yes",
+                "name": "Mechelen Geerdegemdries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENWEIDE MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.468752,
+                    51.009511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;501;683",
+                "ref:De_Lijn": "304042",
+                "bus": "yes",
+                "name": "Mechelen Lindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47943,
+                    51.000153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102051",
+                "bus": "yes",
+                "name": "Mechelen Bedrijvenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEDRIJVENLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.466587,
+                    51.003328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105047",
+                "bus": "yes",
+                "name": "Mechelen Meidoornstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MEIDOORNSTRAAT MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480656,
+                    51.006336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "105059",
+                "bus": "yes",
+                "name": "Mechelen Kruisbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.471615,
+                    51.00896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109494",
+                "bus": "yes",
+                "name": "Mechelen Vijfhuizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEMSTBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47181,
+                    51.000492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "105804",
+                "bus": "yes",
+                "name": "Mechelen Molenweide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.46964,
+                    51.011587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105062",
+                "bus": "yes",
+                "name": "Mechelen Watertoren",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GEERDEGEM-SCHONENBERG MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462315,
+                    51.01144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "104817",
+                "bus": "yes",
+                "name": "Mechelen Bedrijvenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEERDEGEMDRIES MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.469354,
+                    51.004584
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "105824",
+                "bus": "yes",
+                "name": "Mechelen Zwartkloosterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEERDEGEMDRIES MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.468959,
+                    51.006347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105807",
+                "bus": "yes",
+                "name": "Mechelen Watertoren",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GEERDEGEM-SCHONENBERG MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462244,
+                    51.011539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "101876",
+                "bus": "yes",
+                "name": "Mechelen De Regenboog",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DE REGENBOOG MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.46289,
+                    51.006576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "104609",
+                "bus": "yes",
+                "name": "Mechelen Heisegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTKLOOSTERSTRAAT MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.471863,
+                    51.00531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;501;683",
+                "ref:De_Lijn": "305833",
+                "bus": "yes",
+                "name": "Mechelen Wilgenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.477696,
+                    51.007561
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "105063",
+                "bus": "yes",
+                "name": "Mechelen Molenweide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.469654,
+                    51.011488
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "109516",
+                "bus": "yes",
+                "name": "Mechelen Postzegel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EGIDE WALSCHAERTSSTRAAT MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.464304,
+                    51.00849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;501;683",
+                "ref:De_Lijn": "305835",
+                "bus": "yes",
+                "name": "Mechelen Jubellaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47733,
+                    51.003481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280;501;683",
+                "ref:De_Lijn": "305831",
+                "bus": "yes",
+                "name": "Mechelen Stenenmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.477856,
+                    51.009152
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109465",
+                "bus": "yes",
+                "name": "Mechelen Lindestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47943,
+                    51.000144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "104612",
+                "bus": "yes",
+                "name": "Mechelen Bedrijvenlaan",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BEDRIJVENLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.466573,
+                    51.003463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109470",
+                "bus": "yes",
+                "name": "Mechelen Lindestraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "JUBELLAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.480057,
+                    50.999981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "105822",
+                "bus": "yes",
+                "name": "Mechelen Postzegel",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "EGIDE WALSCHAERTSSTRAAT MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.464446,
+                    51.008328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "282;283;682",
+                "ref:De_Lijn": "109800",
+                "bus": "yes",
+                "name": "Mechelen Technopolis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TECHNOLOGIELAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.470646,
+                    51.002579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;5;280;282;283;550;551;552;682;683",
+                "ref:De_Lijn": "105064",
+                "bus": "yes",
+                "name": "Mechelen Europalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N1 MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.475798,
+                    51.012507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "105061",
+                "bus": "yes",
+                "name": "Mechelen E. Walschaertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISBAAN MECHELEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.46643,
+                    51.009774
+                ]
+            }
+        }
+    ]
+}

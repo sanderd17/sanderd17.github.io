@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "108676",
+                "bus": "yes",
+                "name": "Mol Paviljoenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTRAAT MOL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.194174,
+                    51.20531
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "406788",
+                "bus": "yes",
+                "name": "Balen Leeuwerikheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTE DREEF BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.185736,
+                    51.197404
+                ]
+            }
+        }
+    ]
+}

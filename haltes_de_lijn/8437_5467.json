@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "405849",
+                "bus": "yes",
+                "name": "Kolonie Sint-Barbara",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG LOMMEL-KOLONIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.383628,
+                    51.247782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "409412",
+                "bus": "yes",
+                "name": "Kolonie Sint-Barbara",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG LOMMEL-KOLONIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.383602,
+                    51.247881
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "400496",
+                "bus": "yes",
+                "name": "Lixhe Halembay",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N671 LIEZE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.663509,
+                    50.770273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "400497",
+                "bus": "yes",
+                "name": "Lixhe Halembay",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N671 LIEZE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.663293,
+                    50.77068
+                ]
+            }
+        }
+    ]
+}

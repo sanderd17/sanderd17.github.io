@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40;746;748",
+                "ref:De_Lijn": "406652",
+                "bus": "yes",
+                "name": "Neerglabbeek Moorenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR OPITTER NEERGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.625007,
+                    51.102426
+                ]
+            }
+        }
+    ]
+}

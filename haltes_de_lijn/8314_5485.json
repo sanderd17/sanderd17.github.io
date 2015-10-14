@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;51;57;59",
+                "ref:De_Lijn": "509481",
+                "bus": "yes",
+                "name": "Sint-Rijkers Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTADESTRAAT SINT-RIJKERS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.688157,
+                    50.991026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;51;57;59",
+                "ref:De_Lijn": "504481",
+                "bus": "yes",
+                "name": "Sint-Rijkers Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGSTADESTRAAT SINT-RIJKERS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.687923,
+                    50.991193
+                ]
+            }
+        }
+    ]
+}

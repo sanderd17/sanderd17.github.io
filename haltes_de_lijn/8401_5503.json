@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;341",
+                "ref:De_Lijn": "307963",
+                "bus": "yes",
+                "name": "Waver Parc Artisanal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DES COLLINES WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.6128,
+                    50.738294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;341",
+                "ref:De_Lijn": "307962",
+                "bus": "yes",
+                "name": "Waver Parc Artisanal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DES COLLINES WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.612744,
+                    50.738375
+                ]
+            }
+        }
+    ]
+}

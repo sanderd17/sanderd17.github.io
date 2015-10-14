@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "105624",
+                "bus": "yes",
+                "name": "Bellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORDAMSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351788,
+                    51.287616
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "760",
+                "ref:De_Lijn": "105626",
+                "bus": "yes",
+                "name": "Bellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ORDAMSTRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352089,
+                    51.287769
+                ]
+            }
+        }
+    ]
+}

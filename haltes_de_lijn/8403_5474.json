@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;151;152;153",
+                "ref:De_Lijn": "107011",
+                "bus": "yes",
+                "name": "Kessel Jagershuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG KESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.648734,
+                    51.150786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;151;152;153",
+                "ref:De_Lijn": "107009",
+                "bus": "yes",
+                "name": "Kessel Jagershuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG KESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.648289,
+                    51.150562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;151;152;153",
+                "ref:De_Lijn": "107008",
+                "bus": "yes",
+                "name": "Kessel Hoenderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG KESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.640207,
+                    51.149233
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;151;152;153",
+                "ref:De_Lijn": "107007",
+                "bus": "yes",
+                "name": "Kessel Hoenderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG KESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.639762,
+                    51.148955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101831",
+                "bus": "yes",
+                "name": "Kessel De Regenboog",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BEVELSESTEENWEG KESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.651409,
+                    51.144209
+                ]
+            }
+        }
+    ]
+}

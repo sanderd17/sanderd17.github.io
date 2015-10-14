@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207888",
+                "bus": "yes",
+                "name": "Baasrode Vlassenbroek Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLASSENBROEK BAASRODE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.130277,
+                    51.048209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204145",
+                "bus": "yes",
+                "name": "Grembergen Kleemputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEEMPUTSTRAAT GREMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.110296,
+                    51.051206
+                ]
+            }
+        }
+    ]
+}

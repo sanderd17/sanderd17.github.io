@@ -1,0 +1,487 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341",
+                "ref:De_Lijn": "307816",
+                "bus": "yes",
+                "name": "Overijse De Leegheid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542219,
+                    50.772078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "395;548;553;598;830",
+                "ref:De_Lijn": "305437",
+                "bus": "yes",
+                "name": "Overijse Stationsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.534006,
+                    50.770813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304002",
+                "bus": "yes",
+                "name": "Overijse Dreef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DREEF OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542689,
+                    50.772643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547;549;553;830",
+                "ref:De_Lijn": "304033",
+                "bus": "yes",
+                "name": "Overijse Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.537514,
+                    50.772498
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "306193",
+                "bus": "yes",
+                "name": "Overijse Terhulpensesteenweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.54236,
+                    50.771898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "348",
+                "ref:De_Lijn": "307510",
+                "bus": "yes",
+                "name": "Overijse Vossebeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERHULPENSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.541922,
+                    50.768554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547;549;553;830",
+                "ref:De_Lijn": "304039",
+                "bus": "yes",
+                "name": "Overijse Sint-Martinusschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.528214,
+                    50.776736
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304095",
+                "bus": "yes",
+                "name": "Overijse Terhulpensesteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542432,
+                    50.772041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547;549;553;830",
+                "ref:De_Lijn": "306375",
+                "bus": "yes",
+                "name": "Overijse Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.538011,
+                    50.772776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "395;548;553;598;830",
+                "ref:De_Lijn": "304012",
+                "bus": "yes",
+                "name": "Overijse Emile Carelsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "J. B. DEKEYSERSTRAAT OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.539382,
+                    50.771533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "348",
+                "ref:De_Lijn": "307509",
+                "bus": "yes",
+                "name": "Overijse Vossebeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERHULPENSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542149,
+                    50.768545
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "348;395;548;553;598;830",
+                "ref:De_Lijn": "307815",
+                "bus": "yes",
+                "name": "Overijse De Leegheid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N253 OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.541382,
+                    50.771953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "395;548;553;598;830",
+                "ref:De_Lijn": "304013",
+                "bus": "yes",
+                "name": "Overijse Emile Carelsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "J. B. DEKEYSERSTRAAT OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.539508,
+                    50.771299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547;549;553;830",
+                "ref:De_Lijn": "304091",
+                "bus": "yes",
+                "name": "Overijse Solheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.533454,
+                    50.774949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "304003",
+                "bus": "yes",
+                "name": "Overijse Dreef",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DREEF OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542731,
+                    50.772553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547;549;553;830",
+                "ref:De_Lijn": "307814",
+                "bus": "yes",
+                "name": "Overijse De Leegheid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.54076,
+                    50.772538
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344;349;395;547;548;549;598",
+                "ref:De_Lijn": "307817",
+                "bus": "yes",
+                "name": "Overijse De Leegheid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEF OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.542078,
+                    50.772321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547;549;553;830",
+                "ref:De_Lijn": "304090",
+                "bus": "yes",
+                "name": "Overijse Solheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.533723,
+                    50.774967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344;349;395;547;549;598",
+                "ref:De_Lijn": "304077",
+                "bus": "yes",
+                "name": "Overijse Puttestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEF OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.547817,
+                    50.775278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308672",
+                "bus": "yes",
+                "name": "Overijse Rijschool",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N253 OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.541609,
+                    50.771971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "344;349;395;547;549;598",
+                "ref:De_Lijn": "304076",
+                "bus": "yes",
+                "name": "Overijse Puttestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEF OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.547974,
+                    50.775512
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "395;548;553;598;830",
+                "ref:De_Lijn": "304092",
+                "bus": "yes",
+                "name": "Overijse Stationsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.534077,
+                    50.770687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "341;344;348;349;547;549;553;830",
+                "ref:De_Lijn": "304038",
+                "bus": "yes",
+                "name": "Overijse Sint-Martinusschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG OVERIJSE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.527138,
+                    50.77707
+                ]
+            }
+        }
+    ]
+}

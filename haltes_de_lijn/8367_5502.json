@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;370;410",
+                "ref:De_Lijn": "209037",
+                "bus": "yes",
+                "name": "Overboelare Burgstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERBONDENENSTRAAT OVERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.861611,
+                    50.763057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206797",
+                "bus": "yes",
+                "name": "Overboelare Plankweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTEWEG OVERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.847784,
+                    50.754761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370;410",
+                "ref:De_Lijn": "206802",
+                "bus": "yes",
+                "name": "Goeferdinge Zarlardingestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZARLARDINGESTRAAT GOEFERDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.846629,
+                    50.763072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206770",
+                "bus": "yes",
+                "name": "Overboelare Veldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTEWEG OVERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.855462,
+                    50.758913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206787",
+                "bus": "yes",
+                "name": "Overboelare Parochiaal Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTEWEG OVERBOELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.858674,
+                    50.760716
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "405767",
+                "bus": "yes",
+                "name": "Lommel Grens Luyksgestel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GESTELSEDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.315897,
+                    51.263356
+                ]
+            }
+        }
+    ]
+}

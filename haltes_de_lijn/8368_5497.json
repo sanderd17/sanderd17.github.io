@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;49",
+                "ref:De_Lijn": "209479",
+                "bus": "yes",
+                "name": "Ophasselt De Kat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDLAAN OPHASSELT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.884367,
+                    50.820436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;49;370",
+                "ref:De_Lijn": "208479",
+                "bus": "yes",
+                "name": "Ophasselt De Kat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDLAAN OPHASSELT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.88417,
+                    50.820274
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39",
+                "ref:De_Lijn": "209501",
+                "bus": "yes",
+                "name": "Ophasselt Heikouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRAMBROEK OPHASSELT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.874865,
+                    50.819866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "370",
+                "ref:De_Lijn": "206751",
+                "bus": "yes",
+                "name": "Ophasselt Patattenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAPENBERG OPHASSELT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.882082,
+                    50.823259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;370",
+                "ref:De_Lijn": "208501",
+                "bus": "yes",
+                "name": "Ophasselt Heikouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRAMBROEK OPHASSELT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.875119,
+                    50.820011
+                ]
+            }
+        }
+    ]
+}

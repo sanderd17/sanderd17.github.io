@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;560;567;715",
+                "ref:De_Lijn": "305666",
+                "bus": "yes",
+                "name": "Budingen Stationswijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTERSEWEG BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.097844,
+                    50.864121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;560;715",
+                "ref:De_Lijn": "305668",
+                "bus": "yes",
+                "name": "Budingen Weg naar Grazen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWEIDENSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.110446,
+                    50.86157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;560;715",
+                "ref:De_Lijn": "305669",
+                "bus": "yes",
+                "name": "Budingen Weg naar Grazen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWEIDENSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.110293,
+                    50.861742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;560;715",
+                "ref:De_Lijn": "305659",
+                "bus": "yes",
+                "name": "Budingen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWEIDENSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.104854,
+                    50.863691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;23;26;560;567;715",
+                "ref:De_Lijn": "305667",
+                "bus": "yes",
+                "name": "Budingen Stationswijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTERSEWEG BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.09813,
+                    50.86429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;560;715",
+                "ref:De_Lijn": "305658",
+                "bus": "yes",
+                "name": "Budingen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWEIDENSTRAAT BUDINGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.104824,
+                    50.863547
+                ]
+            }
+        }
+    ]
+}

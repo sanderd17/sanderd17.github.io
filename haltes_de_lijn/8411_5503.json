@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "362",
+                "ref:De_Lijn": "301196",
+                "bus": "yes",
+                "name": "Malen Église",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLACE DE MÉLIN MALEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828506,
+                    50.7399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "362",
+                "ref:De_Lijn": "301197",
+                "bus": "yes",
+                "name": "Malen Église",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLACE DE MÉLIN MALEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828719,
+                    50.739917
+                ]
+            }
+        }
+    ]
+}

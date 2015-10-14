@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "406955",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Bosuilstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAULILLERWEG SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.496272,
+                    51.215568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8",
+                "ref:De_Lijn": "406954",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Bosuilstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.497641,
+                    51.214764
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "406854",
+                "bus": "yes",
+                "name": "Koersel Leemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMSTRAAT KOERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.300632,
+                    51.072635
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "405140",
+                "bus": "yes",
+                "name": "Koersel Spechtenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPECHTENSTRAAT FONTEINTJE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313445,
+                    51.081801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "405139",
+                "bus": "yes",
+                "name": "Koersel Spechtenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPECHTENSTRAAT FONTEINTJE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313442,
+                    51.081648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "719",
+                "ref:De_Lijn": "406845",
+                "bus": "yes",
+                "name": "Koersel Leemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMSTRAAT KOERSEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.300605,
+                    51.072743
+                ]
+            }
+        }
+    ]
+}

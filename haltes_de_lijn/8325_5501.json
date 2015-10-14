@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "504772",
+                "bus": "yes",
+                "name": "Wijtschate Provinciegrens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJSELSTRAAT WIJTSCHATE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.930342,
+                    50.767713
+                ]
+            }
+        }
+    ]
+}

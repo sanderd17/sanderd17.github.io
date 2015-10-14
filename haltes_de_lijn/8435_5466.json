@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "406882",
+                "bus": "yes",
+                "name": "Kolonie Kolken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE FOSSÉSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.343762,
+                    51.257097
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "409411",
+                "bus": "yes",
+                "name": "Kolonie Grote Fossestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE FOSSÉSTRAAT LOMMEL-KOLONIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.358357,
+                    51.25694
+                ]
+            }
+        }
+    ]
+}

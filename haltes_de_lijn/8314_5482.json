@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "505342",
+                "bus": "yes",
+                "name": "Wulveringem Oerenstraat 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OERENSTRAAT OEREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.691933,
+                    51.028034
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "504726",
+                "bus": "yes",
+                "name": "Steenkerke Landsheerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANDBOUWERSSTRAAT STEENKERKE (VEURNE)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.68322,
+                    51.037189
+                ]
+            }
+        }
+    ]
+}

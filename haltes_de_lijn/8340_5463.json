@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42",
+                "ref:De_Lijn": "501084",
+                "bus": "yes",
+                "name": "Dudzele Zelzatebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTKAPELSE STEENWEG DUDZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.259492,
+                    51.294473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42",
+                "ref:De_Lijn": "506084",
+                "bus": "yes",
+                "name": "Dudzele Zelzatebrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTKAPELSE STEENWEG DUDZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.258752,
+                    51.294232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42",
+                "ref:De_Lijn": "506435",
+                "bus": "yes",
+                "name": "Westkapelle Pelikaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUDZELESTRAAT KNOKKE-HEIST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.273769,
+                    51.300691
+                ]
+            }
+        }
+    ]
+}

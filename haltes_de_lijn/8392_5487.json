@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "301781",
+                "bus": "yes",
+                "name": "Humbeek Plaskie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BENEDESTRAAT HUMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.394659,
+                    50.960569
+                ]
+            }
+        }
+    ]
+}

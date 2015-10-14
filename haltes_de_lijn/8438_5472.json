@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "406266",
+                "bus": "yes",
+                "name": "Overpelt Moldershoevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLDERSHOEVENSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.414876,
+                    51.177447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "406267",
+                "bus": "yes",
+                "name": "Overpelt Moldershoevenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLDERSHOEVENSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.414902,
+                    51.177339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;745",
+                "ref:De_Lijn": "408482",
+                "bus": "yes",
+                "name": "Overpelt Kraaibosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLDERSHOEVENSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.419896,
+                    51.176198
+                ]
+            }
+        }
+    ]
+}

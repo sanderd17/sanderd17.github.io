@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505154",
+                "bus": "yes",
+                "name": "Eernegem Boskapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT EERNEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.05998,
+                    51.138388
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505833",
+                "bus": "yes",
+                "name": "Bekegem Schipleed",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHIPLEEDSTRAAT BEKEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.064959,
+                    51.147901
+                ]
+            }
+        }
+    ]
+}

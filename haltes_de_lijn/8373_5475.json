@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "203182",
+                "bus": "yes",
+                "name": "Daknam Pontweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDENDAM DAKNAM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.979547,
+                    51.130166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "202183",
+                "bus": "yes",
+                "name": "Daknam Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAKNAM-DORP DAKNAM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.98046,
+                    51.125135
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204237",
+                "bus": "yes",
+                "name": "Daknam Eikelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PONTWEG DAKNAM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.986485,
+                    51.130781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "202182",
+                "bus": "yes",
+                "name": "Daknam Pontweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIDDENDAM DAKNAM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.979375,
+                    51.130156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "203183",
+                "bus": "yes",
+                "name": "Daknam Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAKNAM-DORP DAKNAM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.980588,
+                    51.125216
+                ]
+            }
+        }
+    ]
+}

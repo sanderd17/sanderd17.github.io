@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505935",
+                "bus": "yes",
+                "name": "Izegem De Mol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLSTRAAT IZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18543,
+                    50.913816
+                ]
+            }
+        }
+    ]
+}

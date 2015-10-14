@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;921",
+                "ref:De_Lijn": "109446",
+                "bus": "yes",
+                "name": "Geel SCK Europawijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RETIESEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030873,
+                    51.198958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;921",
+                "ref:De_Lijn": "109445",
+                "bus": "yes",
+                "name": "Geel SCK Europawijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RETIESEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030761,
+                    51.199094
+                ]
+            }
+        }
+    ]
+}

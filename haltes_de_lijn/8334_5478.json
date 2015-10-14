@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79",
+                "ref:De_Lijn": "502706",
+                "bus": "yes",
+                "name": "Torhout Rozeveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZEVELDSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.133081,
+                    51.086207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79",
+                "ref:De_Lijn": "507504",
+                "bus": "yes",
+                "name": "Torhout Maria Assumpta",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZEVELDSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.128132,
+                    51.083934
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "500129",
+                "bus": "yes",
+                "name": "Torhout Akkerwind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDBERGSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.13269,
+                    51.083721
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79",
+                "ref:De_Lijn": "502504",
+                "bus": "yes",
+                "name": "Torhout Maria Assumpta",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZEVELDSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.128613,
+                    51.084074
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;79",
+                "ref:De_Lijn": "507706",
+                "bus": "yes",
+                "name": "Torhout Rozeveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZEVELDSTRAAT TORHOUT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.132751,
+                    51.086275
+                ]
+            }
+        }
+    ]
+}

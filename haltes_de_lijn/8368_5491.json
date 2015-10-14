@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;92;385;390",
+                "ref:De_Lijn": "202739",
+                "bus": "yes",
+                "name": "Herzele Heibaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT HERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.876889,
+                    50.90329
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209743",
+                "bus": "yes",
+                "name": "Sint-Lievens-Houtem Balei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALEI SINT-LIEVENS-HOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.878627,
+                    50.916539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209740",
+                "bus": "yes",
+                "name": "Borsbeke Kampenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMPENSTRAAT BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.883858,
+                    50.912632
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209742",
+                "bus": "yes",
+                "name": "Borsbeke Wijteveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DREEFSTRAAT BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.884297,
+                    50.904525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;92",
+                "ref:De_Lijn": "203739",
+                "bus": "yes",
+                "name": "Herzele Heibaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOUTEMSTRAAT HERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.876733,
+                    50.903235
+                ]
+            }
+        }
+    ]
+}

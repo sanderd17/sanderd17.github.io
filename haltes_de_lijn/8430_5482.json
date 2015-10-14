@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52",
+                "ref:De_Lijn": "400576",
+                "bus": "yes",
+                "name": "Beringen Muizenheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSESTEENWEG BERINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2386,
+                    51.039407
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52",
+                "ref:De_Lijn": "404152",
+                "bus": "yes",
+                "name": "Heusden Everselweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERINGERSTEENWEG HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.250895,
+                    51.033607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52",
+                "ref:De_Lijn": "404153",
+                "bus": "yes",
+                "name": "Heusden Everselweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N72 HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.249062,
+                    51.034655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52",
+                "ref:De_Lijn": "400577",
+                "bus": "yes",
+                "name": "Beringen Muizenheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSESTEENWEG BERINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.238814,
+                    51.039442
+                ]
+            }
+        }
+    ]
+}

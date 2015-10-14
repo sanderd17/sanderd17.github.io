@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "509153",
+                "bus": "yes",
+                "name": "Oostnieuwkerke Pieters",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTNIEUWKERKESTRAAT STADEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.042958,
+                    50.952582
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505549",
+                "bus": "yes",
+                "name": "Oostnieuwkerke Avondbroodje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALGESTRAAT OOSTNIEUWKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.048966,
+                    50.955086
+                ]
+            }
+        }
+    ]
+}

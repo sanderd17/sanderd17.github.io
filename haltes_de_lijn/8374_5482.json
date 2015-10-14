@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54",
+                "ref:De_Lijn": "207274",
+                "bus": "yes",
+                "name": "Berlare Turfputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.999939,
+                    51.027811
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "205590",
+                "bus": "yes",
+                "name": "Zele Kamershoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAMERSHOEK ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.008574,
+                    51.039325
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;54;355",
+                "ref:De_Lijn": "206274",
+                "bus": "yes",
+                "name": "Berlare Turfputstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWSTRAAT BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.999811,
+                    51.027729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204158",
+                "bus": "yes",
+                "name": "Berlare Fred De Bruynestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKVELD BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.002595,
+                    51.028952
+                ]
+            }
+        }
+    ]
+}

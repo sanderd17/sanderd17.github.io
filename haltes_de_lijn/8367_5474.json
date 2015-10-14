@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200720",
+                "bus": "yes",
+                "name": "Zaffelare 't Jongestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'T JONGESTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.848253,
+                    51.138523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;175",
+                "ref:De_Lijn": "202641",
+                "bus": "yes",
+                "name": "Wachtebeke Craenendam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PUYENBRUG WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.863887,
+                    51.15158
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;175",
+                "ref:De_Lijn": "200168",
+                "bus": "yes",
+                "name": "Zaffelare Dam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAM ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.865537,
+                    51.145654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "201168",
+                "bus": "yes",
+                "name": "Zaffelare Dam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAM ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.865621,
+                    51.145853
+                ]
+            }
+        }
+    ]
+}

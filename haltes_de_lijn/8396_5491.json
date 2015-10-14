@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;223;270;271;505;651;660;686",
+                "ref:De_Lijn": "304730",
+                "bus": "yes",
+                "name": "Melsbroek Groeneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG MELSBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.492568,
+                    50.915515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "225;681;682",
+                "ref:De_Lijn": "308698",
+                "bus": "yes",
+                "name": "Melsbroek Gillynstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PERKSESTEENWEG MELSBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.485016,
+                    50.915163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "225;681;682",
+                "ref:De_Lijn": "304728",
+                "bus": "yes",
+                "name": "Melsbroek Gillynstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PERKSESTEENWEG MELSBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.484703,
+                    50.91493
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;223;270;271;505;651;660;686",
+                "ref:De_Lijn": "304726",
+                "bus": "yes",
+                "name": "Melsbroek Geerensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG MELSBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.482633,
+                    50.911678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;223;270;271;505;651;660;686",
+                "ref:De_Lijn": "304729",
+                "bus": "yes",
+                "name": "Melsbroek Groeneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG STEENOKKERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.494233,
+                    50.916026
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "221;223;270;271;505;651;660;686",
+                "ref:De_Lijn": "304725",
+                "bus": "yes",
+                "name": "Melsbroek Geerensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAACHTSESTEENWEG MELSBROEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.483216,
+                    50.911758
+                ]
+            }
+        }
+    ]
+}

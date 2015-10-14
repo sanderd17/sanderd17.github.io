@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "300117",
+                "bus": "yes",
+                "name": "Langdorp Zavel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSESTEENWEG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.916897,
+                    51.009883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "300102",
+                "bus": "yes",
+                "name": "Langdorp Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSESTEENWEG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.901467,
+                    51.003842
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "300118",
+                "bus": "yes",
+                "name": "Langdorp Zavel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSESTEENWEG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.916566,
+                    51.009633
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;707;708",
+                "ref:De_Lijn": "300101",
+                "bus": "yes",
+                "name": "Langdorp Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TESTELTSESTEENWEG LANGDORP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.900812,
+                    51.003872
+                ]
+            }
+        }
+    ]
+}

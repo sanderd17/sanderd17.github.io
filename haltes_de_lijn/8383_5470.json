@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;280",
+                "ref:De_Lijn": "204300",
+                "bus": "yes",
+                "name": "Beveren Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEWEG HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.217407,
+                    51.194843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;280",
+                "ref:De_Lijn": "205300",
+                "bus": "yes",
+                "name": "Beveren Kruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSEWEG HAASDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.217394,
+                    51.194672
+                ]
+            }
+        }
+    ]
+}

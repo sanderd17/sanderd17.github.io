@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "404494",
+                "bus": "yes",
+                "name": "Houthalen Kwalaak",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEREBAAN-OOST HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.405569,
+                    51.02831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "404536",
+                "bus": "yes",
+                "name": "Houthalen Radiant Color",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPARK HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.405302,
+                    51.040107
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "404537",
+                "bus": "yes",
+                "name": "Houthalen Radiant Color",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPARK HOUTHALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.40592,
+                    51.04029
+                ]
+            }
+        }
+    ]
+}

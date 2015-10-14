@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101481",
+                "bus": "yes",
+                "name": "Noorderwijk Hoge Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SERVAAS DAEMSSTRAAT NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.82433,
+                    51.146948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "946",
+                "ref:De_Lijn": "101482",
+                "bus": "yes",
+                "name": "Noorderwijk Hoge Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SERVAAS DAEMSSTRAAT NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.824059,
+                    51.147039
+                ]
+            }
+        }
+    ]
+}

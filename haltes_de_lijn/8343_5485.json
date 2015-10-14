@@ -1,0 +1,593 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;52;53;54;59;73;77",
+                "ref:De_Lijn": "502472",
+                "bus": "yes",
+                "name": "Tielt Dekenij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.324821,
+                    50.999815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505340",
+                "bus": "yes",
+                "name": "Tielt Gruuthusestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRUUTHUSESTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.33351,
+                    50.989562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505078",
+                "bus": "yes",
+                "name": "Tielt Klijtenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLIJTENSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.339703,
+                    50.99297
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "80",
+                "ref:De_Lijn": "502641",
+                "bus": "yes",
+                "name": "Tielt Station Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSBERM TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329423,
+                    50.99083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "509928",
+                "bus": "yes",
+                "name": "Tielt Rameplein Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMEPLEIN TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.32854,
+                    50.998508
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59;77",
+                "ref:De_Lijn": "502473",
+                "bus": "yes",
+                "name": "Tielt Drukkerij Lannoo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.320496,
+                    50.991892
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;21;28;52;53;54;59;73;77;80",
+                "ref:De_Lijn": "507487",
+                "bus": "yes",
+                "name": "Tielt Vierhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326023,
+                    50.993802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;59;77",
+                "ref:De_Lijn": "509700",
+                "bus": "yes",
+                "name": "Tielt VTI",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE HULSTSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329895,
+                    50.995868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;73",
+                "ref:De_Lijn": "509927",
+                "bus": "yes",
+                "name": "Tielt Rameplein Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMEPLEIN TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.328456,
+                    50.998436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;53;59;73;77",
+                "ref:De_Lijn": "509701",
+                "bus": "yes",
+                "name": "Tielt VTI",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE HULSTSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329442,
+                    50.995747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505664",
+                "bus": "yes",
+                "name": "Tielt Beernegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEGEMSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.334202,
+                    50.993731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;52;54;59;73;77;80",
+                "ref:De_Lijn": "502482",
+                "bus": "yes",
+                "name": "Tielt Polenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MICHIELSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.322102,
+                    50.997157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;59;73;77",
+                "ref:De_Lijn": "502469",
+                "bus": "yes",
+                "name": "Tielt De Bek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FELIX D'HOOPSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.334681,
+                    50.99849
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "507485",
+                "bus": "yes",
+                "name": "Tielt Station Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329479,
+                    50.990866
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;59;77",
+                "ref:De_Lijn": "509702",
+                "bus": "yes",
+                "name": "Tielt Van Zandvoordestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332758,
+                    50.99975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;53;54",
+                "ref:De_Lijn": "502615",
+                "bus": "yes",
+                "name": "Tielt Station Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSBERM TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329451,
+                    50.990848
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;73;77;80",
+                "ref:De_Lijn": "507482",
+                "bus": "yes",
+                "name": "Tielt Polenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEKEN DARRASLAAN TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.320333,
+                    50.997923
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28",
+                "ref:De_Lijn": "502485",
+                "bus": "yes",
+                "name": "Tielt Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329607,
+                    50.990885
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;21;28;52;53;54;59;73;77;80",
+                "ref:De_Lijn": "502487",
+                "bus": "yes",
+                "name": "Tielt Vierhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326338,
+                    50.993742
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;77",
+                "ref:De_Lijn": "502614",
+                "bus": "yes",
+                "name": "Tielt Station Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSBERM TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329423,
+                    50.99083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "502803",
+                "bus": "yes",
+                "name": "Tielt Station Perron 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSBERM TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.329424,
+                    50.990776
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;59;77",
+                "ref:De_Lijn": "509703",
+                "bus": "yes",
+                "name": "Tielt Van Zandvoordestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EUROPALAAN TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332811,
+                    50.999921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;59;77",
+                "ref:De_Lijn": "507473",
+                "bus": "yes",
+                "name": "Tielt Drukkerij Lannoo",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.320294,
+                    50.991989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;52;53;54;59;73;77",
+                "ref:De_Lijn": "502468",
+                "bus": "yes",
+                "name": "Tielt College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326611,
+                    50.997502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505665",
+                "bus": "yes",
+                "name": "Tielt Plantinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PLANTINSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.321636,
+                    50.99317
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;59;73;77",
+                "ref:De_Lijn": "507469",
+                "bus": "yes",
+                "name": "Tielt De Bek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FELIX D'HOOPSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.33474,
+                    50.998374
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "505319",
+                "bus": "yes",
+                "name": "Tielt RVT Schependomstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHEPENDOMSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.318805,
+                    50.999366
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;77",
+                "ref:De_Lijn": "504877",
+                "bus": "yes",
+                "name": "Tielt Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT TIELT (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326794,
+                    50.996956
+                ]
+            }
+        }
+    ]
+}

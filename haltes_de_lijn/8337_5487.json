@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "504758",
+                "bus": "yes",
+                "name": "Ardooie Cloetbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.195237,
+                    50.960745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;61",
+                "ref:De_Lijn": "509758",
+                "bus": "yes",
+                "name": "Ardooie Cloetbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.194947,
+                    50.960374
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203228",
+                "bus": "yes",
+                "name": "Sint-Laureins Celiekerkweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMWEG SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.520117,
+                    51.228922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;195",
+                "ref:De_Lijn": "202228",
+                "bus": "yes",
+                "name": "Sint-Laureins Celiekerkweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMWEG SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.51993,
+                    51.228939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "208857",
+                "bus": "yes",
+                "name": "Sint-Laureins Kleine Boterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EERSTESTRAAT SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.532578,
+                    51.228588
+                ]
+            }
+        }
+    ]
+}

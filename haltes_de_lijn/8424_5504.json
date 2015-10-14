@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;42;730",
+                "ref:De_Lijn": "405472",
+                "bus": "yes",
+                "name": "Wezeren Wezerenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEZERENSTRAAT WEZEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.10207,
+                    50.732705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;42",
+                "ref:De_Lijn": "405484",
+                "bus": "yes",
+                "name": "Wezeren Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEZERENSTRAAT WEZEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.104572,
+                    50.73055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;42;730",
+                "ref:De_Lijn": "405474",
+                "bus": "yes",
+                "name": "Wezeren Wezerenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEZERENSTRAAT WEZEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.101832,
+                    50.732922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;42",
+                "ref:De_Lijn": "405485",
+                "bus": "yes",
+                "name": "Wezeren Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEZERENSTRAAT WEZEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.104617,
+                    50.730765
+                ]
+            }
+        }
+    ]
+}

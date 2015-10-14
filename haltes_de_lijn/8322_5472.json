@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;66;84",
+                "ref:De_Lijn": "501193",
+                "bus": "yes",
+                "name": "Leffinge Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.877243,
+                    51.177442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "506193",
+                "bus": "yes",
+                "name": "Leffinge Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.87742,
+                    51.177291
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53;66;84",
+                "ref:De_Lijn": "501192",
+                "bus": "yes",
+                "name": "Leffinge Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.877233,
+                    51.175536
+                ]
+            }
+        }
+    ]
+}

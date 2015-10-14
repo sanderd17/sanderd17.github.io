@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;233;234;533",
+                "ref:De_Lijn": "301777",
+                "bus": "yes",
+                "name": "Humbeek Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT HUMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.370576,
+                    50.96308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;233;234;533",
+                "ref:De_Lijn": "301691",
+                "bus": "yes",
+                "name": "Beigem Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT HUMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.36084,
+                    50.960257
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;233;234;533;821",
+                "ref:De_Lijn": "301778",
+                "bus": "yes",
+                "name": "Humbeek Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT HUMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.370533,
+                    50.963206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;231;233;234;533;821",
+                "ref:De_Lijn": "301692",
+                "bus": "yes",
+                "name": "Beigem Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT HUMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360612,
+                    50.960284
+                ]
+            }
+        }
+    ]
+}

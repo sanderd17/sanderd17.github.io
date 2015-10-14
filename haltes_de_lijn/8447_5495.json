@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a;706",
+                "ref:De_Lijn": "400772",
+                "bus": "yes",
+                "name": "Hees Tombestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOMBESTRAAT HEES",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.604805,
+                    50.848886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a;724",
+                "ref:De_Lijn": "405268",
+                "bus": "yes",
+                "name": "Veldwezelt Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BILZERBAAN VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.617152,
+                    50.860299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a",
+                "ref:De_Lijn": "400763",
+                "bus": "yes",
+                "name": "Hees Heesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESSTRAAT HEES",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.614032,
+                    50.847628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a",
+                "ref:De_Lijn": "405273",
+                "bus": "yes",
+                "name": "Veldwezelt Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BILZERBAAN VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.623732,
+                    50.860399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a;703;706",
+                "ref:De_Lijn": "400773",
+                "bus": "yes",
+                "name": "Hees Tombestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TOMBESTRAAT HEES",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.604699,
+                    50.849147
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;20a;724",
+                "ref:De_Lijn": "405269",
+                "bus": "yes",
+                "name": "Veldwezelt Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BILZERBAAN VELDWEZELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.617241,
+                    50.860442
+                ]
+            }
+        }
+    ]
+}

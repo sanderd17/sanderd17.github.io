@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "304237",
+                "bus": "yes",
+                "name": "Liedekerke Radiotoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENBOSSTRAAT LIEDEKERKE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.109585,
+                    50.862286
+                ]
+            }
+        }
+    ]
+}

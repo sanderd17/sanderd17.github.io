@@ -1,0 +1,88 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;175;240;270",
+                "ref:De_Lijn": "200715",
+                "bus": "yes",
+                "name": "Wachtebeke Domein Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STENENBRUG WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.90318,
+                    51.152658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201716",
+                "bus": "yes",
+                "name": "Wachtebeke Domein Camping",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERBINDINGSSTRAAT WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.892442,
+                    51.157236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;175",
+                "ref:De_Lijn": "200716",
+                "bus": "yes",
+                "name": "Wachtebeke Domein Camping",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERBINDINGSSTRAAT WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8926,
+                    51.157164
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "76;240;270",
+                "ref:De_Lijn": "201715",
+                "bus": "yes",
+                "name": "Wachtebeke Domein Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STENENBRUG WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.903036,
+                    51.15272
+                ]
+            }
+        }
+    ]
+}

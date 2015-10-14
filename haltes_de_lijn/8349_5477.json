@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200847",
+                "bus": "yes",
+                "name": "Aalter Oostmolen-Zuid",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTMOLENSTRAAT AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.464639,
+                    51.10481
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200846",
+                "bus": "yes",
+                "name": "Aalter Oostmolenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LÉON BEKAERTLAAN AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.458261,
+                    51.103134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200824",
+                "bus": "yes",
+                "name": "Aalter Overzet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUG-NOORD AALTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.466363,
+                    51.106478
+                ]
+            }
+        }
+    ]
+}

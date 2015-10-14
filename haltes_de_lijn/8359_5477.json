@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "208888",
+                "bus": "yes",
+                "name": "Evergem Weverstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELZEELSE KERKWEG EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.681693,
+                    51.104439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210852",
+                "bus": "yes",
+                "name": "Evergem Molenhoek",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOONSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.672588,
+                    51.104116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "201853",
+                "bus": "yes",
+                "name": "Evergem Draailingstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.687233,
+                    51.107357
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "211853",
+                "bus": "yes",
+                "name": "Evergem Lijnwaadstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOONSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.681005,
+                    51.10653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "210853",
+                "bus": "yes",
+                "name": "Evergem Lijnwaadstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SCHOONSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.680505,
+                    51.106581
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;160",
+                "ref:De_Lijn": "201852",
+                "bus": "yes",
+                "name": "Evergem Molenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.672789,
+                    51.104073
+                ]
+            }
+        }
+    ]
+}

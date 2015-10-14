@@ -1,0 +1,782 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503370",
+                "bus": "yes",
+                "name": "Kortrijk Dokter Snellaertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER SNELLAERTSTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.290158,
+                    50.825792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;51;53;71;72;74;75",
+                "ref:De_Lijn": "505856",
+                "bus": "yes",
+                "name": "Kortrijk Gentsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.274444,
+                    50.830681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503431",
+                "bus": "yes",
+                "name": "Kortrijk Stasegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STASEGEMSESTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.284715,
+                    50.830983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92;93",
+                "ref:De_Lijn": "508437",
+                "bus": "yes",
+                "name": "Kortrijk Howest / VTI",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286499,
+                    50.820697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503376",
+                "bus": "yes",
+                "name": "Kortrijk Goedendaglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VREDELAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.287597,
+                    50.827908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503155",
+                "bus": "yes",
+                "name": "Kortrijk Min. De Taeyelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MINISTER DE TAEYELAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.288511,
+                    50.824563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "508444",
+                "bus": "yes",
+                "name": "Kortrijk Waterleliestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOEDENDAGLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.290516,
+                    50.828124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92;93",
+                "ref:De_Lijn": "508416",
+                "bus": "yes",
+                "name": "Kortrijk Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWEVEGEMSESTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.276895,
+                    50.822936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503441",
+                "bus": "yes",
+                "name": "Kortrijk Vredelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VREDELAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286697,
+                    50.829995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503425",
+                "bus": "yes",
+                "name": "Kortrijk Sint-Janskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAN BREYDELLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.281961,
+                    50.829142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "508408",
+                "bus": "yes",
+                "name": "Kortrijk Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STASEGEMSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.287636,
+                    50.831145
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "508407",
+                "bus": "yes",
+                "name": "Kortrijk Olmenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLMENLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.292683,
+                    50.827119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503400",
+                "bus": "yes",
+                "name": "Kortrijk Min. De Taeyelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MINISTER DE TAEYELAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.288655,
+                    50.824466
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503109",
+                "bus": "yes",
+                "name": "Kortrijk Sint-Janskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAN BREYDELLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.281642,
+                    50.828806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92;93",
+                "ref:De_Lijn": "508419",
+                "bus": "yes",
+                "name": "Kortrijk Soetens Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.292154,
+                    50.820461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "508420",
+                "bus": "yes",
+                "name": "Kortrijk Spinnerijkaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TAPIJTENWEVERSSTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.284417,
+                    50.83286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "508406",
+                "bus": "yes",
+                "name": "Kortrijk Oprit Ringlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STASEGEMSESTEENWEG HARELBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.295581,
+                    50.829492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;74;75",
+                "ref:De_Lijn": "503374",
+                "bus": "yes",
+                "name": "Kortrijk Gentpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.276502,
+                    50.832552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "508370",
+                "bus": "yes",
+                "name": "Kortrijk Dokter Snellaertstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER SNELLAERTSTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289218,
+                    50.825936
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "508431",
+                "bus": "yes",
+                "name": "Kortrijk Stasegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STASEGEMSESTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.284661,
+                    50.830875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92;93",
+                "ref:De_Lijn": "503416",
+                "bus": "yes",
+                "name": "Kortrijk Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277968,
+                    50.822605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "503406",
+                "bus": "yes",
+                "name": "Kortrijk Oprit Ringlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STASEGEMSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.29564,
+                    50.829394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;51;71;72;74;75",
+                "ref:De_Lijn": "503414",
+                "bus": "yes",
+                "name": "Kortrijk Groeningelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROENINGELAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.275666,
+                    50.830045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "509920",
+                "bus": "yes",
+                "name": "Kortrijk Broeder Isidoor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.27742,
+                    50.826654
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "508376",
+                "bus": "yes",
+                "name": "Kortrijk Goedendaglaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VREDELAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2875,
+                    50.827808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503405",
+                "bus": "yes",
+                "name": "Kortrijk Olmenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OLMENLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.292854,
+                    50.827085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "508441",
+                "bus": "yes",
+                "name": "Kortrijk Vredelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VREDELAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286645,
+                    50.829778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;74;75",
+                "ref:De_Lijn": "508374",
+                "bus": "yes",
+                "name": "Kortrijk Gentpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277742,
+                    50.833562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503445",
+                "bus": "yes",
+                "name": "Kortrijk Waterleliestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOEDENDAGLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.290457,
+                    50.828204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "503420",
+                "bus": "yes",
+                "name": "Kortrijk Spinnerijkaai",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TAPIJTENWEVERSSTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.284247,
+                    50.832831
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92;93",
+                "ref:De_Lijn": "503437",
+                "bus": "yes",
+                "name": "Kortrijk Howest / VTI",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286106,
+                    50.82054
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71",
+                "ref:De_Lijn": "503408",
+                "bus": "yes",
+                "name": "Kortrijk Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STASEGEMSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.28761,
+                    50.831055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92;93",
+                "ref:De_Lijn": "503419",
+                "bus": "yes",
+                "name": "Kortrijk Soetens Molen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.292128,
+                    50.820326
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "503442",
+                "bus": "yes",
+                "name": "Kortrijk Sparrenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILGENLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289232,
+                    50.823437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503356",
+                "bus": "yes",
+                "name": "Kortrijk Broeder Isidoor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDSTRAAT KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277249,
+                    50.826653
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9",
+                "ref:De_Lijn": "503361",
+                "bus": "yes",
+                "name": "Kortrijk Cederlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CEDERLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.291773,
+                    50.82222
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;92",
+                "ref:De_Lijn": "503440",
+                "bus": "yes",
+                "name": "Kortrijk Sparrenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILGENLAAN KORTRIJK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289202,
+                    50.823527
+                ]
+            }
+        }
+    ]
+}

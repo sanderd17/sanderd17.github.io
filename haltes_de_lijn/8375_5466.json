@@ -1,0 +1,91 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "205433",
+                "bus": "yes",
+                "zone:De_Lijn": "7854",
+                "name": "Heikant (Nl) Vylainlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VYLAINLAAN HEIKANT (HULST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.035772,
+                    51.253157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "205432",
+                "bus": "yes",
+                "name": "Heikant (Nl) Vlasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLESTRAAT HEIKANT (HULST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.031023,
+                    51.250258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "204432",
+                "bus": "yes",
+                "name": "Heikant (Nl) Vlasstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLESTRAAT HEIKANT (HULST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.031413,
+                    51.249756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "43",
+                "ref:De_Lijn": "204433",
+                "bus": "yes",
+                "zone:De_Lijn": "7854",
+                "name": "Heikant (Nl) Vylainlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VYLAINLAAN HEIKANT (HULST)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.035885,
+                    51.253328
+                ]
+            }
+        }
+    ]
+}

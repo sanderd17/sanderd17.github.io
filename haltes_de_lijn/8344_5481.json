@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505056",
+                "bus": "yes",
+                "name": "Ruiselede Galgestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALGESTRAAT RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.350482,
+                    51.04169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505655",
+                "bus": "yes",
+                "name": "Ruiselede Kortekeer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMISSEWEG RUISELEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.358656,
+                    51.050831
+                ]
+            }
+        }
+    ]
+}

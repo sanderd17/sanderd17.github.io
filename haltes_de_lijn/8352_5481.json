@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200695",
+                "bus": "yes",
+                "name": "Nevele Biebuyckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIEBUYCKSTRAAT NEVELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.532382,
+                    51.048613
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200694",
+                "bus": "yes",
+                "name": "Nevele Veldeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKEN NEVELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.521163,
+                    51.049972
+                ]
+            }
+        }
+    ]
+}

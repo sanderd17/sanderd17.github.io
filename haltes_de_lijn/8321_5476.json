@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66",
+                "ref:De_Lijn": "501376",
+                "bus": "yes",
+                "name": "Schore Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUCHENBEURENPLEIN SCHORE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.838775,
+                    51.111328
+                ]
+            }
+        }
+    ]
+}

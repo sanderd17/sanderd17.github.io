@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505573",
+                "bus": "yes",
+                "name": "Dranouter Verlorenhoekstraat 8",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERLORENHOEKSTRAAT DRANOUTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.775504,
+                    50.755827
+                ]
+            }
+        }
+    ]
+}

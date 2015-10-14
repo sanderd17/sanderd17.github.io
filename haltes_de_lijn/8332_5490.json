@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "503621",
+                "bus": "yes",
+                "name": "Moorslede Huis Vanneste",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.08581,
+                    50.92258
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "508621",
+                "bus": "yes",
+                "name": "Moorslede Huis Vanneste",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROESELAARSESTRAAT MOORSLEDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.086215,
+                    50.922872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;94",
+                "ref:De_Lijn": "508697",
+                "bus": "yes",
+                "name": "Roeselare De Ruiter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSESTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.092498,
+                    50.929836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;94",
+                "ref:De_Lijn": "503697",
+                "bus": "yes",
+                "name": "Roeselare De Ruiter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSESTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.092521,
+                    50.930034
+                ]
+            }
+        }
+    ]
+}

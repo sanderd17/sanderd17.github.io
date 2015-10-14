@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;39b;726",
+                "ref:De_Lijn": "407665",
+                "bus": "yes",
+                "name": "Millen Genendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENENDRIES MILLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556088,
+                    50.789709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;39;39b;726",
+                "ref:De_Lijn": "407676",
+                "bus": "yes",
+                "name": "Millen Trinellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGBOOMSTRAAT MILLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.55603,
+                    50.784027
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;39;39b;726",
+                "ref:De_Lijn": "407664",
+                "bus": "yes",
+                "name": "Millen Genendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENENDRIES MILLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.556243,
+                    50.789662
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "726",
+                "ref:De_Lijn": "407594",
+                "bus": "yes",
+                "name": "Millen Huyse Elckerlyc",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TRINELLESTRAAT MILLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.558217,
+                    50.78414
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;39b;726",
+                "ref:De_Lijn": "407677",
+                "bus": "yes",
+                "name": "Millen Trinellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RINGBOOMSTRAAT MILLEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.555847,
+                    50.784083
+                ]
+            }
+        }
+    ]
+}

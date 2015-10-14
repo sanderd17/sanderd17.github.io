@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "503334",
+                "bus": "yes",
+                "name": "Kortemark Cafe De Welkom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTERVELDESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.060837,
+                    51.026064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "505630",
+                "bus": "yes",
+                "name": "Kortemark Elleschool",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.059777,
+                    51.022681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508334",
+                "bus": "yes",
+                "name": "Kortemark Cafe De Welkom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTERVELDESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.060565,
+                    51.026115
+                ]
+            }
+        }
+    ]
+}

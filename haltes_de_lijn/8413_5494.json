@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308066",
+                "bus": "yes",
+                "name": "Kerkom Hazenbos",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HAZENBOSSTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.871103,
+                    50.866868
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308067",
+                "bus": "yes",
+                "name": "Kerkom Hazenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZENBOSSTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.870947,
+                    50.866922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308069",
+                "bus": "yes",
+                "name": "Kerkom Boskouter",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOSKOUTERSTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.858867,
+                    50.865041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308068",
+                "bus": "yes",
+                "name": "Kerkom Boskouter",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSKOUTERSTRAAT KERKOM (BOUTERSEM)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.859066,
+                    50.86504
+                ]
+            }
+        }
+    ]
+}

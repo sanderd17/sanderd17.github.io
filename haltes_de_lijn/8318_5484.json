@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "504677",
+                "bus": "yes",
+                "name": "Lo Noordhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDHOEK LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.779597,
+                    51.005136
+                ]
+            }
+        }
+    ]
+}

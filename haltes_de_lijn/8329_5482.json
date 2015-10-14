@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "500925",
+                "bus": "yes",
+                "name": "Kortemark Krekebekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.023538,
+                    51.028216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "503341",
+                "bus": "yes",
+                "name": "Kortemark Oudstrijderslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.029109,
+                    51.029349
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32",
+                "ref:De_Lijn": "500924",
+                "bus": "yes",
+                "name": "Kortemark Krekebekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.023266,
+                    51.028275
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;47;56",
+                "ref:De_Lijn": "508341",
+                "bus": "yes",
+                "name": "Kortemark Oudstrijderslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANDZAMESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.029511,
+                    51.029264
+                ]
+            }
+        }
+    ]
+}

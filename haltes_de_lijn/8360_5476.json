@@ -1,0 +1,342 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54",
+                "ref:De_Lijn": "203655",
+                "bus": "yes",
+                "name": "Evergem Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFBILKSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.703221,
+                    51.1117
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201973",
+                "bus": "yes",
+                "name": "Evergem Brielken",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "CHRISTOFFELWEG EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.69928,
+                    51.110707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "200001",
+                "zone:De_Lijn": "13",
+                "name": "Evergem Brielken",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BRIELKEN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699265,
+                    51.110707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "201851",
+                "bus": "yes",
+                "name": "Evergem Azaleastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AZALEASTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.705045,
+                    51.11705
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;56;57;58;150",
+                "ref:De_Lijn": "202018",
+                "bus": "yes",
+                "name": "Evergem Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEKSKEN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.703617,
+                    51.110965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;150",
+                "ref:De_Lijn": "202656",
+                "bus": "yes",
+                "name": "Evergem Reibroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFBILKSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70745,
+                    51.113576
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54",
+                "ref:De_Lijn": "203657",
+                "bus": "yes",
+                "name": "Evergem Kapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIBROEKSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.709871,
+                    51.113086
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "201875",
+                "bus": "yes",
+                "name": "Evergem Bezoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTESTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699922,
+                    51.114729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "210008",
+                "bus": "yes",
+                "name": "Evergem Brielken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHRISTOFFELWEG EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.699824,
+                    51.110602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;57;58",
+                "ref:De_Lijn": "203018",
+                "bus": "yes",
+                "name": "Evergem Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIELKEN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.702224,
+                    51.111533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;57;58;150",
+                "ref:De_Lijn": "202020",
+                "bus": "yes",
+                "name": "Evergem Kromveldstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KWADEWEG EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.691589,
+                    51.114214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150",
+                "ref:De_Lijn": "201868",
+                "bus": "yes",
+                "name": "Evergem Home Den Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOLWERKSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.713,
+                    51.111953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54",
+                "ref:De_Lijn": "203656",
+                "bus": "yes",
+                "name": "Evergem Reibroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOFBILKSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.707084,
+                    51.113187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;57;58",
+                "ref:De_Lijn": "203019",
+                "bus": "yes",
+                "name": "Evergem Brielken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIELKEN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.70026,
+                    51.111063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;54;150",
+                "ref:De_Lijn": "202657",
+                "bus": "yes",
+                "name": "Evergem Kapellestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIBROEKSTRAAT EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.710386,
+                    51.113017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56;57;58",
+                "ref:De_Lijn": "202019",
+                "bus": "yes",
+                "name": "Evergem Brielken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIELKEN EVERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.700389,
+                    51.111001
+                ]
+            }
+        }
+    ]
+}

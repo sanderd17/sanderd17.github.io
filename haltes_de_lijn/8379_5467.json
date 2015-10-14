@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205757",
+                "bus": "yes",
+                "name": "Sint-Gillis-Waas Eeckbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CAPPAERTSTRAAT SINT-GILLIS-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.112926,
+                    51.238491
+                ]
+            }
+        }
+    ]
+}

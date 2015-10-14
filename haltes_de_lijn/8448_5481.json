@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406076",
+                "bus": "yes",
+                "name": "Opoeteren Wouterbron",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS OPOETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.633196,
+                    51.052578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406075",
+                "bus": "yes",
+                "name": "Opoeteren Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS DORNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.626943,
+                    51.046532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406077",
+                "bus": "yes",
+                "name": "Opoeteren Wouterbron",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS OPOETEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.633717,
+                    51.053373
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406074",
+                "bus": "yes",
+                "name": "Opoeteren Berg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS DORNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.627112,
+                    51.046458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406072",
+                "bus": "yes",
+                "name": "Opoeteren Dorne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS DORNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.625258,
+                    51.044356
+                ]
+            }
+        }
+    ]
+}

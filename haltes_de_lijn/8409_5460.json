@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433",
+                "ref:De_Lijn": "106311",
+                "bus": "yes",
+                "name": "Rijkevorsel Sint-Jozef Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVENNEKENS SINT-JOZEF (RIJKEVORSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.773664,
+                    51.330614
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433;435",
+                "ref:De_Lijn": "106310",
+                "bus": "yes",
+                "name": "Rijkevorsel Sint-Jozef Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVENNEKENS SINT-JOZEF (RIJKEVORSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.773997,
+                    51.330955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433;435",
+                "ref:De_Lijn": "106312",
+                "bus": "yes",
+                "name": "Rijkevorsel De Parre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVENNEKENS SINT-JOZEF (RIJKEVORSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.770858,
+                    51.337967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "431;433",
+                "ref:De_Lijn": "106313",
+                "bus": "yes",
+                "name": "Rijkevorsel De Parre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEVENNEKENS SINT-JOZEF (RIJKEVORSEL)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.770657,
+                    51.33795
+                ]
+            }
+        }
+    ]
+}

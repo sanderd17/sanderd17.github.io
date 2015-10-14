@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201923",
+                "bus": "yes",
+                "name": "Schellebelle Kapel Bruinbeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUINBEKESTRAAT SCHELLEBELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.952525,
+                    50.996119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201924",
+                "bus": "yes",
+                "name": "Serskamp Krakeelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRAKEELSTRAAT SERSKAMP",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.946065,
+                    50.988976
+                ]
+            }
+        }
+    ]
+}

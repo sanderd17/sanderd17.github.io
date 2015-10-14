@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508248",
+                "bus": "yes",
+                "name": "Heule Metakor",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.250488,
+                    50.856663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508233",
+                "bus": "yes",
+                "name": "Heule Campirama",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSESTRAAT HEULE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.251387,
+                    50.853534
+                ]
+            }
+        }
+    ]
+}

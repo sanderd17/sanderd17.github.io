@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;550;561;712",
+                "ref:De_Lijn": "302647",
+                "bus": "yes",
+                "name": "Ransberg Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RANSBERGSTRAAT RANSBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.031398,
+                    50.867572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;550;561;712",
+                "ref:De_Lijn": "302657",
+                "bus": "yes",
+                "name": "Ransberg Leidriesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RANSBERGSTRAAT RANSBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030975,
+                    50.86174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;550;561",
+                "ref:De_Lijn": "302650",
+                "bus": "yes",
+                "name": "Ransberg Café Berg en Dal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RANSBERGSTRAAT NEERLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030497,
+                    50.865168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "308121",
+                "bus": "yes",
+                "name": "Hoeleden Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HOELEDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.014921,
+                    50.86877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308120",
+                "bus": "yes",
+                "name": "Hoeleden Zandstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT HOELEDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.015019,
+                    50.868689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;550;561",
+                "ref:De_Lijn": "302658",
+                "bus": "yes",
+                "name": "Ransberg Leidriesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RANSBERGSTRAAT NEERLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030985,
+                    50.861453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;550;561;712",
+                "ref:De_Lijn": "302649",
+                "bus": "yes",
+                "name": "Ransberg Café Berg en Dal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RANSBERGSTRAAT RANSBERG",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.030593,
+                    50.864916
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;550;561",
+                "ref:De_Lijn": "302648",
+                "bus": "yes",
+                "name": "Ransberg Bredestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RANSBERGSTRAAT NEERLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03113,
+                    50.867709
+                ]
+            }
+        }
+    ]
+}

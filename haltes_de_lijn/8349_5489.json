@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "205997",
+                "bus": "yes",
+                "name": "Olsene Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMSTRAAT OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.454364,
+                    50.940166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200672",
+                "bus": "yes",
+                "name": "Olsene Kantmuseum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.458876,
+                    50.939338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200673",
+                "bus": "yes",
+                "name": "Olsene Toverhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.465319,
+                    50.942435
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "201463",
+                "bus": "yes",
+                "name": "Olsene Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.464201,
+                    50.935486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;125",
+                "ref:De_Lijn": "200463",
+                "bus": "yes",
+                "name": "Olsene Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG OLSENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.466241,
+                    50.936679
+                ]
+            }
+        }
+    ]
+}

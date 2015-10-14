@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;74",
+                "ref:De_Lijn": "507175",
+                "bus": "yes",
+                "name": "Gits Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.095904,
+                    50.997284
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;74",
+                "ref:De_Lijn": "502175",
+                "bus": "yes",
+                "name": "Gits Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORHOUTSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.096077,
+                    50.997205
+                ]
+            }
+        }
+    ]
+}

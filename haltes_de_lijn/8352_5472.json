@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66;185",
+                "ref:De_Lijn": "202389",
+                "bus": "yes",
+                "name": "Adegem Veldekens 36",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENS ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.530594,
+                    51.166064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66;185",
+                "ref:De_Lijn": "202390",
+                "bus": "yes",
+                "name": "Adegem Leikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENS ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.533881,
+                    51.168569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66",
+                "ref:De_Lijn": "203389",
+                "bus": "yes",
+                "name": "Adegem Veldekens 36",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENS ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.530591,
+                    51.166271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;66",
+                "ref:De_Lijn": "203390",
+                "bus": "yes",
+                "name": "Adegem Leikant",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKENS ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.534105,
+                    51.168858
+                ]
+            }
+        }
+    ]
+}

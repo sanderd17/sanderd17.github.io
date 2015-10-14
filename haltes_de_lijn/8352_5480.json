@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "203612",
+                "bus": "yes",
+                "name": "Nevele Veldeken/E40",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDEKEN NEVELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.523876,
+                    51.056886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200683",
+                "bus": "yes",
+                "name": "Hansbeke Dalestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DALESTRAAT HANSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.526105,
+                    51.063815
+                ]
+            }
+        }
+    ]
+}

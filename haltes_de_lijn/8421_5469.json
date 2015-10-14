@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;921",
+                "ref:De_Lijn": "109442",
+                "bus": "yes",
+                "name": "Geel Castelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RETIESEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03707,
+                    51.207085
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;382;921",
+                "ref:De_Lijn": "109443",
+                "bus": "yes",
+                "name": "Geel Castelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RETIESEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.037154,
+                    51.206905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "109441",
+                "bus": "yes",
+                "name": "Dessel Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEBAAN DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.051776,
+                    51.220448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381",
+                "ref:De_Lijn": "109440",
+                "bus": "yes",
+                "name": "Retie Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEELSEBAAN RETIE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.051678,
+                    51.220566
+                ]
+            }
+        }
+    ]
+}

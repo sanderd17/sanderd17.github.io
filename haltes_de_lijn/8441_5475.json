@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302;752",
+                "ref:De_Lijn": "407479",
+                "bus": "yes",
+                "name": "Peer Kloosterbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAAN NAAR BREE PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.473638,
+                    51.133869
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;68;302",
+                "ref:De_Lijn": "407388",
+                "bus": "yes",
+                "name": "Grote-Brogel Smeetshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAAN NAAR BREE GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.492611,
+                    51.134975
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302;752",
+                "ref:De_Lijn": "407478",
+                "bus": "yes",
+                "name": "Peer Kloosterbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAAN NAAR BREE PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.473147,
+                    51.133649
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;48;68;302",
+                "ref:De_Lijn": "407389",
+                "bus": "yes",
+                "name": "Grote-Brogel Smeetshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAAN NAAR BREE PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.490754,
+                    51.135011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "406542",
+                "bus": "yes",
+                "name": "Peer Snow Valley",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.472998,
+                    51.126108
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;402",
+                "ref:De_Lijn": "406541",
+                "bus": "yes",
+                "name": "Peer Snow Valley",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN PEER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.472867,
+                    51.126019
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;40",
+                "ref:De_Lijn": "509046",
+                "bus": "yes",
+                "name": "Boezinge Pilkem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEMARKSEWEG BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.889249,
+                    50.900579
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29;40",
+                "ref:De_Lijn": "504046",
+                "bus": "yes",
+                "name": "Boezinge Pilkem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGEMARKSEWEG BOEZINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.889175,
+                    50.900677
+                ]
+            }
+        }
+    ]
+}

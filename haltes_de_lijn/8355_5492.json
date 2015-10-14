@@ -1,0 +1,192 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201829",
+                "bus": "yes",
+                "name": "Mullem Rooigem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROOIGEM OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.596129,
+                    50.889626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450;485",
+                "ref:De_Lijn": "201758",
+                "bus": "yes",
+                "name": "Huise Driesstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.587314,
+                    50.89577
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201756",
+                "bus": "yes",
+                "name": "Huise Huiseplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUISEPLEIN HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.590796,
+                    50.899282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;450;485",
+                "ref:De_Lijn": "201759",
+                "bus": "yes",
+                "name": "Huise Home Vijvens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.588913,
+                    50.900492
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "218010",
+                "bus": "yes",
+                "name": "Huise Home Vijvens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.588931,
+                    50.900267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "201769",
+                "bus": "yes",
+                "name": "Huise Della Faillestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DELLA FAILLESTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.593918,
+                    50.901334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;450;485",
+                "ref:De_Lijn": "218011",
+                "bus": "yes",
+                "name": "Huise Huiseplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE ASTSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.592232,
+                    50.900091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44",
+                "ref:De_Lijn": "219011",
+                "bus": "yes",
+                "name": "Huise Huiseplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGE ASTSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.591113,
+                    50.899886
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201777",
+                "bus": "yes",
+                "name": "Huise Driesstraat 54",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.591356,
+                    50.88945
+                ]
+            }
+        }
+    ]
+}

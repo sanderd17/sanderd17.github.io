@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201662",
+                "bus": "yes",
+                "name": "Grammene Goedstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOEDSTRAAT GRAMMENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.464117,
+                    50.97896
+                ]
+            }
+        }
+    ]
+}

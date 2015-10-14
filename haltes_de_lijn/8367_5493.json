@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "209085",
+                "bus": "yes",
+                "name": "Grotenberge Hoge Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEENSTRAAT GROTENBERGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.850145,
+                    50.876431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;390",
+                "ref:De_Lijn": "208086",
+                "bus": "yes",
+                "name": "Grotenberge Diepeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEENSTRAAT GROTENBERGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.854517,
+                    50.876756
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "209086",
+                "bus": "yes",
+                "name": "Grotenberge Diepeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEENSTRAAT GROTENBERGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.8548,
+                    50.876901
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "390",
+                "ref:De_Lijn": "209696",
+                "bus": "yes",
+                "name": "Hillegem Brielstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIELSTRAAT HILLEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.857657,
+                    50.885984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92;390",
+                "ref:De_Lijn": "208085",
+                "bus": "yes",
+                "name": "Grotenberge Hoge Weg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEENSTRAAT GROTENBERGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.849891,
+                    50.876259
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;341",
+                "ref:De_Lijn": "307969",
+                "bus": "yes",
+                "name": "Waver Zoning Nord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE BRUXELLES WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.590867,
+                    50.731676
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345",
+                "ref:De_Lijn": "304116",
+                "bus": "yes",
+                "name": "Bierges Rue de Wavre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE ROSIÈRES BIERGES",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573035,
+                    50.725506
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "305351",
+                "bus": "yes",
+                "name": "Bierges Rue de Wavre",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RUE DE CHAMPLES BIERGES",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573345,
+                    50.725119
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "345",
+                "ref:De_Lijn": "305352",
+                "bus": "yes",
+                "name": "Bierges Rue de Wavre",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE CHAMPLES BIERGES",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573713,
+                    50.725109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "337;341",
+                "ref:De_Lijn": "307968",
+                "bus": "yes",
+                "name": "Waver Zoning Nord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DE BRUXELLES WAVER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.591021,
+                    50.731244
+                ]
+            }
+        }
+    ]
+}

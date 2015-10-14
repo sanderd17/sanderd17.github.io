@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "G8",
+                "ref:De_Lijn": "407489",
+                "bus": "yes",
+                "name": "Louwel Voetbalveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR OPOETEREN LOUWEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.61478,
+                    51.052532
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11;G8",
+                "ref:De_Lijn": "407167",
+                "bus": "yes",
+                "name": "Louwel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR OPOETEREN LOUWEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.606968,
+                    51.051077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11",
+                "ref:De_Lijn": "407170",
+                "bus": "yes",
+                "name": "Louwel Weg naar Dorne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR OPOETEREN LOUWEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.615039,
+                    51.05261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "11",
+                "ref:De_Lijn": "406073",
+                "bus": "yes",
+                "name": "Opoeteren Dorne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR AS DORNE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.624265,
+                    51.043477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11",
+                "ref:De_Lijn": "407171",
+                "bus": "yes",
+                "name": "Louwel Weg naar Dorne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR OPOETEREN LOUWEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.614365,
+                    51.052473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;11;G8",
+                "ref:De_Lijn": "407166",
+                "bus": "yes",
+                "name": "Louwel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR OPOETEREN LOUWEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.607265,
+                    51.050975
+                ]
+            }
+        }
+    ]
+}

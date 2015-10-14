@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24;41",
+                "ref:De_Lijn": "209128",
+                "bus": "yes",
+                "name": "Strijpen Kleie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKESTRAAT STRIJPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769871,
+                    50.864839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;440",
+                "ref:De_Lijn": "208665",
+                "bus": "yes",
+                "name": "Strijpen De Kluize",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNUTSEGEMSTRAAT STRIJPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.771252,
+                    50.873521
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "23;24;41;420;440",
+                "ref:De_Lijn": "208128",
+                "bus": "yes",
+                "name": "Strijpen Kleie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKESTRAAT STRIJPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769858,
+                    50.864731
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;440",
+                "ref:De_Lijn": "208664",
+                "bus": "yes",
+                "name": "Velzeke Paddestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PADDESTRAAT VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.761999,
+                    50.873815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;440",
+                "ref:De_Lijn": "208754",
+                "bus": "yes",
+                "name": "Strijpen Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLUISSTRAAT STRIJPEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.769461,
+                    50.870258
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;90",
+                "ref:De_Lijn": "506049",
+                "bus": "yes",
+                "name": "Brugge Kruisabele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUDZEELSE STEENWEG BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.230457,
+                    51.248775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;42;90",
+                "ref:De_Lijn": "501049",
+                "bus": "yes",
+                "name": "Brugge Kruisabele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUDZEELSE STEENWEG DUDZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.230591,
+                    51.249145
+                ]
+            }
+        }
+    ]
+}

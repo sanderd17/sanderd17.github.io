@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "37",
+                "ref:De_Lijn": "501545",
+                "bus": "yes",
+                "name": "Lissewege Patente",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CANADEZENSTRAAT LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.183466,
+                    51.290285
+                ]
+            }
+        }
+    ]
+}

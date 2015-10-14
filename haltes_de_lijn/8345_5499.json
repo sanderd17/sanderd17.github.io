@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;99",
+                "ref:De_Lijn": "503926",
+                "bus": "yes",
+                "name": "Zwevegem Knokke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLESTRAAT KNOKKE (ZWEVEGEM)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.364503,
+                    50.799436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "93;99",
+                "ref:De_Lijn": "508927",
+                "bus": "yes",
+                "name": "Zwevegem Knokke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AVELGEMSTRAAT KNOKKE (ZWEVEGEM)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.362385,
+                    50.798321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;99",
+                "ref:De_Lijn": "508926",
+                "bus": "yes",
+                "name": "Zwevegem Knokke Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELLESTRAAT KNOKKE (ZWEVEGEM)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.364455,
+                    50.799705
+                ]
+            }
+        }
+    ]
+}

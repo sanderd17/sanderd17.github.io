@@ -1,0 +1,675 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "103005",
+                "bus": "yes",
+                "name": "Meerlenhoflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERLENHOFLAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35606,
+                    51.172458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109898",
+                "bus": "yes",
+                "name": "Vervanghalte Manifestaties",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "D'URSELSTRAAT HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35154,
+                    51.177401
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;140",
+                "ref:De_Lijn": "101003",
+                "bus": "yes",
+                "name": "Verenigde Natieslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROYDENBORGLAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.357549,
+                    51.166022
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "103601",
+                "zone:De_Lijn": "01",
+                "name": "Lelieplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "VAN AMSTELSTRAAT HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351227,
+                    51.173823
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "104175",
+                "bus": "yes",
+                "name": "Meerlenhoflaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERLENHOFLAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35626,
+                    51.172377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "102885",
+                "bus": "yes",
+                "name": "Hollebeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COÖPERATIELAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.372303,
+                    51.176989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;4",
+                "ref:De_Lijn": "102050",
+                "zone:De_Lijn": "01",
+                "name": "Draaiboom",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ANTWERPSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.360463,
+                    51.178445
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;4",
+                "ref:De_Lijn": "102045",
+                "zone:De_Lijn": "01",
+                "name": "Draaiboom",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ANTWERPSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358876,
+                    51.178777
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;4",
+                "ref:De_Lijn": "104535",
+                "zone:De_Lijn": "01",
+                "name": "Steynstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ANTWERPSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354428,
+                    51.17803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141",
+                "ref:De_Lijn": "102691",
+                "bus": "yes",
+                "name": "P+R Schoonselhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSBAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.361208,
+                    51.168782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;291;295",
+                "ref:De_Lijn": "107675",
+                "bus": "yes",
+                "name": "Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-BERNARDSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358635,
+                    51.165645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "104011",
+                "bus": "yes",
+                "name": "Lelieplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTVERPIASTRAAT HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.350912,
+                    51.173473
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "102890",
+                "bus": "yes",
+                "name": "Hollebeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COÖPERATIELAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.370316,
+                    51.176683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;291;295",
+                "ref:De_Lijn": "108630",
+                "bus": "yes",
+                "name": "P+R Schoonselhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N148 HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362595,
+                    51.168476
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;4",
+                "ref:De_Lijn": "105365",
+                "zone:De_Lijn": "01",
+                "name": "Steynstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ANTWERPSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.352841,
+                    51.178057
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;140;141",
+                "ref:De_Lijn": "102435",
+                "bus": "yes",
+                "name": "Sporthal Sorgvliet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSBAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.35396,
+                    51.167271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;290;291;295",
+                "ref:De_Lijn": "103125",
+                "bus": "yes",
+                "name": "Karel Meyvis",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "SINT-BERNARDSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.364882,
+                    51.171703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "102205",
+                "bus": "yes",
+                "name": "Dokter Coenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDESTRAAT HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353128,
+                    51.17643
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24",
+                "ref:De_Lijn": "105020",
+                "zone:De_Lijn": "01",
+                "name": "P+R Schoonselhof",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "UNKNOWN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362509,
+                    51.169285
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;290;291;295",
+                "ref:De_Lijn": "103100",
+                "bus": "yes",
+                "name": "Karel Meyvis",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "SINT-BERNARDSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.364625,
+                    51.172009
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;140;141",
+                "ref:De_Lijn": "102430",
+                "bus": "yes",
+                "name": "Sporthal Sorgvliet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSBAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354717,
+                    51.167496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "141",
+                "ref:De_Lijn": "102692",
+                "bus": "yes",
+                "name": "P+R Schoonselhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSBAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.361494,
+                    51.168728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;140",
+                "ref:De_Lijn": "101002",
+                "bus": "yes",
+                "name": "Verenigde Natieslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROYDENBORGLAAN HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.357706,
+                    51.166067
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "103600",
+                "zone:De_Lijn": "01",
+                "name": "Lelieplaats",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "VAN AMSTELSTRAAT HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.351284,
+                    51.173734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;33;290;291;295",
+                "ref:De_Lijn": "102800",
+                "bus": "yes",
+                "name": "Heidestraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "SINT-BERNARDSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.366012,
+                    51.174283
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;290;291;295",
+                "ref:De_Lijn": "101075",
+                "bus": "yes",
+                "name": "Aartselaarstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "SINT-BERNARDSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.368285,
+                    51.177618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;33;290;291;295",
+                "ref:De_Lijn": "102795",
+                "bus": "yes",
+                "name": "Heidestraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "SINT-BERNARDSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.366555,
+                    51.174463
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;290;291;295",
+                "ref:De_Lijn": "101070",
+                "bus": "yes",
+                "name": "Aartselaarstraat",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "highway": "bus_stop",
+                "tram": "yes",
+                "created_by": "SINT-BERNARDSESTEENWEG HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.3688,
+                    51.177672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "103120",
+                "bus": "yes",
+                "name": "K. Meyvisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLEI HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362165,
+                    51.172818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "102785",
+                "bus": "yes",
+                "name": "K. Meyvisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLEI HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362866,
+                    51.172971
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;291;295",
+                "ref:De_Lijn": "108625",
+                "bus": "yes",
+                "name": "P+R Schoonselhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N148 HOBOKEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.362409,
+                    51.168521
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;460;470;62S",
+                "ref:De_Lijn": "208369",
+                "bus": "yes",
+                "name": "Zeelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.587025,
+                    50.764478
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460;470",
+                "ref:De_Lijn": "209374",
+                "bus": "yes",
+                "name": "Nukerke Kuithol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEELSTRAAT NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.583829,
+                    50.773393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;62S",
+                "ref:De_Lijn": "209368",
+                "bus": "yes",
+                "name": "Nukerke Kuitholstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58933,
+                    50.775956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;460;470;62S",
+                "ref:De_Lijn": "208368",
+                "bus": "yes",
+                "name": "Nukerke Kuitholstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N60 NUKERKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.589983,
+                    50.776751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;62S",
+                "ref:De_Lijn": "209369",
+                "bus": "yes",
+                "name": "Zeelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG ZULZEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.587184,
+                    50.765135
+                ]
+            }
+        }
+    ]
+}

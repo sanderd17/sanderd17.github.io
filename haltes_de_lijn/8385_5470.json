@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;84;85;280",
+                "ref:De_Lijn": "204297",
+                "bus": "yes",
+                "name": "Beveren Vijfstraten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT PANISSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.242053,
+                    51.206224
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205589",
+                "bus": "yes",
+                "name": "Beveren Vijfstraten",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BIJLSTRAAT BEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.241481,
+                    51.206133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "82;280",
+                "ref:De_Lijn": "205304",
+                "bus": "yes",
+                "name": "Haasdonk Bosbeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAASDONKBAAN BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.240787,
+                    51.203526
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;84;85;280",
+                "ref:De_Lijn": "205297",
+                "bus": "yes",
+                "name": "Beveren Vijfstraten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT PANISSTRAAT BEVEREN-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.241968,
+                    51.205999
+                ]
+            }
+        }
+    ]
+}

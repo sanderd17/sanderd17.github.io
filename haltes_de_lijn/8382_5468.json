@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;84",
+                "ref:De_Lijn": "205044",
+                "bus": "yes",
+                "name": "Vrasene Peperdam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIALE BAAN VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.193208,
+                    51.223905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;84",
+                "ref:De_Lijn": "204044",
+                "bus": "yes",
+                "name": "Vrasene Peperdam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIALE BAAN VRASENE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.19331,
+                    51.22359
+                ]
+            }
+        }
+    ]
+}

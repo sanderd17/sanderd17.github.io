@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "101;145",
+                "ref:De_Lijn": "304596",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw In de Jonge Vlieger",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPINGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.237653,
+                    50.768673
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "101;145",
+                "ref:De_Lijn": "304601",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw J.B.Cardijnstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPINGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.228448,
+                    50.765624
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "101;145",
+                "ref:De_Lijn": "304595",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw In de Jonge Vlieger",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPINGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.238333,
+                    50.768953
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "101;145",
+                "ref:De_Lijn": "304602",
+                "bus": "yes",
+                "name": "Sint-Pieters-Leeuw J.B.Cardijnstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEPINGENSESTEENWEG SINT-PIETERS-LEEUW",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.228632,
+                    50.765571
+                ]
+            }
+        }
+    ]
+}

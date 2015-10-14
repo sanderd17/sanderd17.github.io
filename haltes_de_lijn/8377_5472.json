@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204071",
+                "bus": "yes",
+                "name": "Belsele Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLAAN BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.084949,
+                    51.172173
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "204185",
+                "bus": "yes",
+                "name": "Belsele Marktstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTSTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081376,
+                    51.174232
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "204186",
+                "bus": "yes",
+                "name": "Belsele Puivelde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT PUIVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.069986,
+                    51.173134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "205185",
+                "bus": "yes",
+                "name": "Belsele Marktstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKTSTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.081719,
+                    51.174287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204069",
+                "bus": "yes",
+                "name": "Belsele Palingsgatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMZEKESTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.066382,
+                    51.177664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "205186",
+                "bus": "yes",
+                "name": "Belsele Puivelde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISSTRAAT PUIVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.070114,
+                    51.173296
+                ]
+            }
+        }
+    ]
+}

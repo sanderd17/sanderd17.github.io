@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;440",
+                "ref:De_Lijn": "202860",
+                "bus": "yes",
+                "name": "Moortsele Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORTSELESTRAAT SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.780957,
+                    50.954162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "203859",
+                "bus": "yes",
+                "name": "Moortsele Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORTSELESTRAAT MOORTSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.779582,
+                    50.958299
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;440",
+                "ref:De_Lijn": "200647",
+                "bus": "yes",
+                "name": "Oosterzele Hoek Ter Hulst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHTERDRIES OOSTERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.798278,
+                    50.95182
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "201647",
+                "bus": "yes",
+                "name": "Oosterzele Hoek Ter Hulst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHTERDRIES OOSTERZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.798463,
+                    50.951839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "203860",
+                "bus": "yes",
+                "name": "Moortsele Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOORTSELESTRAAT SCHELDEWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.780571,
+                    50.954322
+                ]
+            }
+        }
+    ]
+}

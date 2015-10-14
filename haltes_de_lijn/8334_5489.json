@@ -1,0 +1,698 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;6",
+                "ref:De_Lijn": "503711",
+                "bus": "yes",
+                "name": "Roeselare Ieperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MICHIELSSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.122639,
+                    50.94289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "508722",
+                "bus": "yes",
+                "name": "Roeselare Motje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMBEEKSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.134267,
+                    50.938472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508572",
+                "bus": "yes",
+                "name": "Roeselare Heropbouwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEROPBOUWSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.132368,
+                    50.934416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;6",
+                "ref:De_Lijn": "508715",
+                "bus": "yes",
+                "name": "Roeselare Kliniek Heilig Hart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.122127,
+                    50.940205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "503435",
+                "bus": "yes",
+                "name": "Roeselare Sint-Elooisplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDMOLENSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.129068,
+                    50.934363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "503444",
+                "bus": "yes",
+                "name": "Roeselare Heropbouwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDMOLENSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.131585,
+                    50.934416
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;6",
+                "ref:De_Lijn": "503713",
+                "bus": "yes",
+                "name": "Roeselare Kijkuit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.121119,
+                    50.936895
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508535",
+                "bus": "yes",
+                "name": "Roeselare Meenseheirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSEHEIRWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.125026,
+                    50.935507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503774",
+                "bus": "yes",
+                "name": "Rumbeke Zonnebloemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMBEEKSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138294,
+                    50.937948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;54;55;94",
+                "ref:De_Lijn": "509970",
+                "bus": "yes",
+                "name": "Roeselare De Spil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HIPPOLIET SPILLEBOUTDREEF ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.122952,
+                    50.937535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "503520",
+                "bus": "yes",
+                "name": "Roeselare Monseigneur De Haernestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEROPBOUWSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.136331,
+                    50.935725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;6",
+                "ref:De_Lijn": "503715",
+                "bus": "yes",
+                "name": "Roeselare Kliniek Heilig Hart",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.121673,
+                    50.939068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508520",
+                "bus": "yes",
+                "name": "Roeselare Monseigneur De Haernestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEROPBOUWSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.136587,
+                    50.935746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "508774",
+                "bus": "yes",
+                "name": "Rumbeke Zonnebloemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMBEEKSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138867,
+                    50.937783
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55;60;74;94",
+                "ref:De_Lijn": "504872",
+                "bus": "yes",
+                "name": "Roeselare Residentie Flora",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.129195,
+                    50.940361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;6",
+                "ref:De_Lijn": "508713",
+                "bus": "yes",
+                "name": "Roeselare Kijkuit",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.121276,
+                    50.93687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;54;55;94",
+                "ref:De_Lijn": "504970",
+                "bus": "yes",
+                "name": "Roeselare De Spil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HIPPOLIET SPILLEBOUTDREEF ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.123189,
+                    50.937169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "503404",
+                "bus": "yes",
+                "name": "Roeselare Sint-Elooisplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDMOLENSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.129042,
+                    50.934273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "507688",
+                "bus": "yes",
+                "name": "Rumbeke De Vink",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLINDE-RODENBACHSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.141103,
+                    50.932278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55;60;62;74;94",
+                "ref:De_Lijn": "509873",
+                "bus": "yes",
+                "name": "Roeselare De Mandel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.131574,
+                    50.942939
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;5;6;30;31;95",
+                "ref:De_Lijn": "503734",
+                "bus": "yes",
+                "name": "Roeselare Sint-Michielskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIE-LOUISE DE MEESTERPLEIN ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.122834,
+                    50.944124
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "509937",
+                "bus": "yes",
+                "name": "Roeselare VDAB",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUIDO GEZELLELAAN ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.136168,
+                    50.941945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "508534",
+                "bus": "yes",
+                "name": "Roeselare Sint-Elooisplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.129368,
+                    50.9338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503722",
+                "bus": "yes",
+                "name": "Roeselare Motje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMBEEKSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.134279,
+                    50.93858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "503535",
+                "bus": "yes",
+                "name": "Roeselare Meenseheirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEENSEHEIRWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.125128,
+                    50.935418
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "503534",
+                "bus": "yes",
+                "name": "Roeselare Sint-Elooisplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.129514,
+                    50.934206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55;60;62;74;94",
+                "ref:De_Lijn": "504873",
+                "bus": "yes",
+                "name": "Roeselare De Mandel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.131841,
+                    50.943077
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "509938",
+                "bus": "yes",
+                "name": "Roeselare VDAB",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GUIDO GEZELLELAAN ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.136351,
+                    50.942036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;5;6;30;31;95",
+                "ref:De_Lijn": "503727",
+                "bus": "yes",
+                "name": "Roeselare Polenplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLENPLEIN ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.126725,
+                    50.944417
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "503725",
+                "bus": "yes",
+                "name": "Roeselare Begoniastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBLOEMSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138726,
+                    50.938807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;55;60;74;94",
+                "ref:De_Lijn": "509872",
+                "bus": "yes",
+                "name": "Roeselare Residentie Flora",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.128994,
+                    50.940395
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60",
+                "ref:De_Lijn": "503764",
+                "bus": "yes",
+                "name": "Rumbeke Vierweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUMBEEKSESTEENWEG ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.141034,
+                    50.937617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6",
+                "ref:De_Lijn": "508725",
+                "bus": "yes",
+                "name": "Roeselare Begoniastraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBLOEMSTRAAT ROESELARE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.138894,
+                    50.938925
+                ]
+            }
+        }
+    ]
+}

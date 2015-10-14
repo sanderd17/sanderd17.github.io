@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;460;470",
+                "ref:De_Lijn": "208413",
+                "bus": "yes",
+                "name": "Provinciaal Domein Heynsdaele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSE BAAN KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.551277,
+                    50.76436
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "470",
+                "ref:De_Lijn": "208748",
+                "bus": "yes",
+                "name": "Zulzeke Lamontstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TER BOEKERSTRAAT KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.552028,
+                    50.776628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;470",
+                "ref:De_Lijn": "208415",
+                "bus": "yes",
+                "name": "Kluisbergen Eynsdaele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONDE VAN VLAANDERENSTRAAT KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.538843,
+                    50.76447
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "209414",
+                "bus": "yes",
+                "name": "Kluisbergen Kraaistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONDE VAN VLAANDERENSTRAAT KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.543742,
+                    50.765592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "209415",
+                "bus": "yes",
+                "name": "Kluisbergen Eynsdaele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONDE VAN VLAANDERENSTRAAT KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.538728,
+                    50.764568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;470",
+                "ref:De_Lijn": "208414",
+                "bus": "yes",
+                "name": "Kluisbergen Kraaistraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONDE VAN VLAANDERENSTRAAT KWAREMONT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.544026,
+                    50.765576
+                ]
+            }
+        }
+    ]
+}

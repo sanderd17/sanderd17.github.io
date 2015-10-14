@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "301730",
+                "bus": "yes",
+                "name": "Grimbergen Lintkasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUMBEEKSESTEENWEG GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393802,
+                    50.95398
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261",
+                "ref:De_Lijn": "301729",
+                "bus": "yes",
+                "name": "Grimbergen Lintkasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN GRIMBERGEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.393958,
+                    50.954052
+                ]
+            }
+        }
+    ]
+}

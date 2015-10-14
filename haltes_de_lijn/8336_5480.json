@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "502587",
+                "bus": "yes",
+                "name": "Zwevezele Veldsprietstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJFWEGENSTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.181175,
+                    51.055667
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505672",
+                "bus": "yes",
+                "name": "Ruddervoorde Put",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SASPUTSTRAAT RUDDERVOORDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.179448,
+                    51.062994
+                ]
+            }
+        }
+    ]
+}

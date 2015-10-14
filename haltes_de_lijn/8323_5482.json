@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;47;64",
+                "ref:De_Lijn": "503142",
+                "bus": "yes",
+                "name": "Esen Cafe Tirol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESENWEG ESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885445,
+                    51.029587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;32;47;64",
+                "ref:De_Lijn": "508142",
+                "bus": "yes",
+                "name": "Esen Cafe Tirol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESENWEG ESEN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885378,
+                    51.029434
+                ]
+            }
+        }
+    ]
+}

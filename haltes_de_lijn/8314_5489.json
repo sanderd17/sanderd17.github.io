@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;69",
+                "ref:De_Lijn": "505928",
+                "bus": "yes",
+                "name": "Stavele Ter Houcke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEKJESTRAAT STAVELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.686507,
+                    50.931407
+                ]
+            }
+        }
+    ]
+}

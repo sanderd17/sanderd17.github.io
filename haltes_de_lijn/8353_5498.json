@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "209295",
+                "bus": "yes",
+                "name": "Melden Heilbroek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEVELWEG OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.558428,
+                    50.80598
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "470",
+                "ref:De_Lijn": "208753",
+                "bus": "yes",
+                "name": "Visserij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSESTRAAT BERCHEM (KLUISBERGEN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.544497,
+                    50.80751
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;460",
+                "ref:De_Lijn": "208381",
+                "bus": "yes",
+                "name": "Melden Berchemweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG MELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.559561,
+                    50.811903
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209382",
+                "bus": "yes",
+                "name": "Melden Middenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.551035,
+                    50.808536
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66;460",
+                "ref:De_Lijn": "208382",
+                "bus": "yes",
+                "name": "Melden Middenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.550476,
+                    50.808037
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;66",
+                "ref:De_Lijn": "209381",
+                "bus": "yes",
+                "name": "Melden Berchemweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERCHEMWEG MELDEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.559333,
+                    50.811956
+                ]
+            }
+        }
+    ]
+}

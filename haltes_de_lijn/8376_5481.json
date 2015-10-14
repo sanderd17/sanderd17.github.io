@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "204583",
+                "bus": "yes",
+                "name": "Zele Pieter Gorusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PIETER GORUSSTRAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.06318,
+                    51.050626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290;355",
+                "ref:De_Lijn": "204584",
+                "bus": "yes",
+                "name": "Zele 't Schipken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJKSTRAAT ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.05888,
+                    51.049464
+                ]
+            }
+        }
+    ]
+}

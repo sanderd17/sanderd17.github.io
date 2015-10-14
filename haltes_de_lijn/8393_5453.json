@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "444;446;670;674",
+                "ref:De_Lijn": "102186",
+                "bus": "yes",
+                "name": "Essen College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROUWMOER ESSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.432655,
+                    51.43971
+                ]
+            }
+        }
+    ]
+}

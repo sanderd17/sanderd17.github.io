@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204100",
+                "bus": "yes",
+                "name": "Overmere Bontinckstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BONTINCKSTRAAT OVERMERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929751,
+                    51.067239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "200039",
+                "bus": "yes",
+                "name": "Kalken Portugiezenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUSSEVELDESTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.913359,
+                    51.059959
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201912",
+                "bus": "yes",
+                "name": "Kalken Bontinkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BONTINCKSTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929576,
+                    51.067688
+                ]
+            }
+        }
+    ]
+}

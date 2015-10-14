@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "533;681;931",
+                "ref:De_Lijn": "108614",
+                "bus": "yes",
+                "name": "Rijmenam Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLAKENBAAN RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.58655,
+                    50.998142
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "681",
+                "ref:De_Lijn": "301915",
+                "bus": "yes",
+                "name": "Boortmeerbeek Leibeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEBAAN BOORTMEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.581003,
+                    50.9907
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "681",
+                "ref:De_Lijn": "301916",
+                "bus": "yes",
+                "name": "Boortmeerbeek Leibeek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOETBALWEG BOORTMEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.581374,
+                    50.990744
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "681",
+                "ref:De_Lijn": "305813",
+                "bus": "yes",
+                "name": "Boortmeerbeek Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEBAAN BOORTMEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.577001,
+                    50.987507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "681",
+                "ref:De_Lijn": "305814",
+                "bus": "yes",
+                "name": "Boortmeerbeek Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJMENAMSEBAAN BOORTMEERBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.577157,
+                    50.987453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "533;681;931",
+                "ref:De_Lijn": "108613",
+                "bus": "yes",
+                "name": "Rijmenam Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLLAKENBAAN RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.586464,
+                    50.998034
+                ]
+            }
+        }
+    ]
+}

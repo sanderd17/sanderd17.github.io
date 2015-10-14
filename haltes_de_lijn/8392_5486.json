@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "230;233;821",
+                "ref:De_Lijn": "306879",
+                "bus": "yes",
+                "name": "Humbeek Steenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT HUMBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.395353,
+                    50.977864
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202263",
+                "bus": "yes",
+                "name": "Watervliet Lathouwerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEMANSDIJK WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.610573,
+                    51.285913
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203262",
+                "bus": "yes",
+                "name": "Watervliet Oudemansdijk 18",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEMANSDIJK WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.616294,
+                    51.285806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202262",
+                "bus": "yes",
+                "name": "Watervliet Oudemansdijk 18",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEMANSDIJK WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.616138,
+                    51.285715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63",
+                "ref:De_Lijn": "203107",
+                "bus": "yes",
+                "name": "Watervliet Hoogkasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.625195,
+                    51.284028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203263",
+                "bus": "yes",
+                "name": "Watervliet Lathouwerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEMANSDIJK WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.610457,
+                    51.286011
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63;195",
+                "ref:De_Lijn": "202107",
+                "bus": "yes",
+                "name": "Watervliet Hoogkasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.624995,
+                    51.284
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,171 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;286;287;460;461",
+                "ref:De_Lijn": "107903",
+                "bus": "yes",
+                "name": "Willebroek Hoeikensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOEIKENSSTRAAT WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.347982,
+                    51.072394
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "258;286;287;460;461",
+                "ref:De_Lijn": "104547",
+                "bus": "yes",
+                "name": "Willebroek Hoeikensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "APPELDONKSTRAAT WILLEBROEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.348809,
+                    51.071702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "107898",
+                "bus": "yes",
+                "name": "Ruisbroek Dokter De Wachterlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT SAUVEGARDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.330855,
+                    51.078862
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "109701",
+                "bus": "yes",
+                "name": "Ruisbroek Ooievaarsnest",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "OOIEVAARSNEST PUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.341232,
+                    51.073741
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107894",
+                "bus": "yes",
+                "name": "Ruisbroek Dokter De Wachterlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT SAUVEGARDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.330784,
+                    51.078763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "109751",
+                "bus": "yes",
+                "name": "Ruisbroek Ooievaarsnest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOIEVAARSNEST PUURS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.340561,
+                    51.074038
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "107901",
+                "bus": "yes",
+                "name": "Ruisbroek Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT SAUVEGARDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.336308,
+                    51.07641
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107899",
+                "bus": "yes",
+                "name": "Ruisbroek Kasteelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KATHARINASTRAAT SAUVEGARDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.336122,
+                    51.076401
+                ]
+            }
+        }
+    ]
+}

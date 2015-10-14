@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "504402",
+                "bus": "yes",
+                "name": "Poperinge Busseboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDERDOMSEWEG RENINGELST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.757859,
+                    50.83867
+                ]
+            }
+        }
+    ]
+}

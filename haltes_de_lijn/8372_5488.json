@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "207840",
+                "bus": "yes",
+                "name": "Lede Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERIMPESTRAAT LEDE (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.966824,
+                    50.958171
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206558",
+                "bus": "yes",
+                "name": "Erpe Kouterbosstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ERPE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.971605,
+                    50.944865
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96",
+                "ref:De_Lijn": "207559",
+                "bus": "yes",
+                "name": "Erondegem Halfbunder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ERONDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.959255,
+                    50.946386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96;385",
+                "ref:De_Lijn": "206559",
+                "bus": "yes",
+                "name": "Erondegem Halfbunder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ERONDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.958131,
+                    50.946356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96",
+                "ref:De_Lijn": "207927",
+                "bus": "yes",
+                "name": "Erpe Watertoren",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ERPE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.973754,
+                    50.944773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;385",
+                "ref:De_Lijn": "206840",
+                "bus": "yes",
+                "name": "Lede Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERIMPESTRAAT LEDE (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.965785,
+                    50.958176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207558",
+                "bus": "yes",
+                "name": "Erpe Kouterbosstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ERPE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.971162,
+                    50.945052
+                ]
+            }
+        }
+    ]
+}

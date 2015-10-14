@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "505164",
+                "bus": "yes",
+                "name": "Abele Galgestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALGESTRAAT WATOU",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.663442,
+                    50.817867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "509009",
+                "bus": "yes",
+                "name": "Abele Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS-VLAANDERENWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.676355,
+                    50.817578
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "504005",
+                "bus": "yes",
+                "name": "Abele Casseldreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ABELESTATIONSPLEIN POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.676548,
+                    50.817338
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "504009",
+                "bus": "yes",
+                "name": "Abele Overweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANS-VLAANDERENWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.676257,
+                    50.817523
+                ]
+            }
+        }
+    ]
+}

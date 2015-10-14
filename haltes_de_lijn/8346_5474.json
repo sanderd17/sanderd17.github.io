@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;185",
+                "ref:De_Lijn": "202333",
+                "bus": "yes",
+                "name": "Knesselare Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.405479,
+                    51.143752
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203333",
+                "bus": "yes",
+                "name": "Knesselare Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERSTRAAT KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.405593,
+                    51.143798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505680",
+                "bus": "yes",
+                "name": "Oedelem Blindezel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZELDONKSTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387211,
+                    51.143988
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;63",
+                "ref:De_Lijn": "502315",
+                "bus": "yes",
+                "name": "Oedelem Zeldonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.394289,
+                    51.14722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200859",
+                "bus": "yes",
+                "name": "Knesselare Sporthal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEKSTRAAT KNESSELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.405555,
+                    51.146306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "507315",
+                "bus": "yes",
+                "name": "Oedelem Zeldonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KNESSELARESTRAAT OEDELEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.395412,
+                    51.146825
+                ]
+            }
+        }
+    ]
+}

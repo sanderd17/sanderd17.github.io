@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204072",
+                "bus": "yes",
+                "name": "Belsele Puyveldewegsken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.076508,
+                    51.163757
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "205097",
+                "bus": "yes",
+                "name": "Belsele Goudenleeuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEEMSTRAAT BELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.08224,
+                    51.159205
+                ]
+            }
+        }
+    ]
+}

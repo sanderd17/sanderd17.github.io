@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65;185",
+                "ref:De_Lijn": "202342",
+                "bus": "yes",
+                "name": "Ursel Veldkruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZESTRAAT URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.502879,
+                    51.124775
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "65",
+                "ref:De_Lijn": "203342",
+                "bus": "yes",
+                "name": "Ursel Veldkruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROZESTRAAT URSEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.502819,
+                    51.124936
+                ]
+            }
+        }
+    ]
+}

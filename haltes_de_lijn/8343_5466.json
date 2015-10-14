@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505438",
+                "bus": "yes",
+                "name": "Moerkerke Waterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERHOEK MOERKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.321729,
+                    51.249887
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;98",
+                "ref:De_Lijn": "505358",
+                "bus": "yes",
+                "name": "Damme Platheule",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE SLUISSEDIJK DAMME",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.319103,
+                    51.261541
+                ]
+            }
+        }
+    ]
+}

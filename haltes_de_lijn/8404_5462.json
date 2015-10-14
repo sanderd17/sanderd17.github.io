@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "102209",
+                "bus": "yes",
+                "name": "Westmalle Mariënhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.677057,
+                    51.303617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "102211",
+                "bus": "yes",
+                "name": "Westmalle Mariënhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSESTEENWEG WESTMALLE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.676984,
+                    51.303474
+                ]
+            }
+        }
+    ]
+}

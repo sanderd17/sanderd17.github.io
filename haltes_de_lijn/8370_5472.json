@@ -1,0 +1,194 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "205017",
+                "bus": "yes",
+                "name": "Moerbeke Waas Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWESTVAART MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.924305,
+                    51.176694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;240",
+                "ref:De_Lijn": "205090",
+                "bus": "yes",
+                "name": "Moerbeke Waas Fortstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WACHTEBEKESTEENWEG MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.912406,
+                    51.17246
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;49;85;240",
+                "ref:De_Lijn": "205088",
+                "bus": "yes",
+                "name": "Moerbeke Waas Begonialaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWESTSTRAAT MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.927745,
+                    51.172815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;49;85;240",
+                "ref:De_Lijn": "205089",
+                "bus": "yes",
+                "name": "Moerbeke Waas Terwest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWESTSTRAAT MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.92456,
+                    51.17239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "240",
+                "ref:De_Lijn": "204018",
+                "bus": "yes",
+                "name": "Moerbeke Waas Collemansbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "COLLEMANSBRUG MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.931018,
+                    51.179065
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;49;85;240",
+                "ref:De_Lijn": "204089",
+                "bus": "yes",
+                "name": "Moerbeke Waas Terwest",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWESTSTRAAT MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.924732,
+                    51.172319
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49;240",
+                "ref:De_Lijn": "204090",
+                "bus": "yes",
+                "name": "Moerbeke Waas Fortstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WACHTEBEKESTEENWEG MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.912564,
+                    51.172362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;49;85;240",
+                "ref:De_Lijn": "204088",
+                "bus": "yes",
+                "name": "Moerbeke Waas Begonialaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERWESTSTRAAT MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.927803,
+                    51.172708
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "205018",
+                "bus": "yes",
+                "name": "Moerbeke Waas Collemansbrug",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "COLLEMANSBRUG MOERBEKE-WAAS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.93099,
+                    51.178949
+                ]
+            }
+        }
+    ]
+}

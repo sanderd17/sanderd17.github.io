@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "T2",
+                "ref:De_Lijn": "408706",
+                "bus": "yes",
+                "name": "'s Herenelderen Membruggenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAKOBSSTRAAT 'S-HERENELDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.506942,
+                    50.807333
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "T1;34a;738",
+                "ref:De_Lijn": "408686",
+                "bus": "yes",
+                "name": "'s Herenelderen Lindebornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELDERENSTRAAT 'S-HERENELDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.503113,
+                    50.808602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "T2",
+                "ref:De_Lijn": "410082",
+                "bus": "yes",
+                "name": "'s Herenelderen Langbamdweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEBORNSTRAAT 'S-HERENELDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.502461,
+                    50.809193
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "T1;34a",
+                "ref:De_Lijn": "408687",
+                "bus": "yes",
+                "name": "'s Herenelderen Lindebornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELDERENSTRAAT 'S-HERENELDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.50322,
+                    50.808331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "T2;738",
+                "ref:De_Lijn": "408550",
+                "bus": "yes",
+                "name": "'s Herenelderen Membruggenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JAKOBSSTRAAT 'S-HERENELDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.507151,
+                    50.807187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "T2",
+                "ref:De_Lijn": "410083",
+                "bus": "yes",
+                "name": "'s Herenelderen Langbamdweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDEBORNSTRAAT 'S-HERENELDEREN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.502402,
+                    50.809094
+                ]
+            }
+        }
+    ]
+}

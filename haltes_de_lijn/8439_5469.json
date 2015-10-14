@@ -1,0 +1,803 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404589",
+                "bus": "yes",
+                "name": "Neerpelt De Bemmert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE BEMMERT NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.442626,
+                    51.214324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "405522",
+                "bus": "yes",
+                "name": "Overpelt Vloeterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLOETERSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.431359,
+                    51.211064
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "403699",
+                "bus": "yes",
+                "name": "Overpelt Magdaleentjeshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAGDALEENTJESHOF OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.432422,
+                    51.214992
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404592",
+                "bus": "yes",
+                "name": "Neerpelt Nachtegaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NACHTEGAALSTRAAT NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.449061,
+                    51.217753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "406913",
+                "bus": "yes",
+                "name": "Neerpelt De Roosen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSEIND NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.441053,
+                    51.213116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744;745",
+                "ref:De_Lijn": "405519",
+                "bus": "yes",
+                "name": "Overpelt Sint-Willebrordusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEMVAARTSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.430097,
+                    51.213457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404590",
+                "bus": "yes",
+                "name": "Neerpelt Sparrenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLAAN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.445376,
+                    51.217472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "405518",
+                "bus": "yes",
+                "name": "Overpelt Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JEUGDLAAN OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.427323,
+                    51.212287
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404594",
+                "bus": "yes",
+                "name": "Neerpelt De Kentings",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE KENTINGS NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.444732,
+                    51.220588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404994",
+                "bus": "yes",
+                "name": "Neerpelt Gemeentelijk sportpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE ROOSEN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44867,
+                    51.213855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744;745",
+                "ref:De_Lijn": "403783",
+                "bus": "yes",
+                "name": "Overpelt Magdaleentjeshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAGDALEENTJESHOF OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43268,
+                    51.215016
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404595",
+                "bus": "yes",
+                "name": "Neerpelt De Kentings",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE KENTINGS NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.444575,
+                    51.220599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400012",
+                "bus": "yes",
+                "name": "Neerpelt Melotte",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BOSEIND NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.441324,
+                    51.216215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744;745",
+                "ref:De_Lijn": "405517",
+                "bus": "yes",
+                "name": "Overpelt Sportcentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JEUGDLAAN OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.427411,
+                    51.212403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "405671",
+                "bus": "yes",
+                "name": "Overpelt Heesakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESAKKERSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.436087,
+                    51.207524
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "407787",
+                "bus": "yes",
+                "name": "Overpelt Breugelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREUGELWEG OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.427817,
+                    51.20697
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404588",
+                "bus": "yes",
+                "name": "Neerpelt De Bemmert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE BEMMERT NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.442581,
+                    51.214225
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "745",
+                "ref:De_Lijn": "405520",
+                "bus": "yes",
+                "name": "Overpelt Sint-Willebrordusstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEMVAARTSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.430385,
+                    51.213527
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "406912",
+                "bus": "yes",
+                "name": "Neerpelt De Roosen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERENT NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.441438,
+                    51.2118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404587",
+                "bus": "yes",
+                "name": "Neerpelt Laerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENBROEKSTRAAT NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.438674,
+                    51.217362
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;48;84;18a;743;744;745",
+                "ref:De_Lijn": "407295",
+                "bus": "yes",
+                "name": "Overpelt Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SELLEKAERTSSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.432806,
+                    51.216759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404593",
+                "bus": "yes",
+                "name": "Neerpelt Nachtegaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NACHTEGAALSTRAAT NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.448804,
+                    51.217782
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404644",
+                "bus": "yes",
+                "name": "Neerpelt Herent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE ROOSEN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.443177,
+                    51.212153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33",
+                "ref:De_Lijn": "407786",
+                "bus": "yes",
+                "name": "Overpelt Breugelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREUGELWEG OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.428004,
+                    51.207004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404591",
+                "bus": "yes",
+                "name": "Neerpelt Sparrenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EIKENLAAN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.445335,
+                    51.217562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744;745",
+                "ref:De_Lijn": "405521",
+                "bus": "yes",
+                "name": "Overpelt Vloeterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLOETERSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.431405,
+                    51.21118
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404993",
+                "bus": "yes",
+                "name": "Neerpelt Gemeentelijk sportpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE ROOSEN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.447878,
+                    51.213638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;48;84;18a;744;745",
+                "ref:De_Lijn": "407294",
+                "bus": "yes",
+                "name": "Overpelt Rijkswacht",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SELLEKAERTSSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.432435,
+                    51.216816
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404645",
+                "bus": "yes",
+                "name": "Neerpelt Herent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE ROOSEN NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.44339,
+                    51.21207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;84;18a",
+                "ref:De_Lijn": "408075",
+                "bus": "yes",
+                "name": "Overpelt Atheneum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEOPOLDLAAN OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.427266,
+                    51.219883
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "402699",
+                "bus": "yes",
+                "name": "Overpelt Bemvaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEMVAARTSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.438791,
+                    51.212489
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404586",
+                "bus": "yes",
+                "name": "Neerpelt Laerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENBROEKSTRAAT NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.438457,
+                    51.217256
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "402740",
+                "bus": "yes",
+                "name": "Overpelt Bemvaartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEMVAARTSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.439048,
+                    51.212469
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744;745",
+                "ref:De_Lijn": "407869",
+                "bus": "yes",
+                "name": "Overpelt Molenbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLOETERSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.434804,
+                    51.212759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "405672",
+                "bus": "yes",
+                "name": "Overpelt Heesakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEESAKKERSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.436035,
+                    51.207768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;744",
+                "ref:De_Lijn": "406902",
+                "bus": "yes",
+                "name": "Neerpelt Beukenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSEIND NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.441136,
+                    51.216747
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744;745",
+                "ref:De_Lijn": "407868",
+                "bus": "yes",
+                "name": "Overpelt Molenbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLOETERSTRAAT OVERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.43499,
+                    51.212748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;743;744",
+                "ref:De_Lijn": "406903",
+                "bus": "yes",
+                "name": "Neerpelt Beukenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSEIND NEERPELT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.440968,
+                    51.216883
+                ]
+            }
+        }
+    ]
+}

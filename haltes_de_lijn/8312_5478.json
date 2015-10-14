@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506183",
+                "bus": "yes",
+                "name": "Koksijde Vliegveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-IDESBALDUSSTRAAT VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.641617,
+                    51.084861
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501183",
+                "bus": "yes",
+                "name": "Koksijde Vliegveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-IDESBALDUSSTRAAT VEURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.641536,
+                    51.084725
+                ]
+            }
+        }
+    ]
+}

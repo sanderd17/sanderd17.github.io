@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "509429",
+                "bus": "yes",
+                "name": "Poperinge Edelweiss",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.74879,
+                    50.854999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "505163",
+                "bus": "yes",
+                "name": "Poperinge Vlaanderenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLAANDERENLAAN POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.74739,
+                    50.849055
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "60;68;69",
+                "ref:De_Lijn": "504429",
+                "bus": "yes",
+                "name": "Poperinge Edelweiss",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSEWEG POPERINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.748758,
+                    50.855107
+                ]
+            }
+        }
+    ]
+}

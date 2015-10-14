@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49",
+                "ref:De_Lijn": "503634",
+                "bus": "yes",
+                "name": "Nieuwkapelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOOSTRAAT NIEUWKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.799663,
+                    50.999138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "49",
+                "ref:De_Lijn": "506765",
+                "bus": "yes",
+                "name": "Nieuwkapelle Hof Ter Zeedycke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE ZEEDIJK NIEUWKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.807775,
+                    50.996872
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "505902",
+                "bus": "yes",
+                "name": "Nieuwkapelle Kerk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "NIEUWKAPELLESTRAAT NIEUWKAPELLE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.800128,
+                    50.999729
+                ]
+            }
+        }
+    ]
+}

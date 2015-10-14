@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;26;28;64;79;95",
+                "ref:De_Lijn": "502186",
+                "bus": "yes",
+                "name": "Hertsberge Loca Labora",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.278622,
+                    51.112336
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "504881",
+                "bus": "yes",
+                "name": "Beernem Bezoekerscentrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BULSCAMPVELD BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.290505,
+                    51.120995
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;28;64;79;95",
+                "ref:De_Lijn": "507186",
+                "bus": "yes",
+                "name": "Hertsberge Loca Labora",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LODISTRAAT HERTSBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.278875,
+                    51.112509
+                ]
+            }
+        }
+    ]
+}

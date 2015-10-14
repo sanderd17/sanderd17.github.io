@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505408",
+                "bus": "yes",
+                "name": "Esen Vladslostraat 19",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLADSLOSTRAAT VLADSLO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.911766,
+                    51.041442
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;64",
+                "ref:De_Lijn": "508831",
+                "bus": "yes",
+                "name": "Vladslo Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLADSLOPLEIN VLADSLO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.916632,
+                    51.046402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;64",
+                "ref:De_Lijn": "503831",
+                "bus": "yes",
+                "name": "Vladslo Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLADSLOPLEIN VLADSLO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.916265,
+                    51.04629
+                ]
+            }
+        }
+    ]
+}

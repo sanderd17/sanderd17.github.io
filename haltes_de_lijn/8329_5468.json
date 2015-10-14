@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "501134",
+                "bus": "yes",
+                "name": "Klemskerke Palingpot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE BAAN KLEMSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.02838,
+                    51.229192
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "506134",
+                "bus": "yes",
+                "name": "Klemskerke Palingpot",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE BAAN KLEMSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.029319,
+                    51.229418
+                ]
+            }
+        }
+    ]
+}

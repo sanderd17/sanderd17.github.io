@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "205151",
+                "bus": "yes",
+                "name": "Zele Hansevelde Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANSEVELDE ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.080424,
+                    51.068773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "205153",
+                "bus": "yes",
+                "name": "Zele Bakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIVELDE ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.068967,
+                    51.064358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;290;355",
+                "ref:De_Lijn": "204153",
+                "bus": "yes",
+                "name": "Zele Bakkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIVELDE ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.069209,
+                    51.064592
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;290;355",
+                "ref:De_Lijn": "204152",
+                "bus": "yes",
+                "name": "Zele Huivelde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIVELDE ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.073618,
+                    51.066608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "205152",
+                "bus": "yes",
+                "name": "Zele Huivelde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HUIVELDE ZELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.073875,
+                    51.066573
+                ]
+            }
+        }
+    ]
+}

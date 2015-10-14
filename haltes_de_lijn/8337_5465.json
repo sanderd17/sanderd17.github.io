@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;92",
+                "ref:De_Lijn": "500600",
+                "bus": "yes",
+                "name": "Brugge Weg op Dudzele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N31 LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.196517,
+                    51.268409
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;92",
+                "ref:De_Lijn": "501052",
+                "bus": "yes",
+                "name": "Brugge Weg op Dudzele",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N31 LISSEWEGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.196717,
+                    51.269022
+                ]
+            }
+        }
+    ]
+}

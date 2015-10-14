@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "372;525",
+                "ref:De_Lijn": "307280",
+                "bus": "yes",
+                "name": "Linden Jeugdsquare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JEUGDSQUARE LINDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.782333,
+                    50.905681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "372;525",
+                "ref:De_Lijn": "307062",
+                "bus": "yes",
+                "name": "Linden Stenenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENLAAN LINDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780617,
+                    50.904626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "372;525",
+                "ref:De_Lijn": "307281",
+                "bus": "yes",
+                "name": "Linden Stenenveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JACHTHUISLAAN LINDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780372,
+                    50.904205
+                ]
+            }
+        }
+    ]
+}

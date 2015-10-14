@@ -1,0 +1,172 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;306;490;491;921",
+                "ref:De_Lijn": "109096",
+                "bus": "yes",
+                "name": "Geel Punt Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.94587,
+                    51.141921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;382;490;491",
+                "ref:De_Lijn": "109094",
+                "bus": "yes",
+                "name": "Geel Punt Antwerpseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954868,
+                    51.145014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "104818",
+                "bus": "yes",
+                "name": "Geel Leeks",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-KRISTOFFELSTRAAT HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.950303,
+                    51.139877
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;490;491",
+                "ref:De_Lijn": "109091",
+                "bus": "yes",
+                "name": "Geel Meeuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.964105,
+                    51.148824
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;490;491",
+                "ref:De_Lijn": "109093",
+                "bus": "yes",
+                "name": "Geel Punt Antwerpseweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.95536,
+                    51.145515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;306;382;490;491;921",
+                "ref:De_Lijn": "109097",
+                "bus": "yes",
+                "name": "Geel Punt Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.94611,
+                    51.141722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103989",
+                "bus": "yes",
+                "name": "Geel Vogelzang",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOGELZANG HET PUNT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945254,
+                    51.142967
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15c;382;490;491",
+                "ref:De_Lijn": "109092",
+                "bus": "yes",
+                "name": "Geel Meeuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSEWEG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.965178,
+                    51.148899
+                ]
+            }
+        }
+    ]
+}

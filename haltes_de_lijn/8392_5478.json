@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "132;182",
+                "ref:De_Lijn": "106868",
+                "bus": "yes",
+                "name": "Reet Nachtegaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERREMANSSTRAAT REET",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400103,
+                    51.095286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "132;182",
+                "ref:De_Lijn": "106869",
+                "bus": "yes",
+                "name": "Boom Nachtegaalstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NACHTEGAALSTRAAT BOOM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399575,
+                    51.094945
+                ]
+            }
+        }
+    ]
+}

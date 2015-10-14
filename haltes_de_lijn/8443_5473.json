@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;14;48",
+                "ref:De_Lijn": "407375",
+                "bus": "yes",
+                "name": "Grote-Brogel Elvenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOCHOLTERWEG GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.533677,
+                    51.161915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13;14;48",
+                "ref:De_Lijn": "407374",
+                "bus": "yes",
+                "name": "Grote-Brogel Elvenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOCHOLTERWEG GROTE-BROGEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.533804,
+                    51.161842
+                ]
+            }
+        }
+    ]
+}

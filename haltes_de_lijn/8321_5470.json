@@ -1,0 +1,153 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "501495",
+                "bus": "yes",
+                "name": "Middelkerke Quick Gb",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDELAAN MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.839141,
+                    51.193138
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506213",
+                "zone:De_Lijn": "08",
+                "name": "Raversijde Domein Raversijde",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "N34 OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.841002,
+                    51.199239
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506214",
+                "bus": "yes",
+                "name": "Middelkerke Domein Raversijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.849998,
+                    51.198043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;68;69;84",
+                "ref:De_Lijn": "501220",
+                "bus": "yes",
+                "name": "Middelkerke Sea Shopping Center",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDELAAN MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.840702,
+                    51.193976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501213",
+                "zone:De_Lijn": "08",
+                "name": "Raversijde Domein Raversijde",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "N34 OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.840939,
+                    51.199391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69;84",
+                "ref:De_Lijn": "501214",
+                "bus": "yes",
+                "name": "Middelkerke Domein Raversijde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWPOORTSESTEENWEG OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.850812,
+                    51.198539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506220",
+                "bus": "yes",
+                "name": "Middelkerke Sea Shopping Center",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTENDELAAN MIDDELKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.841593,
+                    51.194275
+                ]
+            }
+        }
+    ]
+}

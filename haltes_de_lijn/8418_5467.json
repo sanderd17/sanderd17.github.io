@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108946",
+                "bus": "yes",
+                "name": "Kasterlee Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKT KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.967099,
+                    51.240728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;305;490;492",
+                "ref:De_Lijn": "108944",
+                "bus": "yes",
+                "name": "Kasterlee Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.966088,
+                    51.241173
+                ]
+            }
+        }
+    ]
+}

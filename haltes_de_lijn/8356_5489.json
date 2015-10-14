@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201766",
+                "bus": "yes",
+                "name": "Ouwegem Oude Deinsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG DEINZE NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.619332,
+                    50.931947
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "201286",
+                "bus": "yes",
+                "name": "Nazareth Stoofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNEPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.625255,
+                    50.939734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "200452",
+                "bus": "yes",
+                "name": "Nazareth Krekelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSEPONTWEG NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.619523,
+                    50.937819
+                ]
+            }
+        }
+    ]
+}

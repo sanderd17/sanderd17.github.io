@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "301028",
+                "bus": "yes",
+                "name": "Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSESTEENWEG SINT-GILLIS (BRUSSEL)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.353084,
+                    50.82298
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "301033",
+                "bus": "yes",
+                "name": "Moris",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSESTEENWEG SINT-GILLIS (BRUSSEL)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.350983,
+                    50.824094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308328",
+                "bus": "yes",
+                "name": "Tenbos",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LOUIS LEPOUTRELAAN ELSENE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.358832,
+                    50.819843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "300905",
+                "bus": "yes",
+                "name": "Lepoutrelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSESTEENWEG ELSENE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359258,
+                    50.820328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "300904",
+                "bus": "yes",
+                "name": "Lepoutrelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSESTEENWEG ELSENE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.359967,
+                    50.819843
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "136;137",
+                "ref:De_Lijn": "301029",
+                "bus": "yes",
+                "name": "Ma Campagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERLOOSESTEENWEG ELSENE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.354503,
+                    50.822503
+                ]
+            }
+        }
+    ]
+}

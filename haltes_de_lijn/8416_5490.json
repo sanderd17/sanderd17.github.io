@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "552",
+                "ref:De_Lijn": "304979",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.930819,
+                    50.922207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;391;392",
+                "ref:De_Lijn": "300459",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Molenbeek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.941285,
+                    50.918515
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "552",
+                "ref:De_Lijn": "305021",
+                "bus": "yes",
+                "name": "Tielt-Winge Stevensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTEENWEG TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.928595,
+                    50.928851
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "552;701",
+                "ref:De_Lijn": "304978",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIESSTRAAT MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.930749,
+                    50.922288
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "552",
+                "ref:De_Lijn": "305022",
+                "bus": "yes",
+                "name": "Tielt-Winge Stevensstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSESTEENWEG TIELT-WINGE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.928239,
+                    50.928844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;391;392;701",
+                "ref:De_Lijn": "300460",
+                "bus": "yes",
+                "name": "Molenbeek-Wersbeek Molenbeek Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HALENSEBAAN MOLENBEEK-WERSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.941084,
+                    50.918399
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204106",
+                "bus": "yes",
+                "name": "Berlare Waterhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERHOEK BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.032491,
+                    51.032429
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204101",
+                "bus": "yes",
+                "name": "Appels Veer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOFDSTRAAT APPELS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.042122,
+                    51.029202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204102",
+                "bus": "yes",
+                "name": "Berlare Veer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERHOEK BERLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.040564,
+                    51.029809
+                ]
+            }
+        }
+    ]
+}

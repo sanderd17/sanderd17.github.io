@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46",
+                "ref:De_Lijn": "209277",
+                "bus": "yes",
+                "name": "Zingem Bekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSESTEENWEG ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.641271,
+                    50.909763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;485",
+                "ref:De_Lijn": "208277",
+                "bus": "yes",
+                "name": "Zingem Bekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSESTEENWEG ZINGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.641088,
+                    50.909645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;485",
+                "ref:De_Lijn": "208276",
+                "bus": "yes",
+                "name": "Huise Heulestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSESTEENWEG HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.632674,
+                    50.909386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46",
+                "ref:De_Lijn": "209276",
+                "bus": "yes",
+                "name": "Huise Heulestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISHOUTEMSESTEENWEG HUISE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.632601,
+                    50.909494
+                ]
+            }
+        }
+    ]
+}

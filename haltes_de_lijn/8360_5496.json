@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209780",
+                "bus": "yes",
+                "name": "Sint-Kornelis-Horebeke Ommegangstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSESTRAAT SINT-KORNELIS-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.702776,
+                    50.837949
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "445",
+                "ref:De_Lijn": "209779",
+                "bus": "yes",
+                "name": "Sint-Kornelis-Horebeke Plein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOVENSTRAAT SINT-KORNELIS-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.698242,
+                    50.834363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42",
+                "ref:De_Lijn": "209202",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Tonnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKESTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.696107,
+                    50.843691
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "42;445",
+                "ref:De_Lijn": "208202",
+                "bus": "yes",
+                "name": "Sint-Maria-Horebeke Tonnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKESTRAAT SINT-MARIA-HOREBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.696264,
+                    50.84362
+                ]
+            }
+        }
+    ]
+}

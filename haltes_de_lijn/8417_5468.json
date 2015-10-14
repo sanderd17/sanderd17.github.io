@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;305;493",
+                "ref:De_Lijn": "109219",
+                "bus": "yes",
+                "name": "Kasterlee Hoge Mouw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945224,
+                    51.234194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;219;305;493",
+                "ref:De_Lijn": "109218",
+                "bus": "yes",
+                "name": "Kasterlee Hoge Mouw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LICHTAARTSEBAAN KASTERLEE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945467,
+                    51.234148
+                ]
+            }
+        }
+    ]
+}

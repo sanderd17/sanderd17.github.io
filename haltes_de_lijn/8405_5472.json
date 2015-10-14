@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101819",
+                "bus": "yes",
+                "name": "Nijlen Schriekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSTRAAT NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.696278,
+                    51.170411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101923",
+                "bus": "yes",
+                "name": "Nijlen Bremweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELSENDONKSTRAAT NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.681252,
+                    51.168439
+                ]
+            }
+        }
+    ]
+}

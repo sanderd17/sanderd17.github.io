@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;390;480",
+                "ref:De_Lijn": "107193",
+                "bus": "yes",
+                "name": "Arendonk Grens Langschelpen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENS ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.118938,
+                    51.346745
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;390;391;480",
+                "ref:De_Lijn": "107192",
+                "bus": "yes",
+                "name": "Arendonk Grens Langschelpen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENS ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.119152,
+                    51.34668
+                ]
+            }
+        }
+    ]
+}

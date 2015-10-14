@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "205200",
+                "bus": "yes",
+                "name": "Eksaarde Sint-Jansdam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTEINDEKEN EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.976505,
+                    51.152205
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;270",
+                "ref:De_Lijn": "204200",
+                "bus": "yes",
+                "name": "Eksaarde Sint-Jansdam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTEINDEKEN EKSAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.976378,
+                    51.151989
+                ]
+            }
+        }
+    ]
+}

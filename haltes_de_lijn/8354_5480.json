@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "209645",
+                "bus": "yes",
+                "name": "Landegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.575539,
+                    51.063681
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;160",
+                "ref:De_Lijn": "200696",
+                "bus": "yes",
+                "name": "Landegem Ten Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENNENDREEF LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.579461,
+                    51.06289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "209646",
+                "bus": "yes",
+                "name": "Landegem Wildedreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.577492,
+                    51.067982
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200691",
+                "bus": "yes",
+                "name": "Landegem Maalderijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE HEIRENTHOEK LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.565654,
+                    51.061133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125;160",
+                "ref:De_Lijn": "208645",
+                "bus": "yes",
+                "name": "Landegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.575766,
+                    51.063773
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86",
+                "ref:De_Lijn": "209644",
+                "bus": "yes",
+                "name": "Landegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSELARESTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.572419,
+                    51.055893
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "86;125",
+                "ref:De_Lijn": "208644",
+                "bus": "yes",
+                "name": "Landegem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSELARESTRAAT LANDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.572577,
+                    51.055841
+                ]
+            }
+        }
+    ]
+}

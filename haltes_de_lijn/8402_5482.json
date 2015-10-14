@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104047",
+                "bus": "yes",
+                "name": "Putte Rechtestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RECHTESTRAAT PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.630427,
+                    51.031384
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104048",
+                "bus": "yes",
+                "name": "Rijmenam Weyneshoflei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENLEI RIJMENAM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.615377,
+                    51.029439
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "103994",
+                "bus": "yes",
+                "name": "Putte Koolhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TINSTRAAT PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.619946,
+                    51.038814
+                ]
+            }
+        }
+    ]
+}

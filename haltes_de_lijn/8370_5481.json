@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;37;130",
+                "ref:De_Lijn": "203528",
+                "bus": "yes",
+                "name": "Kalken Gaverstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929252,
+                    51.044441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;37;130",
+                "ref:De_Lijn": "202527",
+                "bus": "yes",
+                "name": "Kalken Berringstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.922148,
+                    51.041682
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201911",
+                "bus": "yes",
+                "name": "Kalken Kleine Zauwerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BONTINKSTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929564,
+                    51.050663
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "201910",
+                "bus": "yes",
+                "name": "Kalken Pennemansbaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSESTEENWEG KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.922975,
+                    51.046242
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36;37;130",
+                "ref:De_Lijn": "202528",
+                "bus": "yes",
+                "name": "Kalken Gaverstraatje",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GAVERSTRAAT KALKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.929009,
+                    51.044467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "204063",
+                "bus": "yes",
+                "name": "Overmere Loereveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DONKERWEGEL OVERMERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.93189,
+                    51.053557
+                ]
+            }
+        }
+    ]
+}

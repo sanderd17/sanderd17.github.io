@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;89;92",
+                "ref:De_Lijn": "508328",
+                "bus": "yes",
+                "name": "Kaster Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N36 KASTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.49468,
+                    50.810647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505286",
+                "bus": "yes",
+                "name": "Kaster Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JULIAAN CLAERHOUTSTRAAT KASTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.495793,
+                    50.814161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "85;89;92",
+                "ref:De_Lijn": "503328",
+                "bus": "yes",
+                "name": "Kaster Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N36 KASTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.494762,
+                    50.810836
+                ]
+            }
+        }
+    ]
+}

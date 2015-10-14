@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408306",
+                "bus": "yes",
+                "name": "Tessenderlo Pittsburg Corning",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ALBERTKADE TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.163701,
+                    51.070573
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408304",
+                "bus": "yes",
+                "name": "Tessenderlo Marlux",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ALBERTKADE TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.16816,
+                    51.072647
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408262",
+                "bus": "yes",
+                "name": "Tessenderlo Houtzagerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.167733,
+                    51.076919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "409826",
+                "bus": "yes",
+                "name": "Tessenderlo Houtzagerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KANAALWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.167803,
+                    51.076838
+                ]
+            }
+        }
+    ]
+}

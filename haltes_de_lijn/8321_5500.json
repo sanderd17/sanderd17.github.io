@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;79",
+                "ref:De_Lijn": "509222",
+                "bus": "yes",
+                "name": "Kemmel Sauvegarde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJTSCHATESTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.854405,
+                    50.779128
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "504221",
+                "bus": "yes",
+                "name": "Kemmel Rossignol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.836452,
+                    50.787356
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "509217",
+                "bus": "yes",
+                "name": "Kemmel Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.841393,
+                    50.790711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;79",
+                "ref:De_Lijn": "504222",
+                "bus": "yes",
+                "name": "Kemmel Sauvegarde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJTSCHATESTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.854309,
+                    50.779028
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "504217",
+                "bus": "yes",
+                "name": "Kemmel Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.841347,
+                    50.790828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;70;79",
+                "ref:De_Lijn": "509221",
+                "bus": "yes",
+                "name": "Kemmel Rossignol",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KEMMELSTRAAT KEMMEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.836527,
+                    50.78724
+                ]
+            }
+        }
+    ]
+}

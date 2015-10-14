@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;11;725",
+                "ref:De_Lijn": "401800",
+                "bus": "yes",
+                "name": "Lanklaar Heideweelde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.646976,
+                    51.009815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401802",
+                "bus": "yes",
+                "name": "Lanklaar Heuvelsven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.657405,
+                    51.010762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401792",
+                "bus": "yes",
+                "name": "Lanklaar Kruisvenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISVENLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.648495,
+                    51.011174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401803",
+                "bus": "yes",
+                "name": "Lanklaar Heuvelsven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.657399,
+                    51.01105
+                ]
+            }
+        }
+    ]
+}

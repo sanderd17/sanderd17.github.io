@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;94",
+                "ref:De_Lijn": "500115",
+                "bus": "yes",
+                "name": "Brugge Ons Erf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.197397,
+                    51.16956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;94",
+                "ref:De_Lijn": "500119",
+                "bus": "yes",
+                "name": "Brugge Ons Erf",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.197612,
+                    51.169553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;88;94",
+                "ref:De_Lijn": "500120",
+                "bus": "yes",
+                "name": "Brugge Kinepolis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.202723,
+                    51.179043
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "710",
+                "ref:De_Lijn": "404921",
+                "bus": "yes",
+                "name": "Vliermaalroot Papeheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTERLAAN VLIERMAALROOT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.42836,
+                    50.865106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "710",
+                "ref:De_Lijn": "404948",
+                "bus": "yes",
+                "name": "Vliermaalroot De Heusch",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GULMERSTRAAT VLIERMAALROOT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.437493,
+                    50.863153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "710",
+                "ref:De_Lijn": "404920",
+                "bus": "yes",
+                "name": "Vliermaalroot Papeheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROTERLAAN VLIERMAALROOT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.428277,
+                    50.865188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "710",
+                "ref:De_Lijn": "404949",
+                "bus": "yes",
+                "name": "Vliermaalroot De Heusch",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GULMERSTRAAT VLIERMAALROOT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.437573,
+                    50.862919
+                ]
+            }
+        }
+    ]
+}

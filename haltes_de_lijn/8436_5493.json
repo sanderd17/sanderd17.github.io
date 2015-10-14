@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3;4;38;104",
+                "ref:De_Lijn": "404872",
+                "bus": "yes",
+                "name": "Kortessem Herbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HASSELTSESTEENWEG KORTESSEM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.36336,
+                    50.87552
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "741",
+                "ref:De_Lijn": "405546",
+                "bus": "yes",
+                "name": "Diepenbeek Tichelrijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TICHELRIJSTRAAT DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.381978,
+                    50.888882
+                ]
+            }
+        }
+    ]
+}

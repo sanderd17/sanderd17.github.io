@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "29",
+                "ref:De_Lijn": "507912",
+                "bus": "yes",
+                "name": "Ardooie Oude Heirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE HEIRWEG KOOLSKAMP",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.169412,
+                    50.993623
+                ]
+            }
+        }
+    ]
+}

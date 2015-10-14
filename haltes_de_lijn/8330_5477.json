@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;55;56;59;64",
+                "ref:De_Lijn": "502208",
+                "bus": "yes",
+                "name": "Ichtegem De Engel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.033377,
+                    51.104683
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;55;56;59;64",
+                "ref:De_Lijn": "502218",
+                "bus": "yes",
+                "name": "Ichtegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.038845,
+                    51.107226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;55;56;59",
+                "ref:De_Lijn": "507214",
+                "bus": "yes",
+                "name": "Ichtegem Mitswege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.04464,
+                    51.108846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;55;56;59",
+                "ref:De_Lijn": "507218",
+                "bus": "yes",
+                "name": "Ichtegem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.039373,
+                    51.107259
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;55;56;59",
+                "ref:De_Lijn": "507208",
+                "bus": "yes",
+                "name": "Ichtegem De Engel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.033495,
+                    51.104558
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;55;56;59;64",
+                "ref:De_Lijn": "502214",
+                "bus": "yes",
+                "name": "Ichtegem Mitswege",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT ICHTEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.044354,
+                    51.108879
+                ]
+            }
+        }
+    ]
+}

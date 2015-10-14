@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "99",
+                "ref:De_Lijn": "505264",
+                "bus": "yes",
+                "name": "Heestert Sportstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPORTSTRAAT HEESTERT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.410246,
+                    50.774718
+                ]
+            }
+        }
+    ]
+}

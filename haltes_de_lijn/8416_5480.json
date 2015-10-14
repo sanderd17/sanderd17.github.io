@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "491;492;944",
+                "ref:De_Lijn": "109053",
+                "bus": "yes",
+                "name": "Herselt Veerlepad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSEBAAN HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.92873,
+                    51.060437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "491;492;944",
+                "ref:De_Lijn": "109054",
+                "bus": "yes",
+                "name": "Herselt Hulst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSEBAAN HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.938901,
+                    51.055759
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "491;492;944",
+                "ref:De_Lijn": "109052",
+                "bus": "yes",
+                "name": "Herselt Veerlepad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSEBAAN HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.929339,
+                    51.060048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "491;492;944",
+                "ref:De_Lijn": "109056",
+                "bus": "yes",
+                "name": "Herselt Hulst",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIESTSEBAAN HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.938491,
+                    51.056075
+                ]
+            }
+        }
+    ]
+}

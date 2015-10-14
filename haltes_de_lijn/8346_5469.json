@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200877",
+                "bus": "yes",
+                "name": "Maldegem Butswervestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIRWEG DONK (MALDEGEM)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.403326,
+                    51.212017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "200802",
+                "bus": "yes",
+                "name": "Maldegem Donk Poermolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PAARDEKERKHOF DONK (MALDEGEM)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.385221,
+                    51.213414
+                ]
+            }
+        }
+    ]
+}

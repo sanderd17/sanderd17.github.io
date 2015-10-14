@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;390;480",
+                "ref:De_Lijn": "107194",
+                "bus": "yes",
+                "name": "Reusel Nederlandse Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEWEG REUSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.1322,
+                    51.351109
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;381;390;391;480",
+                "ref:De_Lijn": "109383",
+                "bus": "yes",
+                "name": "Reusel Nederlandse Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEWEG REUSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.131415,
+                    51.35053
+                ]
+            }
+        }
+    ]
+}

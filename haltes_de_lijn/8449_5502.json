@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "406565",
+                "bus": "yes",
+                "name": "Lixhe Rue de la montagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N671 LIEZE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.661025,
+                    50.759844
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "406564",
+                "bus": "yes",
+                "name": "Lixhe Rue de la montagne",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N671 LIEZE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.660826,
+                    50.759855
+                ]
+            }
+        }
+    ]
+}

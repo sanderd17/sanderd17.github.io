@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402288",
+                "bus": "yes",
+                "name": "Sledderlo Ford",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENRY FORDLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.508358,
+                    50.920762
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402289",
+                "bus": "yes",
+                "name": "Sledderlo Ford",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HENRY FORDLAAN GENK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.508516,
+                    50.920823
+                ]
+            }
+        }
+    ]
+}

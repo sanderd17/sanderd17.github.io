@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "400932",
+                "bus": "yes",
+                "name": "Kaulille Industrieweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETTINGBRUGWEG KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.52056,
+                    51.209706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "400933",
+                "bus": "yes",
+                "name": "Kaulille Industrieweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETTINGBRUGWEG KAULILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.520333,
+                    51.209214
+                ]
+            }
+        }
+    ]
+}

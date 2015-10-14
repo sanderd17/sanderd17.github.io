@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700;709",
+                "ref:De_Lijn": "409219",
+                "bus": "yes",
+                "name": "Wellen Kortessemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTESSEMSTRAAT VROLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.364954,
+                    50.838808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409218",
+                "bus": "yes",
+                "name": "Wellen Zangstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZANGSTRAAT VROLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.362073,
+                    50.840235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700;709",
+                "ref:De_Lijn": "409221",
+                "bus": "yes",
+                "name": "Wellen Vinkenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTESSEMSTRAAT VROLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.361928,
+                    50.837377
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "700;709",
+                "ref:De_Lijn": "409220",
+                "bus": "yes",
+                "name": "Wellen Kortessemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTESSEMSTRAAT VROLINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.365125,
+                    50.83886
+                ]
+            }
+        }
+    ]
+}

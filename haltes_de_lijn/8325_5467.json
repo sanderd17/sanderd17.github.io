@@ -1,0 +1,133 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501292",
+                "zone:De_Lijn": "08",
+                "name": "Oostende Duin & Zee",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DOKTER EDUARD MOREAUXLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.939733,
+                    51.237207
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "501347",
+                "bus": "yes",
+                "name": "Oostende Stroombanklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STROOMBANKLAAN VUURTOREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.940429,
+                    51.236487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4",
+                "ref:De_Lijn": "501323",
+                "bus": "yes",
+                "name": "Oostende Militair Hospitaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER EDUARD MOREAUXLAAN VUURTOREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.942711,
+                    51.240533
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;89",
+                "ref:De_Lijn": "506347",
+                "bus": "yes",
+                "name": "Oostende Stroombanklaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STROOMBANKLAAN VUURTOREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.940822,
+                    51.236267
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506292",
+                "zone:De_Lijn": "08",
+                "name": "Oostende Duin & Zee",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "DOKTER EDUARD MOREAUXLAAN OOSTENDE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.939716,
+                    51.236856
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "9;89",
+                "ref:De_Lijn": "506323",
+                "bus": "yes",
+                "name": "Oostende Militair Hospitaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER EDUARD MOREAUXLAAN VUURTOREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.94302,
+                    51.240708
+                ]
+            }
+        }
+    ]
+}

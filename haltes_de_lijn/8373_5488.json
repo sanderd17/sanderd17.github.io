@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;98;385",
+                "ref:De_Lijn": "206583",
+                "bus": "yes",
+                "name": "Erpe Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEDSESTEENWEG ERPE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.982907,
+                    50.951321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;98",
+                "ref:De_Lijn": "207583",
+                "bus": "yes",
+                "name": "Erpe Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEDSESTEENWEG ERPE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.982531,
+                    50.952029
+                ]
+            }
+        }
+    ]
+}

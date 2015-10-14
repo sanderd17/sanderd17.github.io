@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107034",
+                "bus": "yes",
+                "name": "Bouwel Droomland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSE STEENWEG BOUWEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.723346,
+                    51.168832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107032",
+                "bus": "yes",
+                "name": "Bouwel Binnenheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSE STEENWEG BOUWEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.717014,
+                    51.167206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107033",
+                "bus": "yes",
+                "name": "Bouwel Binnenheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSE STEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.716786,
+                    51.167305
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "150;152",
+                "ref:De_Lijn": "107036",
+                "bus": "yes",
+                "name": "Bouwel Droomland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSE STEENWEG GROBBENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.723433,
+                    51.169011
+                ]
+            }
+        }
+    ]
+}

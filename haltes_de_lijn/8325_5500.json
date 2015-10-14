@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "505213",
+                "bus": "yes",
+                "name": "Wijtschate Lindenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTOOR BLANCKESTRAAT WIJTSCHATE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.926274,
+                    50.788532
+                ]
+            }
+        }
+    ]
+}

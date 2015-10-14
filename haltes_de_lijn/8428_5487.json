@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c;735",
+                "ref:De_Lijn": "403969",
+                "bus": "yes",
+                "name": "Schulen Reyerstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JORISLAAN SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.190686,
+                    50.959618
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402937",
+                "bus": "yes",
+                "name": "Schulen Stokerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYERSTRAAT SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.198818,
+                    50.961494
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35c;735",
+                "ref:De_Lijn": "403968",
+                "bus": "yes",
+                "name": "Schulen Reyerstraat I",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.189905,
+                    50.95974
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404069",
+                "bus": "yes",
+                "name": "Schulen Reyerstraat II",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "REYERSTRAAT SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.206159,
+                    50.961235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "404068",
+                "bus": "yes",
+                "name": "Schulen Reyerstraat II",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "REYERSTRAAT SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.205862,
+                    50.961363
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "735",
+                "ref:De_Lijn": "402936",
+                "bus": "yes",
+                "name": "Schulen Stokerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REYERSTRAAT SCHULEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.198674,
+                    50.961387
+                ]
+            }
+        }
+    ]
+}

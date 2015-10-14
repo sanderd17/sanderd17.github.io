@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305272",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKSTRAAT SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.001729,
+                    50.702403
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305238",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARKSTRAAT SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.002013,
+                    50.702296
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305236",
+                "bus": "yes",
+                "name": "Mark Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BELLESTRAAT MARK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.008115,
+                    50.694727
+                ]
+            }
+        }
+    ]
+}

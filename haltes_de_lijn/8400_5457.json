@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105792",
+                "bus": "yes",
+                "name": "Wuustwezel Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.584386,
+                    51.383987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105791",
+                "bus": "yes",
+                "name": "Wuustwezel Kouterstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.58456,
+                    51.384337
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105790",
+                "bus": "yes",
+                "name": "Wuustwezel Beersgat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573142,
+                    51.374821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105789",
+                "bus": "yes",
+                "name": "Wuustwezel Beersgat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN WUUSTWEZEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.573085,
+                    51.374992
+                ]
+            }
+        }
+    ]
+}

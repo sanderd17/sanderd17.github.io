@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;74",
+                "ref:De_Lijn": "507178",
+                "bus": "yes",
+                "name": "Gits Handboog",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.114938,
+                    51.007944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38;74",
+                "ref:De_Lijn": "502178",
+                "bus": "yes",
+                "name": "Gits Handboog",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTEENWEG GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.115057,
+                    51.008817
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;84",
+                "ref:De_Lijn": "501068",
+                "bus": "yes",
+                "name": "Slijpe Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAARTDIJK ZUID SLIJPE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.831025,
+                    51.164137
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;84",
+                "ref:De_Lijn": "501069",
+                "bus": "yes",
+                "name": "Slijpe Eendenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPERMALIESTRAAT SLIJPE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.833649,
+                    51.157833
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "201455",
+                "bus": "yes",
+                "name": "Deinze Weg Op Grammene",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTAARDE DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.480666,
+                    50.987896
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "200456",
+                "bus": "yes",
+                "name": "Deinze Weg Op Grammene",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTER DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.480033,
+                    50.988251
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "87",
+                "ref:De_Lijn": "203318",
+                "bus": "yes",
+                "name": "Zeveren Velderlos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N409 ZEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.490527,
+                    50.999837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;125",
+                "ref:De_Lijn": "200455",
+                "bus": "yes",
+                "name": "Deinze Weg Op Grammene",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WESTAARDE DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.480539,
+                    50.987841
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201684",
+                "bus": "yes",
+                "name": "Zeveren Izegemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZEGEMSTRAAT ZEVEREN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.479623,
+                    50.994829
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "201456",
+                "bus": "yes",
+                "name": "Deinze Weg Op Grammene",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOUTER DEINZE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.480092,
+                    50.988108
+                ]
+            }
+        }
+    ]
+}

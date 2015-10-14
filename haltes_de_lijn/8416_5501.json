@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "361;713",
+                "ref:De_Lijn": "308094",
+                "bus": "yes",
+                "name": "Outgaarden Kapelleke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ROCHUSSTRAAT OUTGAARDEN",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.92316,
+                    50.767628
+                ]
+            }
+        }
+    ]
+}

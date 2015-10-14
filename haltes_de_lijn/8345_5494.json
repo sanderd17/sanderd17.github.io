@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "505379",
+                "bus": "yes",
+                "name": "Desselgem Amerlinckweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DESSELGEMKNOKSTRAAT DESSELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.372508,
+                    50.864972
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "504865",
+                "bus": "yes",
+                "name": "Desselgem Wedagestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEEMPUTSTRAAT DESSELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.379341,
+                    50.875072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "88",
+                "ref:De_Lijn": "504996",
+                "bus": "yes",
+                "name": "Desselgem Meelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEELSTRAAT DESSELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.369108,
+                    50.871191
+                ]
+            }
+        }
+    ]
+}

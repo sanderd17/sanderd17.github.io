@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "214004",
+                "bus": "yes",
+                "name": "Hamme Markt",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROODKRUISSTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.138621,
+                    51.100155
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204787",
+                "bus": "yes",
+                "name": "Hamme Meulenbroekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEULENBROEKSTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.137464,
+                    51.100324
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;290",
+                "ref:De_Lijn": "204121",
+                "bus": "yes",
+                "name": "Hamme Aartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARTSTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.130959,
+                    51.099304
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "205148",
+                "bus": "yes",
+                "name": "Hamme Cultureel Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAAIPLEIN HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.132815,
+                    51.102166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92;99;99S",
+                "ref:De_Lijn": "205122",
+                "bus": "yes",
+                "name": "Hamme Roodkruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.142989,
+                    51.100424
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "204786",
+                "bus": "yes",
+                "name": "Hamme Kaaiplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAAIPLEIN HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.132638,
+                    51.100413
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91",
+                "ref:De_Lijn": "205121",
+                "bus": "yes",
+                "name": "Hamme Aartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARTSTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.130903,
+                    51.099169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;92;99;290;99S",
+                "ref:De_Lijn": "204122",
+                "bus": "yes",
+                "name": "Hamme Roodkruisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.143059,
+                    51.100586
+                ]
+            }
+        }
+    ]
+}

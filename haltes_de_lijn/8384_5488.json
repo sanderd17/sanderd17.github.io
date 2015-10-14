@@ -1,0 +1,129 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "245;543",
+                "ref:De_Lijn": "303860",
+                "bus": "yes",
+                "name": "Merchtem Nieuwe Wijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.236107,
+                    50.956048
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308560",
+                "bus": "yes",
+                "name": "Merchtem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIELINDENBAAN MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.223975,
+                    50.953571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308576",
+                "bus": "yes",
+                "name": "Merchtem Koeweide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MIEREGEMSTRAAT MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.225971,
+                    50.947704
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "245;543",
+                "ref:De_Lijn": "303859",
+                "bus": "yes",
+                "name": "Merchtem Nieuwe Wijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.236435,
+                    50.956121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "245;543",
+                "ref:De_Lijn": "303961",
+                "bus": "yes",
+                "name": "Merchtem Sportcomplex",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.23987,
+                    50.954309
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "245;543",
+                "ref:De_Lijn": "303962",
+                "bus": "yes",
+                "name": "Merchtem Sportcomplex",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUSSELSESTEENWEG MERCHTEM",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.239841,
+                    50.954156
+                ]
+            }
+        }
+    ]
+}

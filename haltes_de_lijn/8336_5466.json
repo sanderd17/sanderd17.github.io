@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505029",
+                "bus": "yes",
+                "name": "Zuienkerke Leenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VAGEVUURSTRAAT BLAUWE TOREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.185254,
+                    51.258247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "36",
+                "ref:De_Lijn": "505030",
+                "bus": "yes",
+                "name": "Zuienkerke Weimanstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEIMANSTRAAT BLAUWE TOREN",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.182139,
+                    51.254584
+                ]
+            }
+        }
+    ]
+}

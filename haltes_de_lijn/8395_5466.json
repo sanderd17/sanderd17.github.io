@@ -1,0 +1,176 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610;620;621;629",
+                "ref:De_Lijn": "105447",
+                "bus": "yes",
+                "name": "Schoten Borgeind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGEINDSTRAAT SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.482231,
+                    51.248958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2",
+                "ref:De_Lijn": "104097",
+                "zone:De_Lijn": "01",
+                "name": "P+R Fortsteenweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462715,
+                    51.258763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602",
+                "ref:De_Lijn": "107235",
+                "bus": "yes",
+                "name": "Calesbergdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EETHUISSTRAAT MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.465103,
+                    51.249737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "605;640;642;648;650;658;670",
+                "ref:De_Lijn": "104094",
+                "bus": "yes",
+                "name": "P+R Fortsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462429,
+                    51.258664
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "605;640;642;648;650;658;670",
+                "ref:De_Lijn": "104099",
+                "bus": "yes",
+                "name": "P+R Fortsteenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463546,
+                    51.2587
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602",
+                "ref:De_Lijn": "107230",
+                "bus": "yes",
+                "name": "Schoten Calesbergdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EETHUISSTRAAT DEUZELD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.465218,
+                    51.249638
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;3",
+                "ref:De_Lijn": "104098",
+                "zone:De_Lijn": "01",
+                "name": "P+R Fortsteenweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.463346,
+                    51.258772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "3",
+                "ref:De_Lijn": "104096",
+                "zone:De_Lijn": "01",
+                "name": "P+R Fortsteenweg",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "BREDABAAN MERKSEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.462486,
+                    51.258772
+                ]
+            }
+        }
+    ]
+}

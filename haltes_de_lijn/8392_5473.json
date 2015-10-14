@@ -1,0 +1,593 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;22",
+                "ref:De_Lijn": "106045",
+                "bus": "yes",
+                "name": "Wilsonweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDEGEMSESTEENWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40967,
+                    51.162609
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102777",
+                "name": "Edegem Universitair Ziekenhuis p. 2",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "UNKNOWN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411495,
+                    51.157404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "105575",
+                "bus": "yes",
+                "name": "UA Campus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORT VI-STRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406525,
+                    51.162061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;135;140;141",
+                "ref:De_Lijn": "102957",
+                "bus": "yes",
+                "name": "Edegem Revarte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIE EIKENSTRAAT EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411078,
+                    51.154141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;135;140;141;180;181;182;183",
+                "ref:De_Lijn": "103740",
+                "bus": "yes",
+                "name": "Universiteitsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.398763,
+                    51.162864
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140;141",
+                "ref:De_Lijn": "102954",
+                "bus": "yes",
+                "name": "Edegem Universitair Ziekenhuis p. 14",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412051,
+                    51.155399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;22",
+                "ref:De_Lijn": "106030",
+                "bus": "yes",
+                "name": "Edegem Wilrijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILRIJKSTRAAT EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.413255,
+                    51.158778
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "180;181;182;183",
+                "ref:De_Lijn": "103630",
+                "bus": "yes",
+                "name": "Kleine Doornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE DOORNSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397201,
+                    51.156554
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "131;141;180;181;182;183",
+                "ref:De_Lijn": "103770",
+                "bus": "yes",
+                "name": "Kerkeveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397006,
+                    51.165471
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "102778",
+                "bus": "yes",
+                "name": "Edegem Universitair Ziekenhuis p. 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411567,
+                    51.157341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;135;140;141;180;181;182;183",
+                "ref:De_Lijn": "102040",
+                "bus": "yes",
+                "name": "Doornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399676,
+                    51.160023
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "105576",
+                "bus": "yes",
+                "name": "UA Campus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORT VI-STRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.404981,
+                    51.161801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;140",
+                "ref:De_Lijn": "103745",
+                "bus": "yes",
+                "name": "Krijgslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396161,
+                    51.163017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;135;140;141",
+                "ref:De_Lijn": "102956",
+                "bus": "yes",
+                "name": "Edegem Revarte",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIE EIKENSTRAAT EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.410506,
+                    51.154177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "102779",
+                "bus": "yes",
+                "name": "Edegem Universitair Ziekenhuis p. 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41161,
+                    51.157368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;135;140;141;180;181;182;183",
+                "ref:De_Lijn": "102035",
+                "bus": "yes",
+                "name": "Doornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399933,
+                    51.159717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "105590",
+                "bus": "yes",
+                "name": "Universiteitsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORT VI-STRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400436,
+                    51.163322
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "102776",
+                "name": "Edegem Universitair Ziekenhuis p. 1",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "odbl": "new",
+                "tram": "yes",
+                "created_by": "UNKNOWN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.411495,
+                    51.157448
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;135",
+                "ref:De_Lijn": "102953",
+                "bus": "yes",
+                "name": "Edegem Universitair Ziekenhuis p. 13",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412223,
+                    51.155507
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "101022",
+                "bus": "yes",
+                "name": "Wilsonweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDEGEMSESTEENWEG ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.410014,
+                    51.162941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;22",
+                "ref:De_Lijn": "106035",
+                "bus": "yes",
+                "name": "Edegem Wilrijkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WILRIJKSTRAAT EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412098,
+                    51.159605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;135",
+                "ref:De_Lijn": "102951",
+                "bus": "yes",
+                "name": "Edegem Universitair Ziekenhuis p.11",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.412323,
+                    51.155525
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "131;141;180;181;182;183",
+                "ref:De_Lijn": "103525",
+                "bus": "yes",
+                "name": "Kerkeveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOORNSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397207,
+                    51.165462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;140",
+                "ref:De_Lijn": "103750",
+                "bus": "yes",
+                "name": "Krijgslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396104,
+                    51.163125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17",
+                "ref:De_Lijn": "106040",
+                "bus": "yes",
+                "name": "Wilsonweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORT VI-STRAAT ANTWERPEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.409599,
+                    51.162806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "17;130;131;135;140;141;180;181;182;183",
+                "ref:De_Lijn": "105595",
+                "bus": "yes",
+                "name": "Universiteitsplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRIJGSLAAN WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.400208,
+                    51.163789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "180;181;182;183",
+                "ref:De_Lijn": "103625",
+                "bus": "yes",
+                "name": "Kleine Doornstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLEINE DOORNSTRAAT WILRIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.396772,
+                    51.156518
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "140;141",
+                "ref:De_Lijn": "102952",
+                "bus": "yes",
+                "name": "Edegem Universitair Ziekenhuis p. 12",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN EDEGEM",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.41208,
+                    51.155408
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305334",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Beuterkens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTRAAT SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.98237,
+                    50.71543
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305299",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Kapel Heybro",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTRAAT SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.984151,
+                    50.712406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305333",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Beuterkens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTRAAT SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.982511,
+                    50.715502
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160;732",
+                "ref:De_Lijn": "305298",
+                "bus": "yes",
+                "name": "Sint-Pieters-Kapelle Kapel Heybro",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GERAARDSBERGSESTRAAT SINT-PIETERS-KAPELLE (HERNE)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.984321,
+                    50.712407
+                ]
+            }
+        }
+    ]
+}

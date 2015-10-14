@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302264",
+                "bus": "yes",
+                "name": "Holsbeek Smisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSEBAAN HOLSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.772369,
+                    50.920836
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302265",
+                "bus": "yes",
+                "name": "Holsbeek Smisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUTSELSTRAAT HOLSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.772967,
+                    50.920924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302257",
+                "bus": "yes",
+                "name": "Holsbeek Dutselhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUTSELSTRAAT HOLSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780104,
+                    50.920692
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "310;535",
+                "ref:De_Lijn": "302256",
+                "bus": "yes",
+                "name": "Holsbeek Dutselhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUTSELSTRAAT HOLSBEEK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.780545,
+                    50.920646
+                ]
+            }
+        }
+    ]
+}

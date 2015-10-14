@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "153;162",
+                "ref:De_Lijn": "301610",
+                "bus": "yes",
+                "name": "Gooik Steenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TERLOSTRAAT GOOIK",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.103389,
+                    50.792144
+                ]
+            }
+        }
+    ]
+}

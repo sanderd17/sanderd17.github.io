@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "280",
+                "ref:De_Lijn": "205546",
+                "bus": "yes",
+                "name": "Melsele Hennennestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALISHOEKSTRAAT MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.287393,
+                    51.225454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "ref:De_Lijn": "204288",
+                "bus": "yes",
+                "name": "Melsele Burggravenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.293184,
+                    51.220766
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;82;83;84;85;280",
+                "ref:De_Lijn": "205288",
+                "bus": "yes",
+                "name": "Melsele Burggravenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE BAAN MELSELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.294114,
+                    51.220685
+                ]
+            }
+        }
+    ]
+}

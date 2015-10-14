@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41/2",
+                "ref:De_Lijn": "408972",
+                "bus": "yes",
+                "name": "Waremme École de Longchamps",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE EDMOND DE SÉLYS-LONGCHAMPS BORGWORM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.243804,
+                    50.691821
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41/2",
+                "ref:De_Lijn": "408973",
+                "bus": "yes",
+                "name": "Waremme École de Longchamps",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE EDMOND DE SÉLYS-LONGCHAMPS BORGWORM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.244336,
+                    50.692294
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "408974",
+                "bus": "yes",
+                "name": "Waremme École de Longchamps",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "AVENUE DU PRINCE REGENT BORGWORM",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.244597,
+                    50.691833
+                ]
+            }
+        }
+    ]
+}

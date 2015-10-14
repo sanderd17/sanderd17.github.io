@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409377",
+                "bus": "yes",
+                "name": "Zutendaal Roelerweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROELERWEG ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.60245,
+                    50.908986
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409376",
+                "bus": "yes",
+                "name": "Zutendaal Roelerweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ROELERWEG ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.601999,
+                    50.909162
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409398",
+                "bus": "yes",
+                "name": "Zutendaal Gijzenveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STALKERWEG STALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.592046,
+                    50.916278
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;G7",
+                "ref:De_Lijn": "409399",
+                "bus": "yes",
+                "name": "Zutendaal Gijzenveldstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROELERWEG STALKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.592708,
+                    50.916029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409353",
+                "bus": "yes",
+                "name": "Zutendaal Camping Kiewitseweg",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "KIEWITSEWEG ZUTENDAAL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.602993,
+                    50.904242
+                ]
+            }
+        }
+    ]
+}

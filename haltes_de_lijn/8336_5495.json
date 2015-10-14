@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;69",
+                "ref:De_Lijn": "503164",
+                "bus": "yes",
+                "name": "Gullegem Drie Masten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GULLEGEMSESTRAAT SINT-ELOOIS-WINKEL",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.183876,
+                    50.859875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;69",
+                "ref:De_Lijn": "508164",
+                "bus": "yes",
+                "name": "Gullegem Drie Masten",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIEMASTEN GULLEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.18469,
+                    50.858571
+                ]
+            }
+        }
+    ]
+}

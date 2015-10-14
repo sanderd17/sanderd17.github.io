@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505922",
+                "bus": "yes",
+                "name": "Gits Leenbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEENBOSSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.082732,
+                    51.002265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505551",
+                "bus": "yes",
+                "name": "Gits Honingstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HONINGSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.092844,
+                    51.006079
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505550",
+                "bus": "yes",
+                "name": "Gits Diksmuidse Boterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIKSMUIDE BOTERWEG GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.096244,
+                    51.006808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "38",
+                "ref:De_Lijn": "505552",
+                "bus": "yes",
+                "name": "Gits Grijspeerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRIJSPEERDSTRAAT GITS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.081645,
+                    51.010704
+                ]
+            }
+        }
+    ]
+}

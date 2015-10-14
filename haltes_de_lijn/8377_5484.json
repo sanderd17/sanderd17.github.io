@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207356",
+                "bus": "yes",
+                "name": "Denderbelle Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN DENDERBELLE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.084258,
+                    51.001203
+                ]
+            }
+        }
+    ]
+}

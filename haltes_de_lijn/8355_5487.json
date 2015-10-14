@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84",
+                "ref:De_Lijn": "209730",
+                "bus": "yes",
+                "name": "Nazareth Drapstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602878,
+                    50.959583
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "145",
+                "ref:De_Lijn": "204930",
+                "bus": "yes",
+                "name": "Nazareth Stropstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STROPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.600512,
+                    50.960602
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84;145;485",
+                "ref:De_Lijn": "208731",
+                "bus": "yes",
+                "name": "Nazareth Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.597224,
+                    50.959735
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84",
+                "ref:De_Lijn": "209663",
+                "bus": "yes",
+                "name": "Nazareth Deinzestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ASTENE NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.591,
+                    50.959973
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "81;84;145",
+                "ref:De_Lijn": "208663",
+                "bus": "yes",
+                "name": "Nazareth Deinzestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG ASTENE NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.59117,
+                    50.959983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84",
+                "ref:De_Lijn": "209731",
+                "bus": "yes",
+                "name": "Nazareth Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.596202,
+                    50.959594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;145",
+                "ref:De_Lijn": "200967",
+                "bus": "yes",
+                "name": "Nazareth Kortrijkseheerweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSEHEERWEG NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.596292,
+                    50.964458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;71;81;84;145",
+                "ref:De_Lijn": "208730",
+                "bus": "yes",
+                "name": "Nazareth Drapstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRAPSTRAAT NAZARETH",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.603089,
+                    50.959693
+                ]
+            }
+        }
+    ]
+}

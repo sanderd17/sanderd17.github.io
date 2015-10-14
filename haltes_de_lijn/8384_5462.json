@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "204026",
+                "bus": "yes",
+                "name": "Doel Saftingen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELSESTEENWEG DOEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.234231,
+                    51.304385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31",
+                "ref:De_Lijn": "205026",
+                "bus": "yes",
+                "name": "Doel Saftingen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGELSESTEENWEG DOEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.233873,
+                    51.304187
+                ]
+            }
+        }
+    ]
+}

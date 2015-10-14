@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "101854",
+                "bus": "yes",
+                "name": "Geel Schransdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATERSBERG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.004804,
+                    51.179965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "107952",
+                "bus": "yes",
+                "name": "Geel Katersberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEISTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.995401,
+                    51.179404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "107906",
+                "bus": "yes",
+                "name": "Geel Roshoevendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSHOEVENDIJK GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.997738,
+                    51.191535
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "102161",
+                "bus": "yes",
+                "name": "Geel Gagelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KOPPELEERSHOEVEN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.990481,
+                    51.182585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "101853",
+                "bus": "yes",
+                "name": "Geel Schransdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATERSBERG GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.005235,
+                    51.180088
+                ]
+            }
+        }
+    ]
+}

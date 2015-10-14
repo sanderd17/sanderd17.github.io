@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;440",
+                "ref:De_Lijn": "208680",
+                "bus": "yes",
+                "name": "Dikkele Brouwerijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUIPERSTRAAT DIKKELE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.738289,
+                    50.90431
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "440",
+                "ref:De_Lijn": "209664",
+                "bus": "yes",
+                "name": "Dikkelvenne Munkbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLOKSTRAAT DIKKELVENNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.748898,
+                    50.912708
+                ]
+            }
+        }
+    ]
+}

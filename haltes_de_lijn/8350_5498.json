@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;89",
+                "ref:De_Lijn": "503820",
+                "bus": "yes",
+                "name": "Tiegem Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELLESTRAAT TIEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.474927,
+                    50.809221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505287",
+                "bus": "yes",
+                "name": "Tiegem Bassegembosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTDORP TIEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.482297,
+                    50.808926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "72;81;89",
+                "ref:De_Lijn": "508820",
+                "bus": "yes",
+                "name": "Tiegem Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N36 TIEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.474996,
+                    50.808565
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "89",
+                "ref:De_Lijn": "505816",
+                "bus": "yes",
+                "name": "Kaster Kasterstraat nummer 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTERSTRAAT KASTER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.492214,
+                    50.816598
+                ]
+            }
+        }
+    ]
+}

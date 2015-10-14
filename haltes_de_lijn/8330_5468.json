@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "501140",
+                "bus": "yes",
+                "name": "Klemskerke Weg Op Klemskerke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE BAAN KLEMSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.040817,
+                    51.230402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35",
+                "ref:De_Lijn": "506140",
+                "bus": "yes",
+                "name": "Klemskerke Weg Op Klemskerke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGSE BAAN KLEMSKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.039784,
+                    51.23048
+                ]
+            }
+        }
+    ]
+}

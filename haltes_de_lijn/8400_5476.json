@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561;569;570;571",
+                "ref:De_Lijn": "108816",
+                "bus": "yes",
+                "name": "Lier Slenderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.590101,
+                    51.113122
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;556",
+                "ref:De_Lijn": "108693",
+                "bus": "yes",
+                "name": "Lier Akkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGVELDWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.574565,
+                    51.123056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561;569;570;571",
+                "ref:De_Lijn": "108813",
+                "bus": "yes",
+                "name": "Lier Schollebeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.585147,
+                    51.116601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561;569;570;571",
+                "ref:De_Lijn": "108812",
+                "bus": "yes",
+                "name": "Lier Schollebeekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.584933,
+                    51.116529
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "560;561;569;570;571",
+                "ref:De_Lijn": "108814",
+                "bus": "yes",
+                "name": "Lier Slenderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARSCHOTSESTEENWEG KONINGSHOOIKT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.590327,
+                    51.112753
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;556",
+                "ref:De_Lijn": "108692",
+                "bus": "yes",
+                "name": "Lier Akkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGVELDWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.574737,
+                    51.123226
+                ]
+            }
+        }
+    ]
+}

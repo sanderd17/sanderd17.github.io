@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52;92",
+                "ref:De_Lijn": "405915",
+                "bus": "yes",
+                "name": "Genenbos Schipperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENENBOSSTRAAT GENENBOS (LUMMEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.231001,
+                    51.010858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;52;92",
+                "ref:De_Lijn": "405914",
+                "bus": "yes",
+                "name": "Genenbos Schipperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENENBOSSTRAAT GENENBOS (LUMMEN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.231275,
+                    51.011018
+                ]
+            }
+        }
+    ]
+}

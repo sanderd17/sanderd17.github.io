@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "401583",
+                "bus": "yes",
+                "name": "Opgrimbie Kikmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.668649,
+                    50.952236
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "64;725",
+                "ref:De_Lijn": "401582",
+                "bus": "yes",
+                "name": "Opgrimbie Kikmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BAAN OPGRIMBIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.668494,
+                    50.952292
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;543;946",
+                "ref:De_Lijn": "109295",
+                "bus": "yes",
+                "name": "Morkhoven Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORKHOVENSEWEG MORKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825981,
+                    51.124406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220",
+                "ref:De_Lijn": "103099",
+                "bus": "yes",
+                "name": "Morkhoven Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERBINDINGSSTRAAT MORKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.826661,
+                    51.125321
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;543;946",
+                "ref:De_Lijn": "109294",
+                "bus": "yes",
+                "name": "Morkhoven Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORKHOVENSEWEG MORKHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.825809,
+                    51.124353
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;543;946",
+                "ref:De_Lijn": "109293",
+                "bus": "yes",
+                "name": "Noorderwijk Hoogton",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORKHOVENSEWEG NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.831028,
+                    51.130652
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "220;221;543;946",
+                "ref:De_Lijn": "109292",
+                "bus": "yes",
+                "name": "Noorderwijk Hoogton",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MORKHOVENSEWEG NOORDERWIJK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.830655,
+                    51.130456
+                ]
+            }
+        }
+    ]
+}

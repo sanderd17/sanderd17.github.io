@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;132;135",
+                "ref:De_Lijn": "106925",
+                "bus": "yes",
+                "name": "Lier Oudstrijderslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.548049,
+                    51.125212
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;132;135",
+                "ref:De_Lijn": "106921",
+                "bus": "yes",
+                "name": "Lier Hulststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.532513,
+                    51.130798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "297",
+                "ref:De_Lijn": "101413",
+                "bus": "yes",
+                "name": "Lier Donk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMEDENSTRAAT LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.548122,
+                    51.136645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;131;132;135",
+                "ref:De_Lijn": "106923",
+                "bus": "yes",
+                "name": "Lier Maaikeneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.540157,
+                    51.127156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;132;135",
+                "ref:De_Lijn": "106924",
+                "bus": "yes",
+                "name": "Lier Maaikeneveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.540385,
+                    51.127129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130;132;135",
+                "ref:De_Lijn": "106922",
+                "bus": "yes",
+                "name": "Lier Hulststraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINTSESTEENWEG LIER",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.532984,
+                    51.130672
+                ]
+            }
+        }
+    ]
+}

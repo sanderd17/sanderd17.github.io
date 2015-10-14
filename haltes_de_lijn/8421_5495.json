@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;550;561",
+                "ref:De_Lijn": "303259",
+                "bus": "yes",
+                "name": "Neerlinter Nieuwe Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT NEERLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.033816,
+                    50.855791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;550;561;712",
+                "ref:De_Lijn": "303258",
+                "bus": "yes",
+                "name": "Neerlinter Nieuwe Brug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIDESTRAAT NEERLINTER",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.03363,
+                    50.855657
+                ]
+            }
+        }
+    ]
+}

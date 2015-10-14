@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "206953",
+                "bus": "yes",
+                "name": "Hekelgem Bosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSSTRAAT HEKELGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.103356,
+                    50.921539
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "340",
+                "ref:De_Lijn": "207047",
+                "bus": "yes",
+                "name": "Hekelgem Steenpoelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEKELGEMSTRAAT EREMBODEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.090825,
+                    50.921834
+                ]
+            }
+        }
+    ]
+}

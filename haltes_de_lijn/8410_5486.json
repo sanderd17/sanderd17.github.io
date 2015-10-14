@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "306794",
+                "bus": "yes",
+                "name": "Aarschot Nieuwland 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWLANDLAAN AARSCHOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.810077,
+                    50.978817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "334;335;707;708",
+                "ref:De_Lijn": "300048",
+                "bus": "yes",
+                "name": "Aarschot Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG AARSCHOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.806032,
+                    50.974121
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307346",
+                "bus": "yes",
+                "name": "Aarschot Nieuwland 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWLANDLAAN AARSCHOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.809736,
+                    50.978926
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "334;335;707;708",
+                "ref:De_Lijn": "300047",
+                "bus": "yes",
+                "name": "Aarschot Kabien",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEUVENSESTEENWEG AARSCHOT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.809231,
+                    50.975188
+                ]
+            }
+        }
+    ]
+}

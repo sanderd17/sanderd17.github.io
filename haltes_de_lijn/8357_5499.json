@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208782",
+                "bus": "yes",
+                "name": "Etikhove Poesthemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POESTHEM ETIKHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.635815,
+                    50.79553
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208788",
+                "bus": "yes",
+                "name": "Maarke-Kerkem Delfdries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKEMSTRAAT MAARKE-KERKEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.644131,
+                    50.795285
+                ]
+            }
+        }
+    ]
+}

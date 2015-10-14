@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;195",
+                "ref:De_Lijn": "202239",
+                "bus": "yes",
+                "name": "Sint-Margriete Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MARGRIETESTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.5472,
+                    51.280358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203238",
+                "bus": "yes",
+                "name": "Sint-Margriete Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MARGRIETESTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.554668,
+                    51.276185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62",
+                "ref:De_Lijn": "203239",
+                "bus": "yes",
+                "name": "Sint-Margriete Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MARGRIETESTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.547571,
+                    51.28046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;195",
+                "ref:De_Lijn": "202238",
+                "bus": "yes",
+                "name": "Sint-Margriete Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-MARGRIETESTRAAT SINT-MARGRIETE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.554453,
+                    51.276184
+                ]
+            }
+        }
+    ]
+}

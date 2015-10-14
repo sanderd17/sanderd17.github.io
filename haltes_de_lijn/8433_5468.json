@@ -1,0 +1,663 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;180;307;711;713",
+                "ref:De_Lijn": "405770",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Autoweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.314062,
+                    51.223081
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;84;180;711;713",
+                "ref:De_Lijn": "405897",
+                "bus": "yes",
+                "name": "Lommel Vreyshorring",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VREYSHORRING LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.306592,
+                    51.228876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "455720",
+                "bus": "yes",
+                "name": "Lommel Taxi Maxi",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DONKERSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.299828,
+                    51.230718
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409985",
+                "bus": "yes",
+                "name": "Lommel Hertog Jan Plein",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HERTOG JANPLEIN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.305115,
+                    51.230919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409688",
+                "bus": "yes",
+                "name": "Balendijk Tortelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALENDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.301284,
+                    51.222599
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;84;711;712;713",
+                "ref:De_Lijn": "409665",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Adelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ADELBERG LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.307814,
+                    51.234116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;711;712;713",
+                "ref:De_Lijn": "405823",
+                "bus": "yes",
+                "name": "Lommel Shopping De Singel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUITENSINGEL LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31657,
+                    51.221812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405858",
+                "bus": "yes",
+                "name": "Lommel Onze-Lieve-Vrouwinstituut",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "MUDAKKERS LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313122,
+                    51.231071
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;711;712;713",
+                "ref:De_Lijn": "409666",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Adelberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ADELBERG LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.307524,
+                    51.233938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "406827",
+                "bus": "yes",
+                "name": "Lommel Roerdompstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROERDOMPSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302586,
+                    51.226876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712;713",
+                "ref:De_Lijn": "405877",
+                "bus": "yes",
+                "name": "Lommel Ommekaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ADELBERG LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.303571,
+                    51.233143
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;307;711;713",
+                "ref:De_Lijn": "405882",
+                "bus": "yes",
+                "name": "Lommel Provil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUINENSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.308449,
+                    51.220852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "406828",
+                "bus": "yes",
+                "name": "Lommel Roerdompstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROERDOMPSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302731,
+                    51.226983
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712",
+                "ref:De_Lijn": "409687",
+                "bus": "yes",
+                "name": "Balendijk Buurthuis Loxia",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISBEKSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.296598,
+                    51.222375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400014",
+                "bus": "yes",
+                "name": "Lommel VBM",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ADELBERG LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.305846,
+                    51.233772
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;84;180;307;711;713",
+                "ref:De_Lijn": "405833",
+                "bus": "yes",
+                "name": "Lommel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKPLEIN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.314025,
+                    51.228295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405885",
+                "bus": "yes",
+                "name": "Heeserbergen Spechtstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEES LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.300414,
+                    51.22852
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "712",
+                "ref:De_Lijn": "409689",
+                "bus": "yes",
+                "name": "Balendijk Tortelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALENDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.301155,
+                    51.2226
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;84;180;711;713",
+                "ref:De_Lijn": "405791",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLACHTLOOPSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302389,
+                    51.231354
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;180;713",
+                "ref:De_Lijn": "405771",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Autoweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.313844,
+                    51.222912
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "409668",
+                "bus": "yes",
+                "name": "Lommel Binnensingel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALENDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.303331,
+                    51.224066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;307;711;713",
+                "ref:De_Lijn": "405866",
+                "bus": "yes",
+                "name": "Lommel PMS",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTLAAN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.316749,
+                    51.232004
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "409691",
+                "bus": "yes",
+                "name": "Heeserbergen Spechtstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HEES LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.300244,
+                    51.228585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405896",
+                "bus": "yes",
+                "name": "Lommel Vreyshorring",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "VREYSHORRING LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.307715,
+                    51.225658
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "409667",
+                "bus": "yes",
+                "name": "Lommel Binnensingel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BALENDIJK LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.303546,
+                    51.224046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;84;180;711;712;713",
+                "ref:De_Lijn": "405832",
+                "bus": "yes",
+                "name": "Lommel Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKPLEIN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.314424,
+                    51.228184
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "307;711;713",
+                "ref:De_Lijn": "405867",
+                "bus": "yes",
+                "name": "Lommel PMS",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERTLAAN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.31659,
+                    51.231915
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;84;180;711;712;713",
+                "ref:De_Lijn": "405889",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Vreyshorring",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VREYSHORRING LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.306798,
+                    51.228461
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "409889",
+                "bus": "yes",
+                "name": "Lommel Kapittelhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPITELHOF LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302944,
+                    51.23046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;712;713",
+                "ref:De_Lijn": "405792",
+                "bus": "yes",
+                "name": "Lommel Stadhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORP LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.309018,
+                    51.230601
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;84;180;713",
+                "ref:De_Lijn": "405790",
+                "bus": "yes",
+                "zone:De_Lijn": "6462",
+                "name": "Lommel Donkerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLACHTLOOPSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.302621,
+                    51.231496
+                ]
+            }
+        }
+    ]
+}

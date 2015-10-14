@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "455;456",
+                "ref:De_Lijn": "103531",
+                "bus": "yes",
+                "name": "Merksplas Widar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIPSEINDE MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893177,
+                    51.39672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "455",
+                "ref:De_Lijn": "103532",
+                "bus": "yes",
+                "name": "Merksplas Widar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIPSEINDE MERKSPLAS",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.893045,
+                    51.396522
+                ]
+            }
+        }
+    ]
+}

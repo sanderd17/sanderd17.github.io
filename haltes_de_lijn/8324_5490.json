@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "508491",
+                "bus": "yes",
+                "name": "Langemark Stenen Duiker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLERKENSTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.918461,
+                    50.923358
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "508486",
+                "bus": "yes",
+                "name": "Langemark Duits Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLERKENSTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.916793,
+                    50.917511
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "503486",
+                "bus": "yes",
+                "name": "Langemark Duits Kerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLERKENSTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.917167,
+                    50.91828
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;95",
+                "ref:De_Lijn": "503491",
+                "bus": "yes",
+                "name": "Langemark Stenen Duiker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLERKENSTRAAT LANGEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.918646,
+                    50.92336
+                ]
+            }
+        }
+    ]
+}

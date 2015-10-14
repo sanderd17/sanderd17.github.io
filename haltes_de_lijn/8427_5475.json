@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400040",
+                "bus": "yes",
+                "name": "Stotert Kromstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KROMSTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.178222,
+                    51.134604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "405497",
+                "bus": "yes",
+                "name": "Stotert Hamsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMSESTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.183325,
+                    51.127387
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400038",
+                "bus": "yes",
+                "name": "Stotert Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOTERT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.178504,
+                    51.129451
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400037",
+                "bus": "yes",
+                "name": "Heivoort 't Vergult Cruys",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEIVOORT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.170986,
+                    51.127606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400175",
+                "bus": "yes",
+                "name": "Heivoort Berkensvenhoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOTERT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.174493,
+                    51.127987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "405498",
+                "bus": "yes",
+                "name": "Stotert Hamsestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAMSESTRAAT OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.183252,
+                    51.127306
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308109",
+                "bus": "yes",
+                "name": "Meldert Voetbalplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT MELDERT (HOEGAARDEN)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.831693,
+                    50.784486
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308108",
+                "bus": "yes",
+                "name": "Meldert Voetbalplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT MELDERT (HOEGAARDEN)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.831438,
+                    50.784496
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "308111",
+                "bus": "yes",
+                "name": "Meldert Paardskerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERHEMSTRAAT MELDERT (HOEGAARDEN)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.828301,
+                    50.787044
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308110",
+                "bus": "yes",
+                "name": "Meldert Paardskerkhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OVERHEMSTRAAT MELDERT (HOEGAARDEN)",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.827833,
+                    50.7871
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208786",
+                "bus": "yes",
+                "name": "Schorisse Bosgat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSGATSTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.687452,
+                    50.788344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61;460",
+                "ref:De_Lijn": "208347",
+                "bus": "yes",
+                "name": "Schorisse Waardebroeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSESTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.670812,
+                    50.785711
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "61",
+                "ref:De_Lijn": "209347",
+                "bus": "yes",
+                "name": "Schorisse Waardebroeken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RONSESTRAAT SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.670739,
+                    50.78589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "207870",
+                "bus": "yes",
+                "name": "Schorisse Doorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VIJVERBEEK SCHORISSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679769,
+                    50.78224
+                ]
+            }
+        }
+    ]
+}

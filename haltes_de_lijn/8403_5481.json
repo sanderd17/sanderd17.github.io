@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "108398",
+                "bus": "yes",
+                "name": "Putte Paardenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSESTEENWEG PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653842,
+                    51.041981
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "104051",
+                "bus": "yes",
+                "name": "Putte Zag",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOGELSTRAAT PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.646578,
+                    51.048174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "931",
+                "ref:De_Lijn": "108397",
+                "bus": "yes",
+                "name": "Putte Paardenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHRIEKSESTEENWEG PUTTE (BIJ MECHELEN)",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.653955,
+                    51.041882
+                ]
+            }
+        }
+    ]
+}

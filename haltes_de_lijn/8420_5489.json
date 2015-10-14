@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375",
+                "ref:De_Lijn": "300437",
+                "bus": "yes",
+                "name": "Assent Struikstraat 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRUIKSTRAAT ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.025687,
+                    50.940655
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;701",
+                "ref:De_Lijn": "300438",
+                "bus": "yes",
+                "name": "Assent Struikstraat 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRUIKSTRAAT ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.025464,
+                    50.940962
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375;701",
+                "ref:De_Lijn": "300440",
+                "bus": "yes",
+                "name": "Assent Struikstraat 89",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRUIKSTRAAT ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.029485,
+                    50.939564
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "373;375",
+                "ref:De_Lijn": "300439",
+                "bus": "yes",
+                "name": "Assent Struikstraat 89",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STRUIKSTRAAT ASSENT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.029501,
+                    50.939708
+                ]
+            }
+        }
+    ]
+}

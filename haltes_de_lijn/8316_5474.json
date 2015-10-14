@@ -1,0 +1,154 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "506245",
+                "bus": "yes",
+                "name": "Nieuwpoort Ten Anker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT I LAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.735747,
+                    51.140921
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "501234",
+                "bus": "yes",
+                "name": "Nieuwpoort Dudenhofenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUDENHOFENLAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.729864,
+                    51.138331
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "501247",
+                "zone:De_Lijn": "04",
+                "name": "Nieuwpoort Ysermonde",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.733666,
+                    51.142402
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "501245",
+                "bus": "yes",
+                "name": "Nieuwpoort Ten Anker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT I LAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.735967,
+                    51.141185
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;69",
+                "ref:De_Lijn": "506234",
+                "bus": "yes",
+                "name": "Nieuwpoort Dudenhofenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DUDENHOFENLAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.729619,
+                    51.13839
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "69",
+                "ref:De_Lijn": "506236",
+                "bus": "yes",
+                "name": "Nieuwpoort J.Cardijnlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALBERT I LAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.74022,
+                    51.138061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "0",
+                "ref:De_Lijn": "506247",
+                "zone:De_Lijn": "04",
+                "name": "Nieuwpoort Ysermonde",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "ALBERT I LAAN NIEUWPOORT",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.733067,
+                    51.142754
+                ]
+            }
+        }
+    ]
+}

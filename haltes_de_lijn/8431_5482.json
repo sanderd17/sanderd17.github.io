@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "404162",
+                "bus": "yes",
+                "name": "Heusden Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERINGERSTEENWEG HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.257187,
+                    51.0308
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;34;52;92",
+                "ref:De_Lijn": "404161",
+                "bus": "yes",
+                "name": "Heusden Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERSELKIEZEL HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.25682,
+                    51.030264
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "400006",
+                "bus": "yes",
+                "name": "Heusden De Valk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "DIJKSTRAAT HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.257953,
+                    51.032134
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "404281",
+                "bus": "yes",
+                "name": "Heusden Geenrijt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEENRIJT HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.268657,
+                    51.033491
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52",
+                "ref:De_Lijn": "404163",
+                "bus": "yes",
+                "name": "Heusden Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.257788,
+                    51.030202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "30;34;52;92",
+                "ref:De_Lijn": "404160",
+                "bus": "yes",
+                "name": "Heusden Kapelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EVERSELKIEZEL HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.257132,
+                    51.030189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "92",
+                "ref:De_Lijn": "404280",
+                "bus": "yes",
+                "name": "Heusden Geenrijt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GEENRIJT HEUSDEN (HEUSDEN-ZOLDER)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.268831,
+                    51.033624
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "509625",
+                "bus": "yes",
+                "name": "Houthulst Smisse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOUMENSTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.897537,
+                    50.975956
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;28",
+                "ref:De_Lijn": "504625",
+                "bus": "yes",
+                "name": "Houthulst Smisse",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WOUMENSTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.897572,
+                    50.975758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "505799",
+                "bus": "yes",
+                "name": "Houthulst Heugstraat 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUGSTRAAT HOUTHULST",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.885875,
+                    50.973661
+                ]
+            }
+        }
+    ]
+}

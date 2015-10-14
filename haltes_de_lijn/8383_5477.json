@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "101207",
+                "bus": "yes",
+                "name": "Weert Kachel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BINNENDIJKSTRAAT WEERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.199663,
+                    51.105202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "101199",
+                "bus": "yes",
+                "name": "Weert Vijverland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DIJKSTRAAT WEERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.198663,
+                    51.109371
+                ]
+            }
+        }
+    ]
+}

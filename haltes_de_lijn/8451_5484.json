@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;64;725",
+                "ref:De_Lijn": "406460",
+                "bus": "yes",
+                "name": "Eisden Maasmechelen Village",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN EISDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.707309,
+                    51.000144
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "725",
+                "ref:De_Lijn": "401821",
+                "bus": "yes",
+                "name": "Lanklaar Siemenslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SIEMENSLAAN LANKLAAR",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.705829,
+                    51.012182
+                ]
+            }
+        }
+    ]
+}

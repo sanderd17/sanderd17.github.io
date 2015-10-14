@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "380;390;480",
+                "ref:De_Lijn": "107182",
+                "bus": "yes",
+                "name": "Arendonk Neerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N139 ARENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.095995,
+                    51.330718
+                ]
+            }
+        }
+    ]
+}

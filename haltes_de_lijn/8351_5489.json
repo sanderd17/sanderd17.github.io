@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200677",
+                "bus": "yes",
+                "name": "Machelen Sparrenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPARRENSTRAAT MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.507571,
+                    50.940621
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "200674",
+                "bus": "yes",
+                "name": "Machelen Vrijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TUTTEGEMSTRAAT MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.498172,
+                    50.942548
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105781",
+                "bus": "yes",
+                "name": "Wuustwezel Verellenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN GOOREIND",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.54858,
+                    51.355025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;444;640;641;648;649",
+                "ref:De_Lijn": "105783",
+                "bus": "yes",
+                "name": "Wuustwezel Verellenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDABAAN GOOREIND",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.548521,
+                    51.354773
+                ]
+            }
+        }
+    ]
+}

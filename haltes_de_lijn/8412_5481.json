@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "109079",
+                "bus": "yes",
+                "name": "Herselt Huis 65",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMSELSESTEENWEG HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.850595,
+                    51.043056
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "109081",
+                "bus": "yes",
+                "name": "Herselt Huis 65",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAMSELSESTEENWEG HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.850823,
+                    51.043056
+                ]
+            }
+        }
+    ]
+}

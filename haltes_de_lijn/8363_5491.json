@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;440",
+                "ref:De_Lijn": "208683",
+                "bus": "yes",
+                "name": "Velzeke Sonseindestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SONSEINDESTRAAT VELZEKE-RUDDERSHOVE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.772495,
+                    50.903292
+                ]
+            }
+        }
+    ]
+}

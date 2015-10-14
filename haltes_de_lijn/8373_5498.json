@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206664",
+                "bus": "yes",
+                "name": "Denderwindeke Flierendries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLIERENDRIES DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.994215,
+                    50.809214
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206665",
+                "bus": "yes",
+                "name": "Pollare Half Beukendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENDREEF POLLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.99541,
+                    50.81419
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206713",
+                "bus": "yes",
+                "name": "Pollare Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLLARE-DORP POLLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.997006,
+                    50.816946
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206712",
+                "bus": "yes",
+                "name": "Pollare Beukendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLLARE-DORP POLLARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.992888,
+                    50.811943
+                ]
+            }
+        }
+    ]
+}

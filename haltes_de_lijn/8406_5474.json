@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "102389",
+                "bus": "yes",
+                "name": "Bevel Emiliushoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERDERSSTRAAT BEVEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.702728,
+                    51.138699
+                ]
+            }
+        }
+    ]
+}

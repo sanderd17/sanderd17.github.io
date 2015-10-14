@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;150",
+                "ref:De_Lijn": "202085",
+                "bus": "yes",
+                "name": "Sleidinge Vierhuizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINGEL SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.664603,
+                    51.166966
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "203086",
+                "bus": "yes",
+                "name": "Lembeke Antwerpse Heirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSE HEIRWEG LEMBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.660331,
+                    51.173385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;195",
+                "ref:De_Lijn": "202086",
+                "bus": "yes",
+                "name": "Lembeke Antwerpse Heirweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSE HEIRWEG LEMBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.660132,
+                    51.173339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "203085",
+                "bus": "yes",
+                "name": "Sleidinge Vierhuizen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINGEL SLEIDINGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.664788,
+                    51.167048
+                ]
+            }
+        }
+    ]
+}

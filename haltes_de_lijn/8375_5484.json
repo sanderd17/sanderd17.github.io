@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "355",
+                "ref:De_Lijn": "205237",
+                "bus": "yes",
+                "name": "Oudegem Hoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KLOOSTERGOEDSTRAAT OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.042325,
+                    51.000015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29;355",
+                "ref:De_Lijn": "206396",
+                "bus": "yes",
+                "name": "Oudegem Houtland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEGENE OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.030327,
+                    51.01227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;28;29",
+                "ref:De_Lijn": "207396",
+                "bus": "yes",
+                "name": "Oudegem Houtland",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEGENE OUDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.030158,
+                    51.012053
+                ]
+            }
+        }
+    ]
+}

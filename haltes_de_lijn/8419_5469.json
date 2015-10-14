@@ -1,0 +1,45 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107902",
+                "bus": "yes",
+                "name": "Geel Oude Kastelsebaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEKASTELSEWEG TEN AARD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.000032,
+                    51.21093
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107897",
+                "bus": "yes",
+                "name": "Geel Dekshoeven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AARDSEWEG TEN AARD",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.995678,
+                    51.209623
+                ]
+            }
+        }
+    ]
+}

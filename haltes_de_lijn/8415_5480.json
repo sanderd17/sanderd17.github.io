@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "944",
+                "ref:De_Lijn": "101537",
+                "bus": "yes",
+                "name": "Herselt Dry Eycken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DRIE EIKENSTRAAT HERSELT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.903386,
+                    51.062056
+                ]
+            }
+        }
+    ]
+}

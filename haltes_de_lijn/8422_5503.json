@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405361",
+                "bus": "yes",
+                "name": "Landen Kalsberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALSBERGSTRAAT LANDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074237,
+                    50.747989
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "405360",
+                "bus": "yes",
+                "name": "Landen Kalsberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KALSBERGSTRAAT LANDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074109,
+                    50.748017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "406398",
+                "bus": "yes",
+                "name": "Landen Wijk Kalsberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRIGADE PIRONLAAN LANDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.074315,
+                    50.745678
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730",
+                "ref:De_Lijn": "406298",
+                "bus": "yes",
+                "name": "Landen Ittalaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-GERTRUDISSTRAAT LANDEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.069413,
+                    50.749546
+                ]
+            }
+        }
+    ]
+}

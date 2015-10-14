@@ -1,0 +1,130 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "107613",
+                "bus": "yes",
+                "name": "Geel Kruisendonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEUVEL GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.966224,
+                    51.188157
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108962",
+                "bus": "yes",
+                "name": "Geel Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.984291,
+                    51.183894
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108959",
+                "bus": "yes",
+                "name": "Geel Speenwaverdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.982319,
+                    51.191661
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108961",
+                "bus": "yes",
+                "name": "Geel Speenwaverdreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.982491,
+                    51.19166
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "921",
+                "ref:De_Lijn": "102159",
+                "bus": "yes",
+                "name": "Geel Holven",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLVEN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.981406,
+                    51.180987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "490;492;493",
+                "ref:De_Lijn": "108963",
+                "bus": "yes",
+                "name": "Geel Elzenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOKTER VAN DE PERRESTRAAT GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.984422,
+                    51.184064
+                ]
+            }
+        }
+    ]
+}

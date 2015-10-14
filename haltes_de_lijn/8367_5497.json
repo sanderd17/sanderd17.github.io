@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "207665",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Kakebeke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAKEBEKE SINT-MARIA-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.857316,
+                    50.824574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "207664",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Waesbergdries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAESBERGDRIES SINT-MARIA-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.849492,
+                    50.830059
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "410",
+                "ref:De_Lijn": "208504",
+                "bus": "yes",
+                "name": "Sint-Maria-Lierde Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSTRAAT SINT-MARIA-LIERDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.847446,
+                    50.821213
+                ]
+            }
+        }
+    ]
+}

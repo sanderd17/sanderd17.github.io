@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "202154",
+                "bus": "yes",
+                "name": "Zeveneken Eikstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOZEN BOER ZEVENEKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.880382,
+                    51.107595
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "202153",
+                "bus": "yes",
+                "name": "Lochristi Lozen Boer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENEN LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.869861,
+                    51.105987
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "203153",
+                "bus": "yes",
+                "name": "Lochristi Lozen Boer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENEN ZEVENEKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.869864,
+                    51.105726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "78",
+                "ref:De_Lijn": "203154",
+                "bus": "yes",
+                "name": "Zeveneken Eikstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOZEN BOER ZEVENEKEN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.881254,
+                    51.107517
+                ]
+            }
+        }
+    ]
+}

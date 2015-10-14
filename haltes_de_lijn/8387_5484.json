@@ -1,0 +1,614 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "308715",
+                "bus": "yes",
+                "name": "Londerzeel Egmont & Hoorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE SPOELBERCHSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.299731,
+                    51.011404
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44;250;251;261;288;460",
+                "ref:De_Lijn": "303358",
+                "bus": "yes",
+                "name": "Londerzeel Chrysantenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301648,
+                    51.006281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308899",
+                "bus": "yes",
+                "name": "Londerzeel Kapel Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.286224,
+                    51.002541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44;250;251",
+                "ref:De_Lijn": "308892",
+                "bus": "yes",
+                "name": "Londerzeel Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.296495,
+                    51.003204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "204572",
+                "bus": "yes",
+                "name": "Londerzeel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298709,
+                    51.008985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "206163",
+                "bus": "yes",
+                "name": "Londerzeel Polderstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LINDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.295982,
+                    51.003168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;250;251",
+                "ref:De_Lijn": "303355",
+                "bus": "yes",
+                "name": "Londerzeel Dorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301138,
+                    51.004133
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "303385",
+                "bus": "yes",
+                "name": "Londerzeel Polderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.295698,
+                    51.002484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44;250;251",
+                "ref:De_Lijn": "303354",
+                "bus": "yes",
+                "name": "Londerzeel Dorpsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301309,
+                    51.004061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "206160",
+                "bus": "yes",
+                "name": "Londerzeel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298709,
+                    51.008985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;44",
+                "ref:De_Lijn": "207164",
+                "bus": "yes",
+                "name": "Londerzeel Kapel Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.286993,
+                    51.002596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;250;251;261;288;460",
+                "ref:De_Lijn": "303359",
+                "bus": "yes",
+                "name": "Londerzeel Chrysantenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.301505,
+                    51.006227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;251;460",
+                "ref:De_Lijn": "303395",
+                "bus": "yes",
+                "name": "Londerzeel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298752,
+                    51.008976
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "307136",
+                "bus": "yes",
+                "name": "Londerzeel Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERREWEIDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.305175,
+                    51.01094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41",
+                "ref:De_Lijn": "206164",
+                "bus": "yes",
+                "name": "Londerzeel Kapel Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.286224,
+                    51.002541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "207163",
+                "bus": "yes",
+                "name": "Londerzeel Polderstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "LINDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.296495,
+                    51.003204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "303388",
+                "bus": "yes",
+                "name": "Londerzeel Rustoord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.306226,
+                    51.002472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "303394",
+                "bus": "yes",
+                "name": "Londerzeel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298638,
+                    51.008994
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261;288;460",
+                "ref:De_Lijn": "307183",
+                "bus": "yes",
+                "name": "Londerzeel Lode Meeusplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.303277,
+                    51.00292
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;250;251",
+                "ref:De_Lijn": "308893",
+                "bus": "yes",
+                "name": "Londerzeel Tramstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.295982,
+                    51.003168
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "308716",
+                "bus": "yes",
+                "name": "Londerzeel Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERREWEIDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.305047,
+                    51.011002
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "261;288;460",
+                "ref:De_Lijn": "303364",
+                "bus": "yes",
+                "name": "Londerzeel Brandweer",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EDWARD VAN ESBROECKSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.30611,
+                    51.004612
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250;460",
+                "ref:De_Lijn": "307135",
+                "bus": "yes",
+                "name": "Londerzeel Egmont & Hoorn",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DE SPOELBERCHSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.299475,
+                    51.011341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251;261;288",
+                "ref:De_Lijn": "303393",
+                "bus": "yes",
+                "name": "Londerzeel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298239,
+                    51.008832
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "98",
+                "ref:De_Lijn": "205572",
+                "bus": "yes",
+                "name": "Londerzeel Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.298723,
+                    51.008985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "251",
+                "ref:De_Lijn": "308898",
+                "bus": "yes",
+                "name": "Londerzeel Kapel Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LINDE LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.286993,
+                    51.002596
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "303387",
+                "bus": "yes",
+                "name": "Londerzeel Rustoord",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKHOFSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.306269,
+                    51.002571
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "250",
+                "ref:De_Lijn": "303386",
+                "bus": "yes",
+                "name": "Londerzeel Polderstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "POLDERSTRAAT LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.295513,
+                    51.002475
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "303366",
+                "bus": "yes",
+                "name": "Londerzeel Van Esbroeckstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRANDWEERPLEIN LONDERZEEL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.306195,
+                    51.004396
+                ]
+            }
+        }
+    ]
+}

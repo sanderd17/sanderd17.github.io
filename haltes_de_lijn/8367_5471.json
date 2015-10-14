@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200718",
+                "bus": "yes",
+                "name": "Wachtebeke Langelede",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LANGELEDE WACHTEBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.855308,
+                    51.187058
+                ]
+            }
+        }
+    ]
+}

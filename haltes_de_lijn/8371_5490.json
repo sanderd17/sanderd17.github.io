@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "206860",
+                "bus": "yes",
+                "name": "Bambrugge Administratief Centrum",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENBERG MERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.945035,
+                    50.923215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;91;93;385",
+                "ref:De_Lijn": "206484",
+                "bus": "yes",
+                "name": "Bambrugge Prinsdaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG BAMBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.936074,
+                    50.918607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;91;93;385",
+                "ref:De_Lijn": "206483",
+                "bus": "yes",
+                "name": "Bambrugge Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG MERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.947928,
+                    50.922569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;91;93",
+                "ref:De_Lijn": "207483",
+                "bus": "yes",
+                "name": "Bambrugge Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG MERE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.948011,
+                    50.922768
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;91;93",
+                "ref:De_Lijn": "207484",
+                "bus": "yes",
+                "name": "Bambrugge Prinsdaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG BAMBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.936839,
+                    50.918978
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "206552",
+                "bus": "yes",
+                "name": "Bambrugge Everdal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EGEMSTRAAT BAMBRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.933695,
+                    50.926752
+                ]
+            }
+        }
+    ]
+}

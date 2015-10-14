@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "160",
+                "ref:De_Lijn": "200693",
+                "bus": "yes",
+                "name": "Merendree Biezestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIEZESTRAAT MERENDREE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.587851,
+                    51.07563
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;160",
+                "ref:De_Lijn": "200687",
+                "bus": "yes",
+                "name": "Merendree Rusthuis Balade",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LOSTRAAT MERENDREE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.583937,
+                    51.080997
+                ]
+            }
+        }
+    ]
+}

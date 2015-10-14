@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48;84",
+                "ref:De_Lijn": "509563",
+                "bus": "yes",
+                "name": "Wervik Kruiseke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISEKESTRAAT KRUISEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.021545,
+                    50.815965
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "505202",
+                "bus": "yes",
+                "name": "Wervik Kruiseke Galgestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GALGESTRAAT WERVIK (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.031582,
+                    50.817348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;48;84",
+                "ref:De_Lijn": "504563",
+                "bus": "yes",
+                "name": "Wervik Kruiseke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISEKESTRAAT KRUISEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.021714,
+                    50.816021
+                ]
+            }
+        }
+    ]
+}

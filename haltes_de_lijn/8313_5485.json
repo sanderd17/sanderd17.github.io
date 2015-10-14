@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "504199",
+                "bus": "yes",
+                "name": "Izenberge Boldershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZENBERGESTRAAT IZENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.660439,
+                    50.997514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;59",
+                "ref:De_Lijn": "509199",
+                "bus": "yes",
+                "name": "Izenberge Boldershof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IZENBERGESTRAAT IZENBERGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.660019,
+                    50.997697
+                ]
+            }
+        }
+    ]
+}

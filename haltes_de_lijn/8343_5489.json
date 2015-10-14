@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;59;88",
+                "ref:De_Lijn": "503669",
+                "bus": "yes",
+                "name": "Oostrozebeke Vijvers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTEENWEG OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.337427,
+                    50.935809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;59;88",
+                "ref:De_Lijn": "508669",
+                "bus": "yes",
+                "name": "Oostrozebeke Vijvers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TIELTSTEENWEG OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.337037,
+                    50.935428
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59;88",
+                "ref:De_Lijn": "505136",
+                "bus": "yes",
+                "name": "Oostrozebeke Vinkhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT AMANDSTRAAT OOSTROZEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.326123,
+                    50.93552
+                ]
+            }
+        }
+    ]
+}

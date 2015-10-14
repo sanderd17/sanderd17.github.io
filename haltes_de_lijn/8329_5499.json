@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "48",
+                "ref:De_Lijn": "504554",
+                "bus": "yes",
+                "name": "Wervik Amerika",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISEKESTRAAT WERVIK (WEST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.026552,
+                    50.804613
+                ]
+            }
+        }
+    ]
+}

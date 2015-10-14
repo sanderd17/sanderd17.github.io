@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207702",
+                "bus": "yes",
+                "name": "Buggenhout Genthof Mandekenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MANDEKENSSTRAAT BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.167136,
+                    51.025958
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207740",
+                "bus": "yes",
+                "name": "Lebbeke Baasrode-Zuid Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REIGERSWEG LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.152913,
+                    51.019272
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207703",
+                "bus": "yes",
+                "name": "Buggenhout Genthof Beukenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENSTRAAT BUGGENHOUT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.17367,
+                    51.021106
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "320",
+                "ref:De_Lijn": "207701",
+                "bus": "yes",
+                "name": "Buggenhout Hopveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MANDEKENSSTRAAT LEBBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.154021,
+                    51.020002
+                ]
+            }
+        }
+    ]
+}

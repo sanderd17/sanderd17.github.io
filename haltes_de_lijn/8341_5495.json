@@ -1,0 +1,866 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "507717",
+                "bus": "yes",
+                "name": "Kuurne Gasthuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.281843,
+                    50.850835
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;53",
+                "ref:De_Lijn": "503468",
+                "bus": "yes",
+                "name": "Kuurne Prins Albert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.291888,
+                    50.85999
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504799",
+                "bus": "yes",
+                "name": "Kuurne Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277618,
+                    50.856666
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "507814",
+                "bus": "yes",
+                "name": "Kuurne Seizoenwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOORJAARSDREEF KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286004,
+                    50.858263
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "503462",
+                "bus": "yes",
+                "name": "Kuurne Kruiske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.287316,
+                    50.854347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;53",
+                "ref:De_Lijn": "508468",
+                "bus": "yes",
+                "name": "Kuurne Prins Albert",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.291797,
+                    50.860223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "503450",
+                "bus": "yes",
+                "name": "Kuurne 't Zweerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.282265,
+                    50.847935
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504795",
+                "bus": "yes",
+                "name": "Kuurne Sportpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDMAARSCHALK MONTGOMERYSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.275163,
+                    50.854738
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "508463",
+                "bus": "yes",
+                "name": "Kuurne Leiestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HARELBEEKSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.294037,
+                    50.850462
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "508455",
+                "bus": "yes",
+                "name": "Kuurne Grasplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEMDENLAAN KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.295308,
+                    50.85202
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504804",
+                "bus": "yes",
+                "name": "Kuurne Kersendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIJSTERGALM KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.274562,
+                    50.861025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504797",
+                "bus": "yes",
+                "name": "Kuurne Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOOMGAARDSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.278419,
+                    50.852727
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "508470",
+                "bus": "yes",
+                "name": "Kuurne Rode Kruisplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.275192,
+                    50.851645
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "503473",
+                "bus": "yes",
+                "name": "Kuurne Sprokkelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2899,
+                    50.857454
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "503452",
+                "bus": "yes",
+                "name": "Kuurne Cafe America",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAVIKHOOFSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.294416,
+                    50.857505
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;53",
+                "ref:De_Lijn": "508977",
+                "bus": "yes",
+                "name": "Kuurne Delhaize",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISWEIDE KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.284835,
+                    50.850458
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;53",
+                "ref:De_Lijn": "508975",
+                "bus": "yes",
+                "name": "Kuurne 't Zweerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENERAAL EISENHOWERSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.282639,
+                    50.848361
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "503455",
+                "bus": "yes",
+                "name": "Kuurne Grasplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEEMDENLAAN KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.295552,
+                    50.851932
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "503470",
+                "bus": "yes",
+                "name": "Kuurne Rode Kruisplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEUKENLAAN KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.275345,
+                    50.851197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "504812",
+                "bus": "yes",
+                "name": "Kuurne Sprokkelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPROKKELWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289861,
+                    50.857948
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504801",
+                "bus": "yes",
+                "name": "Kuurne Hippodroom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.274907,
+                    50.858421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;68",
+                "ref:De_Lijn": "508467",
+                "bus": "yes",
+                "name": "Kuurne Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEGGEVOERDENPLEIN KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.286832,
+                    50.849433
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;53;68",
+                "ref:De_Lijn": "503977",
+                "bus": "yes",
+                "name": "Kuurne Delhaize",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISWEIDE KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.284967,
+                    50.850243
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504800",
+                "bus": "yes",
+                "name": "Kuurne Begraafplaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KASTEELSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.277598,
+                    50.856891
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504803",
+                "bus": "yes",
+                "name": "Kuurne Kersendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIJSTERGALM KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.274409,
+                    50.860898
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "508462",
+                "bus": "yes",
+                "name": "Kuurne Kruiske",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.287288,
+                    50.854931
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "508478",
+                "bus": "yes",
+                "name": "Kuurne Winterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SEIZOENWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.288354,
+                    50.859238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504802",
+                "bus": "yes",
+                "name": "Kuurne Hippodroom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATTESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.27509,
+                    50.858477
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504798",
+                "bus": "yes",
+                "name": "Kuurne Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDMAARSCHALK MONTGOMERYSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.278782,
+                    50.853018
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "508450",
+                "bus": "yes",
+                "name": "Kuurne 't Zweerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.282603,
+                    50.848091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "508970",
+                "bus": "yes",
+                "name": "Kuurne Grasveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEIDENSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.295484,
+                    50.853675
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "504813",
+                "bus": "yes",
+                "name": "Kuurne Sprokkelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPROKKELWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289792,
+                    50.857858
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "504796",
+                "bus": "yes",
+                "name": "Kuurne Sportpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VELDMAARSCHALK MONTGOMERYSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.275261,
+                    50.854801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "508978",
+                "bus": "yes",
+                "name": "Kuurne Eisenhowerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.28674,
+                    50.852211
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "508452",
+                "bus": "yes",
+                "name": "Kuurne Cafe America",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAVIKHOOFSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.294595,
+                    50.857749
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "503478",
+                "bus": "yes",
+                "name": "Kuurne Winterweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SEIZOENWEG KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.287929,
+                    50.859189
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51;53",
+                "ref:De_Lijn": "503975",
+                "bus": "yes",
+                "name": "Kuurne 't Zweerd",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENERAAL EISENHOWERSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.282642,
+                    50.848235
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "503467",
+                "bus": "yes",
+                "name": "Kuurne Plaats",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEGGEVOERDENPLEIN KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.287116,
+                    50.849427
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "53",
+                "ref:De_Lijn": "508473",
+                "bus": "yes",
+                "name": "Kuurne Sprokkelweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HULSTSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289883,
+                    50.857607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "51",
+                "ref:De_Lijn": "507716",
+                "bus": "yes",
+                "name": "Kuurne Gasthuisstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GASTHUISSTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.282096,
+                    50.850954
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50",
+                "ref:De_Lijn": "503463",
+                "bus": "yes",
+                "name": "Kuurne Leiestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HARELBEEKSESTRAAT KUURNE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.292699,
+                    50.849991
+                ]
+            }
+        }
+    ]
+}

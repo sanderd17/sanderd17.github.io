@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505242",
+                "bus": "yes",
+                "name": "Koekelare Asstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ASSTRAAT MOKKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.940087,
+                    51.081222
+                ]
+            }
+        }
+    ]
+}

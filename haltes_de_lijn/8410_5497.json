@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;541",
+                "ref:De_Lijn": "300716",
+                "bus": "yes",
+                "name": "Neervelp Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG NEERVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.807542,
+                    50.820817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;541;713",
+                "ref:De_Lijn": "302607",
+                "bus": "yes",
+                "name": "Neervelp Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG NEERVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.811395,
+                    50.823068
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "300713",
+                "bus": "yes",
+                "name": "Neervelp Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VERTRIJKSESTRAAT NEERVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.811882,
+                    50.820513
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;541;713",
+                "ref:De_Lijn": "300715",
+                "bus": "yes",
+                "name": "Neervelp Kruispunt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG NEERVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.80784,
+                    50.820798
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "6;541",
+                "ref:De_Lijn": "302608",
+                "bus": "yes",
+                "name": "Neervelp Kapel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WAVERSESTEENWEG NEERVELP",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.811254,
+                    50.823159
+                ]
+            }
+        }
+    ]
+}

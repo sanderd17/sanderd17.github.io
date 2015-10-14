@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;672;934",
+                "ref:De_Lijn": "104247",
+                "bus": "yes",
+                "name": "Essen Wolfsheuvel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKANTSEBAAN ESSENHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418311,
+                    51.447617
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;672;934",
+                "ref:De_Lijn": "101778",
+                "bus": "yes",
+                "name": "Essen Noordeneind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKANTSEBAAN ESSENHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.425132,
+                    51.449879
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;672;934",
+                "ref:De_Lijn": "104246",
+                "bus": "yes",
+                "name": "Essen Wolfsheuvel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKANTSEBAAN ESSENHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.418283,
+                    51.447725
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;672;934",
+                "ref:De_Lijn": "104311",
+                "bus": "yes",
+                "name": "Essen College",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROUWMOER ESSEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.43303,
+                    51.4406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "447;672",
+                "ref:De_Lijn": "102191",
+                "bus": "yes",
+                "name": "Essen Noordeneind",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERKANTSEBAAN ESSENHOEK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.425549,
+                    51.449663
+                ]
+            }
+        }
+    ]
+}

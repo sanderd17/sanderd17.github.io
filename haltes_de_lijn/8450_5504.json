@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "407205",
+                "bus": "yes",
+                "name": "Haccourt Square Roi Baudouin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SQUARE ROI BAUDOUIN HACCOURT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.672334,
+                    50.735694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "407204",
+                "bus": "yes",
+                "name": "Haccourt Square Roi Baudouin",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N618 HACCOURT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.671539,
+                    50.735631
+                ]
+            }
+        }
+    ]
+}

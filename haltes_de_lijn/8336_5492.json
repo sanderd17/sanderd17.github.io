@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;69",
+                "ref:De_Lijn": "503637",
+                "bus": "yes",
+                "name": "Oekene Kerselaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ELOOIS-WINKELSESTRAAT OEKENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.166022,
+                    50.890882
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;69",
+                "ref:De_Lijn": "508637",
+                "bus": "yes",
+                "name": "Oekene Kerselaar",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-ELOOIS-WINKELSESTRAAT OEKENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.165636,
+                    50.890968
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,46 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "405188",
+                "bus": "yes",
+                "name": "Lanaken Instituut Sint-Barbara Parking",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESSEMERSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.628064,
+                    50.910197
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "45;724",
+                "ref:De_Lijn": "409645",
+                "bus": "yes",
+                "name": "Lanaken ZOL Campus Sint-Barbara",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BESSEMERSTRAAT LANAKEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.628079,
+                    50.910197
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408921",
+                "bus": "yes",
+                "name": "Teuven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEUVEN-DORP TEUVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.874082,
+                    50.751785
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408925",
+                "bus": "yes",
+                "name": "Teuven Nurop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARNSTRAAT TEUVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.870846,
+                    50.753867
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408920",
+                "bus": "yes",
+                "name": "Teuven Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TEUVEN-DORP TEUVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.874293,
+                    50.751737
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39b",
+                "ref:De_Lijn": "408924",
+                "bus": "yes",
+                "name": "Teuven Nurop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VARNSTRAAT TEUVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.870533,
+                    50.753817
+                ]
+            }
+        }
+    ]
+}

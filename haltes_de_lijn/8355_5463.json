@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200933",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Bevrijdingsstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZANDSTRAAT WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.595993,
+                    51.293855
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "210076",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Rovershoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROVERSHOEK WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.584316,
+                    51.296834
+                ]
+            }
+        }
+    ]
+}

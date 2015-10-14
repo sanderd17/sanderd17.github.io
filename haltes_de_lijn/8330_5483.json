@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40;47;56",
+                "ref:De_Lijn": "508344",
+                "bus": "yes",
+                "name": "Kortemark Steenbakkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGLEDESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.046018,
+                    51.019758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "47;56",
+                "ref:De_Lijn": "508343",
+                "bus": "yes",
+                "name": "Kortemark Motemeerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOTEMEERSLAAN KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.038244,
+                    51.02698
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40",
+                "ref:De_Lijn": "504863",
+                "bus": "yes",
+                "name": "Kortemark Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSSTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.042101,
+                    51.02519
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;40;47;56",
+                "ref:De_Lijn": "503343",
+                "bus": "yes",
+                "name": "Kortemark Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.043355,
+                    51.025204
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "56",
+                "ref:De_Lijn": "502796",
+                "bus": "yes",
+                "name": "Kortemark Cafe De Speye",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AMERSVELDESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.042336,
+                    51.024446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "40;47;56",
+                "ref:De_Lijn": "503344",
+                "bus": "yes",
+                "name": "Kortemark Steenbakkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGLEDESTRAAT KORTEMARK",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.045956,
+                    51.019425
+                ]
+            }
+        }
+    ]
+}

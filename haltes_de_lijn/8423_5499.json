@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "305710",
+                "bus": "yes",
+                "name": "Dormaal Tifany",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT DORMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.092518,
+                    50.802501
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "313;562;715",
+                "ref:De_Lijn": "305684",
+                "bus": "yes",
+                "name": "Dormaal Broekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GROTE STEENWEG DORMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.086029,
+                    50.805813
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "715",
+                "ref:De_Lijn": "305711",
+                "bus": "yes",
+                "name": "Dormaal Tifany",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BROEKSTRAAT DORMAAL",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.092647,
+                    50.802554
+                ]
+            }
+        }
+    ]
+}

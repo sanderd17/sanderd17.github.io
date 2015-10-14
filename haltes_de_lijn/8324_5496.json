@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "509644",
+                "bus": "yes",
+                "name": "Zillebeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILLEBEKE-DORP ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.922286,
+                    50.83522
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "504646",
+                "bus": "yes",
+                "name": "Zillebeke Lindenboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAALDESTEDESTRAAT ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.920984,
+                    50.840608
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "509646",
+                "bus": "yes",
+                "name": "Zillebeke Lindenboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAALDESTEDESTRAAT ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.921203,
+                    50.84043
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "39;89",
+                "ref:De_Lijn": "504644",
+                "bus": "yes",
+                "name": "Zillebeke Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZILLEBEKE-DORP ZILLEBEKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.922117,
+                    50.835173
+                ]
+            }
+        }
+    ]
+}

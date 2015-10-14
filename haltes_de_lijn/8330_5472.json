@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54",
+                "ref:De_Lijn": "506101",
+                "bus": "yes",
+                "name": "Ettelgem Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT ETTELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.033162,
+                    51.178696
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;82",
+                "ref:De_Lijn": "501101",
+                "bus": "yes",
+                "name": "Ettelgem Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSENTHOPLEIN ETTELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.033543,
+                    51.178385
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54",
+                "ref:De_Lijn": "500230",
+                "bus": "yes",
+                "name": "Ettelgem Markt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT ETTELGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.033195,
+                    51.17857
+                ]
+            }
+        }
+    ]
+}

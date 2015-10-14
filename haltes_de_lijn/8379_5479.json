@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;290",
+                "ref:De_Lijn": "204129",
+                "bus": "yes",
+                "name": "Hamme Theet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "THEET HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.129537,
+                    51.078761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "290",
+                "ref:De_Lijn": "205789",
+                "bus": "yes",
+                "name": "Hamme Lippeveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEERSTRAAT HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.110544,
+                    51.07873
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91",
+                "ref:De_Lijn": "205129",
+                "bus": "yes",
+                "name": "Hamme Theet",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "THEET HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.129167,
+                    51.078509
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91",
+                "ref:De_Lijn": "205130",
+                "bus": "yes",
+                "name": "Hamme Lange Maat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSE STEENWEG HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.11975,
+                    51.070247
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;290",
+                "ref:De_Lijn": "204130",
+                "bus": "yes",
+                "name": "Hamme Lange Maat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENDERMONDSE STEENWEG HAMME (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.120163,
+                    51.070337
+                ]
+            }
+        }
+    ]
+}

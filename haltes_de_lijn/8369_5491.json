@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209741",
+                "bus": "yes",
+                "name": "Borsbeke Holestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOLESTRAAT BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.889732,
+                    50.906957
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;385;390",
+                "ref:De_Lijn": "206536",
+                "bus": "yes",
+                "name": "Borsbeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.892584,
+                    50.904712
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385;390",
+                "ref:De_Lijn": "209739",
+                "bus": "yes",
+                "name": "Borsbeke Pastorijstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PASTORIJSTRAAT BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.889213,
+                    50.911818
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91",
+                "ref:De_Lijn": "207535",
+                "bus": "yes",
+                "name": "Borsbeke Zijp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N46 BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.903213,
+                    50.90809
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91",
+                "ref:De_Lijn": "207536",
+                "bus": "yes",
+                "name": "Borsbeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PROVINCIEWEG BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.892285,
+                    50.904774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "91;385;390",
+                "ref:De_Lijn": "206535",
+                "bus": "yes",
+                "name": "Borsbeke Zijp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N46 BORSBEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.903371,
+                    50.908
+                ]
+            }
+        }
+    ]
+}

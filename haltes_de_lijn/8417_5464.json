@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "103656",
+                "bus": "yes",
+                "name": "Turnhout Duivendongenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPELWEG ZEVENDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.945357,
+                    51.28656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;490;492",
+                "ref:De_Lijn": "108924",
+                "bus": "yes",
+                "name": "Turnhout Mastheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP DIEST TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954024,
+                    51.280487
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;490;492",
+                "ref:De_Lijn": "108926",
+                "bus": "yes",
+                "name": "Turnhout Mastheidestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP DIEST TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954531,
+                    51.279765
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "305;490;492",
+                "ref:De_Lijn": "108923",
+                "bus": "yes",
+                "name": "Turnhout Zevendonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP DIEST TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.954551,
+                    51.289302
+                ]
+            }
+        }
+    ]
+}

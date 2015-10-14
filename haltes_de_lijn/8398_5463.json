@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "600;601;602;620;621;629",
+                "ref:De_Lijn": "105479",
+                "bus": "yes",
+                "name": "Schoten Spaans Wijnhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN ZWAAN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.54622,
+                    51.293568
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "443;600;601;602;620;621;629",
+                "ref:De_Lijn": "105480",
+                "bus": "yes",
+                "name": "Schoten Spaans Wijnhuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEBAAN ZWAAN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.546549,
+                    51.293586
+                ]
+            }
+        }
+    ]
+}

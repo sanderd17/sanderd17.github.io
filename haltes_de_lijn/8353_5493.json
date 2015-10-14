@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83",
+                "ref:De_Lijn": "209252",
+                "bus": "yes",
+                "name": "Wannegem-Lede Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG WANNEGEM-LEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.546354,
+                    50.882383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "450",
+                "ref:De_Lijn": "200753",
+                "bus": "yes",
+                "name": "Ooike Karmstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KARMSTRAAT OOIKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.541077,
+                    50.876188
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;450;485",
+                "ref:De_Lijn": "208251",
+                "bus": "yes",
+                "name": "Ooike Loweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DEINZESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.556081,
+                    50.875421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "83;450;485",
+                "ref:De_Lijn": "208252",
+                "bus": "yes",
+                "name": "Wannegem-Lede Fonteinstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDENAARDSESTEENWEG WANNEGEM-LEDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.546422,
+                    50.882537
+                ]
+            }
+        }
+    ]
+}

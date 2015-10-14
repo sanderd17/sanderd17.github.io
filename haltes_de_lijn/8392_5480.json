@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "287",
+                "ref:De_Lijn": "107521",
+                "bus": "yes",
+                "name": "Heindonk Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZEWINKELSTRAAT HEINDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406033,
+                    51.066943
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "287",
+                "ref:De_Lijn": "104452",
+                "bus": "yes",
+                "name": "Heindonk Hazewinkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEENHOUWERSTRAAT HEINDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406513,
+                    51.061261
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "103083",
+                "name": "Heindonk Kerk tijdelijke halte",
+                "public_transport": "platform",
+                "railway": "tram_stop",
+                "tram": "yes",
+                "created_by": "HAZEWINKELSTRAAT HEINDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.40502,
+                    51.067231
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "287",
+                "ref:De_Lijn": "107522",
+                "bus": "yes",
+                "name": "Heindonk Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HAZEWINKELSTRAAT HEINDONK",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406161,
+                    51.067014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "287",
+                "ref:De_Lijn": "104453",
+                "bus": "yes",
+                "name": "Heindonk Hazewinkel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEENHOUWERSTRAAT HEFFEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.406528,
+                    51.061091
+                ]
+            }
+        }
+    ]
+}

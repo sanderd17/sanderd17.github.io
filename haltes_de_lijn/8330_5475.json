@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;59",
+                "ref:De_Lijn": "506095",
+                "bus": "yes",
+                "name": "Eernegem Leliestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LELIESTRAAT EERNEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.032451,
+                    51.126078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505153",
+                "bus": "yes",
+                "name": "Eernegem Kriekestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRUGGESTRAAT EERNEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.041278,
+                    51.134206
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;59",
+                "ref:De_Lijn": "506089",
+                "bus": "yes",
+                "name": "Eernegem Bruggestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ACHTERSTRAAT EERNEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.034133,
+                    51.129729
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;59",
+                "ref:De_Lijn": "506085",
+                "bus": "yes",
+                "name": "Eernegem 's Gravendriesschelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "'S GRAVENDRIESSCHELAAN EERNEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.035024,
+                    51.13454
+                ]
+            }
+        }
+    ]
+}

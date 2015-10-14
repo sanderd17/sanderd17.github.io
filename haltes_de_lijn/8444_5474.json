@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400656",
+                "bus": "yes",
+                "name": "Reppel Merelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REPPELERWEG REPPEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.557935,
+                    51.148269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746",
+                "ref:De_Lijn": "400657",
+                "bus": "yes",
+                "name": "Reppel Merelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REPPELERWEG REPPEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.557017,
+                    51.148153
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;302",
+                "ref:De_Lijn": "400966",
+                "bus": "yes",
+                "name": "Reppel Fabriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N73 REPPEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.546642,
+                    51.138026
+                ]
+            }
+        }
+    ]
+}

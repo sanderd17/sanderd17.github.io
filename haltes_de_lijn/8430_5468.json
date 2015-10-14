@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;713",
+                "ref:De_Lijn": "405837",
+                "bus": "yes",
+                "name": "Werkplaatsen Kiezel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKPLAATSEN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.246595,
+                    51.226874
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401568",
+                "bus": "yes",
+                "name": "Lommel Zonnebaarsstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBAARSSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.246737,
+                    51.225282
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "84;711;713",
+                "ref:De_Lijn": "405836",
+                "bus": "yes",
+                "name": "Werkplaatsen Kiezel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERKPLAATSEN LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.247282,
+                    51.22686
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711;713",
+                "ref:De_Lijn": "406386",
+                "bus": "yes",
+                "name": "Werkplaatsen Snoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNOEKSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.243894,
+                    51.227092
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "401569",
+                "bus": "yes",
+                "name": "Lommel Zonnebaarsstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ZONNEBAARSSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.246649,
+                    51.225139
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "713",
+                "ref:De_Lijn": "406391",
+                "bus": "yes",
+                "name": "Werkplaatsen Snoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SNOEKSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.244051,
+                    51.227073
+                ]
+            }
+        }
+    ]
+}

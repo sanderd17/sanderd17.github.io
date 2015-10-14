@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200736",
+                "bus": "yes",
+                "name": "Mendonk Spanjeveerstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPANJEVEERSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.81393,
+                    51.144767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200705",
+                "bus": "yes",
+                "name": "Sint-Kruis-Winkel Barkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARKSTRAAT GENT",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.811927,
+                    51.149801
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200704",
+                "bus": "yes",
+                "name": "Gent Mendonk Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MENDONKDORP MENDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.821552,
+                    51.146789
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "744",
+                "ref:De_Lijn": "404625",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Bosuil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSUILSTRAAT SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.495038,
+                    51.223706
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "743;744",
+                "ref:De_Lijn": "404624",
+                "bus": "yes",
+                "name": "Sint-Huibrechts-Lille Bosuil",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSUILSTRAAT SINT-HUIBRECHTS-LILLE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.494991,
+                    51.223572
+                ]
+            }
+        }
+    ]
+}

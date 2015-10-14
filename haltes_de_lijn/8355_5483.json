@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16;125",
+                "ref:De_Lijn": "202765",
+                "bus": "yes",
+                "name": "Sint-Martens-Leerne Lindeboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEERNSESTEENWEG SINT-MARTENS-LEERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.593002,
+                    51.017951
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16;125",
+                "ref:De_Lijn": "202766",
+                "bus": "yes",
+                "name": "Sint-Martens-Leerne Engelhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEERNSESTEENWEG SINT-MARTENS-LEERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.58667,
+                    51.014763
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "15;16;34;35;36",
+                "ref:De_Lijn": "203767",
+                "bus": "yes",
+                "name": "Sint-Martens-Leerne Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DAMSTRAAT SINT-MARTENS-LEERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.583477,
+                    51.014014
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16",
+                "ref:De_Lijn": "203765",
+                "bus": "yes",
+                "name": "Sint-Martens-Leerne Lindeboom",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEERNSESTEENWEG SINT-MARTENS-LEERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.592872,
+                    51.01804
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;15;16",
+                "ref:De_Lijn": "203766",
+                "bus": "yes",
+                "name": "Sint-Martens-Leerne Engelhoekstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEERNSESTEENWEG SINT-MARTENS-LEERNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.586724,
+                    51.01497
+                ]
+            }
+        }
+    ]
+}

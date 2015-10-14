@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "T1;T2;34a",
+                "ref:De_Lijn": "408510",
+                "bus": "yes",
+                "name": "Tongeren Treurenberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BAVERSSTRAAT BERG (TONGEREN)",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.485551,
+                    50.792057
+                ]
+            }
+        }
+    ]
+}

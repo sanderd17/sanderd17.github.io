@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "412;607",
+                "ref:De_Lijn": "108732",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Huis 21",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BETHANIËNLEI BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.598034,
+                    51.285938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "412;607",
+                "ref:De_Lijn": "108731",
+                "bus": "yes",
+                "name": "Sint-Job-in-'t-Goor Huis 21",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BETHANIËNLEI BRECHT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.598063,
+                    51.286064
+                ]
+            }
+        }
+    ]
+}

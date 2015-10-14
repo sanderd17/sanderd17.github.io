@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "492",
+                "ref:De_Lijn": "102591",
+                "bus": "yes",
+                "name": "Geel Liessel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JANSSEN-PHARMACEUTICALAAN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.959182,
+                    51.123383
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;492",
+                "ref:De_Lijn": "102592",
+                "bus": "yes",
+                "name": "Geel Liessel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "JANSSEN-PHARMACEUTICALAAN GEEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.959339,
+                    51.123436
+                ]
+            }
+        }
+    ]
+}

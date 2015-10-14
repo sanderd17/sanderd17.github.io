@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "130",
+                "ref:De_Lijn": "209867",
+                "bus": "yes",
+                "name": "Laarne Zevestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZEVESTRAAT LAARNE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.879856,
+                    51.0636
+                ]
+            }
+        }
+    ]
+}

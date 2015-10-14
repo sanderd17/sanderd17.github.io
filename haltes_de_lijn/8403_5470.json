@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;424;427;428",
+                "ref:De_Lijn": "106437",
+                "bus": "yes",
+                "name": "Massenhoven Gebroken Loop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEBAAN MASSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.647907,
+                    51.203677
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;424;427;428",
+                "ref:De_Lijn": "106436",
+                "bus": "yes",
+                "name": "Massenhoven Gebroken Loop",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEBAAN MASSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.647737,
+                    51.204001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;424;427;428",
+                "ref:De_Lijn": "106434",
+                "bus": "yes",
+                "name": "Massenhoven Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEBAAN MASSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643061,
+                    51.199625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "420;424;427;428",
+                "ref:De_Lijn": "106435",
+                "bus": "yes",
+                "name": "Massenhoven Kerkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LIERSEBAAN MASSENHOVEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.643663,
+                    51.199777
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;390;391;430;436",
+                "ref:De_Lijn": "107589",
+                "bus": "yes",
+                "name": "Dessel Goormansdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N18 DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11431,
+                    51.229176
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "382;390;391;430;436",
+                "ref:De_Lijn": "107591",
+                "bus": "yes",
+                "name": "Dessel Goormansdijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N18 DESSEL",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.114755,
+                    51.228382
+                ]
+            }
+        }
+    ]
+}

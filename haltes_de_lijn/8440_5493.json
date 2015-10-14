@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;706;707",
+                "ref:De_Lijn": "404382",
+                "bus": "yes",
+                "name": "Hoeselt Paneelstraat 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANTERSTRAAT ROMERSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.460471,
+                    50.876904
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "404333",
+                "bus": "yes",
+                "name": "Romershoven Aanlofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KUKKELBOSSTRAAT DIEPENBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.451194,
+                    50.878221
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "10;706",
+                "ref:De_Lijn": "404395",
+                "bus": "yes",
+                "name": "Hoeselt Paneelstraat 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HANTERSTRAAT ROMERSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.46067,
+                    50.876902
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20a",
+                "ref:De_Lijn": "404332",
+                "bus": "yes",
+                "name": "Romershoven Aanlofstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROMERSHOVENSTRAAT ROMERSHOVEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.452212,
+                    50.877403
+                ]
+            }
+        }
+    ]
+}

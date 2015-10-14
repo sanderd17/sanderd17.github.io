@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "502015",
+                "bus": "yes",
+                "name": "Ardooie Gapaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERENSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.173686,
+                    50.977421
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "507019",
+                "bus": "yes",
+                "name": "Ardooie Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERENSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.184121,
+                    50.977572
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "502019",
+                "bus": "yes",
+                "name": "Ardooie Kruis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERENSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.183586,
+                    50.97789
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22",
+                "ref:De_Lijn": "507015",
+                "bus": "yes",
+                "name": "Ardooie Gapaard",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEVERENSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.172892,
+                    50.977269
+                ]
+            }
+        }
+    ]
+}

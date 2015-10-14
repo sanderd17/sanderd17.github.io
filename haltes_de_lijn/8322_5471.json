@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;84",
+                "ref:De_Lijn": "501497",
+                "bus": "yes",
+                "name": "Middelkerke Fleriskothoeve",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLERISKOTSTRAAT LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.860956,
+                    51.185758
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;84",
+                "ref:De_Lijn": "501498",
+                "bus": "yes",
+                "name": "Leffinge Fleriskotstraat Huis nummer 106",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FLERISKOTSTRAAT LEFFINGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.877517,
+                    51.182741
+                ]
+            }
+        }
+    ]
+}

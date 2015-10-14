@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74",
+                "ref:De_Lijn": "203614",
+                "bus": "yes",
+                "name": "Oostakker Eversdonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSTIJNENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.788803,
+                    51.108295
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;175",
+                "ref:De_Lijn": "202614",
+                "bus": "yes",
+                "name": "Oostakker Eversdonk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSTIJNENSTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.789001,
+                    51.108386
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;73;74",
+                "ref:De_Lijn": "203613",
+                "bus": "yes",
+                "name": "Oostakker Wittewalle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BREDESTRAAT OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.780899,
+                    51.107726
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74;175",
+                "ref:De_Lijn": "202615",
+                "bus": "yes",
+                "name": "Lochristi Nokerestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSTIJNENSTRAAT DESTELDONK",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.800602,
+                    51.110249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "71;72;73;74;175",
+                "ref:De_Lijn": "202613",
+                "bus": "yes",
+                "name": "Oostakker Wittewalle",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WITTEWALLE OOSTAKKER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.780652,
+                    51.108066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "74",
+                "ref:De_Lijn": "203615",
+                "bus": "yes",
+                "name": "Lochristi Nokerestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ROSTIJNENSTRAAT LOCHRISTI",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.800632,
+                    51.110141
+                ]
+            }
+        }
+    ]
+}

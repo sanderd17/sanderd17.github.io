@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "406800",
+                "bus": "yes",
+                "name": "Balen Leeuwerikheide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWARTE DREEF BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.185411,
+                    51.197604
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "406775",
+                "bus": "yes",
+                "name": "Balen Berkenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENBOS BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.175465,
+                    51.198311
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "732",
+                "ref:De_Lijn": "406774",
+                "bus": "yes",
+                "name": "Balen Berkenbos",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERKENBOS BALEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.175367,
+                    51.198392
+                ]
+            }
+        }
+    ]
+}

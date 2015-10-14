@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200946",
+                "bus": "yes",
+                "name": "Watervliet Barbarapolder",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MAAGD VAN GENT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.679997,
+                    51.280737
+                ]
+            }
+        }
+    ]
+}

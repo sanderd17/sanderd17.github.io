@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "306985",
+                "bus": "yes",
+                "name": "Tildonk Wakkerzeel Hooghof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJGMAALSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.664854,
+                    50.961717
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;512;513",
+                "ref:De_Lijn": "301831",
+                "bus": "yes",
+                "name": "Haacht Dreef Hoogscharent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N21 HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.671692,
+                    50.971408
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "306984",
+                "bus": "yes",
+                "name": "Tildonk Wakkerzeel Hooghof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJGMAALSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.664968,
+                    50.961806
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;512;513",
+                "ref:De_Lijn": "301832",
+                "bus": "yes",
+                "name": "Haacht Dreef Hoogscharent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N21 HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.671905,
+                    50.971254
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "308531",
+                "bus": "yes",
+                "name": "Haacht Brugstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "BRUGSTRAAT HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.661211,
+                    50.96196
+                ]
+            }
+        }
+    ]
+}

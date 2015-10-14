@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b;726",
+                "ref:De_Lijn": "407750",
+                "bus": "yes",
+                "name": "Zichen Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISÉSTEENWEG ZICHEN-ZUSSEN-BOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.631377,
+                    50.791807
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b;726",
+                "ref:De_Lijn": "407751",
+                "bus": "yes",
+                "name": "Zichen Groenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VISÉSTEENWEG ZICHEN-ZUSSEN-BOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.631951,
+                    50.791531
+                ]
+            }
+        }
+    ]
+}

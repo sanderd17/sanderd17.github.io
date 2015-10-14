@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400015",
+                "bus": "yes",
+                "name": "Hulsen Bergen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BERGEN HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.114092,
+                    51.152061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "406833",
+                "bus": "yes",
+                "name": "Mol Schriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGERHOUTSENDIJK MOL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.101845,
+                    51.161289
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400199",
+                "bus": "yes",
+                "name": "Balen Grees Karrestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GREES HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.105491,
+                    51.154066
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20",
+                "ref:De_Lijn": "406832",
+                "bus": "yes",
+                "name": "Mol Schriek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BORGERHOUTSENDIJK MOL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.102132,
+                    51.161341
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400430",
+                "bus": "yes",
+                "name": "Balen Schommelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOMMELSTRAAT HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.111296,
+                    51.155099
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "733",
+                "ref:De_Lijn": "400431",
+                "bus": "yes",
+                "name": "Balen Grees",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GREES HULSEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.11465,
+                    51.156525
+                ]
+            }
+        }
+    ]
+}

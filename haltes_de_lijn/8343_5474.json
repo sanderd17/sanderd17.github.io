@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "501695",
+                "bus": "yes",
+                "name": "Beernem Fortstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FORTSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.319125,
+                    51.139025
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28;63;97",
+                "ref:De_Lijn": "502063",
+                "bus": "yes",
+                "name": "Beernem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.338925,
+                    51.143191
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "503908",
+                "bus": "yes",
+                "name": "Beernem Gemeentehuis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "C. MARICHALSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.333775,
+                    51.139541
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28;63;97",
+                "ref:De_Lijn": "502068",
+                "bus": "yes",
+                "name": "Beernem Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N370 BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.332952,
+                    51.141215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;63;97",
+                "ref:De_Lijn": "507061",
+                "bus": "yes",
+                "name": "Beernem Bloemendale",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N370 BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.328307,
+                    51.138036
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "502680",
+                "bus": "yes",
+                "name": "Beernem Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "AKKERSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.339756,
+                    51.14371
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28;63;97",
+                "ref:De_Lijn": "507068",
+                "bus": "yes",
+                "name": "Beernem Zwembad",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PARKSTRAAT BEERNEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.334615,
+                    51.141616
+                ]
+            }
+        }
+    ]
+}

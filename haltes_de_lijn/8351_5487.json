@@ -1,0 +1,173 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "201555",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Kapelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.51198,
+                    50.967218
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;450",
+                "ref:De_Lijn": "200526",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Kievitstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-HUBERTSTRAAT PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.511696,
+                    50.960941
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;125",
+                "ref:De_Lijn": "200460",
+                "bus": "yes",
+                "name": "Machelen Buitenlust",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.501852,
+                    50.9606
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75;125;450",
+                "ref:De_Lijn": "200555",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Kapelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KORTRIJKSESTEENWEG PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.513151,
+                    50.967802
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125",
+                "ref:De_Lijn": "201840",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Torenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TORENPARK PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.509819,
+                    50.969369
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "125;450",
+                "ref:De_Lijn": "201679",
+                "bus": "yes",
+                "name": "Petegem-aan-de-Leie Molenpark",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOLENPARK PETEGEM-AAN-DE-LEIE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.511839,
+                    50.964808
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "75",
+                "ref:De_Lijn": "201460",
+                "bus": "yes",
+                "name": "Machelen Buitenlust",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.501275,
+                    50.960209
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209799",
+                "bus": "yes",
+                "name": "Machelen Stelplaats Gino Tours",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "RIJKSWEG MACHELEN (ZULTE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.505367,
+                    50.962945
+                ]
+            }
+        }
+    ]
+}

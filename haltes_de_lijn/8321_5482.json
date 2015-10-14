@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;32;41;49",
+                "ref:De_Lijn": "508124",
+                "bus": "yes",
+                "name": "Diksmuide IJzerbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT KAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.850595,
+                    51.033657
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;32;41;49",
+                "ref:De_Lijn": "508318",
+                "bus": "yes",
+                "name": "Kaaskerke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT KAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.839307,
+                    51.035273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;32;41;49",
+                "ref:De_Lijn": "503318",
+                "bus": "yes",
+                "name": "Kaaskerke Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT KAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.838153,
+                    51.035672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;32;41;49;55",
+                "ref:De_Lijn": "503124",
+                "bus": "yes",
+                "name": "Diksmuide IJzerbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAASKERKESTRAAT KAASKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.85112,
+                    51.033762
+                ]
+            }
+        }
+    ]
+}

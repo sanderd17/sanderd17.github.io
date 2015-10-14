@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505933",
+                "bus": "yes",
+                "name": "Emelgem Zwaluwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REPERSTRAAT IZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.222663,
+                    50.942927
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68",
+                "ref:De_Lijn": "505390",
+                "bus": "yes",
+                "name": "Emelgem Reperstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "REPERSTRAAT IZEGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.219772,
+                    50.93194
+                ]
+            }
+        }
+    ]
+}

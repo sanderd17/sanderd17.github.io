@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "66;195",
+                "ref:De_Lijn": "202395",
+                "bus": "yes",
+                "name": "Eeklo Revam",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "INDUSTRIELAAN EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.536165,
+                    51.18161
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "185",
+                "ref:De_Lijn": "203436",
+                "bus": "yes",
+                "name": "Eeklo Raverschootbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAVERSCHOOT ADEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.525952,
+                    51.189619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;62;195",
+                "ref:De_Lijn": "202138",
+                "bus": "yes",
+                "name": "Eeklo Galgenakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAKSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.537016,
+                    51.191648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;62",
+                "ref:De_Lijn": "203138",
+                "bus": "yes",
+                "name": "Eeklo Galgenakker",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BLAKSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.537329,
+                    51.191722
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200953",
+                "bus": "yes",
+                "name": "Eeklo Raverschootbrug",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RAVERSCHOOTSTRAAT EEKLO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.526138,
+                    51.189602
+                ]
+            }
+        }
+    ]
+}

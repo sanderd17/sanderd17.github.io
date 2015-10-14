@@ -1,0 +1,48 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58",
+                "ref:De_Lijn": "201122",
+                "bus": "yes",
+                "zone:De_Lijn": "7982",
+                "name": "Aardenburg (Nl) Smedekensbrugge",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SMEDEKENSBRUGGE AARDENBURG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.452813,
+                    51.269041
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "200122",
+                "bus": "yes",
+                "name": "Aardenburg (Nl) Smedekensbrugge",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "SMEDEKENSBRUGGE AARDENBURG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.45267,
+                    51.26904
+                ]
+            }
+        }
+    ]
+}

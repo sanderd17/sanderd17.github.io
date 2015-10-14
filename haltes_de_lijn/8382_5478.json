@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "938",
+                "ref:De_Lijn": "104931",
+                "bus": "yes",
+                "name": "Weert Briel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERDONKSTRAAT WEERT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.192685,
+                    51.088895
+                ]
+            }
+        }
+    ]
+}

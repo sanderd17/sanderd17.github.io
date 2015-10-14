@@ -1,0 +1,151 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44",
+                "ref:De_Lijn": "409857",
+                "bus": "yes",
+                "name": "Opglabbeek Weg naar Meeuwen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 OPGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.53119,
+                    51.027091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44",
+                "ref:De_Lijn": "402418",
+                "bus": "yes",
+                "name": "Zwartberg Luikerwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.517075,
+                    51.014814
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44;G8",
+                "ref:De_Lijn": "402429",
+                "bus": "yes",
+                "name": "Zwartberg Torenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 OPGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.522097,
+                    51.01908
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "407175",
+                "bus": "yes",
+                "name": "Opglabbeek Nieuwe Kempen",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "N76 OPGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.53119,
+                    51.027091
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44",
+                "ref:De_Lijn": "402419",
+                "bus": "yes",
+                "name": "Zwartberg Luikerwijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.516286,
+                    51.014588
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "8;33;44;G8",
+                "ref:De_Lijn": "402428",
+                "bus": "yes",
+                "name": "Zwartberg Torenlaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WEG NAAR ZWARTBERG OPGLABBEEK",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.522654,
+                    51.019111
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402253",
+                "bus": "yes",
+                "name": "Zwartberg Vliegveld",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VLIEGPLEIN ZWARTBERG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.522572,
+                    51.014625
+                ]
+            }
+        }
+    ]
+}

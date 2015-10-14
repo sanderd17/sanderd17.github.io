@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208759",
+                "bus": "yes",
+                "name": "Kleine Heide",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZEELSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.639762,
+                    50.732049
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "207797",
+                "bus": "yes",
+                "name": "Hoogdeurnestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGDEURNESTRAAT RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.628986,
+                    50.72549
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209759",
+                "bus": "yes",
+                "name": "Kleine Heide",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ELZEELSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.639295,
+                    50.732001
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "209758",
+                "bus": "yes",
+                "name": "Dopchie Kasteel",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "ELZEELSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.630045,
+                    50.734748
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "460",
+                "ref:De_Lijn": "208758",
+                "bus": "yes",
+                "name": "Dopchie Kasteel",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ELZEELSESTEENWEG RONSE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.630156,
+                    50.734901
+                ]
+            }
+        }
+    ]
+}

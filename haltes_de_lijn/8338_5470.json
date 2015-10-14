@@ -1,0 +1,807 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "62;63;97",
+                "ref:De_Lijn": "502159",
+                "bus": "yes",
+                "name": "Brugge Station Perron 8",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217791,
+                    51.198446
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;21",
+                "ref:De_Lijn": "502078",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 8",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217455,
+                    51.203945
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55;93",
+                "ref:De_Lijn": "502154",
+                "bus": "yes",
+                "name": "Brugge Station Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.218027,
+                    51.19817
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "35;41;42;98",
+                "ref:De_Lijn": "502158",
+                "bus": "yes",
+                "name": "Brugge Station Perron 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217821,
+                    51.198393
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "502085",
+                "bus": "yes",
+                "name": "Brugge Begijnhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATELIJNESTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.226191,
+                    51.202474
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25",
+                "ref:De_Lijn": "507083",
+                "bus": "yes",
+                "name": "Sint-Michiels Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARRIÈRESTRAAT SINT-MICHIELS",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.20993,
+                    51.194648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;15;52;53;54;55;89",
+                "ref:De_Lijn": "502410",
+                "bus": "yes",
+                "name": "Sint-Andries Sint-Lodewijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSLAAN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2123,
+                    51.201179
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "4;5;7;12;15;17;92",
+                "ref:De_Lijn": "502081",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 3",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217548,
+                    51.204215
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;2;3;4;5;6;7;9;10;11;12;13;14;15;16;17;23;25;88;89;90;91;92",
+                "ref:De_Lijn": "502162",
+                "bus": "yes",
+                "name": "Brugge Station Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217872,
+                    51.198061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;7;15;17;25;27;52;53;54;55;72;74",
+                "ref:De_Lijn": "507456",
+                "bus": "yes",
+                "name": "Sint-Michiels Station West",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.215535,
+                    51.197103
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25",
+                "ref:De_Lijn": "502631",
+                "bus": "yes",
+                "name": "Sint-Michiels Psychiatrisch Ziekenhuis Onze-Lieve-Vrouw",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BARRIÈRESTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.209034,
+                    51.194441
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "502741",
+                "bus": "yes",
+                "name": "Brugge Station Perron 2",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.218071,
+                    51.198116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "21;31;33;35;41;42;43;47;62;63",
+                "ref:De_Lijn": "502079",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217838,
+                    51.204083
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "25",
+                "ref:De_Lijn": "502161",
+                "bus": "yes",
+                "name": "Brugge Station Perron 10",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217655,
+                    51.198715
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;4;6;11;12;13;14;16;43;88;90;91",
+                "ref:De_Lijn": "502152",
+                "bus": "yes",
+                "name": "Brugge Sint-Salvatorskerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221056,
+                    51.205876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;62",
+                "ref:De_Lijn": "502076",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 10",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217348,
+                    51.204213
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "54;72;74;94",
+                "ref:De_Lijn": "502156",
+                "bus": "yes",
+                "name": "Brugge Station Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217924,
+                    51.198286
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;11;91",
+                "ref:De_Lijn": "502099",
+                "bus": "yes",
+                "name": "Brugge Eekhoutpoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "EEKHOUTSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.227288,
+                    51.206764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;3;4;6;11;12;13;14;16;23;88;90;91;92",
+                "ref:De_Lijn": "502082",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 1",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217776,
+                    51.204271
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;54;72;74",
+                "ref:De_Lijn": "502080",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 9",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217424,
+                    51.204052
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "33;35;41;42;47;90",
+                "ref:De_Lijn": "507076",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217716,
+                    51.203803
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "500125",
+                "bus": "yes",
+                "name": "Brugge Stelplaats",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221938,
+                    51.195619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "502144",
+                "bus": "yes",
+                "name": "Brugge Simon Stevinplein",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE BURG BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.224018,
+                    51.20648
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "20;21;95",
+                "ref:De_Lijn": "502155",
+                "bus": "yes",
+                "name": "Brugge Station Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217982,
+                    51.198223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;7;15;17;25;27;52;53;54;55;72;74;88;89;93;94;99",
+                "ref:De_Lijn": "502088",
+                "bus": "yes",
+                "name": "Brugge Boeveriepoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONING ALBERT I-LAAN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.215725,
+                    51.199846
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;15;54;55;89",
+                "ref:De_Lijn": "507407",
+                "bus": "yes",
+                "name": "Sint-Andries Phare",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GISTELSE STEENWEG BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.208033,
+                    51.203628
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "58;58S",
+                "ref:De_Lijn": "202074",
+                "bus": "yes",
+                "name": "Brugge Station Perron 2",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSPLEIN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217813,
+                    51.198707
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "502584",
+                "bus": "yes",
+                "name": "Brugge Katelijnepoort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KATELIJNESTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.228822,
+                    51.200216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;6;10;63;98",
+                "ref:De_Lijn": "502117",
+                "bus": "yes",
+                "name": "Brugge Katelijneparking",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUITEN KATELIJNEVEST BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.224585,
+                    51.196786
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "52;53;55",
+                "ref:De_Lijn": "502077",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 7",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217516,
+                    51.203774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;15;52;53;54;55;89",
+                "ref:De_Lijn": "507410",
+                "bus": "yes",
+                "name": "Sint-Andries Sint-Lodewijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STATIONSLAAN BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.212041,
+                    51.201249
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "12",
+                "ref:De_Lijn": "507117",
+                "bus": "yes",
+                "name": "Brugge Bargeplein (Katelijnparking)",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUITEN KATELIJNEVEST BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.226249,
+                    51.197791
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "502169",
+                "bus": "yes",
+                "name": "Brugge Zilverpand",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NOORDZANDSTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.2194,
+                    51.206876
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "2;9;23;25;43;88",
+                "ref:De_Lijn": "507079",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 4",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217609,
+                    51.204063
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;33;94;96",
+                "ref:De_Lijn": "502157",
+                "bus": "yes",
+                "name": "Brugge Station Perron 6",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217879,
+                    51.198339
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "27;43;47;99",
+                "ref:De_Lijn": "502160",
+                "bus": "yes",
+                "name": "Brugge Station Perron 9",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217747,
+                    51.1985
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1;11;91",
+                "ref:De_Lijn": "502104",
+                "bus": "yes",
+                "name": "Brugge Garenmarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GARENMARKT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.229328,
+                    51.205273
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "31;63",
+                "ref:De_Lijn": "507080",
+                "bus": "yes",
+                "name": "Brugge 't Zand Perron 5",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.217655,
+                    51.203938
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "1",
+                "ref:De_Lijn": "502133",
+                "bus": "yes",
+                "name": "Brugge Onze-Lieve-Vrouwekerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MARIASTRAAT BRUGGE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.223965,
+                    51.204556
+                ]
+            }
+        }
+    ]
+}

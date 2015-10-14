@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "502009",
+                "bus": "yes",
+                "name": "Aartrijke Sparappelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPARAPPELSTRAAT WIJNENDALE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.077013,
+                    51.10017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "79",
+                "ref:De_Lijn": "507009",
+                "bus": "yes",
+                "name": "Aartrijke Sparappelhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SPARAPPELSTRAAT WIJNENDALE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.078345,
+                    51.100535
+                ]
+            }
+        }
+    ]
+}

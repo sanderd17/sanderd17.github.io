@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "943",
+                "ref:De_Lijn": "101906",
+                "bus": "yes",
+                "name": "Nijlen Van Raemdonkstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZWANENSTRAAT NIJLEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.664716,
+                    51.167106
+                ]
+            }
+        }
+    ]
+}

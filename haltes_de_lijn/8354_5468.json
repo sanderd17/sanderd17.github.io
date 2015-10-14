@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202251",
+                "bus": "yes",
+                "name": "Kaprijke Eerstestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEGE MOERSTRAAT SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.578108,
+                    51.220793
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203251",
+                "bus": "yes",
+                "name": "Kaprijke Eerstestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEGE MOERSTRAAT KAPRIJKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.578266,
+                    51.220722
+                ]
+            }
+        }
+    ]
+}

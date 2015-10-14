@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49;50;57;59",
+                "ref:De_Lijn": "504265",
+                "bus": "yes",
+                "name": "Lo Eiermarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE-EIERMARKT LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.74743,
+                    50.980924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49;57",
+                "ref:De_Lijn": "504678",
+                "bus": "yes",
+                "name": "Lo Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTSTRAAT LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.756979,
+                    50.982845
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57",
+                "ref:De_Lijn": "504679",
+                "bus": "yes",
+                "name": "Lo Turkeyen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ZUIDSTRAAT LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.758555,
+                    50.976761
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49;50;57;59",
+                "ref:De_Lijn": "509265",
+                "bus": "yes",
+                "name": "Lo Eiermarkt",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDE-EIERMARKT LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.747666,
+                    50.980703
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "24;49;57",
+                "ref:De_Lijn": "505436",
+                "bus": "yes",
+                "name": "Lo Melkerij",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTSTRAAT LO",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.756946,
+                    50.98297
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "404858",
+                "bus": "yes",
+                "name": "Leopoldsburg Fortstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSKANTSTRAAT LEOPOLDSBURG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.284887,
+                    51.105102
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "404849",
+                "bus": "yes",
+                "name": "Leopoldsburg Fortstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOSKANTSTRAAT LEOPOLDSBURG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.2851,
+                    51.105029
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "402972",
+                "bus": "yes",
+                "name": "Leopoldsburg Dagcentrum Berkenhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "UNKNOWN LEOPOLDSBURG",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.277516,
+                    51.10418
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63",
+                "ref:De_Lijn": "203101",
+                "bus": "yes",
+                "name": "Watervliet Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETTERIJSTRAAT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614617,
+                    51.257472
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63;195",
+                "ref:De_Lijn": "202100",
+                "bus": "yes",
+                "name": "Watervliet Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETTERIJSTRAAT SINT-JAN-IN-EREMO",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.612849,
+                    51.250746
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63;195",
+                "ref:De_Lijn": "202101",
+                "bus": "yes",
+                "name": "Watervliet Nieuwstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETTERIJSTRAAT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614389,
+                    51.257399
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202258",
+                "bus": "yes",
+                "name": "Bassevelde Gravenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRAVENSTRAAT BASSEVELDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.614567,
+                    51.248177
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "57;63",
+                "ref:De_Lijn": "203100",
+                "bus": "yes",
+                "name": "Watervliet Linde",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KETTERIJSTRAAT WATERVLIET",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.613036,
+                    51.250729
+                ]
+            }
+        }
+    ]
+}

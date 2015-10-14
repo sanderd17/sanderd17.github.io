@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "509637",
+                "bus": "yes",
+                "name": "Wulveringem Weg Naar Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSE STEENWEG VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.678931,
+                    51.024072
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "50;57;59",
+                "ref:De_Lijn": "504637",
+                "bus": "yes",
+                "name": "Wulveringem Weg Naar Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "IEPERSE STEENWEG WULVERINGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.678512,
+                    51.024219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "505176",
+                "bus": "yes",
+                "name": "Vinkem Vinkemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VINKEMSTRAAT VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.660778,
+                    51.015574
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "59",
+                "ref:De_Lijn": "504513",
+                "bus": "yes",
+                "name": "Vinkem De Lelie",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GOUDEN-HOOFDSTRAAT VINKEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.660471,
+                    51.016945
+                ]
+            }
+        }
+    ]
+}

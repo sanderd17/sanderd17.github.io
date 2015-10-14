@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "307",
+                "ref:De_Lijn": "405813",
+                "bus": "yes",
+                "name": "Kolonie Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG LOMMEL-KOLONIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.394279,
+                    51.26379
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "711",
+                "ref:De_Lijn": "406880",
+                "bus": "yes",
+                "name": "Kolonie Heikantstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GRENSSTRAAT LOMMEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.387691,
+                    51.265905
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "307;711",
+                "ref:De_Lijn": "405812",
+                "bus": "yes",
+                "name": "Kolonie Grens",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LUIKERSTEENWEG LOMMEL-KOLONIE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.393723,
+                    51.263291
+                ]
+            }
+        }
+    ]
+}

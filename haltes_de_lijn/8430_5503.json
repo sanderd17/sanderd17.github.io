@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "404062",
+                "bus": "yes",
+                "name": "Boekhout Walenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WALENSTRAAT BOEKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.234742,
+                    50.744006
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "41;729;730;731",
+                "ref:De_Lijn": "402503",
+                "bus": "yes",
+                "name": "Boekhout Heilig Hartstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEILIG HARTSTRAAT BOEKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.229609,
+                    50.745348
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "402504",
+                "bus": "yes",
+                "name": "Boekhout Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKHOUTSTRAAT BOEKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.233222,
+                    50.746094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "402505",
+                "bus": "yes",
+                "name": "Boekhout Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BOEKHOUTSTRAAT BOEKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.233364,
+                    50.746129
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "730;731",
+                "ref:De_Lijn": "404063",
+                "bus": "yes",
+                "name": "Boekhout Walenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WALENSTRAAT BOEKHOUT",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.235029,
+                    50.74422
+                ]
+            }
+        }
+    ]
+}

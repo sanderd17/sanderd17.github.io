@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33;330",
+                "ref:De_Lijn": "207138",
+                "bus": "yes",
+                "name": "Denderhoutem Knipperhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT DENDERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.983735,
+                    50.865815
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206122",
+                "bus": "yes",
+                "name": "Denderhoutem Dries",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENSTRAAT DENDERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.99072,
+                    50.875223
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33;330",
+                "ref:De_Lijn": "206137",
+                "bus": "yes",
+                "name": "Outer Lebeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEBEKE VOGELENZANG",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.981256,
+                    50.865061
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33;330",
+                "ref:De_Lijn": "207137",
+                "bus": "yes",
+                "name": "Outer Lebeke Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT DENDERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.980603,
+                    50.864924
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33;330",
+                "ref:De_Lijn": "206138",
+                "bus": "yes",
+                "name": "Denderhoutem Knipperhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT OUTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.983226,
+                    50.865607
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33;330",
+                "ref:De_Lijn": "206139",
+                "bus": "yes",
+                "name": "Denderhoutem Herlinkhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEBEKE DENDERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.994897,
+                    50.866265
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "32;33;330",
+                "ref:De_Lijn": "207139",
+                "bus": "yes",
+                "name": "Denderhoutem Herlinkhove",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "LEBEKE DENDERHOUTEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.994925,
+                    50.866373
+                ]
+            }
+        }
+    ]
+}

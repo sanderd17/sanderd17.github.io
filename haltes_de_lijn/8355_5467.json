@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203255",
+                "bus": "yes",
+                "name": "Kaprijke Goochelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGTE KAPRIJKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.595121,
+                    51.239306
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202255",
+                "bus": "yes",
+                "name": "Kaprijke Goochelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HOOGTE SINT-LAUREINS",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.592653,
+                    51.237015
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202256",
+                "bus": "yes",
+                "name": "Bentille Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERSTRAAT BENTILLE (SINT-LAUREINS)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.601534,
+                    51.245514
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203256",
+                "bus": "yes",
+                "name": "Bentille Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MOERSTRAAT BENTILLE (KAPRIJKE)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.601891,
+                    51.245606
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94",
+                "ref:De_Lijn": "207570",
+                "bus": "yes",
+                "name": "Impe Putbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSESTRAAT LEDE (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.934651,
+                    50.95411
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;385",
+                "ref:De_Lijn": "206571",
+                "bus": "yes",
+                "name": "Impe Molenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSESTRAAT IMPE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.944191,
+                    50.95837
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "385",
+                "ref:De_Lijn": "208953",
+                "bus": "yes",
+                "name": "Impe Wijmenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJMENSTRAAT IMPE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.946599,
+                    50.953344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;385",
+                "ref:De_Lijn": "206570",
+                "bus": "yes",
+                "name": "Impe Putbosstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ESSESTRAAT LEDE (OOST-VLAANDEREN)",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.934636,
+                    50.954227
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96;385",
+                "ref:De_Lijn": "206560",
+                "bus": "yes",
+                "name": "Erondegem Kuilstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ERONDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.94686,
+                    50.948078
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "94;96",
+                "ref:De_Lijn": "207560",
+                "bus": "yes",
+                "name": "Erondegem Kuilstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "GENTSESTEENWEG ERONDEGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.945704,
+                    50.948442
+                ]
+            }
+        }
+    ]
+}

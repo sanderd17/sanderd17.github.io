@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b;726",
+                "ref:De_Lijn": "407754",
+                "bus": "yes",
+                "name": "Zichen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT ZICHEN-ZUSSEN-BOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.619379,
+                    50.790812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b;726",
+                "ref:De_Lijn": "407755",
+                "bus": "yes",
+                "name": "Zichen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT ZICHEN-ZUSSEN-BOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.620268,
+                    50.791728
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b;726",
+                "ref:De_Lijn": "407603",
+                "bus": "yes",
+                "name": "Bolder Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWEWEG ZICHEN-ZUSSEN-BOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.615641,
+                    50.791634
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b;726",
+                "ref:De_Lijn": "407602",
+                "bus": "yes",
+                "name": "Bolder Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NIEUWEWEG ZICHEN-ZUSSEN-BOLDER",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.614924,
+                    50.791848
+                ]
+            }
+        }
+    ]
+}

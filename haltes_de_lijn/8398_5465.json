@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610",
+                "ref:De_Lijn": "105684",
+                "bus": "yes",
+                "name": "Schoten Distelvinklei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N121 SCHILDE",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.546294,
+                    51.264195
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610",
+                "ref:De_Lijn": "105682",
+                "bus": "yes",
+                "name": "Schoten Koningshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALICE NAHONLEI SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.537773,
+                    51.265115
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610",
+                "ref:De_Lijn": "105686",
+                "bus": "yes",
+                "name": "Schoten Distelvinklei",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N121 SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.546107,
+                    51.264114
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610",
+                "ref:De_Lijn": "105683",
+                "bus": "yes",
+                "name": "Schoten Koningshof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALICE NAHONLEI SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.538376,
+                    51.265689
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "610",
+                "ref:De_Lijn": "105679",
+                "bus": "yes",
+                "name": "Schoten Dellafaillelaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ALICE NAHONLEI SCHOTEN",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.537475,
+                    51.262077
+                ]
+            }
+        }
+    ]
+}

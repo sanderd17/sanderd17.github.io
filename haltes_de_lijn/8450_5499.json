@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b",
+                "ref:De_Lijn": "400464",
+                "bus": "yes",
+                "name": "Emael Chaussée des Grenadiers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DES GRENADIERS EBEN-EMAEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.672833,
+                    50.803347
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b",
+                "ref:De_Lijn": "400471",
+                "bus": "yes",
+                "name": "Emael Rue du Fort",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RUE DE LA VALLÉE EBEN-EMAEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.668986,
+                    50.797626
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "18;39;39b",
+                "ref:De_Lijn": "400465",
+                "bus": "yes",
+                "name": "Emael Chaussée des Grenadiers",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "CHAUSSÉE DES GRENADIERS EBEN-EMAEL",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.673196,
+                    50.803639
+                ]
+            }
+        }
+    ]
+}

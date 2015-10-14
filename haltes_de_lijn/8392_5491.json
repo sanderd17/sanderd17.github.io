@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305889",
+                "bus": "yes",
+                "name": "Vilvoorde V.T.M.",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEDIALAAN VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.399155,
+                    50.914174
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305229",
+                "bus": "yes",
+                "name": "Vilvoorde Twee Leeuwenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KONINGSLOSTEENWEG VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.4022,
+                    50.916834
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "820",
+                "ref:De_Lijn": "305890",
+                "bus": "yes",
+                "name": "Vilvoorde V.T.M.",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEDIALAAN VILVOORDE",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.397932,
+                    50.914211
+                ]
+            }
+        }
+    ]
+}

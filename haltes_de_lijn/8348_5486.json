@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "201557",
+                "bus": "yes",
+                "name": "Wontergem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENTERGEMSTRAAT WONTERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.444737,
+                    50.979619
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "201558",
+                "bus": "yes",
+                "name": "Wontergem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENTERGEMSTRAAT WONTERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.447195,
+                    50.981346
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;125",
+                "ref:De_Lijn": "200557",
+                "bus": "yes",
+                "name": "Wontergem Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENTERGEMSTRAAT WONTERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.444783,
+                    50.979457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;125",
+                "ref:De_Lijn": "200558",
+                "bus": "yes",
+                "name": "Wontergem Station",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DENTERGEMSTRAAT WONTERGEM",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.447227,
+                    50.981194
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "68;79",
+                "ref:De_Lijn": "504689",
+                "bus": "yes",
+                "name": "Loker Bellestraat nummer 36",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DOUANESTRAAT LOKER",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    2.766752,
+                    50.776443
+                ]
+            }
+        }
+    ]
+}

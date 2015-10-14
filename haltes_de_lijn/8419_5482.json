@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "408259",
+                "bus": "yes",
+                "name": "Tessenderlo Heggenbossenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.008989,
+                    51.040045
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "19",
+                "ref:De_Lijn": "408258",
+                "bus": "yes",
+                "name": "Tessenderlo Heggenbossenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "TURNHOUTSEBAAN TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.009049,
+                    51.040269
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "701;707;708",
+                "ref:De_Lijn": "307380",
+                "bus": "yes",
+                "name": "Zichem Okselaar Averbodeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VORSTSTRAAT OKSELAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.004192,
+                    51.031216
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "707;708",
+                "ref:De_Lijn": "307379",
+                "bus": "yes",
+                "name": "Zichem Okselaar Averbodeweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VORSTSTRAAT OKSELAAR",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.004306,
+                    51.031153
+                ]
+            }
+        }
+    ]
+}

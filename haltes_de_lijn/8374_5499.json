@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;330",
+                "ref:De_Lijn": "207612",
+                "bus": "yes",
+                "name": "Denderwindeke Molenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREPELSTRAAT DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.007464,
+                    50.794774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;330",
+                "ref:De_Lijn": "207611",
+                "bus": "yes",
+                "name": "Denderwindeke Krepelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREPELSTRAAT DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.013387,
+                    50.795457
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;330",
+                "ref:De_Lijn": "206611",
+                "bus": "yes",
+                "name": "Denderwindeke Krepelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREPELSTRAAT DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.012922,
+                    50.795087
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;330",
+                "ref:De_Lijn": "206612",
+                "bus": "yes",
+                "name": "Denderwindeke Molenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KREPELSTRAAT DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.007691,
+                    50.794702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "330",
+                "ref:De_Lijn": "206706",
+                "bus": "yes",
+                "name": "Denderwindeke Neuringen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "NEURINGEN DENDERWINDEKE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.014127,
+                    50.804611
+                ]
+            }
+        }
+    ]
+}

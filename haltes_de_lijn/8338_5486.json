@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;80",
+                "ref:De_Lijn": "507012",
+                "bus": "yes",
+                "name": "Ardooie Bergmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PITTEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221046,
+                    50.978774
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "22;80",
+                "ref:De_Lijn": "502012",
+                "bus": "yes",
+                "name": "Ardooie Bergmolen",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PITTEMSESTRAAT ARDOOIE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.221454,
+                    50.978994
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47;485",
+                "ref:De_Lijn": "208284",
+                "bus": "yes",
+                "name": "Eine Grimbergenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEURNESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.623079,
+                    50.876944
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "44;46;47",
+                "ref:De_Lijn": "209284",
+                "bus": "yes",
+                "name": "Eine Grimbergenstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HEURNESTRAAT OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.623263,
+                    50.877017
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201821",
+                "bus": "yes",
+                "name": "Oudenaarde Herlegem",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "HERLEGEM OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.608316,
+                    50.87694
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "485",
+                "ref:De_Lijn": "201820",
+                "bus": "yes",
+                "name": "Mullem Vaddenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VADDENHOEK OUDENAARDE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.604591,
+                    50.888422
+                ]
+            }
+        }
+    ]
+}

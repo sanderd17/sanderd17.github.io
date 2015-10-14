@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507612",
+                "bus": "yes",
+                "name": "Wingene Barrierke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289775,
+                    51.071544
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28",
+                "ref:De_Lijn": "502623",
+                "bus": "yes",
+                "name": "Wingene Gravestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERSTALSTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.278871,
+                    51.078968
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;28",
+                "ref:De_Lijn": "502612",
+                "bus": "yes",
+                "name": "Wingene Barrierke",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BEERNEMSTEENWEG WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.289588,
+                    51.071597
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "28",
+                "ref:De_Lijn": "507623",
+                "bus": "yes",
+                "name": "Wingene Gravestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "PEERSTALSTRAAT WINGENE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.279043,
+                    51.07897
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77;88",
+                "ref:De_Lijn": "504771",
+                "bus": "yes",
+                "name": "Dentergem Kapittelstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KAPITTELSTRAAT DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.429211,
+                    50.963467
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;77;88",
+                "ref:De_Lijn": "505084",
+                "bus": "yes",
+                "name": "Dentergem Wontergemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WONTERGEMSTRAAT DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.428554,
+                    50.968523
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73",
+                "ref:De_Lijn": "508021",
+                "bus": "yes",
+                "name": "Dentergem Wontergemstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WONTERGEMSTRAAT DENTERGEM",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.428016,
+                    50.968375
+                ]
+            }
+        }
+    ]
+}

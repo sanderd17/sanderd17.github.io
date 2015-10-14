@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505349",
+                "bus": "yes",
+                "name": "Sijsele Vijverhof",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSE HEIRWEG SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.346392,
+                    51.210146
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26;49",
+                "ref:De_Lijn": "505724",
+                "bus": "yes",
+                "name": "Sijsele Sarepta",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STOOFWEG SIJSELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.359507,
+                    51.218465
+                ]
+            }
+        }
+    ]
+}

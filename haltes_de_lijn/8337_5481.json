@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "26",
+                "ref:De_Lijn": "505700",
+                "bus": "yes",
+                "name": "Zwevezele Rick",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "VOSSESTRAAT ZWEVEZELE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.192727,
+                    51.051189
+                ]
+            }
+        }
+    ]
+}

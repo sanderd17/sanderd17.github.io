@@ -1,0 +1,152 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402426",
+                "bus": "yes",
+                "name": "Heppen Frankendijk",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "FRANKENDIJK HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.233416,
+                    51.10764
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402958",
+                "bus": "yes",
+                "name": "Heppen Weierstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOEKSTRAAT HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.230703,
+                    51.106069
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "410059",
+                "bus": "yes",
+                "name": "Leopoldsburg Bivakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIVAKSTRAAT HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.246601,
+                    51.106365
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "402427",
+                "bus": "yes",
+                "name": "Heppen Frankendijk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "FRANKENDIJK HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.233201,
+                    51.107605
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "718",
+                "ref:De_Lijn": "410060",
+                "bus": "yes",
+                "name": "Leopoldsburg Bivakstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BIVAKSTRAAT HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.246619,
+                    51.106589
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "14;58;179;17a;184;302;718",
+                "ref:De_Lijn": "405569",
+                "bus": "yes",
+                "name": "Heppen Kerk",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "DORPSSTRAAT HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.23047,
+                    51.108929
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "ref:De_Lijn": "402959",
+                "bus": "yes",
+                "name": "Heppen Weierstraat",
+                "public_transport": "platform",
+                "odbl": "new",
+                "highway": "bus_stop",
+                "created_by": "HOEKSTRAAT HEPPEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.231103,
+                    51.106129
+                ]
+            }
+        }
+    ]
+}

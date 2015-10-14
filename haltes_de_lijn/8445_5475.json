@@ -1,0 +1,110 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "746;748",
+                "ref:De_Lijn": "406943",
+                "bus": "yes",
+                "name": "Bree Gerkenberg Welzijnscampus",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERKIEZEL GERDINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.580255,
+                    51.131546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13b",
+                "ref:De_Lijn": "401258",
+                "bus": "yes",
+                "name": "Bree Gerkenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 GERDINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.567555,
+                    51.126075
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13b",
+                "ref:De_Lijn": "401259",
+                "bus": "yes",
+                "name": "Bree Gerkenbergstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "N76 GERDINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.567662,
+                    51.126343
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13b;746;748",
+                "ref:De_Lijn": "401257",
+                "bus": "yes",
+                "name": "Bree Gerkenberg Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERKIEZEL GERDINGEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.580226,
+                    51.131537
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "13b",
+                "ref:De_Lijn": "401256",
+                "bus": "yes",
+                "name": "Bree Gerkenberg Klooster",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "MEEUWERKIEZEL BREE",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.58067,
+                    51.131577
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505061",
+                "bus": "yes",
+                "name": "Kruiskerke De Nachtegaal",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KRUISKERKESTRAAT KRUISKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.387584,
+                    51.069693
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "77",
+                "ref:De_Lijn": "505062",
+                "bus": "yes",
+                "name": "Kruiskerke De Zandberg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SCHOONBERG KRUISKERKE",
+                "operator": "De Lijn",
+                "network": "DLWV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.391313,
+                    51.072196
+                ]
+            }
+        }
+    ]
+}

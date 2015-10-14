@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "73;74;76;175",
+                "ref:De_Lijn": "202621",
+                "bus": "yes",
+                "name": "Zaffelare Nerenhoek",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "RECHTSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.844957,
+                    51.12792
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "175",
+                "ref:De_Lijn": "200719",
+                "bus": "yes",
+                "name": "Zaffelare Windgatstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BUSSTRAAT ZAFFELARE",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.831228,
+                    51.134195
+                ]
+            }
+        }
+    ]
+}

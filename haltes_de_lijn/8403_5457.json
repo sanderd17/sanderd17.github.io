@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;640",
+                "ref:De_Lijn": "102669",
+                "bus": "yes",
+                "name": "Loenhout Weehagenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.64466,
+                    51.375116
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "442;446;640",
+                "ref:De_Lijn": "102671",
+                "bus": "yes",
+                "name": "Loenhout Weehagenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "BRECHTSEWEG LOENHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.644817,
+                    51.375017
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,68 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5;512;513",
+                "ref:De_Lijn": "301845",
+                "bus": "yes",
+                "name": "Haacht Scharent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERCHTERSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.661647,
+                    50.972368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "5",
+                "ref:De_Lijn": "302767",
+                "bus": "yes",
+                "name": "Haacht Scharent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WIJGMAALSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.660394,
+                    50.97238
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "512;513",
+                "ref:De_Lijn": "301844",
+                "bus": "yes",
+                "name": "Haacht Scharent",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WERCHTERSESTEENWEG HAACHT",
+                "operator": "De Lijn",
+                "network": "DLVB"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.660281,
+                    50.972641
+                ]
+            }
+        }
+    ]
+}

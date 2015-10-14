@@ -1,0 +1,194 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203265",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Steenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERVLIETSESTEENWEG WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.595696,
+                    51.28668
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203267",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Zeestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.585333,
+                    51.285767
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203264",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERVLIETSESTEENWEG WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602175,
+                    51.28585
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "195",
+                "ref:De_Lijn": "200901",
+                "bus": "yes",
+                "name": "Sint-Jan-In-Eremo Roste Muis",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "SINT-JANSPOLDERDIJK WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.587431,
+                    51.276082
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63",
+                "ref:De_Lijn": "203266",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.589885,
+                    51.288709
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202264",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Zandstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERVLIETSESTEENWEG WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.602248,
+                    51.285734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202267",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Zeestraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.585294,
+                    51.285569
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202265",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Steenweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "WATERVLIETSESTEENWEG WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.595756,
+                    51.286546
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "63;195",
+                "ref:De_Lijn": "202266",
+                "bus": "yes",
+                "name": "Waterland-Oudeman Dorp",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "KERKSTRAAT WATERLAND-OUDEMAN",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    3.589746,
+                    51.288466
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "717",
+                "ref:De_Lijn": "408245",
+                "bus": "yes",
+                "name": "Engsbergen Heuvelken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGSBERGSEWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.032633,
+                    51.027194
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "702;717",
+                "ref:De_Lijn": "408244",
+                "bus": "yes",
+                "name": "Engsbergen Heuvelken",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ENGSBERGSEWEG TESSENDERLO",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.032158,
+                    51.026909
+                ]
+            }
+        }
+    ]
+}

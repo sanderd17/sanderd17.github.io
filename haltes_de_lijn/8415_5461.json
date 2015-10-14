@@ -1,0 +1,89 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;410;431;433;434",
+                "ref:De_Lijn": "106224",
+                "bus": "yes",
+                "name": "Vosselaar Jagerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.90579,
+                    51.317163
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;410;419;431;433;434",
+                "ref:De_Lijn": "106223",
+                "bus": "yes",
+                "name": "Vosselaar Jagerslaan",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "ANTWERPSESTEENWEG VOSSELAAR",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.90391,
+                    51.317046
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;410;415;416;417;419;431;433;434",
+                "ref:De_Lijn": "106225",
+                "bus": "yes",
+                "name": "Turnhout Galgenbeekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP ANTWERPEN TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.915303,
+                    51.31863
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "200;410;415;416;417;431;433;434",
+                "ref:De_Lijn": "106226",
+                "bus": "yes",
+                "name": "Turnhout Galgenbeekweg",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "STEENWEG OP ANTWERPEN TURNHOUT",
+                "operator": "De Lijn",
+                "network": "DLAn"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.915344,
+                    51.318486
+                ]
+            }
+        }
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "270",
+                "ref:De_Lijn": "204259",
+                "bus": "yes",
+                "name": "Waasmunster Heide Groendreef",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OUDEHEERWEG-HEIDE WAASMUNSTER",
+                "operator": "De Lijn",
+                "network": "DLOV"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.107525,
+                    51.126176
+                ]
+            }
+        }
+    ]
+}

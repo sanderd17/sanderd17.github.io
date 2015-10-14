@@ -1,0 +1,47 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;17a",
+                "ref:De_Lijn": "400315",
+                "bus": "yes",
+                "name": "Olmen Egstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHAMSESTEENWEG OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.162019,
+                    51.120277
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "route_ref:De_Lijn": "170;17a",
+                "ref:De_Lijn": "400314",
+                "bus": "yes",
+                "name": "Olmen Egstraat",
+                "public_transport": "platform",
+                "highway": "bus_stop",
+                "created_by": "OOSTHAMSESTEENWEG OLMEN",
+                "operator": "De Lijn",
+                "network": "DLLi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.162177,
+                    51.12033
+                ]
+            }
+        }
+    ]
+}
