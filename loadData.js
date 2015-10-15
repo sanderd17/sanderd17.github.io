@@ -179,7 +179,7 @@ function displayPoint(datasetName, tileName, idx)
 		"&right="         + (point.coordinates.lon + 0.001) +
 		"&top="           + (point.coordinates.lat + 0.001) +
 		"&bottom="        + (point.coordinates.lat - 0.001);
-	var popupHtml = "<table>" +
+	var popupHtml = "<table style='border-collapse:collapse'>" +
 		"<tr>" + 
 		"<th colspan='3'><a onclick='importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in JOSM'>Import Data</a></th>" +
 		"<th colspan='3'><a onclick='openOsmArea(\""+area+"\")' title='Open area in JOSM'>OSM Data</a></th>" +
@@ -188,7 +188,13 @@ function displayPoint(datasetName, tileName, idx)
 	for (var t = 0; t < settings.tagmatch.length; t++)
 	{
 		var tag = settings.tagmatch[t];
-		popupHtml += "<tr><td>";
+		var score = 0;
+		if (point.osmElement && point.osmElement.tags)
+			score = comparisonAlgorithms[tag.algorithm || "equality"](
+				point.properties[tag.datakey],
+				point.osmElement.tags[tag.osmkey]) * (tag.importance || 1);
+		var colour = hslToRgb(score / 3, 1, 0.8);
+		popupHtml += "<tr style='background-color:" + colour + ";'><td>";
 		popupHtml += "<b>" + tag.datakey + "</b></td><td> = </td><td> " + point.properties[tag.datakey];
 		popupHtml += "</td><td>";
 		popupHtml += "<b>" + tag.osmkey + "</b></td><td> = </td><td>";
