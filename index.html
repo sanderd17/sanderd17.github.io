@@ -7,7 +7,8 @@
 		<title>POI Importer</title>
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 		<style type="text/css">
-			#map { height: 100%; width: 100%; }
+			#mapPane { height: 100%; width: 80%; }
+			#leftPane { height: 100%; width: 20%; float:left; }
 			a, th {cursor: pointer; }
 			a:hover, a:focus {text-decoration: underline; }
 			a.blueLink {color: #0645AD; }
@@ -16,16 +17,22 @@
 	</head>
 	<body>
 
-	<div id="mapSection">
-		<div id="map"></div>
+	<div id="leftPane">
+		<h3>Settings</h3>
+		<div id="settingsPane">
+			<input type="checkbox" onchange="hideCompletePOI(this)" /> Hide complete POI<br/>
+		</div>
+		<h3>Datasets</h3>
+		<div id="datasetPane"></div>
 	</div>
+	<div id="mapPane"></div>
 
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 	<script src="Leaflet.MakiMarkers.js"></script>
 	<script type="text/javascript" src="loadData.js"></script>
 	<script type="text/javascript" src="compareData.js"></script>
 	<script type="text/javascript">
-		var mapObj = L.map('map');
+		var mapObj = L.map('mapPane');
 		mapObj.fitWorld();
 		mapObj.setZoom(3);
 		mapObj.on("zoomend", loadData);

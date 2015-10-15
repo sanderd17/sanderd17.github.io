@@ -5,11 +5,11 @@ var overpassapi = "http://overpass-api.de/api/interpreter?data=";
 var datasets = ["haltes_de_lijn_dataset"];
 var datasetSettings = {};
 var tiledData = {};
+var appSettings = {};
 var queryStatus = {"busy": false, "waiting": false};
 
 function loadDatasets()
 {
-	var layerControl = L.control.layers().addTo(mapObj);
 	for (var i = 0; i < datasets.length; i++)
 	{
 		var dataset = datasets[i];
@@ -18,14 +18,80 @@ function loadDatasets()
 		req.onreadystatechange = function()
 		{
 			if (req.readyState != 4)
-				return; // TODO error message or default data
+				return;
 			datasetSettings[dataset] = JSON.parse(req.responseText);
-			datasetSettings[dataset].layer = new L.LayerGroup();
-			layerControl.addOverlay(datasetSettings[dataset].layer, datasetSettings[dataset].displayname);
+			addDataset(dataset);
 		}
 		req.open("GET", dataset + ".json", true);
 		req.send(null);
 	}
+}
+
+function addDataset(dataset)
+{
+	var settings = datasetSettings[dataset];
+	settings.layer = new L.LayerGroup();
+
+	if (!document.getElementById(settings.country + "Section"))
+	{
+		// TODO sort alphabetically per country
+		var settingsPane = document.getElementById("datasetPane");
+		var innerHTML = settingsPane.innerHTML;
+		innerHTML += '<p><a ' +
+				'name="' + settings.country + '" '+
+				'id="' + settings.country + 'Collapser" ' +
+				' onclick="collapseSection(\'' + settings.country + '\')">▼</a> ' +
+				settings.country +
+				'</p>' +
+				"<div id='" + settings.country + "Section'></div>";
+		settingsPane.innerHTML = innerHTML;
+		collapseSection(settings.country);
+	}
+	// TODO sort alphabetically per dataset
+	var section = document.getElementById(settings.country + "Section");
+	var innerHTML = section.innerHTML;
+	innerHTML += '<input type="checkbox" onchange="toggleDataset(\'' + dataset + '\',this)" />' + settings.displayname + '<br/>';
+	console.log(innerHTML);
+	section.innerHTML = innerHTML;
+}
+
+function collapseSection(id) {
+	var section = document.getElementById(id + "Section");
+	var collapser = document.getElementById(id + "Collapser");
+	if (!section || !collapser)
+		return;
+	if (section.style.display == "none")
+	{
+		section.style.display = "";
+		collapser.innerHTML = "\u25bc";
+		// Hack to get leaflet to recalculate the screen center
+		if (id == "map" && mapObj)
+			window.dispatchEvent(new Event('resize'));
+	}
+	else
+	{
+		section.style.display = "none";
+		collapser.innerHTML = "\u25b6";
+	}
+}
+
+function toggleDataset(dataset, element)
+{
+	if (element.checked)
+		mapObj.addLayer(datasetSettings[dataset].layer);
+	else
+		mapObj.removeLayer(datasetSettings[dataset].layer);
+	loadData();
+}
+
+function hideCompletePOI(element)
+{
+	appSettings.hideCompletePOI = element.checked;
+	for (var dataset in tiledData)
+		for (var tileName in tiledData[dataset])
+			if (tiledData[dataset][tileName].data)
+				for (var p = 0; p < tiledData[dataset][tileName].data.length; p++)
+					displayPoint(dataset, tileName, p)
 }
 
 function loadData()
@@ -174,6 +240,11 @@ function displayPoint(datasetName, tileName, idx)
 	if (point.score == undefined)
 		return; // only initial display
 
+	if (point.score == point.maxScore && appSettings.hideCompletePOI)
+		point.marker.setOpacity(0);
+	else
+		point.marker.setOpacity(1);
+
 	point.marker.setIcon(settings.icons[Math.floor(10 * point.score/point.maxScore)]);
 	var area = "?left="   + (point.coordinates.lon - 0.001) +
 		"&right="         + (point.coordinates.lon + 0.001) +
@@ -184,7 +255,7 @@ function displayPoint(datasetName, tileName, idx)
 		"<th colspan='3'><a onclick='importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in JOSM'>Import Data</a></th>" +
 		"<th colspan='3'><a onclick='openOsmArea(\""+area+"\")' title='Open area in JOSM'>OSM Data</a></th>" +
 		"</tr>";
-	
+
 	for (var t = 0; t < settings.tagmatch.length; t++)
 	{
 		var tag = settings.tagmatch[t];
