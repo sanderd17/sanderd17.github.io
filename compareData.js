@@ -63,6 +63,27 @@ var comparisonAlgorithms = {
 			return 1;
 		return 0;	
 	},
+	/**
+	 * Checks if all elements of the semicolumn separated list v1 are in v2
+	 */
+	"inList": function(v1, v2)
+	{
+		if (!v1 || !v2)
+			return false;
+		var l1 = v1.split(";");
+		var l2 = v2.split(";");
+		for (var i = 0; i < l1.length; i++)
+			if (l2.indexOf(l1[i]) == -1)
+				return false;
+		return true;
+	},
+	/**
+	 * Checks if two lists contain the same elements (not neccesarily the same order)
+	 */
+	"equalList": function(v1, v2)
+	{
+		return comparisonAlgorithms.inList(v1, v2) && comparisonAlgorithms.inList(v2, v1);
+	},
 	"presence": function(v1, v2)
 	{
 		if (v1 != null && v2 != null)
