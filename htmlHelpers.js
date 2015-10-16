@@ -22,7 +22,7 @@ var htmlHelper = (function()
 		// TODO sort alphabetically per dataset
 		var section = document.getElementById(country + "Section");
 		var innerHTML = section.innerHTML;
-		innerHTML += '<input type="checkbox" id="' + id + 'Dataset" onchange="toggleDataset(\'' + dataset + '\',this)" />' + displayname + '<br/>';
+		innerHTML += '<input type="checkbox" id="' + id + 'Dataset" onchange="toggleDataset(\'' + id + '\',this)" />' + displayname + '<br/>';
 		console.log(innerHTML);
 		section.innerHTML = innerHTML;
 	};
@@ -49,4 +49,4 @@ var htmlHelper = (function()
 		"addDataset": addDataset,
 		"collapseSection": collapseSection,
 	};
-}
+})();
