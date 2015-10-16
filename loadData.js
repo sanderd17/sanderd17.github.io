@@ -63,6 +63,7 @@ function changeSetting(element)
 				if (tiledData[dataset][tileName].data)
 					for (var p = 0; p < tiledData[dataset][tileName].data.length; p++)
 						displayPoint(dataset, tileName, p)
+	saveAppState();
 }
 
 function loadData()
@@ -344,6 +345,20 @@ function escapeXML(str)
 		.replace(/</g, "&lt;");
 }
 
+function saveAppState()
+{
+	var date = new Date();
+	date.setFullYear(date.getFullYear() + 1);
+	document.cookie = "state=" + encodeURIComponent(getStateString()) + ";expires=" + date.toUTCString();
+}
+
+function readAppState()
+{
+	var cookie = document.cookie;
+	cookie = decodeURIComponent(cookie.slice(6));
+	applyStateString(cookie);
+}
+
 function getStateString()
 {
 	var r = "";
@@ -392,7 +407,7 @@ function applyStateString(state)
 			var activatedSettings = splitState[i].substr(9).split(";");
 			for (var s = 0; s < activatedSettings.length; s++)
 			{
-				var id = decodeURDComponent(activatedSettings[s]);
+				var id = decodeURIComponent(activatedSettings[s]);
 				var el = document.getElementById(id + "Setting");
 				el.checked = true;
 				changeSetting(el);

@@ -36,19 +36,23 @@
 	<script type="text/javascript" src="loadData.js"></script>
 	<script type="text/javascript" src="compareData.js"></script>
 	<script type="text/javascript">
+		loadDatasets();
 		var mapObj = L.map('mapPane');
 		mapObj.fitWorld();
 		mapObj.setZoom(3);
 		mapObj.on("zoomend", loadData);
 		mapObj.on("moveend", loadData);
 		mapObj.on("overlayadd", loadData);
+		mapObj.on("zoomend", saveAppState);
+		mapObj.on("moveend", saveAppState);
+		mapObj.on("overlayadd", saveAppState);
 		L.tileLayer("http://otile{s}.mqcdn.com/tiles/1.0.0/osm/{z}/{x}/{y}.png", {
             subdomains: "1234",
 			attribution: 'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> contributors',
 			maxZoom: 18
 		})
 			.addTo(mapObj);
-		loadDatasets();
+		readAppState();
 	</script>
 
 </body>
