@@ -115,7 +115,11 @@ function loadData()
 		if (!settings.icons)
 			loadIcons(settings);
 
-		var tileCoordinates = latlonToTilenumber(mapCenter.lat, mapCenter.lng, settings.data.zoom);
+		var tileCoordinates = geoHelper.latlonToTilenumber(
+			mapCenter.lat,
+			mapCenter.lng,
+			settings.data.zoom);
+
 		// Load 9 tiles around the center
 		for (var x = tileCoordinates.x - 1; x <= tileCoordinates.x + 1; x++)
 		{
@@ -171,13 +175,17 @@ function loadOverpass()
 		if (!tiledData[datasetName])
 			continue;
 		var settings = datasetSettings[datasetName];
-		var tileCoordinates = latlonToTilenumber(mapCenter.lat, mapCenter.lng, settings.data.zoom);
+		var tileCoordinates = geoHelper.latlonToTilenumber(
+			mapCenter.lat,
+			mapCenter.lng,
+			settings.data.zoom);
+
 		for (var x = tileCoordinates.x - 1; x <= tileCoordinates.x + 1; x++)
 		{
 			for (var y = tileCoordinates.y - 1; y <= tileCoordinates.y + 1; y++)
 			{
 				var tileName = x + "_" + y;
-				var tileBbox = tilenumberToBbox(x, y, settings.data.zoom);
+				var tileBbox = geoHelper.tilenumberToBbox(x, y, settings.data.zoom);
 				// add a margin to the bbox
 				var padding = 0.1;
 				tileBbox.t += (tileBbox.t - tileBbox.b) * padding;
@@ -252,8 +260,8 @@ function displayPoint(datasetName, tileName, idx)
 		"&bottom="        + (point.coordinates.lat - 0.001);
 	var popupHtml = "<table style='border-collapse:collapse'>" +
 		"<tr>" + 
-		"<th colspan='3'><a onclick='importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in JOSM'>Import Data</a></th>" +
-		"<th colspan='3'><a onclick='openOsmArea(\""+area+"\")' title='Open area in JOSM'>OSM Data</a></th>" +
+		"<th colspan='3'><a onclick='josmHelper.importPoint(\""+datasetName+"\",\""+tileName+"\",\""+idx+"\")' title='Import point in JOSM'>Import Data</a></th>" +
+		"<th colspan='3'><a onclick='josmHelper.openOsmArea(\""+area+"\")' title='Open area in JOSM'>OSM Data</a></th>" +
 		"</tr>";
 
 	for (var t = 0; t < settings.tagmatch.length; t++)
@@ -312,35 +320,6 @@ function geojsonToPointlist(geojson)
 	return results;
 }
 
-// TODO move to help file
-function latlonToTilenumber(lat, lon, zoom)
-{
-	var n = Math.pow(2, zoom);
-	var lat_rad = lat * Math.PI / 180;
-	return {
-		"x": Math.floor(n * ((lon + 180) / 360)), 
-		"y": Math.floor(n * (1 - (Math.log(Math.tan(lat_rad) + 1/Math.cos(lat_rad)) / Math.PI)) / 2) }
-}
-
-function tilenumberToBbox(x, y, zoom) {
-	var northWest = tilenumberToLatlon(x, y, zoom);
-	var southEast = tilenumberToLatlon(x + 1, y + 1, zoom);
-	return {
-		"t" : northWest.lat,
-		"b" : southEast.lat,
-		"l" : northWest.lon,
-		"r" : southEast.lon,
-	};
-}
-
-function tilenumberToLatlon(x, y, zoom) {
-	var n = Math.PI - (2.0 * Math.PI * y) / Math.pow(2.0, zoom);
-	return {
-		"lat": Math.atan(Math.sinh(n)) *180 / Math.PI,
-		"lon": x / Math.pow(2, zoom) * 360.0 - 180
-	};
-}
-
 /**
  * Converts an HSL color value to RGB. Conversion formula
  * adapted from http://en.wikipedia.org/wiki/HSL_color_space.
@@ -387,47 +366,6 @@ function hslToRgb(h, s, l){
 	return "#" + toHex(r) + toHex(g) + toHex(b);
 }
 
-function openOsmArea(area)
-{
-	var url = "http://localhost:8111/load_and_zoom" + area;
-	var req = new XMLHttpRequest();
-	req.open("GET", url, true);
-	req.send(null);
-}
-
-function importPoint(datasetName, tileName, idx)
-{
-	var settings = datasetSettings[datasetName];
-	var point = tiledData[datasetName][tileName].data[idx];
-	var timeStr = (new Date()).toISOString();
-	var url =  "http://localhost:8111/load_data?data=";
-	var xml = "<osm version='0.6' generator='POI_importer'>";
-	xml += "<node id='-1' "+
-		"lat='" + point.coordinates.lat + "' " +
-		"lon='" + point.coordinates.lon + "' " +
-		"version='0' "+
-		"timestamp='" + timeStr + "' " +
-		"uid='1' user=''>";
-
-	for (var t = 0; t < settings.tagmatch.length; t++)
-	{
-		var tag = settings.tagmatch[t];
-		xml += "<tag k='" + escapeXML(tag.osmkey) + "' v='" + escapeXML(point.properties[tag.datakey]) + "'/>"
-	}
-	xml += "</node>"
-	xml += "</osm>"
-
-	var req = new XMLHttpRequest();
-	req.onreadystatechange = function()
-	{
-		if (req.readyState == 4 && req.status == 400)
-			// something went wrong. Alert the user with appropriate messages
-			testJosmVersion();
-	}
-	req.open("GET", url + encodeURIComponent(xml), true);
-	req.send(null);
-}
-
 
 function escapeXML(str)
 {
@@ -436,40 +374,3 @@ function escapeXML(str)
 		.replace(/>/g, "&gt;")
 		.replace(/</g, "&lt;");
 }
-
-function testJosmVersion() {
-	var req = new XMLHttpRequest();
-	req.open("GET", "http://localhost:8111/version", true);
-	req.send(null);
-	req.onreadystatechange = function()
-	{
-		if (req.readyState != 4)
-			return;
-		var version = JSON.parse(req.responseText).protocolversion;
-		if (version.minor < 6)
-			alert("Your JOSM installation does not yet support load_data requests. Please update JOSM to version 7643 or newer");
-	}
-}
-
-/*
-function expandBbox(bbox, distance)
-{
-	
-}
-
- * Go a certain distance from the coordinate to a certain bearing
- * (in degrees, clockwise from the north)
-
-function goToDestination(co, distance, bearing)
-{
-	var R = 6.371e6; // average radius of the earth in m
-	var lat = co.lat * Math.PI / 180;
-	var lon = co.lon * Math.PI / 180;
-	var brng = bearing * Math.PI / 180;
-
-	var lat2 =  Math.asin( Math.sin(lat)*Math.cos(distance/R) +
-		Math.cos(lat)*Math.sin(distance/R)*Math.cos(brng) );
-	var lon2 = lon + Math.atan2(Math.sin(brng)*Math.sin(distance/R)*Math.cos(lat),
-                         Math.cos(d/R)-Math.sin(lat)*Math.sin(lat2));
-	return {"lat" : lat2 * 180 / Math.PI, "lon" : lon2 * 180 / Math.PI};
-}*/

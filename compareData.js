@@ -28,7 +28,7 @@ function compareData(datasets, osmData)
 			for (var i = 0; i < datasets[d].osmData.length; i++)
 			{
 				var element = datasets[d].osmData[i];
-				if (getDistance(element.center || element, point.coordinates) > settings.dist)
+				if (geoHelper.getDistance(element.center || element, point.coordinates) > settings.dist)
 					continue;
 
 				var score = 1;
@@ -92,21 +92,3 @@ var comparisonAlgorithms = {
 	},
 };
 
-/**
- * Calculate the distance between two coordinates
- * @returns the spherical distance in meters 
- */
-function getDistance(co1, co2)
-{
-	if (!co1.lat || !co2.lat || !co1.lon || !co2.lon)
-		return -1;
-	var R = 6.371e6; // average radius of the earth in m
-	var dLat = (co2.lat-co1.lat) * Math.PI/180;
-	var dLon = (co2.lon-co1.lon) * Math.PI/180; 
-	var a = 
-		0.5 - Math.cos(dLat)/2 +
-		(0.5 - Math.cos(dLon)/2) *
-		Math.cos(co1.lat * Math.PI/180) *
-		Math.cos(co2.lat * Math.PI/180);
-	return R * 2 * Math.asin(Math.sqrt(a)); // Distance in m
-}
