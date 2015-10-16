@@ -122,6 +122,7 @@ function loadData()
 		}
 		loadOverpass();
 	}
+	saveAppState();
 }
 
 function loadOverpass()
@@ -349,14 +350,20 @@ function saveAppState()
 {
 	var date = new Date();
 	date.setFullYear(date.getFullYear() + 1);
-	document.cookie = "state=" + encodeURIComponent(getStateString()) + ";expires=" + date.toUTCString();
+	var stateString = getStateString();
+	document.cookie = "state=" + encodeURIComponent(stateString) + ";expires=" + date.toUTCString();
+	window.location.hash = stateString;
 }
 
-function readAppState()
+function loadAppState()
 {
-	var cookie = document.cookie;
-	cookie = decodeURIComponent(cookie.slice(6));
-	applyStateString(cookie);
+	var stateString;
+	if (window.location.hash)
+		stateString = window.location.hash.slice(1);
+	else if (document.cookie)
+		stateString = decodeURIComponent(document.cookie.slice(6));
+	if (stateString)
+		applyStateString(stateString);
 }
 
 function getStateString()
