@@ -18,7 +18,7 @@ function loadDatasets()
 	{
 		for (var dataset in datasets[country])
 		{
-			addDataset(country, datasets[country][dataset], dataset);
+			htmlHelper.addDataset(country, datasets[country][dataset], dataset);
 			var req = new XMLHttpRequest();
 			req.overrideMimeType("application/json");
 			req.onreadystatechange = function()
@@ -35,52 +35,6 @@ function loadDatasets()
 			req.open("GET", dataset + ".json", true);
 			req.send(null);
 		}
-	}
-}
-
-function addDataset(country, displayname, dataset)
-{
-
-	if (!document.getElementById(country + "Section"))
-	{
-		// TODO sort alphabetically per country
-		var settingsPane = document.getElementById("datasetPane");
-		var innerHTML = settingsPane.innerHTML;
-		innerHTML += '<p><a ' +
-				'name="' + country + '" '+
-				'id="' + country + 'Collapser" ' +
-				' onclick="collapseSection(\'' + country + '\')">▼</a> ' +
-				country +
-				'</p>' +
-				"<div id='" + country + "Section'></div>";
-		settingsPane.innerHTML = innerHTML;
-		collapseSection(country);
-	}
-	// TODO sort alphabetically per dataset
-	var section = document.getElementById(country + "Section");
-	var innerHTML = section.innerHTML;
-	innerHTML += '<input type="checkbox" id="' + dataset + 'Dataset" onchange="toggleDataset(\'' + dataset + '\',this)" />' + displayname + '<br/>';
-	console.log(innerHTML);
-	section.innerHTML = innerHTML;
-}
-
-function collapseSection(id) {
-	var section = document.getElementById(id + "Section");
-	var collapser = document.getElementById(id + "Collapser");
-	if (!section || !collapser)
-		return;
-	if (section.style.display == "none")
-	{
-		section.style.display = "";
-		collapser.innerHTML = "\u25bc";
-		// Hack to get leaflet to recalculate the screen center
-		if (id == "map" && mapObj)
-			window.dispatchEvent(new Event('resize'));
-	}
-	else
-	{
-		section.style.display = "none";
-		collapser.innerHTML = "\u25b6";
 	}
 }
 
