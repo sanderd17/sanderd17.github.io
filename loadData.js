@@ -50,7 +50,7 @@ function addDataset(dataset)
 	// TODO sort alphabetically per dataset
 	var section = document.getElementById(settings.country + "Section");
 	var innerHTML = section.innerHTML;
-	innerHTML += '<input type="checkbox" onchange="toggleDataset(\'' + dataset + '\',this)" />' + settings.displayname + '<br/>';
+	innerHTML += '<input type="checkbox" id="' + dataset + 'Dataset" onchange="toggleDataset(\'' + dataset + '\',this)" />' + settings.displayname + '<br/>';
 	console.log(innerHTML);
 	section.innerHTML = innerHTML;
 }
@@ -84,14 +84,19 @@ function toggleDataset(dataset, element)
 	loadData();
 }
 
-function hideCompletePOI(element)
+function changeSetting(element)
 {
-	appSettings.hideCompletePOI = element.checked;
-	for (var dataset in tiledData)
-		for (var tileName in tiledData[dataset])
-			if (tiledData[dataset][tileName].data)
-				for (var p = 0; p < tiledData[dataset][tileName].data.length; p++)
-					displayPoint(dataset, tileName, p)
+	var id = element.id;
+	if (id.slice(-7) != "Setting")
+		return;
+	id = id.slice(0, -7);
+	appSettings[id] = element.checked;
+	if (id == "hideCompletePOI") // re-render points
+		for (var dataset in tiledData)
+			for (var tileName in tiledData[dataset])
+				if (tiledData[dataset][tileName].data)
+					for (var p = 0; p < tiledData[dataset][tileName].data.length; p++)
+						displayPoint(dataset, tileName, p)
 }
 
 function loadData()
@@ -373,4 +378,61 @@ function escapeXML(str)
 		.replace(/'/g, "&apos;")
 		.replace(/>/g, "&gt;")
 		.replace(/</g, "&lt;");
+}
+
+function getStateString()
+{
+	var r = "";
+	var center = mapObj.getCenter();
+	r += "map=" + mapObj.getZoom() + "/" + center.lat.toFixed(4) + "/" + center.lng.toFixed(4);
+
+	var loadedDatasets = [];
+	for (var i = 0; i < datasets.length; i++)
+		if (mapObj.hasLayer(datasetSettings[datasets[i]].layer))
+			loadedDatasets.push(encodeURIComponent(datasets[i]));
+	if (loadedDatasets.length > 0)
+		r+= "&datasets=" + loadedDatasets.join(";");
+
+	var activatedSettings = [];
+	for (var key in appSettings)
+		if (appSettings[key] == true)
+			activatedSettings.push(encodeURIComponent(key));
+	if (activatedSettings.length > 0)
+		r += "&settings=" + activatedSettings.join(";");
+	return r;
+}
+
+function applyStateString(state)
+{
+	var splitState = state.split("&");
+	for (var i = 0; i < splitState.length; i++)
+	{
+		if (splitState[i].indexOf("map=") == 0)
+		{
+			var mapState = splitState[i].match(/[0-9\.]+/g);
+			mapObj.setView([+mapState[1], +mapState[2]], +mapState[0]);
+		}
+		else if (splitState[i].indexOf("datasets=") == 0)
+		{
+			var loadedDatasets = splitState[i].substr(9).split(";"); 
+			for (var d = 0; d < loadedDatasets.length; d++)
+			{
+				var id = decodeURIComponent(loadedDatasets[d])
+				var el = document.getElementById(id + "Dataset");
+				el.checked = true;
+				toggleDataset(id, el);
+			}
+		}
+		else if (splitState[i].indexOf("settings=") == 0)
+		{
+			var activatedSettings = splitState[i].substr(9).split(";");
+			for (var s = 0; s < activatedSettings.length; s++)
+			{
+				var id = decodeURDComponent(activatedSettings[s]);
+				var el = document.getElementById(id + "Setting");
+				el.checked = true;
+				changeSetting(el);
+			}
+		}
+	}
 }
