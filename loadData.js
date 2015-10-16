@@ -2,7 +2,11 @@
 
 // GLOBAL VARIABLES
 var overpassapi = "http://overpass-api.de/api/interpreter?data=";
-var datasets = ["haltes_de_lijn_dataset"];
+var datasets = {
+	"Belgium": {
+		"haltes_de_lijn_dataset": "Haltes De Lijn",
+	},
+};
 var datasetSettings = {};
 var tiledData = {};
 var appSettings = {};
@@ -10,47 +14,52 @@ var queryStatus = {"busy": false, "waiting": false};
 
 function loadDatasets()
 {
-	for (var i = 0; i < datasets.length; i++)
+	for (var country in datasets)
 	{
-		var dataset = datasets[i];
-		var req = new XMLHttpRequest();
-		req.overrideMimeType("application/json");
-		req.onreadystatechange = function()
+		for (var dataset in datasets[country])
 		{
-			if (req.readyState != 4)
-				return;
-			datasetSettings[dataset] = JSON.parse(req.responseText);
-			addDataset(dataset);
+			addDataset(country, datasets[country][dataset], dataset);
+			var req = new XMLHttpRequest();
+			req.overrideMimeType("application/json");
+			req.onreadystatechange = function()
+			{
+				if (req.readyState != 4)
+					return;
+				var settings = JSON.parse(req.responseText);
+				settings.layer = new L.LayerGroup();
+				datasetSettings[dataset] = settings;
+				var el = document.getElementById(dataset + "Dataset");
+				if (el.checked)
+					toggleDataset(dataset, el);
+			}
+			req.open("GET", dataset + ".json", true);
+			req.send(null);
 		}
-		req.open("GET", dataset + ".json", true);
-		req.send(null);
 	}
 }
 
-function addDataset(dataset)
+function addDataset(country, displayname, dataset)
 {
-	var settings = datasetSettings[dataset];
-	settings.layer = new L.LayerGroup();
 
-	if (!document.getElementById(settings.country + "Section"))
+	if (!document.getElementById(country + "Section"))
 	{
 		// TODO sort alphabetically per country
 		var settingsPane = document.getElementById("datasetPane");
 		var innerHTML = settingsPane.innerHTML;
 		innerHTML += '<p><a ' +
-				'name="' + settings.country + '" '+
-				'id="' + settings.country + 'Collapser" ' +
-				' onclick="collapseSection(\'' + settings.country + '\')">▼</a> ' +
-				settings.country +
+				'name="' + country + '" '+
+				'id="' + country + 'Collapser" ' +
+				' onclick="collapseSection(\'' + country + '\')">▼</a> ' +
+				country +
 				'</p>' +
-				"<div id='" + settings.country + "Section'></div>";
+				"<div id='" + country + "Section'></div>";
 		settingsPane.innerHTML = innerHTML;
-		collapseSection(settings.country);
+		collapseSection(country);
 	}
 	// TODO sort alphabetically per dataset
-	var section = document.getElementById(settings.country + "Section");
+	var section = document.getElementById(country + "Section");
 	var innerHTML = section.innerHTML;
-	innerHTML += '<input type="checkbox" id="' + dataset + 'Dataset" onchange="toggleDataset(\'' + dataset + '\',this)" />' + settings.displayname + '<br/>';
+	innerHTML += '<input type="checkbox" id="' + dataset + 'Dataset" onchange="toggleDataset(\'' + dataset + '\',this)" />' + displayname + '<br/>';
 	console.log(innerHTML);
 	section.innerHTML = innerHTML;
 }
@@ -77,6 +86,9 @@ function collapseSection(id) {
 
 function toggleDataset(dataset, element)
 {
+	if (!datasetSettings[dataset] || !datasetSettings[dataset].layer)
+		return; // wait until the page is loaded
+
 	if (element.checked)
 		mapObj.addLayer(datasetSettings[dataset].layer);
 	else
@@ -105,9 +117,8 @@ function loadData()
 	var mapCenter = mapObj.getCenter();
 	var mapZoom = mapObj.getZoom();
 	// get center in tile coordinates
-	for (var i = 0; i < datasets.length; i++)
+	for (var datasetName in datasetSettings)
 	{
-		var datasetName = datasets[i];
 		if (!tiledData[datasetName])
 			tiledData[datasetName] = {};
 		var settings = datasetSettings[datasetName];
@@ -174,9 +185,8 @@ function loadOverpass()
 	var query = "[out:json];\n";
 	var types = ["node"/*,"way","rel"*/];
 	var queriedDatasets = [];
-	for (var d = 0; d < datasets.length; d++)
+	for (var datasetName in datasetSettings)
 	{
-		var datasetName = datasets[d];
 		if (!tiledData[datasetName])
 			continue;
 		var settings = datasetSettings[datasetName];
@@ -387,9 +397,9 @@ function getStateString()
 	r += "map=" + mapObj.getZoom() + "/" + center.lat.toFixed(4) + "/" + center.lng.toFixed(4);
 
 	var loadedDatasets = [];
-	for (var i = 0; i < datasets.length; i++)
-		if (mapObj.hasLayer(datasetSettings[datasets[i]].layer))
-			loadedDatasets.push(encodeURIComponent(datasets[i]));
+	for (var dataset in datasetSettings)
+		if (mapObj.hasLayer(datasetSettings[dataset].layer))
+			loadedDatasets.push(encodeURIComponent(dataset));
 	if (loadedDatasets.length > 0)
 		r+= "&datasets=" + loadedDatasets.join(";");
 
