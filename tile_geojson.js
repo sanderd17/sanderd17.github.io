@@ -28,10 +28,12 @@ for (var i = 0; i < data.features.length; i++)
 }
 
 // TODO import function from geoHelpers, so tile equality is guaranteed
+var numTiles = 0;
 for (var x in tiledData)
 {
 	for (var y in tiledData[x])
 	{
+		numTiles++;
 		var objectToWrite = {
 			"type": "FeatureCollection",
 			"features": tiledData[x][y]
@@ -44,6 +46,8 @@ for (var x in tiledData)
 		}); 	
 	}
 }
+
+console.log("Data density: " + (data.features.length / numTiles).toFixed(2) + " POI per tile");
 
 
 

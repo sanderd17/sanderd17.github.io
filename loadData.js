@@ -4,7 +4,7 @@
 var overpassapi = "http://overpass-api.de/api/interpreter?data=";
 var datasets = {
 	"Belgium": {
-		"haltes_de_lijn_dataset": "Haltes De Lijn",
+		"http://raw.githubusercontent.com/sanderd17/sanderd17.github.io/master/haltes_de_lijn_dataset.json": "Haltes De Lijn",
 	},
 };
 var datasetSettings = {};
@@ -32,7 +32,7 @@ function loadDatasets()
 				if (el.checked)
 					toggleDataset(dataset, el);
 			}
-			req.open("GET", dataset + ".json", true);
+			req.open("GET", dataset, true);
 			req.send(null);
 		}
 	}
