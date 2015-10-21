@@ -1,19 +1,19 @@
-function compareData(datasets, osmData)
+function compareData(tiles, osmData)
 {
-	// split per dataset
+	// split per tile
 	var i = -1;
-	for (var d = 0; d < datasets.length; d++)
+	for (var d = 0; d < tiles.length; d++)
 	{
-		datasets[d].osmData = [];
+		tiles[d].osmData = [];
 		while (!osmData[++i].count)
-			datasets[d].osmData.push(osmData[i]);
+			tiles[d].osmData.push(osmData[i]);
 	}
 
 	
-	for (var d = 0; d < datasets.length; d++)
+	for (var d = 0; d < tiles.length; d++)
 	{
-		var data = tiledData[datasets[d].datasetName][datasets[d].tileName].data;
-		var settings = datasetSettings[datasets[d].datasetName];
+		var data = tiledData[tiles[d].datasetName][tiles[d].tileName].data;
+		var settings = datasetSettings[tiles[d].datasetName];
 		var maxScore = 1;
 		for (var t = 0; t < settings.tagmatch.length; t++)
 			maxScore += settings.tagmatch[t].importance || 1;
@@ -25,9 +25,9 @@ function compareData(datasets, osmData)
 			point.osmElement = {};
 
 			var bestScore = 0;
-			for (var i = 0; i < datasets[d].osmData.length; i++)
+			for (var i = 0; i < tiles[d].osmData.length; i++)
 			{
-				var element = datasets[d].osmData[i];
+				var element = tiles[d].osmData[i];
 				if (geoHelper.getDistance(element.center || element, point.coordinates) > settings.dist)
 					continue;
 
@@ -46,11 +46,9 @@ function compareData(datasets, osmData)
 					bestScore = score;
 				}
 			}
-			displayPoint(datasets[d].datasetName, datasets[d].tileName, p);
+			displayPoint(tiles[d].datasetName, tiles[d].tileName, p);
 		}
 	}
-	console.log(uneval(datasets));
-	//console.log(uneval(osmData));
 }
 
 // every comparison algorithm returns a value between 0 and 1

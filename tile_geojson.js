@@ -27,6 +27,7 @@ for (var i = 0; i < data.features.length; i++)
 	tiledData[tileNum.x][tileNum.y].push(feature);
 }
 
+// TODO import function from geoHelpers, so tile equality is guaranteed
 for (var x in tiledData)
 {
 	for (var y in tiledData[x])

@@ -7,10 +7,37 @@
 		<title>POI Importer</title>
 		<link rel="stylesheet" href="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.css" />
 		<style type="text/css">
-			#mapPane { height: 100%; width: 80%; }
-			#leftPane { height: 100%; width: 20%; float:left; }
-			a, th {cursor: pointer; }
-			a:hover, a:focus {text-decoration: underline; }
+			#mapPane { height: 100%; width: 100%; }
+			#leftPane
+			{
+				width: 20%;
+				position:absolute;
+				z-index: 1;
+			}
+			div.settingsHeader
+			{
+				cursor: pointer;
+				background-color: #CCC;
+				border-width: 1px;
+				border-style: solid;
+				border-color: #FFF;
+				font-weight: bold;
+				font-size: 18;
+			}
+			div.countryHeader
+			{
+				cursor: pointer;
+				font-weight: bold;
+			}
+			div.settingsPane
+			{
+				background-color: #EEE;
+				border-width: 1px;
+				border-style: solid;
+				border-color: #FFF;
+			}
+			div.collapser { float: right; margin-right: 10; }
+			a {cursor: pointer; }
 			a.blueLink {color: #0645AD; }
 			tr.dataRow:hover {background-color: lightgrey; }
 		</style>
@@ -18,15 +45,21 @@
 	<body>
 
 	<div id="leftPane">
-		<h3>Settings</h3>
-		<div id="settingsPane">
+		<div class="settingsHeader" onclick="htmlHelper.collapseSection('settings')">
+			&nbsp;Settings <div class="collapser" id="settingsCollapser"></div>
+		</div>
+		<div id="settingsSection" class="settingsPane">
 			<input type="checkbox" onchange="changeSetting(this)" id="hideCompletePOISetting"/>
 			<label for="hideCompletePOISetting"> Hide complete POI</label><br/>
 		</div>
-		<h3>Datasets</h3>
-		<div id="datasetPane"></div>
+		<div class="settingsHeader" onclick="htmlHelper.collapseSection('dataset')">
+			&nbsp;Datasets <div class="collapser" id="datasetCollapser"></div>
+		</div>
+		<div id="datasetSection" class="settingsPane"></div>
 	</div>
-	<div id="mapPane"></div>
+
+	<div id="mapPane">
+	</div>
 
 	<script src="http://cdn.leafletjs.com/leaflet-0.7.3/leaflet.js"></script>
 	<script src="Leaflet.MakiMarkers.js"></script>
@@ -37,7 +70,7 @@
 	<script type="text/javascript" src="compareData.js"></script>
 	<script type="text/javascript">
 		loadDatasets();
-		var mapObj = L.map('mapPane');
+		var mapObj = L.map('mapPane', {"zoomControl": false});
 		mapObj.fitWorld();
 		mapObj.setZoom(3);
 		mapObj.on("zoomend", loadData);
@@ -48,7 +81,10 @@
 			maxZoom: 18
 		})
 			.addTo(mapObj);
+		new L.Control.Zoom({ position: 'topright' }).addTo(mapObj);
 		loadAppState();
+		htmlHelper.collapseSection("settings");
+		htmlHelper.collapseSection("dataset");
 	</script>
 
 </body>
