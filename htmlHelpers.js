@@ -25,7 +25,6 @@ var htmlHelper = (function()
 			'<label for="' + id + 'Dataset">' + displayname + '</label> ' +
 			'<small><a title="OpenStreetMap wiki" href="' + wikiUrl + 'POI_Importer/Datasets/' + country + '/' + displayname + '">info</a></small>' +
 			'<br/>';
-		console.log(innerHTML);
 		section.innerHTML = innerHTML;
 	};
 

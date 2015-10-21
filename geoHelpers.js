@@ -52,33 +52,33 @@ var geoHelper = (function()
 		};
 	};
 
-	/*
-	function padBbox(bbox, distance)
+	var padBbox = function (bbox, distance)
 	{
-		
-	}
-
-	 * Go a certain distance from the coordinate to a certain bearing
-	 * (in degrees, clockwise from the north)
-
-	function goToDestination(co, distance, bearing)
-	{
-		var R = 6.371e6; // average radius of the earth in m
-		var lat = co.lat * Math.PI / 180;
-		var lon = co.lon * Math.PI / 180;
-		var brng = bearing * Math.PI / 180;
-
-		var lat2 =  Math.asin( Math.sin(lat)*Math.cos(distance/R) +
-			Math.cos(lat)*Math.sin(distance/R)*Math.cos(brng) );
-		var lon2 = lon + Math.atan2(Math.sin(brng)*Math.sin(distance/R)*Math.cos(lat),
-							 Math.cos(d/R)-Math.sin(lat)*Math.sin(lat2));
-		return {"lat" : lat2 * 180 / Math.PI, "lon" : lon2 * 180 / Math.PI};
-	}*/
+		var corners =
+		{
+			"tl": {"lat": bbox.t, "lon": bbox.l},
+			"tr": {"lat": bbox.t, "lon": bbox.r},
+			"bl": {"lat": bbox.b, "lon": bbox.l},
+			"br": {"lat": bbox.b, "lon": bbox.r},
+		};
+		var l = Math.max(
+			getDistance(corners.tl, corners.tr),
+			getDistance(corners.bl, corners.br),
+			getDistance(corners.tl, corners.bl),
+			getDistance(corners.tr, corners.br)
+		);
+		var padding = distance / l;
+		bbox.t += (bbox.t - bbox.b) * padding;
+		bbox.b -= (bbox.t - bbox.b) * padding;
+		bbox.r += (bbox.r - bbox.l) * padding;
+		bbox.l -= (bbox.r - bbox.l) * padding;
+	};
 
 	return {
 		"getDistance": getDistance,
 		"latlonToTilenumber": latlonToTilenumber,
 		"tilenumberToLatlon": tilenumberToLatlon,
 		"tilenumberToBbox": tilenumberToBbox,
+		"padBbox": padBbox,
 	};
 })();

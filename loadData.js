@@ -158,11 +158,7 @@ function loadOverpass()
 				var tileName = x + "_" + y;
 				var tileBbox = geoHelper.tilenumberToBbox(x, y, settings.data.zoom);
 				// add a margin to the bbox
-				var padding = 0.1;
-				tileBbox.t += (tileBbox.t - tileBbox.b) * padding;
-				tileBbox.b -= (tileBbox.t - tileBbox.b) * padding;
-				tileBbox.r += (tileBbox.r - tileBbox.l) * padding;
-				tileBbox.l -= (tileBbox.r - tileBbox.l) * padding;
+				geoHelper.padBbox(tileBbox, settings.dist);
 
 				if (!tiledData[datasetName][tileName] ||
 					!tiledData[datasetName][tileName].data ||
